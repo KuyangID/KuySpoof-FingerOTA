@@ -1,0 +1,1152 @@
+[
+    {
+        "m": "32X1",
+        "k": "AI PONT",
+        "d": "ikebukuro"
+    },
+    {
+        "m": "55X1",
+        "k": "AI PONT",
+        "d": "samseong"
+    },
+    {
+        "m": "GT 10 Pro",
+        "k": "Infinix X6739",
+        "d": "Infinix-X6739"
+    },
+    {
+        "m": "GT 20 Pro",
+        "k": "Infinix X6871",
+        "d": "Infinix-X6871"
+    },
+    {
+        "m": "GT 30",
+        "k": "Infinix X6876",
+        "d": "Infinix-X6876"
+    },
+    {
+        "m": "GT 30 Pro",
+        "k": "Infinix X6873",
+        "d": "Infinix-X6873"
+    },
+    {
+        "m": "GT 50 Pro",
+        "k": "Infinix X6891",
+        "d": "Infinix-X6891"
+    },
+    {
+        "m": "HOT",
+        "k": "Infinix X689F",
+        "d": "Infinix-X689F"
+    },
+    {
+        "m": "HOT 10",
+        "k": "Infinix X682B",
+        "d": "Infinix-X682B"
+    },
+    {
+        "m": "HOT 10",
+        "k": "Infinix X682C",
+        "d": "Infinix-X682C"
+    },
+    {
+        "m": "HOT 10 Lite",
+        "k": "Infinix X657B",
+        "d": "Infinix-X657B"
+    },
+    {
+        "m": "HOT 10 Play",
+        "k": "Infinix X688B",
+        "d": "Infinix-X688B"
+    },
+    {
+        "m": "HOT 10 Play",
+        "k": "Infinix X688C",
+        "d": "Infinix-X688C"
+    },
+    {
+        "m": "HOT 10i",
+        "k": "Infinix X658B",
+        "d": "Infinix-X658B"
+    },
+    {
+        "m": "HOT 10i",
+        "k": "Infinix X658E",
+        "d": "Infinix-X658E"
+    },
+    {
+        "m": "HOT 10i",
+        "k": "Infinix X659",
+        "d": "Infinix-X659"
+    },
+    {
+        "m": "HOT 10i",
+        "k": "Infinix X659B",
+        "d": "Infinix-X659B"
+    },
+    {
+        "m": "HOT 11",
+        "k": "Infinix X662",
+        "d": "Infinix-X662"
+    },
+    {
+        "m": "HOT 11",
+        "k": "Infinix X662B",
+        "d": "Infinix-X662B"
+    },
+    {
+        "m": "HOT 11 2022",
+        "k": "Infinix X675",
+        "d": "Infinix-X675"
+    },
+    {
+        "m": "HOT 11S",
+        "k": "Infinix X6812",
+        "d": "Infinix-X6812"
+    },
+    {
+        "m": "HOT 12i",
+        "k": "Infinix X665",
+        "d": "Infinix-X665"
+    },
+    {
+        "m": "HOT 12i",
+        "k": "Infinix X665B",
+        "d": "Infinix-X665B"
+    },
+    {
+        "m": "HOT 2",
+        "k": "Infinix X510",
+        "d": "Infinix_X510"
+    },
+    {
+        "m": "HOT 20 5G",
+        "k": "Infinix X666",
+        "d": "Infinix-X666"
+    },
+    {
+        "m": "HOT 20 PLAY",
+        "k": "Infinix X6825",
+        "d": "Infinix-X6825"
+    },
+    {
+        "m": "HOT 20S",
+        "k": "Infinix X6827",
+        "d": "Infinix-X6827"
+    },
+    {
+        "m": "HOT 20i",
+        "k": "Infinix X665C",
+        "d": "Infinix-X665C"
+    },
+    {
+        "m": "HOT 20i",
+        "k": "Infinix X665E",
+        "d": "Infinix-X665E"
+    },
+    {
+        "m": "HOT 3",
+        "k": "Infinix HOT 3 Pro",
+        "d": "INFINIX-X554"
+    },
+    {
+        "m": "HOT 3",
+        "k": "Infinix-X554",
+        "d": "INFINIX-X554"
+    },
+    {
+        "m": "HOT 3 LTE",
+        "k": "Infinix HOT 3 LTE",
+        "d": "INFINIX-X553"
+    },
+    {
+        "m": "HOT 3 LTE",
+        "k": "Infinix HOT 3 LTE",
+        "d": "INFINIX-X553-A1"
+    },
+    {
+        "m": "HOT 30 5G",
+        "k": "Infinix X6832",
+        "d": "Infinix-X6832"
+    },
+    {
+        "m": "HOT 4",
+        "k": "Infinix HOT 4",
+        "d": "Infinix-X5511"
+    },
+    {
+        "m": "HOT 4",
+        "k": "Infinix HOT4 LTE",
+        "d": "Infinix-X5511"
+    },
+    {
+        "m": "HOT 4",
+        "k": "Infinix HOT 4",
+        "d": "X557"
+    },
+    {
+        "m": "HOT 4",
+        "k": "Infinix X557",
+        "d": "X557"
+    },
+    {
+        "m": "HOT 4",
+        "k": "Infinix HOT 4",
+        "d": "X557-Lite"
+    },
+    {
+        "m": "HOT 4 Lite",
+        "k": "Infinix HOT 4 Lite",
+        "d": "X557-Lite"
+    },
+    {
+        "m": "HOT 4 PRO",
+        "k": "Infinix HOT 4 Pro",
+        "d": "X556"
+    },
+    {
+        "m": "HOT 4 PRO",
+        "k": "Infinix_X556_LTE",
+        "d": "X556"
+    },
+    {
+        "m": "HOT 4 Pro",
+        "k": "Infinix HOT 4 Pro",
+        "d": "Infinix-X5511-13M"
+    },
+    {
+        "m": "HOT 50 Pro+",
+        "k": "Infinix X6880",
+        "d": "Infinix-X6880"
+    },
+    {
+        "m": "HOT 6",
+        "k": "Infinix X606",
+        "d": "Infinix-X606"
+    },
+    {
+        "m": "HOT 6",
+        "k": "Infinix X606B",
+        "d": "Infinix-X606B"
+    },
+    {
+        "m": "HOT 6",
+        "k": "Infinix X606C",
+        "d": "Infinix-X606C"
+    },
+    {
+        "m": "HOT 6",
+        "k": "Infinix X606D",
+        "d": "Infinix-X606D"
+    },
+    {
+        "m": "HOT 6 Pro",
+        "k": "Infinix X608",
+        "d": "Infinix-X608"
+    },
+    {
+        "m": "HOT 60 5G",
+        "k": "Infinix X6726",
+        "d": "Infinix-X6726"
+    },
+    {
+        "m": "HOT 60 5G",
+        "k": "Infinix X6726B",
+        "d": "Infinix-X6726B"
+    },
+    {
+        "m": "HOT 60 Pro+",
+        "k": "Infinix X6886",
+        "d": "Infinix-X6886"
+    },
+    {
+        "m": "HOT 60i",
+        "k": "Infinix X6728",
+        "d": "Infinix-X6728"
+    },
+    {
+        "m": "HOT 60i 5G",
+        "k": "Infinix X6730",
+        "d": "Infinix-X6730"
+    },
+    {
+        "m": "HOT 60i 5G",
+        "k": "Infinix X6730B",
+        "d": "Infinix-X6730B"
+    },
+    {
+        "m": "HOT 7",
+        "k": "Infinix X624",
+        "d": "Infinix-X624"
+    },
+    {
+        "m": "HOT 7",
+        "k": "Infinix X624B",
+        "d": "Infinix-X624B"
+    },
+    {
+        "m": "HOT 7 PRO",
+        "k": "Infinix X625B",
+        "d": "Infinix-X625"
+    },
+    {
+        "m": "HOT 7 PRO",
+        "k": "Infinix X625D",
+        "d": "Infinix-X625D"
+    },
+    {
+        "m": "HOT 8",
+        "k": "Infinix X650B",
+        "d": "Infinix-X650B"
+    },
+    {
+        "m": "HOT 8",
+        "k": "Infinix X650C",
+        "d": "Infinix-X650C"
+    },
+    {
+        "m": "HOT 8",
+        "k": "Infinix X650D",
+        "d": "Infinix-X650D"
+    },
+    {
+        "m": "HOT 8 Lite",
+        "k": "Infinix X650",
+        "d": "Infinix-X650"
+    },
+    {
+        "m": "HOT NOTE",
+        "k": "Infinix-X551",
+        "d": "Infinix-X551"
+    },
+    {
+        "m": "HOT S3",
+        "k": "Infinix X573",
+        "d": "Infinix-X573"
+    },
+    {
+        "m": "HOT S3",
+        "k": "Infinix X573S",
+        "d": "Infinix-X573"
+    },
+    {
+        "m": "HOT S3",
+        "k": "Infinix X573B",
+        "d": "Infinix-X573B"
+    },
+    {
+        "m": "HOT S3X",
+        "k": "Infinix X622",
+        "d": "Infinix-X622"
+    },
+    {
+        "m": "HOT5",
+        "k": "Infinix X559C",
+        "d": "Infinix-X559C"
+    },
+    {
+        "m": "HOT5",
+        "k": "Infinix X559F",
+        "d": "Infinix-X559C"
+    },
+    {
+        "m": "HOT5 Lite",
+        "k": "Infinix X559",
+        "d": "Infinix-X559"
+    },
+    {
+        "m": "Infinix HOT 10S",
+        "k": "Infinix X689",
+        "d": "Infinix-X689"
+    },
+    {
+        "m": "Infinix HOT 10S",
+        "k": "Infinix X689B",
+        "d": "Infinix-X689B"
+    },
+    {
+        "m": "Infinix HOT 10S NFC",
+        "k": "Infinix X689D",
+        "d": "Infinix-X689D"
+    },
+    {
+        "m": "Infinix HOT 10T",
+        "k": "Infinix X689C",
+        "d": "Infinix-X689C"
+    },
+    {
+        "m": "Infinix HOT 10i",
+        "k": "Infinix PR652B",
+        "d": "Infinix-PR652B"
+    },
+    {
+        "m": "Infinix HOT 10i",
+        "k": "Infinix PR652C",
+        "d": "Infinix-PR652C"
+    },
+    {
+        "m": "Infinix HOT 11S NFC",
+        "k": "Infinix X6812B",
+        "d": "Infinix-X6812B"
+    },
+    {
+        "m": "Infinix HOT 12",
+        "k": "Infinix X6817",
+        "d": "Infinix-X6817"
+    },
+    {
+        "m": "Infinix HOT 12 PRO",
+        "k": "Infinix X668",
+        "d": "Infinix-X668"
+    },
+    {
+        "m": "Infinix HOT 12 PRO",
+        "k": "Infinix X668C",
+        "d": "Infinix-X668C"
+    },
+    {
+        "m": "Infinix HOT 12 Play",
+        "k": "Infinix X6816C",
+        "d": "Infinix-X6816C"
+    },
+    {
+        "m": "Infinix HOT 12 Play NFC",
+        "k": "Infinix X6816D",
+        "d": "Infinix-X6816D"
+    },
+    {
+        "m": "Infinix HOT 20",
+        "k": "Infinix X6826",
+        "d": "Infinix-X6826"
+    },
+    {
+        "m": "Infinix HOT 20",
+        "k": "Infinix X6826B",
+        "d": "Infinix-X6826B"
+    },
+    {
+        "m": "Infinix HOT 20",
+        "k": "Infinix X6826C",
+        "d": "Infinix-X6826C"
+    },
+    {
+        "m": "Infinix HOT 30 PLAY",
+        "k": "Infinix X6835",
+        "d": "Infinix-X6835"
+    },
+    {
+        "m": "Infinix HOT 30 PLAY",
+        "k": "Infinix X6835B",
+        "d": "Infinix-X6835B"
+    },
+    {
+        "m": "Infinix HOT 30i",
+        "k": "Infinix X669",
+        "d": "Infinix-X669"
+    },
+    {
+        "m": "Infinix HOT 30i",
+        "k": "Infinix X669C",
+        "d": "Infinix-X669C"
+    },
+    {
+        "m": "Infinix HOT 30i",
+        "k": "Infinix X669D",
+        "d": "Infinix-X669D"
+    },
+    {
+        "m": "Infinix HOT 40",
+        "k": "Infinix X6836",
+        "d": "Infinix-X6836"
+    },
+    {
+        "m": "Infinix HOT 40 Pro",
+        "k": "Infinix X6837",
+        "d": "Infinix-X6837"
+    },
+    {
+        "m": "Infinix HOT 40i",
+        "k": "Infinix X6528",
+        "d": "Infinix-X6528"
+    },
+    {
+        "m": "Infinix HOT 40i",
+        "k": "Infinix X6528B",
+        "d": "Infinix-X6528B"
+    },
+    {
+        "m": "Infinix HOT 50",
+        "k": "Infinix X6882",
+        "d": "Infinix-X6882"
+    },
+    {
+        "m": "Infinix HOT 50",
+        "k": "Infinix X6882B",
+        "d": "Infinix-X6882B"
+    },
+    {
+        "m": "Infinix HOT 50 5G",
+        "k": "Infinix X6720",
+        "d": "Infinix-X6720"
+    },
+    {
+        "m": "Infinix HOT 50 5G",
+        "k": "Infinix X6720B",
+        "d": "Infinix-X6720B"
+    },
+    {
+        "m": "Infinix HOT 50 Pro",
+        "k": "Infinix X6881",
+        "d": "Infinix-X6881"
+    },
+    {
+        "m": "Infinix HOT 50i",
+        "k": "Infinix X6531",
+        "d": "Infinix-X6531"
+    },
+    {
+        "m": "Infinix HOT 50i",
+        "k": "Infinix X6531B",
+        "d": "Infinix-X6531B"
+    },
+    {
+        "m": "Infinix HOT 60 Pro",
+        "k": "Infinix X6885",
+        "d": "Infinix-X6885"
+    },
+    {
+        "m": "Infinix HOT 60i",
+        "k": "Infinix X6728B",
+        "d": "Infinix-X6728B"
+    },
+    {
+        "m": "Infinix HOT 6X",
+        "k": "Infinix X623",
+        "d": "Infinix-X623"
+    },
+    {
+        "m": "Infinix HOT 6X",
+        "k": "Infinix X623B",
+        "d": "Infinix-X623"
+    },
+    {
+        "m": "Infinix HOT 7",
+        "k": "Infinix X625C",
+        "d": "Infinix-X625C"
+    },
+    {
+        "m": "Infinix HOT 70",
+        "k": "Infinix X6895",
+        "d": "Infinix-X6895"
+    },
+    {
+        "m": "Infinix HOT 70",
+        "k": "Infinix X6895B",
+        "d": "Infinix-X6895B"
+    },
+    {
+        "m": "Infinix HOT 9",
+        "k": "Infinix X655",
+        "d": "Infinix-X655"
+    },
+    {
+        "m": "Infinix HOT 9",
+        "k": "Infinix X655C",
+        "d": "Infinix-X655C"
+    },
+    {
+        "m": "Infinix HOT 9",
+        "k": "Infinix X655D",
+        "d": "Infinix-X655D"
+    },
+    {
+        "m": "Infinix HOT 9 Play",
+        "k": "Infinix X680",
+        "d": "Infinix-X680"
+    },
+    {
+        "m": "Infinix HOT 9 Play",
+        "k": "Infinix X680B",
+        "d": "Infinix-X680B"
+    },
+    {
+        "m": "Infinix HOT 9 Play",
+        "k": "Infinix X680C",
+        "d": "Infinix-X680C"
+    },
+    {
+        "m": "Infinix HOT 9 Play",
+        "k": "Infinix X680E",
+        "d": "Infinix-X680E"
+    },
+    {
+        "m": "Infinix HOT 9 Play",
+        "k": "Infinix X680F",
+        "d": "Infinix-X680F"
+    },
+    {
+        "m": "Infinix HOT 9 Pro",
+        "k": "Infinix X655F",
+        "d": "Infinix-X655F"
+    },
+    {
+        "m": "Infinix NOTE 10",
+        "k": "Infinix X693",
+        "d": "Infinix-X693"
+    },
+    {
+        "m": "Infinix NOTE 11",
+        "k": "Infinix X663B",
+        "d": "Infinix-X663B"
+    },
+    {
+        "m": "Infinix NOTE 12",
+        "k": "Infinix X663C",
+        "d": "Infinix-X663C"
+    },
+    {
+        "m": "Infinix NOTE 12 2023",
+        "k": "Infinix X676C",
+        "d": "Infinix-X676C"
+    },
+    {
+        "m": "Infinix NOTE 12 5G",
+        "k": "Infinix X671",
+        "d": "Infinix-X671"
+    },
+    {
+        "m": "Infinix NOTE 12 PRO",
+        "k": "Infinix X676B",
+        "d": "Infinix-X676B"
+    },
+    {
+        "m": "Infinix NOTE 12 Pro 5G",
+        "k": "Infinix X671B",
+        "d": "Infinix-X671B"
+    },
+    {
+        "m": "Infinix NOTE 12i",
+        "k": "Infinix X6819",
+        "d": "Infinix-X6819"
+    },
+    {
+        "m": "Infinix NOTE 30",
+        "k": "Infinix X6833B",
+        "d": "Infinix-X6833B"
+    },
+    {
+        "m": "Infinix NOTE 30 5G",
+        "k": "Infinix X6711",
+        "d": "Infinix-X6711"
+    },
+    {
+        "m": "Infinix NOTE 40",
+        "k": "Infinix X6853",
+        "d": "Infinix-X6853"
+    },
+    {
+        "m": "Infinix NOTE 40 5G",
+        "k": "Infinix X6852",
+        "d": "Infinix-X6852"
+    },
+    {
+        "m": "Infinix NOTE 40 Pro",
+        "k": "Infinix X6850",
+        "d": "Infinix-X6850"
+    },
+    {
+        "m": "Infinix NOTE 40 Pro 5G",
+        "k": "Infinix X6851",
+        "d": "Infinix-X6851"
+    },
+    {
+        "m": "Infinix NOTE 40S",
+        "k": "Infinix X6850B",
+        "d": "Infinix-X6850B"
+    },
+    {
+        "m": "Infinix NOTE 40X 5G",
+        "k": "Infinix X6838",
+        "d": "Infinix-X6838"
+    },
+    {
+        "m": "Infinix NOTE 5",
+        "k": "Infinix X604",
+        "d": "Infinix-X604_sprout"
+    },
+    {
+        "m": "Infinix NOTE 5",
+        "k": "Infinix X604B",
+        "d": "Infinix-X604_sprout"
+    },
+    {
+        "m": "Infinix NOTE 5 Stylus",
+        "k": "Infinix X605",
+        "d": "Infinix-X605_sprout"
+    },
+    {
+        "m": "Infinix NOTE 50S 5G",
+        "k": "Infinix X6870",
+        "d": "Infinix-X6870"
+    },
+    {
+        "m": "Infinix NOTE 60",
+        "k": "Infinix X6879",
+        "d": "Infinix-X6879"
+    },
+    {
+        "m": "Infinix NOTE 60 Ultra",
+        "k": "Infinix X6877",
+        "d": "Infinix-X6877"
+    },
+    {
+        "m": "Infinix NOTE 7 Lite",
+        "k": "Infinix X656",
+        "d": "Infinix-X656"
+    },
+    {
+        "m": "Infinix X5010",
+        "k": "Infinix X5010",
+        "d": "Infinix-X5010"
+    },
+    {
+        "m": "Infinix X510",
+        "k": "Infinix X510",
+        "d": "Infinix_X510_sprout"
+    },
+    {
+        "m": "Infinix X571",
+        "k": "Infinix X571",
+        "d": "Infinix-X571"
+    },
+    {
+        "m": "Infinix X572",
+        "k": "Infinix X572",
+        "d": "Infinix-X572"
+    },
+    {
+        "m": "Infinix ZERO 20",
+        "k": "Infinix X6821",
+        "d": "Infinix-X6821"
+    },
+    {
+        "m": "Infinix ZERO 30",
+        "k": "Infinix X6731B",
+        "d": "Infinix-X6731B"
+    },
+    {
+        "m": "Infinix ZERO 40",
+        "k": "Infinix X6860",
+        "d": "Infinix-X6860"
+    },
+    {
+        "m": "Infinix ZERO 40 5G",
+        "k": "Infinix X6861",
+        "d": "Infinix-X6861"
+    },
+    {
+        "m": "Infinix ZERO 5G",
+        "k": "Infinix X6815B",
+        "d": "Infinix-X6815B"
+    },
+    {
+        "m": "Infinix ZERO 8i",
+        "k": "Infinix X687B",
+        "d": "Infinix-X687B"
+    },
+    {
+        "m": "Infinix ZERO Flip",
+        "k": "Infinix X6962",
+        "d": "Infinix-X6962"
+    },
+    {
+        "m": "Infinix ZERO X",
+        "k": "Infinix X6811B",
+        "d": "Infinix-X6811B"
+    },
+    {
+        "m": "Infinix ZERO X NEO",
+        "k": "Infinix X6810",
+        "d": "Infinix-X6810"
+    },
+    {
+        "m": "Infinix ZERO X Pro",
+        "k": "Infinix X6811",
+        "d": "Infinix-X6811"
+    },
+    {
+        "m": "Infinix ZERO8",
+        "k": "Infinix X687",
+        "d": "Infinix-X687"
+    },
+    {
+        "m": "NOTE",
+        "k": "Infinix X663",
+        "d": "Infinix-X663"
+    },
+    {
+        "m": "NOTE 10 Pro",
+        "k": "Infinix X695",
+        "d": "Infinix-X695"
+    },
+    {
+        "m": "NOTE 10 Pro",
+        "k": "Infinix X695C",
+        "d": "Infinix-X695C"
+    },
+    {
+        "m": "NOTE 10 Pro",
+        "k": "Infinix X695D",
+        "d": "Infinix-X695D"
+    },
+    {
+        "m": "NOTE 11 Pro",
+        "k": "Infinix X697",
+        "d": "Infinix-X697"
+    },
+    {
+        "m": "NOTE 11S",
+        "k": "Infinix X698",
+        "d": "Infinix-X698"
+    },
+    {
+        "m": "NOTE 12",
+        "k": "Infinix X670",
+        "d": "Infinix-X670"
+    },
+    {
+        "m": "NOTE 12 VIP",
+        "k": "Infinix X672",
+        "d": "Infinix-X672"
+    },
+    {
+        "m": "NOTE 12i 2022",
+        "k": "Infinix X677",
+        "d": "Infinix-X677"
+    },
+    {
+        "m": "NOTE 3",
+        "k": "Infinix NOTE 3",
+        "d": "X601"
+    },
+    {
+        "m": "NOTE 3 Pro",
+        "k": "Infinix NOTE 3 Pro",
+        "d": "X601-3G"
+    },
+    {
+        "m": "NOTE 3 Pro",
+        "k": "Infinix NOTE 3 Pro",
+        "d": "X601-LTE"
+    },
+    {
+        "m": "NOTE 3 Pro",
+        "k": "Infinix_X601_LTE",
+        "d": "X601-LTE"
+    },
+    {
+        "m": "NOTE 30",
+        "k": "Infinix X6716B",
+        "d": "Infinix-X6716B"
+    },
+    {
+        "m": "NOTE 30 Pro",
+        "k": "Infinix X678B",
+        "d": "Infinix-X678B"
+    },
+    {
+        "m": "NOTE 30 VIP",
+        "k": "Infinix X6710",
+        "d": "Infinix-X6710"
+    },
+    {
+        "m": "NOTE 30i",
+        "k": "Infinix X6716",
+        "d": "Infinix-X6716"
+    },
+    {
+        "m": "NOTE 4",
+        "k": "Infinix X572-LTE",
+        "d": "Infinix-X572"
+    },
+    {
+        "m": "NOTE 4 Pro",
+        "k": "Infinix X571-LTE",
+        "d": "Infinix-X571"
+    },
+    {
+        "m": "NOTE 40 Pro+ 5G",
+        "k": "Infinix X6851B",
+        "d": "Infinix-X6851B"
+    },
+    {
+        "m": "NOTE 50",
+        "k": "Infinix X6858",
+        "d": "Infinix-X6858"
+    },
+    {
+        "m": "NOTE 50 Pro",
+        "k": "Infinix X6855",
+        "d": "Infinix-X6855"
+    },
+    {
+        "m": "NOTE 50 Pro+ 5G",
+        "k": "Infinix X6856",
+        "d": "Infinix-X6856"
+    },
+    {
+        "m": "NOTE 50X 5G",
+        "k": "Infinix X6857",
+        "d": "Infinix-X6857"
+    },
+    {
+        "m": "NOTE 50X 5G",
+        "k": "Infinix X6857B",
+        "d": "Infinix-X6857B"
+    },
+    {
+        "m": "NOTE 60 Pro",
+        "k": "Infinix X6878",
+        "d": "Infinix-X6878"
+    },
+    {
+        "m": "NOTE 7",
+        "k": "Infinix X690",
+        "d": "Infinix-X690"
+    },
+    {
+        "m": "NOTE 7",
+        "k": "Infinix X690B",
+        "d": "Infinix-X690B"
+    },
+    {
+        "m": "NOTE 7",
+        "k": "Infinix X690C",
+        "d": "Infinix-X690C"
+    },
+    {
+        "m": "NOTE 8",
+        "k": "Infinix X692",
+        "d": "Infinix-X692"
+    },
+    {
+        "m": "NOTE 8i",
+        "k": "Infinix X683",
+        "d": "Infinix-X683"
+    },
+    {
+        "m": "NOTE 8i",
+        "k": "Infinix X683B",
+        "d": "Infinix-X683B"
+    },
+    {
+        "m": "NOTE Edge",
+        "k": "Infinix X6887",
+        "d": "Infinix-X6887"
+    },
+    {
+        "m": "Note 6",
+        "k": "Infinix X610B",
+        "d": "Infinix-X610"
+    },
+    {
+        "m": "RACE Blot2",
+        "k": "Infinix X454",
+        "d": "Infinix_X454"
+    },
+    {
+        "m": "RACE Bolt 3",
+        "k": "Infinix X455",
+        "d": "X455"
+    },
+    {
+        "m": "S5 Lite",
+        "k": "Infinix X652B",
+        "d": "Infinix-X652B"
+    },
+    {
+        "m": "S5 Lite",
+        "k": "Infinix X652C",
+        "d": "Infinix-X652C"
+    },
+    {
+        "m": "SMRAT 8 PRO",
+        "k": "Infinix X6525B",
+        "d": "Infinix-X6525B"
+    },
+    {
+        "m": "SURF 2",
+        "k": "Infinix X511",
+        "d": "INFINIX_X511"
+    },
+    {
+        "m": "X405",
+        "k": "Infinix X405",
+        "d": "up09_infinix_x405_gms"
+    },
+    {
+        "m": "X505",
+        "k": "Infinix X505",
+        "d": "X505"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix HOT S",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix-X521",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix-X521-LTE",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix_X521",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix-X521",
+        "d": "Infinix-X521-3G"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix-X521",
+        "d": "Infinix-X521-Pro"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix_X521",
+        "d": "Infinix-X521-Pro"
+    },
+    {
+        "m": "X521",
+        "k": "Infinix_X521_LTE",
+        "d": "Infinix-X521-Pro"
+    },
+    {
+        "m": "X521G1",
+        "k": "Infinix-X521_LTE",
+        "d": "Infinix-X521-Pro"
+    },
+    {
+        "m": "X521S",
+        "k": "Infinix-X521S",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X521S",
+        "k": "Infinix_X521S",
+        "d": "Infinix-X521"
+    },
+    {
+        "m": "X551",
+        "k": "INFINIX-X551",
+        "d": "INFINIX-X551"
+    },
+    {
+        "m": "X552",
+        "k": "Infinix Zero 3",
+        "d": "INFINIX-X552"
+    },
+    {
+        "m": "X552",
+        "k": "Infinix-X552",
+        "d": "INFINIX-X552"
+    },
+    {
+        "m": "X552-E1",
+        "k": "Infinix Zero 3",
+        "d": "INFINIX-X552-95M"
+    },
+    {
+        "m": "X552-E1",
+        "k": "Infinix-X552",
+        "d": "INFINIX-X552-95M"
+    },
+    {
+        "m": "X555",
+        "k": "Infinix Zero 4",
+        "d": "X555"
+    },
+    {
+        "m": "X600",
+        "k": "INFINIX-X600",
+        "d": "INFINIX-X600"
+    },
+    {
+        "m": "X600",
+        "k": "INFINIX-X600",
+        "d": "INFINIX-X600-5M"
+    },
+    {
+        "m": "X600",
+        "k": "Infinix-X600",
+        "d": "INFINIX-X600-5M"
+    },
+    {
+        "m": "X600",
+        "k": "Infinix-X600-LTE",
+        "d": "INFINIX-X600-H533-5M"
+    },
+    {
+        "m": "ZERO 30 5G",
+        "k": "Infinix X6731",
+        "d": "Infinix-X6731"
+    },
+    {
+        "m": "ZERO 5G",
+        "k": "Infinix X6815",
+        "d": "Infinix-X6815"
+    },
+    {
+        "m": "ZERO 5G 2023",
+        "k": "Infinix X6815C",
+        "d": "Infinix-X6815C"
+    },
+    {
+        "m": "ZERO 5G 2023",
+        "k": "Infinix X6815D",
+        "d": "Infinix-X6815D"
+    },
+    {
+        "m": "ZERO ULTRA",
+        "k": "Infinix X6820",
+        "d": "Infinix-X6820"
+    },
+    {
+        "m": "Zero 2",
+        "k": "Infinix X509",
+        "d": "Infinix_X509"
+    },
+    {
+        "m": "Zero 4 Plus",
+        "k": "Infinix Zero 4 Plus",
+        "d": "X602"
+    },
+    {
+        "m": "Zero 5",
+        "k": "Infinix X603",
+        "d": "Infinix-X603"
+    },
+    {
+        "m": "Zero 5 Pro",
+        "k": "Infinix X603-LTE",
+        "d": "Infinix-X603"
+    },
+    {
+        "m": "Zero 6",
+        "k": "Infinix X620B",
+        "d": "Infinix-X620"
+    },
+    {
+        "m": "Zero 6 Pro",
+        "k": "Infinix X620",
+        "d": "Infinix-X620"
+    }
+]

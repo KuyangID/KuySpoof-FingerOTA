@@ -1,0 +1,772 @@
+[
+    {
+        "m": "DVN2KA01",
+        "k": "DVN2KA01",
+        "d": "DV6068H_Nokia"
+    },
+    {
+        "m": "Nokia 1",
+        "k": "Nokia 1",
+        "d": "FRT"
+    },
+    {
+        "m": "Nokia 1 Plus",
+        "k": "Nokia 1 Plus",
+        "d": "ANT"
+    },
+    {
+        "m": "Nokia 1.3",
+        "k": "Nokia 1.3",
+        "d": "DRX"
+    },
+    {
+        "m": "Nokia 1.4",
+        "k": "Cable",
+        "d": "CBL"
+    },
+    {
+        "m": "Nokia 1.4",
+        "k": "Nokia 1.4",
+        "d": "CBL"
+    },
+    {
+        "m": "Nokia 2",
+        "k": "Nokia 2",
+        "d": "E1M"
+    },
+    {
+        "m": "Nokia 2 V",
+        "k": "Nokia 2 V",
+        "d": "EVW"
+    },
+    {
+        "m": "Nokia 2 V Tella",
+        "k": "Nokia 2 V Tella",
+        "d": "ARV_VZW"
+    },
+    {
+        "m": "Nokia 2.1",
+        "k": "Nokia 2.1",
+        "d": "E2M"
+    },
+    {
+        "m": "Nokia 2.2",
+        "k": "Nokia 2.2",
+        "d": "WSP_sprout"
+    },
+    {
+        "m": "Nokia 2.3",
+        "k": "Nokia 2.3",
+        "d": "IRM_sprout"
+    },
+    {
+        "m": "Nokia 2.4",
+        "k": "Nokia 2.4",
+        "d": "WVR"
+    },
+    {
+        "m": "Nokia 2.4",
+        "k": "Nokia 2.4",
+        "d": "WVR_sprout"
+    },
+    {
+        "m": "Nokia 3",
+        "k": "TA-1020",
+        "d": "NE1"
+    },
+    {
+        "m": "Nokia 3",
+        "k": "TA-1028",
+        "d": "NE1"
+    },
+    {
+        "m": "Nokia 3",
+        "k": "TA-1032",
+        "d": "NE1"
+    },
+    {
+        "m": "Nokia 3",
+        "k": "TA-1038",
+        "d": "NE1"
+    },
+    {
+        "m": "Nokia 3 V",
+        "k": "Nokia 3 V",
+        "d": "DPL_VZW"
+    },
+    {
+        "m": "Nokia 3.1",
+        "k": "Nokia 3.1",
+        "d": "ES2N_sprout"
+    },
+    {
+        "m": "Nokia 3.1",
+        "k": "Nokia 3.1",
+        "d": "ES2_sprout"
+    },
+    {
+        "m": "Nokia 3.1 A",
+        "k": "Nokia 3.1 A",
+        "d": "EAG"
+    },
+    {
+        "m": "Nokia 3.1 C",
+        "k": "Nokia 3.1 C",
+        "d": "EAG"
+    },
+    {
+        "m": "Nokia 3.1 Plus",
+        "k": "Nokia 3.1 Plus",
+        "d": "RHD"
+    },
+    {
+        "m": "Nokia 3.1 Plus",
+        "k": "Nokia 3.1 Plus",
+        "d": "ROO"
+    },
+    {
+        "m": "Nokia 3.1 Plus",
+        "k": "Nokia 3.1 Plus",
+        "d": "ROON_sprout"
+    },
+    {
+        "m": "Nokia 3.1 Plus",
+        "k": "Nokia 3.1 Plus",
+        "d": "ROO_sprout"
+    },
+    {
+        "m": "Nokia 3.2",
+        "k": "Nokia 3.2",
+        "d": "DPL_sprout"
+    },
+    {
+        "m": "Nokia 3.4",
+        "k": "Nokia 3.4",
+        "d": "DRS"
+    },
+    {
+        "m": "Nokia 3.4",
+        "k": "Nokia 3.4",
+        "d": "DRSA_sprout"
+    },
+    {
+        "m": "Nokia 3.4",
+        "k": "Nokia 3.4",
+        "d": "DRS_sprout"
+    },
+    {
+        "m": "Nokia 4.2",
+        "k": "Nokia 4.2",
+        "d": "PAN_sprout"
+    },
+    {
+        "m": "Nokia 4.2",
+        "k": "Nokia 4.2",
+        "d": "Panther_00EEE"
+    },
+    {
+        "m": "Nokia 5",
+        "k": "TA-1024",
+        "d": "ND1"
+    },
+    {
+        "m": "Nokia 5",
+        "k": "TA-1027",
+        "d": "ND1"
+    },
+    {
+        "m": "Nokia 5",
+        "k": "TA-1044",
+        "d": "ND1"
+    },
+    {
+        "m": "Nokia 5",
+        "k": "TA-1053",
+        "d": "ND1"
+    },
+    {
+        "m": "Nokia 5.1",
+        "k": "Nokia 5.1",
+        "d": "CO2N_sprout"
+    },
+    {
+        "m": "Nokia 5.1",
+        "k": "Nokia 5.1",
+        "d": "CO2_sprout"
+    },
+    {
+        "m": "Nokia 5.1 Plus",
+        "k": "Nokia 5.1 Plus",
+        "d": "PDA_sprout"
+    },
+    {
+        "m": "Nokia 5.3",
+        "k": "Nokia 5.3",
+        "d": "CAP"
+    },
+    {
+        "m": "Nokia 5.3",
+        "k": "Nokia 5.3",
+        "d": "CAP_sprout"
+    },
+    {
+        "m": "Nokia 5.4",
+        "k": "Nokia 5.4",
+        "d": "DRD"
+    },
+    {
+        "m": "Nokia 5.4",
+        "k": "Nokia 5.4",
+        "d": "DRDA_sprout"
+    },
+    {
+        "m": "Nokia 5.4",
+        "k": "Nokia 5.4",
+        "d": "DRD_sprout"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1000",
+        "d": "D1C"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1003",
+        "d": "D1C"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1054",
+        "d": "PL2"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1021",
+        "d": "PLE"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1025",
+        "d": "PLE"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1033",
+        "d": "PLE"
+    },
+    {
+        "m": "Nokia 6",
+        "k": "TA-1039",
+        "d": "PLE"
+    },
+    {
+        "m": "Nokia 6.1",
+        "k": "Nokia 6.1",
+        "d": "PL2"
+    },
+    {
+        "m": "Nokia 6.1",
+        "k": "Nokia 6.1",
+        "d": "PL2_sprout"
+    },
+    {
+        "m": "Nokia 6.1 Plus",
+        "k": "Nokia 6.1 Plus",
+        "d": "DRG_sprout"
+    },
+    {
+        "m": "Nokia 6.2",
+        "k": "Nokia 6.2",
+        "d": "SLDA_sprout"
+    },
+    {
+        "m": "Nokia 6.2",
+        "k": "Nokia 6.2",
+        "d": "SLD_sprout"
+    },
+    {
+        "m": "Nokia 7",
+        "k": "TA-1041",
+        "d": "C1N"
+    },
+    {
+        "m": "Nokia 7 plus",
+        "k": "Nokia 7 plus",
+        "d": "B2N"
+    },
+    {
+        "m": "Nokia 7 plus",
+        "k": "Nokia 7 plus",
+        "d": "B2N_sprout"
+    },
+    {
+        "m": "Nokia 7.1",
+        "k": "Nokia 7.1",
+        "d": "CTL_sprout"
+    },
+    {
+        "m": "Nokia 7.2",
+        "k": "Nokia 7.2",
+        "d": "DDVA_sprout"
+    },
+    {
+        "m": "Nokia 7.2",
+        "k": "Nokia 7.2",
+        "d": "DDV_sprout"
+    },
+    {
+        "m": "Nokia 8",
+        "k": "TA-1004",
+        "d": "NB1"
+    },
+    {
+        "m": "Nokia 8",
+        "k": "TA-1012",
+        "d": "NB1"
+    },
+    {
+        "m": "Nokia 8",
+        "k": "TA-1052",
+        "d": "NB1"
+    },
+    {
+        "m": "Nokia 8 Sirocco",
+        "k": "Nokia 8 Sirocco",
+        "d": "A1N"
+    },
+    {
+        "m": "Nokia 8 Sirocco",
+        "k": "Nokia 8 Sirocco",
+        "d": "A1N_sprout"
+    },
+    {
+        "m": "Nokia 8 V 5G UW",
+        "k": "Nokia 8 V 5G UW",
+        "d": "RAV_VZW"
+    },
+    {
+        "m": "Nokia 8.1",
+        "k": "Nokia 8.1",
+        "d": "PNXN"
+    },
+    {
+        "m": "Nokia 8.1",
+        "k": "Nokia 8.1",
+        "d": "PNX_sprout"
+    },
+    {
+        "m": "Nokia 8.3 5G",
+        "k": "Nokia 8.3 5G",
+        "d": "BGT"
+    },
+    {
+        "m": "Nokia 8.3 5G",
+        "k": "Nokia 8.3 5G",
+        "d": "BGT_sprout"
+    },
+    {
+        "m": "Nokia 9",
+        "k": "Nokia 9",
+        "d": "AOP"
+    },
+    {
+        "m": "Nokia 9",
+        "k": "Nokia 9",
+        "d": "AOP_sprout"
+    },
+    {
+        "m": "Nokia C01 Plus",
+        "k": "Nokia C01 Plus",
+        "d": "IRS"
+    },
+    {
+        "m": "Nokia C02",
+        "k": "Cypher",
+        "d": "CYR"
+    },
+    {
+        "m": "Nokia C02",
+        "k": "Nokia C02",
+        "d": "CYR"
+    },
+    {
+        "m": "Nokia C1",
+        "k": "Nokia C1",
+        "d": "RKU"
+    },
+    {
+        "m": "Nokia C1 2nd Edition",
+        "k": "Nokia C1 2nd Edition",
+        "d": "IRU"
+    },
+    {
+        "m": "Nokia C1 Plus",
+        "k": "Nokia C1 Plus",
+        "d": "YDU"
+    },
+    {
+        "m": "Nokia C10",
+        "k": "Nokia C10",
+        "d": "MNT"
+    },
+    {
+        "m": "Nokia C100",
+        "k": "N152DL",
+        "d": "DKT"
+    },
+    {
+        "m": "Nokia C100",
+        "k": "Nokia C100",
+        "d": "DKT"
+    },
+    {
+        "m": "Nokia C110",
+        "k": "Nokia C110",
+        "d": "DGC"
+    },
+    {
+        "m": "Nokia C110",
+        "k": "N156DL",
+        "d": "DGF"
+    },
+    {
+        "m": "Nokia C12",
+        "k": "Nokia C12",
+        "d": "NVA"
+    },
+    {
+        "m": "Nokia C12 Pro",
+        "k": "Nokia C12 Plus",
+        "d": "NVA"
+    },
+    {
+        "m": "Nokia C12 Pro",
+        "k": "Nokia C12 Pro",
+        "d": "NVA"
+    },
+    {
+        "m": "Nokia C2",
+        "k": "Nebula",
+        "d": "NBL"
+    },
+    {
+        "m": "Nokia C2",
+        "k": "Nokia C2",
+        "d": "NBL"
+    },
+    {
+        "m": "Nokia C2 2nd Edition",
+        "k": "Nokia C2 2nd Edition",
+        "d": "DMN"
+    },
+    {
+        "m": "Nokia C2 Tennen",
+        "k": "Nokia C2 Tennen",
+        "d": "ARV_CUS"
+    },
+    {
+        "m": "Nokia C20",
+        "k": "Nokia C20",
+        "d": "COS"
+    },
+    {
+        "m": "Nokia C20 Plus",
+        "k": "Nokia C20 Plus",
+        "d": "SUS"
+    },
+    {
+        "m": "Nokia C200",
+        "k": "N151DL",
+        "d": "DRK"
+    },
+    {
+        "m": "Nokia C200",
+        "k": "Nokia C200",
+        "d": "DRK"
+    },
+    {
+        "m": "Nokia C21",
+        "k": "Nokia C21",
+        "d": "COR"
+    },
+    {
+        "m": "Nokia C21 Plus",
+        "k": "Hope",
+        "d": "HPE"
+    },
+    {
+        "m": "Nokia C21 Plus",
+        "k": "Nokia C21 Plus",
+        "d": "HPE"
+    },
+    {
+        "m": "Nokia C210",
+        "k": "Nokia C210",
+        "d": "RVOA"
+    },
+    {
+        "m": "Nokia C210",
+        "k": "Nokia C210",
+        "d": "RVTA"
+    },
+    {
+        "m": "Nokia C22",
+        "k": "Nokia C22",
+        "d": "HKEA"
+    },
+    {
+        "m": "Nokia C3",
+        "k": "Nokia C3",
+        "d": "GMR"
+    },
+    {
+        "m": "Nokia C30",
+        "k": "Nokia C30",
+        "d": "MNI"
+    },
+    {
+        "m": "Nokia C30",
+        "k": "Nokia C30",
+        "d": "MNR"
+    },
+    {
+        "m": "Nokia C300",
+        "k": "Nokia C300",
+        "d": "ORO"
+    },
+    {
+        "m": "Nokia C300",
+        "k": "N155DL",
+        "d": "ORT"
+    },
+    {
+        "m": "Nokia C31",
+        "k": "Nokia C31",
+        "d": "VSI"
+    },
+    {
+        "m": "Nokia C32",
+        "k": "Nokia C32",
+        "d": "MKDA"
+    },
+    {
+        "m": "Nokia C5 Endi",
+        "k": "Nokia C5 Endi",
+        "d": "PMC_CUS"
+    },
+    {
+        "m": "Nokia G10",
+        "k": "Nokia G10",
+        "d": "ROGA"
+    },
+    {
+        "m": "Nokia G10",
+        "k": "Nokia G10",
+        "d": "ROGA_sprout"
+    },
+    {
+        "m": "Nokia G100",
+        "k": "N150DL",
+        "d": "DPT"
+    },
+    {
+        "m": "Nokia G100",
+        "k": "Nokia G100",
+        "d": "DPT"
+    },
+    {
+        "m": "Nokia G11",
+        "k": "Nokia G11",
+        "d": "SCTA_sprout"
+    },
+    {
+        "m": "Nokia G11",
+        "k": "Nokia G11",
+        "d": "SCT_sprout"
+    },
+    {
+        "m": "Nokia G11 Plus",
+        "k": "Nokia G11 Plus",
+        "d": "MGKA"
+    },
+    {
+        "m": "Nokia G11 Plus",
+        "k": "Nokia G11 Plus",
+        "d": "MGKA_sprout"
+    },
+    {
+        "m": "Nokia G20",
+        "k": "Nokia G20",
+        "d": "RNN"
+    },
+    {
+        "m": "Nokia G20",
+        "k": "Nokia G20",
+        "d": "RNNA_sprout"
+    },
+    {
+        "m": "Nokia G20",
+        "k": "Nokia G20",
+        "d": "RNN_sprout"
+    },
+    {
+        "m": "Nokia G21",
+        "k": "Nokia G21",
+        "d": "SCP"
+    },
+    {
+        "m": "Nokia G21",
+        "k": "Nokia G21",
+        "d": "SCPA_sprout"
+    },
+    {
+        "m": "Nokia G21",
+        "k": "Nokia G21",
+        "d": "SCP_sprout"
+    },
+    {
+        "m": "Nokia G22",
+        "k": "Nokia G22",
+        "d": "SFI"
+    },
+    {
+        "m": "Nokia G22",
+        "k": "Nokia G22",
+        "d": "SFIA"
+    },
+    {
+        "m": "Nokia G300",
+        "k": "N1374DL",
+        "d": "AKT"
+    },
+    {
+        "m": "Nokia G310 5G",
+        "k": "Nokia G310 5G",
+        "d": "SDT"
+    },
+    {
+        "m": "Nokia G400 5G",
+        "k": "Nokia G400 5G",
+        "d": "STM"
+    },
+    {
+        "m": "Nokia G400 5G",
+        "k": "Nokia G400 5G",
+        "d": "STO"
+    },
+    {
+        "m": "Nokia G42 5G",
+        "k": "Nokia G42 5G",
+        "d": "SDW"
+    },
+    {
+        "m": "Nokia G42 5G",
+        "k": "Nokia G42 5G",
+        "d": "SDWA"
+    },
+    {
+        "m": "Nokia G50",
+        "k": "Nokia G50",
+        "d": "PHR"
+    },
+    {
+        "m": "Nokia G50",
+        "k": "Nokia G50",
+        "d": "PHR_sprout"
+    },
+    {
+        "m": "Nokia G60 5G",
+        "k": "Nokia G60 5G",
+        "d": "APO_sprout"
+    },
+    {
+        "m": "Nokia T10",
+        "k": "Nokia T10",
+        "d": "PGN"
+    },
+    {
+        "m": "Nokia T20",
+        "k": "Nokia T20",
+        "d": "RDD"
+    },
+    {
+        "m": "Nokia T20",
+        "k": "Nokia T20",
+        "d": "RDDCN"
+    },
+    {
+        "m": "Nokia T21",
+        "k": "Nokia T21",
+        "d": "AGT"
+    },
+    {
+        "m": "Nokia T21",
+        "k": "Nokia T21",
+        "d": "AGTA"
+    },
+    {
+        "m": "Nokia X10",
+        "k": "Nokia X10",
+        "d": "SCW"
+    },
+    {
+        "m": "Nokia X10",
+        "k": "Nokia X10",
+        "d": "SCW_sprout"
+    },
+    {
+        "m": "Nokia X100",
+        "k": "Nokia X100",
+        "d": "DM5"
+    },
+    {
+        "m": "Nokia X20",
+        "k": "Nokia X20",
+        "d": "QKS"
+    },
+    {
+        "m": "Nokia X20",
+        "k": "Nokia X20",
+        "d": "QKS_sprout"
+    },
+    {
+        "m": "Nokia X30 5G",
+        "k": "Nokia X30 5G",
+        "d": "FCN_sprout"
+    },
+    {
+        "m": "Nokia X5",
+        "k": "Nokia X5",
+        "d": "PDA"
+    },
+    {
+        "m": "Nokia X6",
+        "k": "Nokia X6",
+        "d": "DRG"
+    },
+    {
+        "m": "Nokia X7",
+        "k": "Nokia X7",
+        "d": "PNX"
+    },
+    {
+        "m": "Nokia X71",
+        "k": "Nokia X71",
+        "d": "TAS"
+    },
+    {
+        "m": "Nokia XR20",
+        "k": "Nokia XR20",
+        "d": "TTG"
+    },
+    {
+        "m": "Nokia XR20",
+        "k": "Nokia XR20",
+        "d": "TTG_sprout"
+    },
+    {
+        "m": "Nokia XR21",
+        "k": "Nokia XR21",
+        "d": "SNT_sprout"
+    }
+]

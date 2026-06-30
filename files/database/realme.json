@@ -1,0 +1,1367 @@
+[
+    {
+        "m": "NARZO 70 5G",
+        "k": "RMX3869",
+        "d": "RE5C86L1"
+    },
+    {
+        "m": "NARZO 70 Pro 5G",
+        "k": "RMX3868",
+        "d": "RE5C86L1"
+    },
+    {
+        "m": "RMX2020",
+        "k": "RMX2020",
+        "d": "RMX2020"
+    },
+    {
+        "m": "RMX2040",
+        "k": "RMX2040",
+        "d": "RMX2040"
+    },
+    {
+        "m": "RMX3063",
+        "k": "RMX3063",
+        "d": "RMX3063"
+    },
+    {
+        "m": "RMX3231",
+        "k": "RMX3231",
+        "d": "RMX3231"
+    },
+    {
+        "m": "RMX3268",
+        "k": "RMX3268",
+        "d": "RED8D7"
+    },
+    {
+        "m": "RMX3612",
+        "k": "RMX3612",
+        "d": "RE588DL1"
+    },
+    {
+        "m": "RMX3627",
+        "k": "RMX3627",
+        "d": "RE58AF"
+    },
+    {
+        "m": "RMX3710",
+        "k": "RMX3710",
+        "d": "REE2ADL1"
+    },
+    {
+        "m": "RMX3771",
+        "k": "RMX3771",
+        "d": "RE58B8L1"
+    },
+    {
+        "m": "RMX3782",
+        "k": "RMX3782",
+        "d": "RE5C6CL1"
+    },
+    {
+        "m": "RMX3834",
+        "k": "RMX3834",
+        "d": "RE5C9F"
+    },
+    {
+        "m": "RMX3871",
+        "k": "RMX3871",
+        "d": "RE6063L1"
+    },
+    {
+        "m": "RMX3933",
+        "k": "RMX3933",
+        "d": "RE6054"
+    },
+    {
+        "m": "RMX3939",
+        "k": "RMX3939",
+        "d": "RE6054"
+    },
+    {
+        "m": "RMX3940",
+        "k": "RMX3940",
+        "d": "RE606B"
+    },
+    {
+        "m": "RMX3943",
+        "k": "RMX3943",
+        "d": "RE6092"
+    },
+    {
+        "m": "RMX3944",
+        "k": "RMX3944",
+        "d": "RE6083L1"
+    },
+    {
+        "m": "RMX3945",
+        "k": "RMX3945",
+        "d": "RE6092"
+    },
+    {
+        "m": "RMX3990",
+        "k": "RMX3990",
+        "d": "RE5CA3L1"
+    },
+    {
+        "m": "RMX3997",
+        "k": "RMX3997",
+        "d": "RE5C9AL1"
+    },
+    {
+        "m": "RMX3998",
+        "k": "RMX3998",
+        "d": "RE5C94L1"
+    },
+    {
+        "m": "RMX5000",
+        "k": "RMX5000",
+        "d": "RE6066L1"
+    },
+    {
+        "m": "RMX5061",
+        "k": "RMX5061",
+        "d": "RE60ADL1"
+    },
+    {
+        "m": "RMX5107",
+        "k": "RMX5107",
+        "d": "RE646FL1"
+    },
+    {
+        "m": "RMX5111",
+        "k": "RMX5111",
+        "d": "RE6444L1"
+    },
+    {
+        "m": "RMX5200",
+        "k": "RMX5200",
+        "d": "RE6030L1"
+    },
+    {
+        "m": "RMX5210",
+        "k": "RMX5210",
+        "d": "RE60C8L1"
+    },
+    {
+        "m": "RMX5258",
+        "k": "RMX5258",
+        "d": "RE6478L1"
+    },
+    {
+        "m": "RMX5261",
+        "k": "RMX5261",
+        "d": "RE6478L1"
+    },
+    {
+        "m": "RMX5303",
+        "k": "RMX5303",
+        "d": "RE60B8"
+    },
+    {
+        "m": "RMX5313",
+        "k": "RMX5313",
+        "d": "RE60BA"
+    },
+    {
+        "m": "RMX5377",
+        "k": "RMX5377",
+        "d": "RE648B"
+    },
+    {
+        "m": "RMX5388",
+        "k": "RMX5388",
+        "d": "RE60BA"
+    },
+    {
+        "m": "RMX5555",
+        "k": "RMX5555",
+        "d": "RE6441L1"
+    },
+    {
+        "m": "narzo 50 5G",
+        "k": "RMX3571",
+        "d": "RED8CDL1"
+    },
+    {
+        "m": "narzo 50 5G",
+        "k": "RMX3572",
+        "d": "RED8CDL1"
+    },
+    {
+        "m": "narzo 50 Pro 5G",
+        "k": "RMX3395",
+        "d": "RE879EL1"
+    },
+    {
+        "m": "narzo 50 Pro 5G",
+        "k": "RMX3396",
+        "d": "RE879EL1"
+    },
+    {
+        "m": "realme  8",
+        "k": "RMX3085",
+        "d": "RMX3085L1"
+    },
+    {
+        "m": "realme  9i",
+        "k": "RMX3491",
+        "d": "RED8C1L1"
+    },
+    {
+        "m": "realme  GT 5G",
+        "k": "RMX2202",
+        "d": "RMX2202L1"
+    },
+    {
+        "m": "realme  V23i",
+        "k": "RMX3576",
+        "d": "RE873B"
+    },
+    {
+        "m": "realme  X7 Max",
+        "k": "RMX3031",
+        "d": "RMX3031L1"
+    },
+    {
+        "m": "realme  narzo  30",
+        "k": "RMX2156",
+        "d": "RMX2156L1"
+    },
+    {
+        "m": "realme 10",
+        "k": "RMX3615",
+        "d": "RE8D4B"
+    },
+    {
+        "m": "realme 10",
+        "k": "RMX3630",
+        "d": "RE8DDCL1"
+    },
+    {
+        "m": "realme 10 Pro",
+        "k": "RMX3663",
+        "d": "RE5849"
+    },
+    {
+        "m": "realme 10 Pro 5G",
+        "k": "RMX3660",
+        "d": "RE588BL1"
+    },
+    {
+        "m": "realme 10 Pro 5G",
+        "k": "RMX3661",
+        "d": "RE588BL1"
+    },
+    {
+        "m": "realme 10 Pro+",
+        "k": "RMX3687",
+        "d": "RE5854"
+    },
+    {
+        "m": "realme 10 Pro+ 5G",
+        "k": "RMX3686",
+        "d": "RE58A5L1"
+    },
+    {
+        "m": "realme 10 Pro+ 5G",
+        "k": "RMX3686",
+        "d": "RE58A6L1"
+    },
+    {
+        "m": "realme 10s",
+        "k": "RMX3617",
+        "d": "RE5851"
+    },
+    {
+        "m": "realme 11",
+        "k": "RMX3751",
+        "d": "RE5852"
+    },
+    {
+        "m": "realme 11",
+        "k": "RMX3636",
+        "d": "RE5C7CL1"
+    },
+    {
+        "m": "realme 11 5G",
+        "k": "RMX3780",
+        "d": "RE5C6CL1"
+    },
+    {
+        "m": "realme 11 Pro+",
+        "k": "RMX3740",
+        "d": "RE5865"
+    },
+    {
+        "m": "realme 11 Pro+ 5G",
+        "k": "RMX3741",
+        "d": "RE58B6L1"
+    },
+    {
+        "m": "realme 11x 5G",
+        "k": "RMX3785",
+        "d": "RE5C6CL1"
+    },
+    {
+        "m": "realme 12 5G",
+        "k": "RMX3999",
+        "d": "RE5C94L1"
+    },
+    {
+        "m": "realme 12 Lite",
+        "k": "RMX3890",
+        "d": "RE5C91L1"
+    },
+    {
+        "m": "realme 12 Pro 5G",
+        "k": "RMX3842",
+        "d": "RE5C84L1"
+    },
+    {
+        "m": "realme 12 Pro+ 5G",
+        "k": "RMX3840",
+        "d": "RE5C82L1"
+    },
+    {
+        "m": "realme 12+ 5G",
+        "k": "RMX3867",
+        "d": "RE5C86L1"
+    },
+    {
+        "m": "realme 13 5G",
+        "k": "RMX3951",
+        "d": "RE6070L1"
+    },
+    {
+        "m": "realme 13 Pro 5G",
+        "k": "RMX3988",
+        "d": "RE5CA3L1"
+    },
+    {
+        "m": "realme 13 Pro+ 5G",
+        "k": "RMX3921",
+        "d": "RE5CA3L1"
+    },
+    {
+        "m": "realme 14 5G",
+        "k": "RMX5070",
+        "d": "RE608EL1"
+    },
+    {
+        "m": "realme 14 Pro 5G",
+        "k": "RMX5056",
+        "d": "RE6081L1"
+    },
+    {
+        "m": "realme 14 Pro 5G",
+        "k": "RMX5057",
+        "d": "RE6081L1"
+    },
+    {
+        "m": "realme 14 Pro+ 5G",
+        "k": "RMX5051",
+        "d": "RE6079L1"
+    },
+    {
+        "m": "realme 14 Pro+ 5G",
+        "k": "RMX5054",
+        "d": "RE6079L1"
+    },
+    {
+        "m": "realme 14T 5G",
+        "k": "RMX5074",
+        "d": "RE60AFL1"
+    },
+    {
+        "m": "realme 14T 5G",
+        "k": "RMX5078",
+        "d": "RE60AFL1"
+    },
+    {
+        "m": "realme 15 5G",
+        "k": "RMX5106",
+        "d": "RE60CCL1"
+    },
+    {
+        "m": "realme 15 5G",
+        "k": "RMX5106",
+        "d": "RE60CDL1"
+    },
+    {
+        "m": "realme 15 Pro 5G",
+        "k": "RMX5101",
+        "d": "RE60B4L1"
+    },
+    {
+        "m": "realme 15x 5G",
+        "k": "RMX5250",
+        "d": "RE644C"
+    },
+    {
+        "m": "realme 16 5G",
+        "k": "RMX5171",
+        "d": "RE6474L1"
+    },
+    {
+        "m": "realme 16 Pro 5G",
+        "k": "RMX5120",
+        "d": "RE645DL1"
+    },
+    {
+        "m": "realme 16 Pro+ 5G",
+        "k": "RMX5131",
+        "d": "RE6458L1"
+    },
+    {
+        "m": "realme 2 Pro",
+        "k": "RMX1801",
+        "d": "RMX1801"
+    },
+    {
+        "m": "realme 3Pro",
+        "k": "RMX1851",
+        "d": "RMX1851"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1911",
+        "d": "RMX1911L1"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1915",
+        "d": "RMX1915"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1919",
+        "d": "RMX1919"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1925",
+        "d": "RMX1925"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1926",
+        "d": "RMX1926"
+    },
+    {
+        "m": "realme 5",
+        "k": "RMX1927",
+        "d": "RMX1927"
+    },
+    {
+        "m": "realme 5Pro",
+        "k": "RMX1971",
+        "d": "RMX1971"
+    },
+    {
+        "m": "realme 5Pro",
+        "k": "RMX1971",
+        "d": "RMX1971L1"
+    },
+    {
+        "m": "realme 5i",
+        "k": "RMX2030",
+        "d": "RMX2030"
+    },
+    {
+        "m": "realme 5i",
+        "k": "RMX2030",
+        "d": "RMX2030L1"
+    },
+    {
+        "m": "realme 5i",
+        "k": "RMX2031",
+        "d": "RMX2031"
+    },
+    {
+        "m": "realme 5i",
+        "k": "RMX2032",
+        "d": "RMX2032"
+    },
+    {
+        "m": "realme 5pro",
+        "k": "RMX1973",
+        "d": "RMX1973"
+    },
+    {
+        "m": "realme 6",
+        "k": "RMX2001",
+        "d": "RMX2001L1"
+    },
+    {
+        "m": "realme 6",
+        "k": "RMX2003",
+        "d": "RMX2003L1"
+    },
+    {
+        "m": "realme 6Pro",
+        "k": "RMX2063",
+        "d": "RMX2063L1"
+    },
+    {
+        "m": "realme 6Pro",
+        "k": "RMX2061",
+        "d": "RMX2061L1"
+    },
+    {
+        "m": "realme 6i",
+        "k": "RMX2190",
+        "d": "RMX2030"
+    },
+    {
+        "m": "realme 6i",
+        "k": "RMX2041",
+        "d": "RMX2041"
+    },
+    {
+        "m": "realme 6i",
+        "k": "RMX2042",
+        "d": "RMX2042"
+    },
+    {
+        "m": "realme 6s",
+        "k": "RMX2002",
+        "d": "RMX2002L1"
+    },
+    {
+        "m": "realme 7",
+        "k": "RMX2151",
+        "d": "RMX2151L1"
+    },
+    {
+        "m": "realme 7 5G",
+        "k": "RMX2111",
+        "d": "RMX2111L1"
+    },
+    {
+        "m": "realme 7 Pro",
+        "k": "RMX2170",
+        "d": "RMX2170L1"
+    },
+    {
+        "m": "realme 7i",
+        "k": "RMX2103",
+        "d": "RE50C1L1"
+    },
+    {
+        "m": "realme 7i",
+        "k": "RMX2193",
+        "d": "RMX2193"
+    },
+    {
+        "m": "realme 8 5G",
+        "k": "RMX3241",
+        "d": "RE513CL1"
+    },
+    {
+        "m": "realme 8Pro",
+        "k": "RMX3081",
+        "d": "RMX3081L1"
+    },
+    {
+        "m": "realme 8i",
+        "k": "RMX3151",
+        "d": "RE54B4L1"
+    },
+    {
+        "m": "realme 8s 5G",
+        "k": "RMX3381",
+        "d": "RE58A0L1"
+    },
+    {
+        "m": "realme 9",
+        "k": "RMX3521",
+        "d": "RE54E2L1"
+    },
+    {
+        "m": "realme 9 5G",
+        "k": "RMX3474",
+        "d": "RE54CBL1"
+    },
+    {
+        "m": "realme 9 5G",
+        "k": "RMX3388",
+        "d": "RE54F3L1"
+    },
+    {
+        "m": "realme 9 5G Speed Edition",
+        "k": "RMX3461",
+        "d": "RE54BFL1"
+    },
+    {
+        "m": "realme 9 Pro+",
+        "k": "RMX3392",
+        "d": "RE879EL1"
+    },
+    {
+        "m": "realme 9 Pro+",
+        "k": "RMX3393",
+        "d": "RE879EL1"
+    },
+    {
+        "m": "realme 9Pro 5G",
+        "k": "RMX3471",
+        "d": "RE54CBL1"
+    },
+    {
+        "m": "realme 9Pro 5G",
+        "k": "RMX3472",
+        "d": "RE54CBL1"
+    },
+    {
+        "m": "realme 9i",
+        "k": "RMX3492",
+        "d": "RED8C1L1"
+    },
+    {
+        "m": "realme 9i",
+        "k": "RMX3493",
+        "d": "RED8C1L1"
+    },
+    {
+        "m": "realme C100",
+        "k": "RMX5353",
+        "d": "RE646B"
+    },
+    {
+        "m": "realme C11",
+        "k": "RMX2185",
+        "d": "RMX2185"
+    },
+    {
+        "m": "realme C11",
+        "k": "RMX2186",
+        "d": "RMX2186"
+    },
+    {
+        "m": "realme C12",
+        "k": "RMX2184",
+        "d": "RMX2184"
+    },
+    {
+        "m": "realme C12",
+        "k": "RMX2189",
+        "d": "RMX2189"
+    },
+    {
+        "m": "realme C15",
+        "k": "RMX2180",
+        "d": "RMX2180"
+    },
+    {
+        "m": "realme C15",
+        "k": "RMX2181",
+        "d": "RMX2181"
+    },
+    {
+        "m": "realme C15",
+        "k": "RMX2183",
+        "d": "RMX2183"
+    },
+    {
+        "m": "realme C15 Qualcomm Edition",
+        "k": "RMX2195",
+        "d": "RECE4244"
+    },
+    {
+        "m": "realme C15 Qualcomm Edition",
+        "k": "RMX2195",
+        "d": "RMX2195L1"
+    },
+    {
+        "m": "realme C17",
+        "k": "RMX2101",
+        "d": "RE50BF"
+    },
+    {
+        "m": "realme C2",
+        "k": "RMX1946",
+        "d": "RMX1946"
+    },
+    {
+        "m": "realme C20",
+        "k": "RMX3061",
+        "d": "RMX3061"
+    },
+    {
+        "m": "realme C21",
+        "k": "RMX3201",
+        "d": "RMX3201"
+    },
+    {
+        "m": "realme C21",
+        "k": "RMX3202",
+        "d": "RMX3202"
+    },
+    {
+        "m": "realme C21",
+        "k": "RMX3203",
+        "d": "RMX3203L1"
+    },
+    {
+        "m": "realme C21 Y",
+        "k": "RMX3261",
+        "d": "RMX3261"
+    },
+    {
+        "m": "realme C21-Y",
+        "k": "RMX3263",
+        "d": "RED8D1"
+    },
+    {
+        "m": "realme C21Y",
+        "k": "RMX3262",
+        "d": "RMX3262"
+    },
+    {
+        "m": "realme C25",
+        "k": "RMX3191",
+        "d": "RMX3191"
+    },
+    {
+        "m": "realme C25",
+        "k": "RMX3193",
+        "d": "RMX3193"
+    },
+    {
+        "m": "realme C25Y",
+        "k": "RMX3265",
+        "d": "RE54D1"
+    },
+    {
+        "m": "realme C25Y",
+        "k": "RMX3269",
+        "d": "RED8F6"
+    },
+    {
+        "m": "realme C25s",
+        "k": "RMX3195",
+        "d": "RMX3195"
+    },
+    {
+        "m": "realme C25s",
+        "k": "RMX3197",
+        "d": "RMX3197"
+    },
+    {
+        "m": "realme C3",
+        "k": "RMX2021",
+        "d": "RMX2021"
+    },
+    {
+        "m": "realme C3",
+        "k": "RMX2022",
+        "d": "RMX2022"
+    },
+    {
+        "m": "realme C3",
+        "k": "RMX2027",
+        "d": "RMX2027"
+    },
+    {
+        "m": "realme C30",
+        "k": "RMX3581",
+        "d": "RE5887"
+    },
+    {
+        "m": "realme C30",
+        "k": "RMX3623",
+        "d": "RE588E"
+    },
+    {
+        "m": "realme C30s",
+        "k": "RMX3690",
+        "d": "RE58AB"
+    },
+    {
+        "m": "realme C31",
+        "k": "RMX3501",
+        "d": "RE549C"
+    },
+    {
+        "m": "realme C31",
+        "k": "RMX3502",
+        "d": "RE549C"
+    },
+    {
+        "m": "realme C31",
+        "k": "RMX3503",
+        "d": "RE549C"
+    },
+    {
+        "m": "realme C33",
+        "k": "RMX3624",
+        "d": "RE5894"
+    },
+    {
+        "m": "realme C35",
+        "k": "RMX3511",
+        "d": "RE87BAL1"
+    },
+    {
+        "m": "realme C35",
+        "k": "RMX3512",
+        "d": "RE87BAL1"
+    },
+    {
+        "m": "realme C35",
+        "k": "RMX3513",
+        "d": "RE87BAL1"
+    },
+    {
+        "m": "realme C51",
+        "k": "RMX3830",
+        "d": "RE58BC"
+    },
+    {
+        "m": "realme C51s",
+        "k": "RMX3765",
+        "d": "RE5C51"
+    },
+    {
+        "m": "realme C53",
+        "k": "RMX3760",
+        "d": "RE58C2"
+    },
+    {
+        "m": "realme C53",
+        "k": "RMX3762",
+        "d": "RE58CE"
+    },
+    {
+        "m": "realme C61",
+        "k": "RMX3930",
+        "d": "RE6054"
+    },
+    {
+        "m": "realme C63 5G",
+        "k": "RMX3950",
+        "d": "RE6070L1"
+    },
+    {
+        "m": "realme C65",
+        "k": "RMX3910",
+        "d": "RE5C42"
+    },
+    {
+        "m": "realme C75",
+        "k": "RMX3941",
+        "d": "RE607CL1"
+    },
+    {
+        "m": "realme C75 5G",
+        "k": "RMX3963",
+        "d": "RE6092"
+    },
+    {
+        "m": "realme C75x",
+        "k": "RMX5020",
+        "d": "RE6089"
+    },
+    {
+        "m": "realme C83 5G",
+        "k": "RMX5256",
+        "d": "RE6478L1"
+    },
+    {
+        "m": "realme C85",
+        "k": "RMX5566",
+        "d": "RE645F"
+    },
+    {
+        "m": "realme C85 5G",
+        "k": "RMX5253",
+        "d": "RE644C"
+    },
+    {
+        "m": "realme GT 2",
+        "k": "RMX3312",
+        "d": "RE58B2L1"
+    },
+    {
+        "m": "realme GT 2 Pro",
+        "k": "RMX3301",
+        "d": "RED8ACL1"
+    },
+    {
+        "m": "realme GT 6",
+        "k": "RMX3851",
+        "d": "RE5CA6L1"
+    },
+    {
+        "m": "realme GT 6T",
+        "k": "RMX3853",
+        "d": "RE606FL1"
+    },
+    {
+        "m": "realme GT 7 Pro",
+        "k": "RMX5011",
+        "d": "RE605FL1"
+    },
+    {
+        "m": "realme GT 7T",
+        "k": "RMX5085",
+        "d": "RE6090L1"
+    },
+    {
+        "m": "realme GT Explorer Master Edition",
+        "k": "RMX3366",
+        "d": "RE546F"
+    },
+    {
+        "m": "realme GT Master Edition",
+        "k": "RMX3363",
+        "d": "RE54ABL1"
+    },
+    {
+        "m": "realme GT Master Edition",
+        "k": "RMX3361",
+        "d": "RE507C"
+    },
+    {
+        "m": "realme GT Master Edition",
+        "k": "RMX3360",
+        "d": "RE54ABL1"
+    },
+    {
+        "m": "realme GT NEO 3",
+        "k": "RMX3561",
+        "d": "RED8BEL1"
+    },
+    {
+        "m": "realme GT NEO 3 150W",
+        "k": "RMX3563",
+        "d": "RED8BEL1"
+    },
+    {
+        "m": "realme GT NEO 3T",
+        "k": "RMX3371",
+        "d": "RE54E4L1"
+    },
+    {
+        "m": "realme GT Neo 2",
+        "k": "RMX3370",
+        "d": "RE5473"
+    },
+    {
+        "m": "realme GT Neo 5 SE",
+        "k": "RMX3701",
+        "d": "RE58D1L1"
+    },
+    {
+        "m": "realme GT Neo2 5G",
+        "k": "RMX3370",
+        "d": "RE879AL1"
+    },
+    {
+        "m": "realme GT3 240W",
+        "k": "RMX3709",
+        "d": "REE2B2L1"
+    },
+    {
+        "m": "realme GT5",
+        "k": "RMX3820",
+        "d": "RE5C33"
+    },
+    {
+        "m": "realme GT5 240W",
+        "k": "RMX3823",
+        "d": "RE5C33"
+    },
+    {
+        "m": "realme GT5 Pro",
+        "k": "RMX3888",
+        "d": "RE5C37"
+    },
+    {
+        "m": "realme NARZO 70 Turbo 5G",
+        "k": "RMX5003",
+        "d": "RE6066L1"
+    },
+    {
+        "m": "realme NARZO 80 Pro 5G",
+        "k": "RMX5033",
+        "d": "RE60AEL1"
+    },
+    {
+        "m": "realme NARZO 90x 5G",
+        "k": "RMX5264",
+        "d": "RE644C"
+    },
+    {
+        "m": "realme Narzo 30 Pro 5G",
+        "k": "RMX2117",
+        "d": "RMX2117L1"
+    },
+    {
+        "m": "realme Note 60x",
+        "k": "RMX3938",
+        "d": "RE6095"
+    },
+    {
+        "m": "realme P1 5G",
+        "k": "RMX3870",
+        "d": "RE5C86L1"
+    },
+    {
+        "m": "realme P1 Pro 5G",
+        "k": "RMX3844",
+        "d": "RE5C84L1"
+    },
+    {
+        "m": "realme P1 Speed 5G",
+        "k": "RMX5004",
+        "d": "RE6066L1"
+    },
+    {
+        "m": "realme P2 Pro 5G",
+        "k": "RMX3987",
+        "d": "RE5CA3L1"
+    },
+    {
+        "m": "realme P3 5G",
+        "k": "RMX5079",
+        "d": "RE608EL1"
+    },
+    {
+        "m": "realme P3 Lite",
+        "k": "RMX5300",
+        "d": "RE60B8"
+    },
+    {
+        "m": "realme P3 Pro 5G",
+        "k": "RMX5032",
+        "d": "RE6079L1"
+    },
+    {
+        "m": "realme P3 Ultra 5G",
+        "k": "RMX5030",
+        "d": "RE60A4L1"
+    },
+    {
+        "m": "realme P3 Ultra 5G",
+        "k": "RMX5031",
+        "d": "RE60A4L1"
+    },
+    {
+        "m": "realme P4 5G",
+        "k": "RMX5110",
+        "d": "RE6440L1"
+    },
+    {
+        "m": "realme P4 Pro 5G",
+        "k": "RMX5116",
+        "d": "RE644BL1"
+    },
+    {
+        "m": "realme P4x 5G",
+        "k": "RMX5108",
+        "d": "RE6450L1"
+    },
+    {
+        "m": "realme Q",
+        "k": "RMX1971",
+        "d": "RMX1971CN"
+    },
+    {
+        "m": "realme Q2 5G",
+        "k": "RMX2117",
+        "d": "RMX2117CN"
+    },
+    {
+        "m": "realme Q3 5G",
+        "k": "RMX3161",
+        "d": "RMX3161CN"
+    },
+    {
+        "m": "realme Q3 Pro Play",
+        "k": "RMX3142",
+        "d": "RE811C"
+    },
+    {
+        "m": "realme Q3s",
+        "k": "RMX3461",
+        "d": "RE548BL1"
+    },
+    {
+        "m": "realme Q5",
+        "k": "RMX3478",
+        "d": "RE547D"
+    },
+    {
+        "m": "realme Q5 Pro",
+        "k": "RMX3372",
+        "d": "RE5477"
+    },
+    {
+        "m": "realme Q5i",
+        "k": "RMX3574",
+        "d": "RE873D"
+    },
+    {
+        "m": "realme V11 5G",
+        "k": "RMX3121",
+        "d": "RMX3121CN"
+    },
+    {
+        "m": "realme V11 5G",
+        "k": "RMX3122",
+        "d": "RMX3122CN"
+    },
+    {
+        "m": "realme V15 5G",
+        "k": "RMX3092",
+        "d": "RMX3092CN"
+    },
+    {
+        "m": "realme V15 5G",
+        "k": "RMX3093",
+        "d": "RMX3093CN"
+    },
+    {
+        "m": "realme V23",
+        "k": "RMX3571",
+        "d": "RE5487"
+    },
+    {
+        "m": "realme V25",
+        "k": "RMX3475",
+        "d": "RE547D"
+    },
+    {
+        "m": "realme V3  5G",
+        "k": "RMX2200",
+        "d": "RMX2200CN"
+    },
+    {
+        "m": "realme V3 5G",
+        "k": "RMX2201",
+        "d": "RMX2201CN"
+    },
+    {
+        "m": "realme V30",
+        "k": "RMX3618",
+        "d": "RE584B"
+    },
+    {
+        "m": "realme V30",
+        "k": "RMX3619",
+        "d": "RE584B"
+    },
+    {
+        "m": "realme V5 5G",
+        "k": "RMX2111",
+        "d": "RMX2111CN"
+    },
+    {
+        "m": "realme V5 5G",
+        "k": "RMX2112",
+        "d": "RMX2112CN"
+    },
+    {
+        "m": "realme X2",
+        "k": "RMX1991",
+        "d": "RMX1991CN"
+    },
+    {
+        "m": "realme X2",
+        "k": "RMX1992",
+        "d": "RMX1992L1"
+    },
+    {
+        "m": "realme X2",
+        "k": "RMX1993",
+        "d": "RMX1993L1"
+    },
+    {
+        "m": "realme X2Pro",
+        "k": "RMX1931",
+        "d": "RMX1931CN"
+    },
+    {
+        "m": "realme X2Pro",
+        "k": "RMX1931",
+        "d": "RMX1931L1"
+    },
+    {
+        "m": "realme X3",
+        "k": "RMX2081",
+        "d": "RMX2081L1"
+    },
+    {
+        "m": "realme X3",
+        "k": "RMX2085",
+        "d": "RMX2085L1"
+    },
+    {
+        "m": "realme X3",
+        "k": "RMX2083",
+        "d": "RMX2083L1"
+    },
+    {
+        "m": "realme X3",
+        "k": "RMX2086",
+        "d": "RMX2086L1"
+    },
+    {
+        "m": "realme X50 5G",
+        "k": "RMX2025",
+        "d": "RMX2025CN"
+    },
+    {
+        "m": "realme X50 5G",
+        "k": "RMX2144",
+        "d": "RMX2144L1"
+    },
+    {
+        "m": "realme X50 Pro",
+        "k": "RMX2071",
+        "d": "RMX2071CN"
+    },
+    {
+        "m": "realme X50 Pro",
+        "k": "RMX2075",
+        "d": "RMX2075L1"
+    },
+    {
+        "m": "realme X50 Pro",
+        "k": "RMX2076",
+        "d": "RMX2076L1"
+    },
+    {
+        "m": "realme X50 Pro Play",
+        "k": "RMX2072",
+        "d": "RMX2072CN"
+    },
+    {
+        "m": "realme X50m 5G",
+        "k": "RMX2141",
+        "d": "RE508C"
+    },
+    {
+        "m": "realme X50m 5G",
+        "k": "RMX2142",
+        "d": "RE508C"
+    },
+    {
+        "m": "realme X50m 5G",
+        "k": "RMX2142",
+        "d": "RMX2142CN"
+    },
+    {
+        "m": "realme X50m 5G",
+        "k": "RMX2141",
+        "d": "RMX2141CN"
+    },
+    {
+        "m": "realme X50t 5G",
+        "k": "RMX2052",
+        "d": "RE508C"
+    },
+    {
+        "m": "realme X50t 5G",
+        "k": "RMX2052",
+        "d": "RMX2052CN"
+    },
+    {
+        "m": "realme X7 5G",
+        "k": "RMX3092",
+        "d": "RMX3092L1"
+    },
+    {
+        "m": "realme X7Pro Ultra",
+        "k": "RMX3115",
+        "d": "RMX3115CN"
+    },
+    {
+        "m": "realme XT",
+        "k": "RMX1921",
+        "d": "RMX1921"
+    },
+    {
+        "m": "realme XT",
+        "k": "RMX1921",
+        "d": "RMX1921L1"
+    },
+    {
+        "m": "realme XT",
+        "k": "RMX1922",
+        "d": "RMX1922"
+    },
+    {
+        "m": "realme narzo 20 Pro",
+        "k": "RMX2161",
+        "d": "RMX2161L1"
+    },
+    {
+        "m": "realme narzo 20A",
+        "k": "RMX2050",
+        "d": "RMX2050"
+    },
+    {
+        "m": "realme narzo 30 5G",
+        "k": "RMX3242",
+        "d": "RE513CL1"
+    },
+    {
+        "m": "realme narzo 30A",
+        "k": "RMX3171",
+        "d": "RMX3171"
+    },
+    {
+        "m": "realme narzo 50",
+        "k": "RMX3286",
+        "d": "RE54B4L1"
+    },
+    {
+        "m": "realme narzo 50A",
+        "k": "RMX3430",
+        "d": "RED8AF"
+    },
+    {
+        "m": "realme narzo 50A Prime",
+        "k": "RMX3516",
+        "d": "RE54D8L1"
+    },
+    {
+        "m": "realme narzo 50A Prime",
+        "k": "RMX3517",
+        "d": "RE54D8L1"
+    },
+    {
+        "m": "realme narzo 50i",
+        "k": "RMX3235",
+        "d": "RED8FA"
+    },
+    {
+        "m": "realme narzo 50i Prime",
+        "k": "RMX3506",
+        "d": "RE588E"
+    },
+    {
+        "m": "realme narzo 60 5G",
+        "k": "RMX3750",
+        "d": "RE58B1L1"
+    },
+    {
+        "m": "realme narzo N53",
+        "k": "RMX3761",
+        "d": "RE58C6"
+    },
+    {
+        "m": "realmeGT Neo5",
+        "k": "RMX3706",
+        "d": "RE5860"
+    },
+    {
+        "m": "realmeGT Neo5 240W",
+        "k": "RMX3708",
+        "d": "RE5860"
+    }
+]

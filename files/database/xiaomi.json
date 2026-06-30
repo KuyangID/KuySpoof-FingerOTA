@@ -1,0 +1,2512 @@
+[
+    {
+        "m": "HM Note 2",
+        "k": "Redmi Note 2",
+        "d": "hermes"
+    },
+    {
+        "m": "K30 PRO",
+        "k": "Redmi K30 Pro",
+        "d": "lmi"
+    },
+    {
+        "m": "K30 PRO",
+        "k": "Redmi K30 Pro 5G Zoom Edition",
+        "d": "lmiinpro"
+    },
+    {
+        "m": "K30 pro",
+        "k": "Redmi K30 Pro 5G",
+        "d": "lmiin"
+    },
+    {
+        "m": "Leitzphone powered by Xiaomi",
+        "k": "2512BPNDAG",
+        "d": "nezha"
+    },
+    {
+        "m": "Mi  9T  Pro",
+        "k": "Redmi K20 Pro",
+        "d": "raphaelin"
+    },
+    {
+        "m": "POCO C3",
+        "k": "M2006C3MI",
+        "d": "angelicain"
+    },
+    {
+        "m": "POCO C31",
+        "k": "211033MI",
+        "d": "angelicain"
+    },
+    {
+        "m": "POCO C50",
+        "k": "220733SPI",
+        "d": "snow"
+    },
+    {
+        "m": "POCO C51",
+        "k": "2302EPCC4H",
+        "d": "water"
+    },
+    {
+        "m": "POCO C51",
+        "k": "2305EPCC4G",
+        "d": "water"
+    },
+    {
+        "m": "POCO C55",
+        "k": "22127PC95I",
+        "d": "earth"
+    },
+    {
+        "m": "POCO C61",
+        "k": "2312BPC51H",
+        "d": "blue"
+    },
+    {
+        "m": "POCO C61",
+        "k": "2312BPC51X",
+        "d": "blue"
+    },
+    {
+        "m": "POCO C65",
+        "k": "2310FPCA4I",
+        "d": "gale"
+    },
+    {
+        "m": "POCO C65",
+        "k": "2310FPCA4G",
+        "d": "gust"
+    },
+    {
+        "m": "POCO C71",
+        "k": "25028PC03G",
+        "d": "serenity"
+    },
+    {
+        "m": "POCO C71",
+        "k": "25028PC03I",
+        "d": "serenity"
+    },
+    {
+        "m": "POCO C75",
+        "k": "2410FPCC5G",
+        "d": "lake"
+    },
+    {
+        "m": "POCO C75 5G",
+        "k": "24116PCC1I",
+        "d": "warm"
+    },
+    {
+        "m": "POCO C81",
+        "k": "25128PC17I",
+        "d": "arctic"
+    },
+    {
+        "m": "POCO C81x",
+        "k": "26020PCB4I",
+        "d": "serenity"
+    },
+    {
+        "m": "POCO C85",
+        "k": "25078PC3EE",
+        "d": "dew"
+    },
+    {
+        "m": "POCO C85",
+        "k": "25078PC3EG",
+        "d": "dew"
+    },
+    {
+        "m": "POCO C85 5G",
+        "k": "2508CPC2BI",
+        "d": "tornado"
+    },
+    {
+        "m": "POCO C85x 5G",
+        "k": "26020PC1AI",
+        "d": "somalia"
+    },
+    {
+        "m": "POCO F1",
+        "k": "POCOPHONE F1",
+        "d": "beryllium"
+    },
+    {
+        "m": "POCO F2 Pro",
+        "k": "POCO F2 Pro",
+        "d": "lmi"
+    },
+    {
+        "m": "POCO F3",
+        "k": "M2012K11AG",
+        "d": "alioth"
+    },
+    {
+        "m": "POCO F3 GT",
+        "k": "M2104K10I",
+        "d": "aresin"
+    },
+    {
+        "m": "POCO F4",
+        "k": "22021211RG",
+        "d": "munch"
+    },
+    {
+        "m": "POCO F4",
+        "k": "22021211RI",
+        "d": "munch"
+    },
+    {
+        "m": "POCO F4 GT",
+        "k": "21121210G",
+        "d": "ingres"
+    },
+    {
+        "m": "POCO F5",
+        "k": "23049PCD8G",
+        "d": "marble"
+    },
+    {
+        "m": "POCO F5",
+        "k": "23049PCD8I",
+        "d": "marble"
+    },
+    {
+        "m": "POCO F5",
+        "k": "23049PCD8I",
+        "d": "marblein"
+    },
+    {
+        "m": "POCO F6",
+        "k": "24069PC21G",
+        "d": "peridot"
+    },
+    {
+        "m": "POCO F6",
+        "k": "24069PC21I",
+        "d": "peridot"
+    },
+    {
+        "m": "POCO F6 Pro",
+        "k": "23113RKC6G",
+        "d": "vermeer"
+    },
+    {
+        "m": "POCO F8 Pro",
+        "k": "2510DPC44G",
+        "d": "annibale"
+    },
+    {
+        "m": "POCO F8 Ultra",
+        "k": "25102PCBEG",
+        "d": "myron"
+    },
+    {
+        "m": "POCO M2",
+        "k": "M2004J19PI",
+        "d": "shiva"
+    },
+    {
+        "m": "POCO M2 Pro",
+        "k": "POCO M2 Pro",
+        "d": "gram"
+    },
+    {
+        "m": "POCO M3",
+        "k": "M2010J19CG",
+        "d": "citrus"
+    },
+    {
+        "m": "POCO M3",
+        "k": "M2010J19CI",
+        "d": "citrus"
+    },
+    {
+        "m": "POCO M3 Pro 5G",
+        "k": "M2103K19PI",
+        "d": "camellia"
+    },
+    {
+        "m": "POCO M3 Pro 5G",
+        "k": "M2103K19PG",
+        "d": "camellian"
+    },
+    {
+        "m": "POCO M4 5G",
+        "k": "22041219PI",
+        "d": "light"
+    },
+    {
+        "m": "POCO M4 5G",
+        "k": "22041219PG",
+        "d": "thunder"
+    },
+    {
+        "m": "POCO M4 Pro",
+        "k": "2201117PG",
+        "d": "fleur"
+    },
+    {
+        "m": "POCO M4 Pro",
+        "k": "2201117PI",
+        "d": "miel"
+    },
+    {
+        "m": "POCO M4 Pro 5G",
+        "k": "21091116AG",
+        "d": "evergreen"
+    },
+    {
+        "m": "POCO M5",
+        "k": "22071219CI",
+        "d": "rock"
+    },
+    {
+        "m": "POCO M5",
+        "k": "22071219CG",
+        "d": "stone"
+    },
+    {
+        "m": "POCO M5s",
+        "k": "2207117BPG",
+        "d": "rosemary"
+    },
+    {
+        "m": "POCO M6",
+        "k": "2404APC5FG",
+        "d": "moon"
+    },
+    {
+        "m": "POCO M6 Plus 5G",
+        "k": "24066PC95I",
+        "d": "breeze"
+    },
+    {
+        "m": "POCO M6 Pro",
+        "k": "2312FPCA6G",
+        "d": "emerald"
+    },
+    {
+        "m": "POCO M6 Pro 5G",
+        "k": "23076PC4BI",
+        "d": "sky"
+    },
+    {
+        "m": "POCO M7",
+        "k": "25062PC34E",
+        "d": "creek"
+    },
+    {
+        "m": "POCO M7",
+        "k": "25062PC34G",
+        "d": "creek"
+    },
+    {
+        "m": "POCO M7 5G",
+        "k": "24108PCE2I",
+        "d": "flame"
+    },
+    {
+        "m": "POCO M7 Plus 5G",
+        "k": "25057PC09I",
+        "d": "spring"
+    },
+    {
+        "m": "POCO M7 Pro 5G",
+        "k": "2409FPCC4I",
+        "d": "beryl"
+    },
+    {
+        "m": "POCO M8 5G",
+        "k": "25118PC98G",
+        "d": "kunzite"
+    },
+    {
+        "m": "POCO M8 5G",
+        "k": "25118PC98I",
+        "d": "kunzite"
+    },
+    {
+        "m": "POCO M8 Pro 5G",
+        "k": "2510EPC8BG",
+        "d": "flourite"
+    },
+    {
+        "m": "POCO X2",
+        "k": "POCO X2",
+        "d": "phoenixin"
+    },
+    {
+        "m": "POCO X3",
+        "k": "M2007J20CI",
+        "d": "karna"
+    },
+    {
+        "m": "POCO X3 NFC",
+        "k": "M2007J20CG",
+        "d": "surya"
+    },
+    {
+        "m": "POCO X3 Pro",
+        "k": "M2102J20SI",
+        "d": "bhima"
+    },
+    {
+        "m": "POCO X3 Pro",
+        "k": "M2102J20SG",
+        "d": "vayu"
+    },
+    {
+        "m": "POCO X4 GT",
+        "k": "22041216G",
+        "d": "xaga"
+    },
+    {
+        "m": "POCO X4 Pro 5G",
+        "k": "2201116PI",
+        "d": "peux"
+    },
+    {
+        "m": "POCO X4 Pro 5G",
+        "k": "2201116PG",
+        "d": "veux"
+    },
+    {
+        "m": "POCO X5 Pro 5G",
+        "k": "22101320G",
+        "d": "redwood"
+    },
+    {
+        "m": "POCO X5 Pro 5G",
+        "k": "22101320I",
+        "d": "redwoodin"
+    },
+    {
+        "m": "POCO X6 5G",
+        "k": "23122PCD1G",
+        "d": "garnet"
+    },
+    {
+        "m": "POCO X6 5G",
+        "k": "23122PCD1I",
+        "d": "garnet"
+    },
+    {
+        "m": "POCO X6 Pro 5G",
+        "k": "2311DRK48G",
+        "d": "duchamp"
+    },
+    {
+        "m": "POCO X6 Pro 5G",
+        "k": "2311DRK48I",
+        "d": "duchamp"
+    },
+    {
+        "m": "POCO X7",
+        "k": "24095PCADG",
+        "d": "malachite"
+    },
+    {
+        "m": "POCO X7",
+        "k": "24095PCADI",
+        "d": "malachite"
+    },
+    {
+        "m": "POCO X7 Pro",
+        "k": "2412DPC0AG",
+        "d": "rodin"
+    },
+    {
+        "m": "POCO X7 Pro",
+        "k": "2412DPC0AI",
+        "d": "rodin"
+    },
+    {
+        "m": "POCO X8 Pro",
+        "k": "2511FPC34G",
+        "d": "klee"
+    },
+    {
+        "m": "POCO X8 Pro",
+        "k": "2511FPC34I",
+        "d": "klee"
+    },
+    {
+        "m": "POCO X8 Pro Max",
+        "k": "2602BPC18G",
+        "d": "dash"
+    },
+    {
+        "m": "POCO X8 Pro Max",
+        "k": "2602BPC18I",
+        "d": "dash"
+    },
+    {
+        "m": "Poco F7",
+        "k": "25053PC47G",
+        "d": "onyx"
+    },
+    {
+        "m": "Poco F7",
+        "k": "25053PC47I",
+        "d": "onyx"
+    },
+    {
+        "m": "Poco F7 Pro",
+        "k": "24117RK2CG",
+        "d": "zorn"
+    },
+    {
+        "m": "Poco F7 Ultra",
+        "k": "24122RKC7G",
+        "d": "miro"
+    },
+    {
+        "m": "Poco M7 Pro 5G",
+        "k": "2409FPCC4G",
+        "d": "citrine"
+    },
+    {
+        "m": "REDMI 15A 5G",
+        "k": "2602BRNA4I",
+        "d": "somalia"
+    },
+    {
+        "m": "REDMI 15C 5G",
+        "k": "2508CRN2BI",
+        "d": "tornado"
+    },
+    {
+        "m": "REDMI A7",
+        "k": "26020RNB4I",
+        "d": "serenity"
+    },
+    {
+        "m": "REDMI A7 Pro",
+        "k": "25128RN17A",
+        "d": "arctic"
+    },
+    {
+        "m": "REDMI A7 Pro",
+        "k": "25128RN17I",
+        "d": "arctic"
+    },
+    {
+        "m": "REDMI A7 Pro",
+        "k": "25128RN17L",
+        "d": "arctic"
+    },
+    {
+        "m": "REDMI A7 Pro",
+        "k": "25128RN17Y",
+        "d": "arctic"
+    },
+    {
+        "m": "REDMI A7 Pro 5G",
+        "k": "26020RN1AI",
+        "d": "somalia"
+    },
+    {
+        "m": "REDMI K80",
+        "k": "24117RK2CC",
+        "d": "zorn"
+    },
+    {
+        "m": "REDMI K80 Pro",
+        "k": "24122RKC7C",
+        "d": "miro"
+    },
+    {
+        "m": "REDMI K80 Ultra",
+        "k": "25060RK16C",
+        "d": "dali"
+    },
+    {
+        "m": "REDMI K90",
+        "k": "2510DRK44C",
+        "d": "annibale"
+    },
+    {
+        "m": "REDMI K90 Pro Max",
+        "k": "25102RK69C",
+        "d": "myron"
+    },
+    {
+        "m": "REDMI K90 Pro Max",
+        "k": "25102RKBEC",
+        "d": "myron"
+    },
+    {
+        "m": "REDMI Note 15",
+        "k": "25098RA98C",
+        "d": "kunzite"
+    },
+    {
+        "m": "REDMI Note 15",
+        "k": "2510DRA23E",
+        "d": "spinel"
+    },
+    {
+        "m": "REDMI Note 15",
+        "k": "2510DRA23G",
+        "d": "spinel"
+    },
+    {
+        "m": "REDMI Note 15",
+        "k": "2510DRA23L",
+        "d": "spinel"
+    },
+    {
+        "m": "REDMI Note 15 5G",
+        "k": "25098RA98G",
+        "d": "kunzite"
+    },
+    {
+        "m": "REDMI Note 15 5G",
+        "k": "25098RA98I",
+        "d": "kunzite"
+    },
+    {
+        "m": "REDMI Note 15 5G",
+        "k": "25098RA98T",
+        "d": "kunzite"
+    },
+    {
+        "m": "REDMI Note 15 Pro",
+        "k": "25100RA69G",
+        "d": "charoite"
+    },
+    {
+        "m": "REDMI Note 15 Pro",
+        "k": "25080RABDC",
+        "d": "lapis"
+    },
+    {
+        "m": "REDMI Note 15 Pro 5G",
+        "k": "25080RABDG",
+        "d": "lapis"
+    },
+    {
+        "m": "REDMI Note 15 Pro 5G",
+        "k": "25080RABDI",
+        "d": "lapis"
+    },
+    {
+        "m": "REDMI Note 15 Pro 5G",
+        "k": "25080RABDR",
+        "d": "lapis"
+    },
+    {
+        "m": "REDMI Note 15 Pro+",
+        "k": "25104RADAC",
+        "d": "flourite"
+    },
+    {
+        "m": "REDMI Note 15 Pro+",
+        "k": "2510ERA8BC",
+        "d": "flourite"
+    },
+    {
+        "m": "REDMI Note 15 Pro+5G",
+        "k": "2510ERA8BG",
+        "d": "flourite"
+    },
+    {
+        "m": "REDMI Note 15 Pro+5G",
+        "k": "2510ERA8BI",
+        "d": "flourite"
+    },
+    {
+        "m": "REDMI Note 15 SE 5G",
+        "k": "26022PCACI",
+        "d": "kunzite"
+    },
+    {
+        "m": "REDMI Note 15R",
+        "k": "25057RA09C",
+        "d": "spring"
+    },
+    {
+        "m": "REDMI Note 15R Pro",
+        "k": "24094RAD4C",
+        "d": "beryl"
+    },
+    {
+        "m": "REDMI Turbo 4",
+        "k": "24129RT7CC",
+        "d": "rodin"
+    },
+    {
+        "m": "REDMI Turbo 4 Pro",
+        "k": "25053RT47C",
+        "d": "onyx"
+    },
+    {
+        "m": "REDMI Turbo 5 Max",
+        "k": "2602BRT18C",
+        "d": "dash"
+    },
+    {
+        "m": "Redmi",
+        "k": "2013023",
+        "d": "HM2013023"
+    },
+    {
+        "m": "Redmi  7A",
+        "k": "Redmi 7A",
+        "d": "pine"
+    },
+    {
+        "m": "Redmi  7A",
+        "k": "pine",
+        "d": "pine"
+    },
+    {
+        "m": "Redmi  Go",
+        "k": "Redmi Go",
+        "d": "tiare"
+    },
+    {
+        "m": "Redmi  Note  6  Pro",
+        "k": "Redmi Note 6 Pro",
+        "d": "tulip"
+    },
+    {
+        "m": "Redmi  Note  7",
+        "k": "Redmi Note 7",
+        "d": "lavender"
+    },
+    {
+        "m": "Redmi  Note  7 Pro",
+        "k": "Redmi Note 7 Pro",
+        "d": "violet"
+    },
+    {
+        "m": "Redmi  S2",
+        "k": "Redmi S2",
+        "d": "ysl"
+    },
+    {
+        "m": "Redmi 10",
+        "k": "21061119DG",
+        "d": "eos"
+    },
+    {
+        "m": "Redmi 10",
+        "k": "22011119UY",
+        "d": "eos"
+    },
+    {
+        "m": "Redmi 10",
+        "k": "220333QBI",
+        "d": "fog"
+    },
+    {
+        "m": "Redmi 10 2022",
+        "k": "21061119AG",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10 2022",
+        "k": "21061119AL",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10 2022",
+        "k": "21121119SG",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10 2022",
+        "k": "21121119VL",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10 5G",
+        "k": "22041219G",
+        "d": "light"
+    },
+    {
+        "m": "Redmi 10 5G",
+        "k": "22041219NY",
+        "d": "thunder"
+    },
+    {
+        "m": "Redmi 10 Prime",
+        "k": "21061119BI",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10 Prime",
+        "k": "22011119TI",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi 10A",
+        "k": "220233L2C",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 10A",
+        "k": "220233L2G",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 10A Sport",
+        "k": "220233L2I",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 10C",
+        "k": "220333QAG",
+        "d": "fog"
+    },
+    {
+        "m": "Redmi 10C",
+        "k": "220333QNY",
+        "d": "rain"
+    },
+    {
+        "m": "Redmi 10C",
+        "k": "220333QL",
+        "d": "wind"
+    },
+    {
+        "m": "Redmi 10X",
+        "k": "M2004J7AC",
+        "d": "apricot"
+    },
+    {
+        "m": "Redmi 10X",
+        "k": "M2004J7AC",
+        "d": "atom"
+    },
+    {
+        "m": "Redmi 10X",
+        "k": "atom",
+        "d": "atom"
+    },
+    {
+        "m": "Redmi 10X 4G",
+        "k": "M2003J15SC",
+        "d": "merlin"
+    },
+    {
+        "m": "Redmi 10X Pro",
+        "k": "M2004J7BC",
+        "d": "banana"
+    },
+    {
+        "m": "Redmi 10X pro",
+        "k": "M2004J7BC",
+        "d": "bomb"
+    },
+    {
+        "m": "Redmi 10X pro",
+        "k": "bomb",
+        "d": "bomb"
+    },
+    {
+        "m": "Redmi 11 Prime",
+        "k": "22071219AI",
+        "d": "rock"
+    },
+    {
+        "m": "Redmi 11 Prime 5G",
+        "k": "22041219I",
+        "d": "light"
+    },
+    {
+        "m": "Redmi 12",
+        "k": "23053RN02A",
+        "d": "fire"
+    },
+    {
+        "m": "Redmi 12",
+        "k": "23053RN02I",
+        "d": "fire"
+    },
+    {
+        "m": "Redmi 12",
+        "k": "23053RN02L",
+        "d": "fire"
+    },
+    {
+        "m": "Redmi 12",
+        "k": "23053RN02Y",
+        "d": "heat"
+    },
+    {
+        "m": "Redmi 12 5G",
+        "k": "XIG03",
+        "d": "XIG03"
+    },
+    {
+        "m": "Redmi 12 5G",
+        "k": "23076RA4BR",
+        "d": "river"
+    },
+    {
+        "m": "Redmi 12 5G",
+        "k": "23076RN8DY",
+        "d": "river"
+    },
+    {
+        "m": "Redmi 12 5G",
+        "k": "A401XM",
+        "d": "river"
+    },
+    {
+        "m": "Redmi 12C",
+        "k": "22126RN91Y",
+        "d": "aether"
+    },
+    {
+        "m": "Redmi 12C",
+        "k": "22120RN86G",
+        "d": "earth"
+    },
+    {
+        "m": "Redmi 12C",
+        "k": "22120RN86I",
+        "d": "earth"
+    },
+    {
+        "m": "Redmi 12C",
+        "k": "2212ARNC4L",
+        "d": "earth"
+    },
+    {
+        "m": "Redmi 13",
+        "k": "24040RN64Y",
+        "d": "moon"
+    },
+    {
+        "m": "Redmi 13",
+        "k": "24049RN28L",
+        "d": "tides"
+    },
+    {
+        "m": "Redmi 13",
+        "k": "2404ARN45A",
+        "d": "tides"
+    },
+    {
+        "m": "Redmi 13 5G",
+        "k": "2406ERN9CI",
+        "d": "breeze"
+    },
+    {
+        "m": "Redmi 13C",
+        "k": "23100RN82L",
+        "d": "gale"
+    },
+    {
+        "m": "Redmi 13C",
+        "k": "23106RN0DA",
+        "d": "gale"
+    },
+    {
+        "m": "Redmi 13C",
+        "k": "2311DRN14I",
+        "d": "gale"
+    },
+    {
+        "m": "Redmi 13C",
+        "k": "23108RN04Y",
+        "d": "gust"
+    },
+    {
+        "m": "Redmi 13C 5G",
+        "k": "23124RN87I",
+        "d": "air"
+    },
+    {
+        "m": "Redmi 13C 5G",
+        "k": "23124RN87G",
+        "d": "atmos"
+    },
+    {
+        "m": "Redmi 14C",
+        "k": "2409BRN2CY",
+        "d": "lake"
+    },
+    {
+        "m": "Redmi 14C",
+        "k": "2409BRN2CA",
+        "d": "pond"
+    },
+    {
+        "m": "Redmi 14C",
+        "k": "2409BRN2CL",
+        "d": "pond"
+    },
+    {
+        "m": "Redmi 14C 5G",
+        "k": "2411DRN47I",
+        "d": "flame"
+    },
+    {
+        "m": "Redmi 15",
+        "k": "25062RN2DE",
+        "d": "creek"
+    },
+    {
+        "m": "Redmi 15",
+        "k": "25062RN2DL",
+        "d": "creek"
+    },
+    {
+        "m": "Redmi 15",
+        "k": "25062RN2DY",
+        "d": "creek"
+    },
+    {
+        "m": "Redmi 15 5G",
+        "k": "25057RN09E",
+        "d": "spring"
+    },
+    {
+        "m": "Redmi 15 5G",
+        "k": "25057RN09G",
+        "d": "spring"
+    },
+    {
+        "m": "Redmi 15 5G",
+        "k": "25057RN09I",
+        "d": "spring"
+    },
+    {
+        "m": "Redmi 15 5G",
+        "k": "25057RN09R",
+        "d": "spring"
+    },
+    {
+        "m": "Redmi 15 5G",
+        "k": "A501XM",
+        "d": "spring"
+    },
+    {
+        "m": "Redmi 15C",
+        "k": "25078RA3EA",
+        "d": "dew"
+    },
+    {
+        "m": "Redmi 15C",
+        "k": "25078RA3EE",
+        "d": "dew"
+    },
+    {
+        "m": "Redmi 15C",
+        "k": "25078RA3EL",
+        "d": "dew"
+    },
+    {
+        "m": "Redmi 15C",
+        "k": "25078RA3EY",
+        "d": "dew"
+    },
+    {
+        "m": "Redmi 15C 5G",
+        "k": "2508CRN2BE",
+        "d": "tornado"
+    },
+    {
+        "m": "Redmi 3",
+        "k": "Redmi 3",
+        "d": "ido"
+    },
+    {
+        "m": "Redmi 3",
+        "k": "ido",
+        "d": "ido"
+    },
+    {
+        "m": "Redmi 3S",
+        "k": "Redmi 3S",
+        "d": "land"
+    },
+    {
+        "m": "Redmi 4",
+        "k": "Redmi 4",
+        "d": "prada"
+    },
+    {
+        "m": "Redmi 4 Pro",
+        "k": "Redmi 4",
+        "d": "markw"
+    },
+    {
+        "m": "Redmi 4A",
+        "k": "Redmi 4A",
+        "d": "rolex"
+    },
+    {
+        "m": "Redmi 4X",
+        "k": "Redmi 4X",
+        "d": "santoni"
+    },
+    {
+        "m": "Redmi 4X",
+        "k": "santoni",
+        "d": "santoni"
+    },
+    {
+        "m": "Redmi 5",
+        "k": "Redmi 5",
+        "d": "rosy"
+    },
+    {
+        "m": "Redmi 5 Plus",
+        "k": "Redmi 5 Plus",
+        "d": "vince"
+    },
+    {
+        "m": "Redmi 5 Plus",
+        "k": "Redmi Note 5",
+        "d": "vince"
+    },
+    {
+        "m": "Redmi 5A",
+        "k": "Redmi 5A",
+        "d": "riva"
+    },
+    {
+        "m": "Redmi 6",
+        "k": "Redmi 6",
+        "d": "cereus"
+    },
+    {
+        "m": "Redmi 6 Pro",
+        "k": "Redmi 6 Pro",
+        "d": "sakura_india"
+    },
+    {
+        "m": "Redmi 6A",
+        "k": "Redmi 6A",
+        "d": "cactus"
+    },
+    {
+        "m": "Redmi 6Pro",
+        "k": "Redmi 6 Pro",
+        "d": "sakura"
+    },
+    {
+        "m": "Redmi 7",
+        "k": "Redmi 7",
+        "d": "onc"
+    },
+    {
+        "m": "Redmi 7",
+        "k": "Redmi Y3",
+        "d": "onc"
+    },
+    {
+        "m": "Redmi 7",
+        "k": "ONC",
+        "d": "onc"
+    },
+    {
+        "m": "Redmi 8",
+        "k": "Redmi 8",
+        "d": "olive"
+    },
+    {
+        "m": "Redmi 8A",
+        "k": "Redmi 8A",
+        "d": "olivelite"
+    },
+    {
+        "m": "Redmi 8A Dual",
+        "k": "Redmi 8A Dual",
+        "d": "olivewood"
+    },
+    {
+        "m": "Redmi 8A Dual",
+        "k": "Redmi 8A Pro",
+        "d": "olivewood"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "M2006C3MII",
+        "d": "cattail"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "cattail",
+        "d": "cattail"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "M2004J19C",
+        "d": "galahad"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "galahad",
+        "d": "galahad"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "M2004J19C",
+        "d": "lancelot"
+    },
+    {
+        "m": "Redmi 9",
+        "k": "M2004J19G",
+        "d": "lancelot"
+    },
+    {
+        "m": "Redmi 9 Power",
+        "k": "M2010J19SI",
+        "d": "lime"
+    },
+    {
+        "m": "Redmi 9 Prime",
+        "k": "M2004J19I",
+        "d": "lancelot"
+    },
+    {
+        "m": "Redmi 9A",
+        "k": "M2006C3LC",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 9A",
+        "k": "M2006C3LG",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 9A",
+        "k": "M2006C3LI",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 9A",
+        "k": "M2006C3LVG",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 9A",
+        "k": "dandelion",
+        "d": "dandelion"
+    },
+    {
+        "m": "Redmi 9C",
+        "k": "M2006C3MG",
+        "d": "angelica"
+    },
+    {
+        "m": "Redmi 9C",
+        "k": "angelica",
+        "d": "angelica"
+    },
+    {
+        "m": "Redmi 9C NFC",
+        "k": "M2006C3MNG",
+        "d": "angelican"
+    },
+    {
+        "m": "Redmi 9C NFC",
+        "k": "angelican",
+        "d": "angelican"
+    },
+    {
+        "m": "Redmi 9T",
+        "k": "M2010J19SY",
+        "d": "lemon"
+    },
+    {
+        "m": "Redmi 9T",
+        "k": "M2010J19SG",
+        "d": "lime"
+    },
+    {
+        "m": "Redmi 9T",
+        "k": "M2010J19SL",
+        "d": "pomelo"
+    },
+    {
+        "m": "Redmi A1",
+        "k": "220733SG",
+        "d": "ice"
+    },
+    {
+        "m": "Redmi A1",
+        "k": "220733SI",
+        "d": "ice"
+    },
+    {
+        "m": "Redmi A1",
+        "k": "220733SL",
+        "d": "ice"
+    },
+    {
+        "m": "Redmi A1+",
+        "k": "220733SFG",
+        "d": "snow"
+    },
+    {
+        "m": "Redmi A1+",
+        "k": "220743FI",
+        "d": "snow"
+    },
+    {
+        "m": "Redmi A2",
+        "k": "23026RN54G",
+        "d": "cloud"
+    },
+    {
+        "m": "Redmi A2",
+        "k": "23028RN4DG",
+        "d": "cloud"
+    },
+    {
+        "m": "Redmi A2+",
+        "k": "23028RNCAG",
+        "d": "water"
+    },
+    {
+        "m": "Redmi A3",
+        "k": "23129RN51H",
+        "d": "blue"
+    },
+    {
+        "m": "Redmi A3",
+        "k": "23129RN51X",
+        "d": "blue"
+    },
+    {
+        "m": "Redmi A3",
+        "k": "2312CRNCCL",
+        "d": "blue"
+    },
+    {
+        "m": "Redmi A3 Pro",
+        "k": "2409BRN2CG",
+        "d": "pond"
+    },
+    {
+        "m": "Redmi A3x",
+        "k": "24044RN32L",
+        "d": "klein"
+    },
+    {
+        "m": "Redmi A3x",
+        "k": "24048RN6CG",
+        "d": "klein"
+    },
+    {
+        "m": "Redmi A3x",
+        "k": "24048RN6CI",
+        "d": "klein"
+    },
+    {
+        "m": "Redmi A4 5G",
+        "k": "24116RNC1I",
+        "d": "warm"
+    },
+    {
+        "m": "Redmi A5",
+        "k": "25028RN03A",
+        "d": "serenity"
+    },
+    {
+        "m": "Redmi A5",
+        "k": "25028RN03I",
+        "d": "serenity"
+    },
+    {
+        "m": "Redmi A5",
+        "k": "25028RN03L",
+        "d": "serenity"
+    },
+    {
+        "m": "Redmi A5",
+        "k": "25028RN03Y",
+        "d": "serenity"
+    },
+    {
+        "m": "Redmi K20",
+        "k": "Mi 9T",
+        "d": "davinci"
+    },
+    {
+        "m": "Redmi K20",
+        "k": "Redmi K20",
+        "d": "davinci"
+    },
+    {
+        "m": "Redmi K20",
+        "k": "Redmi K20",
+        "d": "davinciin"
+    },
+    {
+        "m": "Redmi K20 Pro",
+        "k": "Mi 9T Pro",
+        "d": "raphael"
+    },
+    {
+        "m": "Redmi K20 Pro",
+        "k": "Redmi K20 Pro",
+        "d": "raphael"
+    },
+    {
+        "m": "Redmi K20 Pro",
+        "k": "Redmi K20 Pro Premium Edition",
+        "d": "raphael"
+    },
+    {
+        "m": "Redmi K30",
+        "k": "Redmi K30",
+        "d": "phoenix"
+    },
+    {
+        "m": "Redmi K30 5G",
+        "k": "Redmi K30 5G",
+        "d": "picasso"
+    },
+    {
+        "m": "Redmi K30 Pro Zoom Edition",
+        "k": "Redmi K30 Pro Zoom Edition",
+        "d": "lmipro"
+    },
+    {
+        "m": "Redmi K30 Ultra",
+        "k": "M2006J10C",
+        "d": "cezanne"
+    },
+    {
+        "m": "Redmi K30S Ultra",
+        "k": "M2007J3SC",
+        "d": "apollo"
+    },
+    {
+        "m": "Redmi K30i 5G",
+        "k": "Redmi K30i 5G",
+        "d": "picasso"
+    },
+    {
+        "m": "Redmi K40",
+        "k": "M2012K11AC",
+        "d": "alioth"
+    },
+    {
+        "m": "Redmi K40 Gaming",
+        "k": "M2012K10C",
+        "d": "ares"
+    },
+    {
+        "m": "Redmi K40 Pro",
+        "k": "M2012K11C",
+        "d": "haydn"
+    },
+    {
+        "m": "Redmi K40S",
+        "k": "22021211RC",
+        "d": "munch"
+    },
+    {
+        "m": "Redmi K50",
+        "k": "22041211AC",
+        "d": "rubens"
+    },
+    {
+        "m": "Redmi K50 Pro",
+        "k": "22011211C",
+        "d": "matisse"
+    },
+    {
+        "m": "Redmi K50G",
+        "k": "21121210C",
+        "d": "ingres"
+    },
+    {
+        "m": "Redmi K50i",
+        "k": "22041216I",
+        "d": "xagain"
+    },
+    {
+        "m": "Redmi K60",
+        "k": "23013RK75C",
+        "d": "mondrian"
+    },
+    {
+        "m": "Redmi K60 Pro",
+        "k": "22127RK46C",
+        "d": "socrates"
+    },
+    {
+        "m": "Redmi K60 Ultra",
+        "k": "23078RKD5C",
+        "d": "corot"
+    },
+    {
+        "m": "Redmi K60E",
+        "k": "22122RK93C",
+        "d": "rembrandt"
+    },
+    {
+        "m": "Redmi K70",
+        "k": "23113RKC6C",
+        "d": "vermeer"
+    },
+    {
+        "m": "Redmi K70 Pro",
+        "k": "23117RK66C",
+        "d": "manet"
+    },
+    {
+        "m": "Redmi K70 Ultra",
+        "k": "2407FRK8EC",
+        "d": "rothko"
+    },
+    {
+        "m": "Redmi K70E",
+        "k": "2311DRK48C",
+        "d": "duchamp"
+    },
+    {
+        "m": "Redmi Note 10",
+        "k": "M2103K19C",
+        "d": "camellia"
+    },
+    {
+        "m": "Redmi Note 10",
+        "k": "M2101K7AG",
+        "d": "sunny"
+    },
+    {
+        "m": "Redmi Note 10",
+        "k": "M2101K7AI",
+        "d": "sunny"
+    },
+    {
+        "m": "Redmi Note 10 5G",
+        "k": "M2103K19G",
+        "d": "camellian"
+    },
+    {
+        "m": "Redmi Note 10 JE",
+        "k": "XIG02",
+        "d": "XIG02"
+    },
+    {
+        "m": "Redmi Note 10 Pro",
+        "k": "21061110AG",
+        "d": "chopin"
+    },
+    {
+        "m": "Redmi Note 10 Pro",
+        "k": "M2101K6G",
+        "d": "sweet"
+    },
+    {
+        "m": "Redmi Note 10 Pro",
+        "k": "M2101K6P",
+        "d": "sweetin"
+    },
+    {
+        "m": "Redmi Note 10 Pro Max",
+        "k": "M2101K6I",
+        "d": "sweetin"
+    },
+    {
+        "m": "Redmi Note 10 pro",
+        "k": "M2104K10AC",
+        "d": "chopin"
+    },
+    {
+        "m": "Redmi Note 10S",
+        "k": "M2101K7BL",
+        "d": "maltose"
+    },
+    {
+        "m": "Redmi Note 10S",
+        "k": "M2101K7BL",
+        "d": "rosemary"
+    },
+    {
+        "m": "Redmi Note 10S",
+        "k": "M2101K7BNY",
+        "d": "rosemary"
+    },
+    {
+        "m": "Redmi Note 10S",
+        "k": "M2101K7BG",
+        "d": "secret"
+    },
+    {
+        "m": "Redmi Note 10S",
+        "k": "M2101K7BI",
+        "d": "secret"
+    },
+    {
+        "m": "Redmi Note 10T",
+        "k": "M2103K19Y",
+        "d": "camellian"
+    },
+    {
+        "m": "Redmi Note 10T 5G",
+        "k": "M2103K19I",
+        "d": "camellia"
+    },
+    {
+        "m": "Redmi Note 10T 5G",
+        "k": "TBD",
+        "d": "camellia"
+    },
+    {
+        "m": "Redmi Note 11",
+        "k": "2201117TG",
+        "d": "spes"
+    },
+    {
+        "m": "Redmi Note 11",
+        "k": "2201117TI",
+        "d": "spes"
+    },
+    {
+        "m": "Redmi Note 11",
+        "k": "2201117TL",
+        "d": "spes"
+    },
+    {
+        "m": "Redmi Note 11",
+        "k": "2201117TY",
+        "d": "spesn"
+    },
+    {
+        "m": "Redmi Note 11 4G",
+        "k": "21121119SC",
+        "d": "selene"
+    },
+    {
+        "m": "Redmi Note 11 5G",
+        "k": "21091116AC",
+        "d": "evergo"
+    },
+    {
+        "m": "Redmi Note 11 Pro",
+        "k": "21091116C",
+        "d": "pissarro"
+    },
+    {
+        "m": "Redmi Note 11 Pro",
+        "k": "2201116TI",
+        "d": "vida"
+    },
+    {
+        "m": "Redmi Note 11 Pro",
+        "k": "2201116TG",
+        "d": "viva"
+    },
+    {
+        "m": "Redmi Note 11 Pro 5G",
+        "k": "2201116SG",
+        "d": "veux"
+    },
+    {
+        "m": "Redmi Note 11 Pro 5G",
+        "k": "2201116SR",
+        "d": "veux"
+    },
+    {
+        "m": "Redmi Note 11 Pro+",
+        "k": "21091116UC",
+        "d": "pissarropro"
+    },
+    {
+        "m": "Redmi Note 11 Pro+ 5G",
+        "k": "2201116SI",
+        "d": "peux"
+    },
+    {
+        "m": "Redmi Note 11 Pro+ 5G",
+        "k": "21091116UG",
+        "d": "pissarropro"
+    },
+    {
+        "m": "Redmi Note 11 SE",
+        "k": "22087RA4DI",
+        "d": "secret"
+    },
+    {
+        "m": "Redmi Note 11E",
+        "k": "22041219C",
+        "d": "light"
+    },
+    {
+        "m": "Redmi Note 11E Pro",
+        "k": "2201116SC",
+        "d": "veux"
+    },
+    {
+        "m": "Redmi Note 11S",
+        "k": "2201117SY",
+        "d": "fleur"
+    },
+    {
+        "m": "Redmi Note 11S",
+        "k": "2201117SG",
+        "d": "miel"
+    },
+    {
+        "m": "Redmi Note 11S",
+        "k": "2201117SI",
+        "d": "miel"
+    },
+    {
+        "m": "Redmi Note 11S",
+        "k": "2201117SL",
+        "d": "miel"
+    },
+    {
+        "m": "Redmi Note 11S 5G",
+        "k": "22031116BG",
+        "d": "opal"
+    },
+    {
+        "m": "Redmi Note 11T 5G",
+        "k": "21091116AI",
+        "d": "evergo"
+    },
+    {
+        "m": "Redmi Note 11T Pro",
+        "k": "22041216C",
+        "d": "xaga"
+    },
+    {
+        "m": "Redmi Note 11T Pro +",
+        "k": "22041216UC",
+        "d": "xagapro"
+    },
+    {
+        "m": "Redmi Note 12",
+        "k": "23021RAAEG",
+        "d": "tapas"
+    },
+    {
+        "m": "Redmi Note 12",
+        "k": "23027RAD4I",
+        "d": "tapas"
+    },
+    {
+        "m": "Redmi Note 12",
+        "k": "23028RA60L",
+        "d": "tapas"
+    },
+    {
+        "m": "Redmi Note 12",
+        "k": "23021RAA2Y",
+        "d": "topaz"
+    },
+    {
+        "m": "Redmi Note 12 5G",
+        "k": "22101317C",
+        "d": "sunstone"
+    },
+    {
+        "m": "Redmi Note 12 DISCOVERY EDITION",
+        "k": "22101316UC",
+        "d": "rubyplus"
+    },
+    {
+        "m": "Redmi Note 12 Pro",
+        "k": "22101316C",
+        "d": "ruby"
+    },
+    {
+        "m": "Redmi Note 12 Pro",
+        "k": "2209116AG",
+        "d": "sweet"
+    },
+    {
+        "m": "Redmi Note 12 Pro + 5G",
+        "k": "22101316UP",
+        "d": "rubypro"
+    },
+    {
+        "m": "Redmi Note 12 Pro 5G",
+        "k": "22101316G",
+        "d": "ruby"
+    },
+    {
+        "m": "Redmi Note 12 Pro 5G",
+        "k": "22101316I",
+        "d": "ruby"
+    },
+    {
+        "m": "Redmi Note 12 Pro Speed",
+        "k": "22101320C",
+        "d": "redwood"
+    },
+    {
+        "m": "Redmi Note 12 Pro+",
+        "k": "22101316UCP",
+        "d": "rubypro"
+    },
+    {
+        "m": "Redmi Note 12 Pro+ 5G",
+        "k": "22101316UG",
+        "d": "rubypro"
+    },
+    {
+        "m": "Redmi Note 12 Turbo",
+        "k": "23049RAD8C",
+        "d": "marble"
+    },
+    {
+        "m": "Redmi Note 12S",
+        "k": "2303CRA44A",
+        "d": "ocean"
+    },
+    {
+        "m": "Redmi Note 12S",
+        "k": "2303ERA42L",
+        "d": "ocean"
+    },
+    {
+        "m": "Redmi Note 12S",
+        "k": "23030RAC7Y",
+        "d": "sea"
+    },
+    {
+        "m": "Redmi Note 12T Pro",
+        "k": "23054RA19C",
+        "d": "pearl"
+    },
+    {
+        "m": "Redmi Note 13",
+        "k": "23129RA5FL",
+        "d": "sapphire"
+    },
+    {
+        "m": "Redmi Note 13",
+        "k": "23129RAA4G",
+        "d": "sapphire"
+    },
+    {
+        "m": "Redmi Note 13",
+        "k": "23124RA7EO",
+        "d": "sapphiren"
+    },
+    {
+        "m": "Redmi Note 13 5G",
+        "k": "2312DRAABC",
+        "d": "gold"
+    },
+    {
+        "m": "Redmi Note 13 5G",
+        "k": "2312DRAABI",
+        "d": "gold"
+    },
+    {
+        "m": "Redmi Note 13 5G",
+        "k": "2312DRAABG",
+        "d": "iron"
+    },
+    {
+        "m": "Redmi Note 13 Pro",
+        "k": "23117RA68G",
+        "d": "emerald"
+    },
+    {
+        "m": "Redmi Note 13 Pro 5G",
+        "k": "XIG05",
+        "d": "XIG05"
+    },
+    {
+        "m": "Redmi Note 13 Pro 5G",
+        "k": "2312CRAD3C",
+        "d": "garnet"
+    },
+    {
+        "m": "Redmi Note 13 Pro 5G",
+        "k": "2312DRA50C",
+        "d": "garnet"
+    },
+    {
+        "m": "Redmi Note 13 Pro 5G",
+        "k": "2312DRA50G",
+        "d": "garnet"
+    },
+    {
+        "m": "Redmi Note 13 Pro 5G",
+        "k": "2312DRA50I",
+        "d": "garnet"
+    },
+    {
+        "m": "Redmi Note 13 Pro+",
+        "k": "23090RA98C",
+        "d": "zircon"
+    },
+    {
+        "m": "Redmi Note 13 Pro+ 5G",
+        "k": "23090RA98G",
+        "d": "zircon"
+    },
+    {
+        "m": "Redmi Note 13 Pro+ 5G",
+        "k": "23090RA98I",
+        "d": "zircon"
+    },
+    {
+        "m": "Redmi Note 13 Pro+ 5G",
+        "k": "24040RA98R",
+        "d": "zircon"
+    },
+    {
+        "m": "Redmi Note 13R",
+        "k": "2406ERN9CC",
+        "d": "breeze"
+    },
+    {
+        "m": "Redmi Note 13R Pro",
+        "k": "2311FRAFDC",
+        "d": "gold"
+    },
+    {
+        "m": "Redmi Note 14",
+        "k": "24117RN76E",
+        "d": "tanzanite"
+    },
+    {
+        "m": "Redmi Note 14",
+        "k": "24117RN76G",
+        "d": "tanzanite"
+    },
+    {
+        "m": "Redmi Note 14",
+        "k": "24117RN76L",
+        "d": "tanzanite"
+    },
+    {
+        "m": "Redmi Note 14",
+        "k": "24117RN76O",
+        "d": "tanzanite"
+    },
+    {
+        "m": "Redmi Note 14 5G",
+        "k": "24094RAD4I",
+        "d": "beryl"
+    },
+    {
+        "m": "Redmi Note 14 5G",
+        "k": "24094RAD4G",
+        "d": "citrine"
+    },
+    {
+        "m": "Redmi Note 14 Pro",
+        "k": "24090RA29C",
+        "d": "malachite"
+    },
+    {
+        "m": "Redmi Note 14 Pro",
+        "k": "24116RACCG",
+        "d": "obsidian"
+    },
+    {
+        "m": "Redmi Note 14 Pro 5G",
+        "k": "24090RA29G",
+        "d": "malachite"
+    },
+    {
+        "m": "Redmi Note 14 Pro 5G",
+        "k": "24090RA29I",
+        "d": "malachite"
+    },
+    {
+        "m": "Redmi Note 14 Pro+",
+        "k": "24115RA8EC",
+        "d": "amethyst"
+    },
+    {
+        "m": "Redmi Note 14 Pro+ 5G",
+        "k": "24115RA8EG",
+        "d": "amethyst"
+    },
+    {
+        "m": "Redmi Note 14 Pro+ 5G",
+        "k": "24115RA8EI",
+        "d": "amethyst"
+    },
+    {
+        "m": "Redmi Note 14S",
+        "k": "2502FRA65G",
+        "d": "emerald"
+    },
+    {
+        "m": "Redmi Note 3",
+        "k": "Redmi Note 3",
+        "d": "hennessy"
+    },
+    {
+        "m": "Redmi Note 3",
+        "k": "Redmi Note 3",
+        "d": "kate"
+    },
+    {
+        "m": "Redmi Note 3",
+        "k": "Redmi Note 3",
+        "d": "kenzo"
+    },
+    {
+        "m": "Redmi Note 4",
+        "k": "Redmi Note 4",
+        "d": "mido"
+    },
+    {
+        "m": "Redmi Note 4",
+        "k": "Redmi Note 4X",
+        "d": "mido"
+    },
+    {
+        "m": "Redmi Note 4",
+        "k": "Redmi Note 4",
+        "d": "nikel"
+    },
+    {
+        "m": "Redmi Note 5",
+        "k": "Redmi Note 5",
+        "d": "whyred"
+    },
+    {
+        "m": "Redmi Note 5 Pro",
+        "k": "Redmi Note 5 Pro",
+        "d": "whyred"
+    },
+    {
+        "m": "Redmi Note 5A",
+        "k": "Redmi Note 5A",
+        "d": "ugg"
+    },
+    {
+        "m": "Redmi Note 5A",
+        "k": "Redmi Y1",
+        "d": "ugg"
+    },
+    {
+        "m": "Redmi Note 5A",
+        "k": "Redmi Note 5A",
+        "d": "ugglite"
+    },
+    {
+        "m": "Redmi Note 8",
+        "k": "M1908C3JGG",
+        "d": "biloba"
+    },
+    {
+        "m": "Redmi Note 8",
+        "k": "GINKGO",
+        "d": "ginkgo"
+    },
+    {
+        "m": "Redmi Note 8",
+        "k": "Redmi Note 8",
+        "d": "ginkgo"
+    },
+    {
+        "m": "Redmi Note 8 Pro",
+        "k": "Redmi Note 8 Pro",
+        "d": "begonia"
+    },
+    {
+        "m": "Redmi Note 8 Pro",
+        "k": "begonia",
+        "d": "begonia"
+    },
+    {
+        "m": "Redmi Note 8 pro",
+        "k": "Redmi Note 8 Pro",
+        "d": "begoniain"
+    },
+    {
+        "m": "Redmi Note 8T",
+        "k": "Redmi Note 8T",
+        "d": "willow"
+    },
+    {
+        "m": "Redmi Note 8T",
+        "k": "willow",
+        "d": "willow"
+    },
+    {
+        "m": "Redmi Note 9",
+        "k": "M2007J22C",
+        "d": "cannon"
+    },
+    {
+        "m": "Redmi Note 9",
+        "k": "M2003J15SI",
+        "d": "merlin"
+    },
+    {
+        "m": "Redmi Note 9",
+        "k": "M2003J15SS",
+        "d": "merlin"
+    },
+    {
+        "m": "Redmi Note 9",
+        "k": "M2003J15SC",
+        "d": "merlinnfc"
+    },
+    {
+        "m": "Redmi Note 9",
+        "k": "M2003J15SG",
+        "d": "merlinnfc"
+    },
+    {
+        "m": "Redmi Note 9 4G",
+        "k": "M2010J19SC",
+        "d": "lime"
+    },
+    {
+        "m": "Redmi Note 9 Pro",
+        "k": "Redmi Note 9 Pro",
+        "d": "curtana"
+    },
+    {
+        "m": "Redmi Note 9 Pro",
+        "k": "curtana",
+        "d": "curtana"
+    },
+    {
+        "m": "Redmi Note 9 Pro",
+        "k": "Redmi Note 9 Pro",
+        "d": "joyeuse"
+    },
+    {
+        "m": "Redmi Note 9 Pro Max",
+        "k": "Redmi Note 9 Pro Max",
+        "d": "excalibur"
+    },
+    {
+        "m": "Redmi Note 9 pro",
+        "k": "M2007J17C",
+        "d": "gauguinpro"
+    },
+    {
+        "m": "Redmi Note 9S",
+        "k": "Redmi Note 9S",
+        "d": "curtana"
+    },
+    {
+        "m": "Redmi Note 9T",
+        "k": "A001XM",
+        "d": "cannong"
+    },
+    {
+        "m": "Redmi Note 9T",
+        "k": "M2007J22G",
+        "d": "cannong"
+    },
+    {
+        "m": "Redmi Pro",
+        "k": "Redmi Pro",
+        "d": "omega"
+    },
+    {
+        "m": "Redmi Turbo 3",
+        "k": "24069RA21C",
+        "d": "peridot"
+    },
+    {
+        "m": "Xiaomi 11 Lite 5G NE",
+        "k": "2109119DG",
+        "d": "lisa"
+    },
+    {
+        "m": "Xiaomi 11 Lite NE",
+        "k": "2109119DI",
+        "d": "lisa"
+    },
+    {
+        "m": "Xiaomi 11T",
+        "k": "21081111RG",
+        "d": "amber"
+    },
+    {
+        "m": "Xiaomi 11T Pro",
+        "k": "2107113SG",
+        "d": "vili"
+    },
+    {
+        "m": "Xiaomi 11T Pro",
+        "k": "2107113SI",
+        "d": "vili"
+    },
+    {
+        "m": "Xiaomi 11T Pro",
+        "k": "2107113SR",
+        "d": "vili"
+    },
+    {
+        "m": "Xiaomi 11i",
+        "k": "21091116I",
+        "d": "pissarroin"
+    },
+    {
+        "m": "Xiaomi 11i HyperCharge",
+        "k": "21091116UI",
+        "d": "pissarroinpro"
+    },
+    {
+        "m": "Xiaomi 12",
+        "k": "2201123C",
+        "d": "cupid"
+    },
+    {
+        "m": "Xiaomi 12",
+        "k": "2201123G",
+        "d": "cupid"
+    },
+    {
+        "m": "Xiaomi 12 Lite",
+        "k": "2203129G",
+        "d": "taoyao"
+    },
+    {
+        "m": "Xiaomi 12 Pro",
+        "k": "2201122C",
+        "d": "zeus"
+    },
+    {
+        "m": "Xiaomi 12 Pro",
+        "k": "2201122G",
+        "d": "zeus"
+    },
+    {
+        "m": "Xiaomi 12 Pro Dimensity",
+        "k": "2207122MC",
+        "d": "daumier"
+    },
+    {
+        "m": "Xiaomi 12S",
+        "k": "2206123SC",
+        "d": "mayfly"
+    },
+    {
+        "m": "Xiaomi 12S Pro",
+        "k": "2206122SC",
+        "d": "unicorn"
+    },
+    {
+        "m": "Xiaomi 12S Ultra",
+        "k": "2203121C",
+        "d": "thor"
+    },
+    {
+        "m": "Xiaomi 12T",
+        "k": "22071212AG",
+        "d": "plato"
+    },
+    {
+        "m": "Xiaomi 12T Pro",
+        "k": "22081212C",
+        "d": "diting"
+    },
+    {
+        "m": "Xiaomi 12T Pro",
+        "k": "22081212R",
+        "d": "diting"
+    },
+    {
+        "m": "Xiaomi 12T Pro",
+        "k": "22081212UG",
+        "d": "diting"
+    },
+    {
+        "m": "Xiaomi 12T Pro",
+        "k": "22200414R",
+        "d": "diting"
+    },
+    {
+        "m": "Xiaomi 12T Pro",
+        "k": "A201XM",
+        "d": "diting"
+    },
+    {
+        "m": "Xiaomi 12X",
+        "k": "2112123AC",
+        "d": "psyche"
+    },
+    {
+        "m": "Xiaomi 13",
+        "k": "2211133C",
+        "d": "fuxi"
+    },
+    {
+        "m": "Xiaomi 13",
+        "k": "2211133G",
+        "d": "fuxi"
+    },
+    {
+        "m": "Xiaomi 13 Lite",
+        "k": "2210129SG",
+        "d": "ziyi"
+    },
+    {
+        "m": "Xiaomi 13 Pro",
+        "k": "2210132G",
+        "d": "nuwa"
+    },
+    {
+        "m": "Xiaomi 13 Ultra",
+        "k": "2304FPN6DC",
+        "d": "ishtar"
+    },
+    {
+        "m": "Xiaomi 13 Ultra",
+        "k": "2304FPN6DG",
+        "d": "ishtar"
+    },
+    {
+        "m": "Xiaomi 13 pro",
+        "k": "2210132C",
+        "d": "nuwa"
+    },
+    {
+        "m": "Xiaomi 13T",
+        "k": "XIG04",
+        "d": "XIG04"
+    },
+    {
+        "m": "Xiaomi 13T",
+        "k": "2306EPN60G",
+        "d": "aristotle"
+    },
+    {
+        "m": "Xiaomi 13T Pro",
+        "k": "23078PND5G",
+        "d": "corot"
+    },
+    {
+        "m": "Xiaomi 13T Pro",
+        "k": "23088PND5R",
+        "d": "corot"
+    },
+    {
+        "m": "Xiaomi 13T Pro",
+        "k": "A301XM",
+        "d": "corot"
+    },
+    {
+        "m": "Xiaomi 14",
+        "k": "23127PN0CC",
+        "d": "houji"
+    },
+    {
+        "m": "Xiaomi 14",
+        "k": "23127PN0CG",
+        "d": "houji"
+    },
+    {
+        "m": "Xiaomi 14 Civi",
+        "k": "24053PY09I",
+        "d": "chenfeng"
+    },
+    {
+        "m": "Xiaomi 14 Pro",
+        "k": "23116PN5BC",
+        "d": "shennong"
+    },
+    {
+        "m": "Xiaomi 14 Pro",
+        "k": "2311BPN23C",
+        "d": "shennong"
+    },
+    {
+        "m": "Xiaomi 14 Ultra",
+        "k": "24030PN60G",
+        "d": "aurora"
+    },
+    {
+        "m": "Xiaomi 14 Ultra",
+        "k": "24031PN0DC",
+        "d": "aurora"
+    },
+    {
+        "m": "Xiaomi 14T",
+        "k": "XIG07",
+        "d": "XIG07"
+    },
+    {
+        "m": "Xiaomi 14T",
+        "k": "2406APNFAG",
+        "d": "degas"
+    },
+    {
+        "m": "Xiaomi 14T Pro",
+        "k": "2407FPN8EG",
+        "d": "rothko"
+    },
+    {
+        "m": "Xiaomi 14T Pro",
+        "k": "2407FPN8ER",
+        "d": "rothko"
+    },
+    {
+        "m": "Xiaomi 14T Pro",
+        "k": "A402XM",
+        "d": "rothko"
+    },
+    {
+        "m": "Xiaomi 15",
+        "k": "24129PN74C",
+        "d": "dada"
+    },
+    {
+        "m": "Xiaomi 15",
+        "k": "24129PN74G",
+        "d": "dada"
+    },
+    {
+        "m": "Xiaomi 15",
+        "k": "24129PN74I",
+        "d": "dada"
+    },
+    {
+        "m": "Xiaomi 15 Pro",
+        "k": "2410DPN6CC",
+        "d": "haotian"
+    },
+    {
+        "m": "Xiaomi 15 Ultra",
+        "k": "25010PN30C",
+        "d": "xuanyuan"
+    },
+    {
+        "m": "Xiaomi 15 Ultra",
+        "k": "25010PN30G",
+        "d": "xuanyuan"
+    },
+    {
+        "m": "Xiaomi 15 Ultra",
+        "k": "25010PN30I",
+        "d": "xuanyuan"
+    },
+    {
+        "m": "Xiaomi 15 Ultra",
+        "k": "25019PNF3C",
+        "d": "xuanyuan"
+    },
+    {
+        "m": "Xiaomi 15S Pro",
+        "k": "25042PN24C",
+        "d": "dijun"
+    },
+    {
+        "m": "Xiaomi 15T",
+        "k": "25069PTEBG",
+        "d": "goya"
+    },
+    {
+        "m": "Xiaomi 15T Pro",
+        "k": "2506BPN68G",
+        "d": "klimt"
+    },
+    {
+        "m": "Xiaomi 15T Pro",
+        "k": "2506BPN68R",
+        "d": "klimt"
+    },
+    {
+        "m": "Xiaomi 17",
+        "k": "25113PN0EC",
+        "d": "pudding"
+    },
+    {
+        "m": "Xiaomi 17",
+        "k": "25113PN0EG",
+        "d": "pudding"
+    },
+    {
+        "m": "Xiaomi 17",
+        "k": "25113PN0EI",
+        "d": "pudding"
+    },
+    {
+        "m": "Xiaomi 17 Pro",
+        "k": "25098PN5AC",
+        "d": "pandora"
+    },
+    {
+        "m": "Xiaomi 17 Pro Max",
+        "k": "2509FPN0BC",
+        "d": "popsicle"
+    },
+    {
+        "m": "Xiaomi 17 Ultra",
+        "k": "2512BPNDAC",
+        "d": "nezha"
+    },
+    {
+        "m": "Xiaomi 17 Ultra",
+        "k": "2512BPNDAI",
+        "d": "nezha"
+    },
+    {
+        "m": "Xiaomi Civi",
+        "k": "2109119BC",
+        "d": "mona"
+    },
+    {
+        "m": "Xiaomi Civi 1S",
+        "k": "2109119BC",
+        "d": "zijin"
+    },
+    {
+        "m": "Xiaomi Civi 4",
+        "k": "24053PY09C",
+        "d": "chenfeng"
+    },
+    {
+        "m": "Xiaomi Civi 5 Pro",
+        "k": "25067PYE3C",
+        "d": "luming"
+    },
+    {
+        "m": "Xiaomi MIX Flip",
+        "k": "2405CPX3DC",
+        "d": "ruyi"
+    },
+    {
+        "m": "Xiaomi MIX Flip",
+        "k": "2405CPX3DG",
+        "d": "ruyi"
+    },
+    {
+        "m": "Xiaomi MIX Fold",
+        "k": "M2011J18C",
+        "d": "cetus"
+    },
+    {
+        "m": "Xiaomi MIX Fold 2",
+        "k": "22061218C",
+        "d": "zizhan"
+    },
+    {
+        "m": "Xiaomi MIX Fold 3",
+        "k": "2308CPXD0C",
+        "d": "babylon"
+    },
+    {
+        "m": "Xiaomi MIX Fold 4",
+        "k": "24072PX77C",
+        "d": "goku"
+    },
+    {
+        "m": "Xiaomi civi 3",
+        "k": "23046PNC9C",
+        "d": "yuechu"
+    },
+    {
+        "m": "Xiaomi civi2",
+        "k": "2209129SC",
+        "d": "ziyi"
+    }
+]

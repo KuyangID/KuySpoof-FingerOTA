@@ -1,0 +1,3612 @@
+[
+    {
+        "m": "Atrix",
+        "k": "MB860",
+        "d": "olympus"
+    },
+    {
+        "m": "Atrix",
+        "k": "MB861",
+        "d": "olympus"
+    },
+    {
+        "m": "Atrix",
+        "k": "ME860",
+        "d": "olympus"
+    },
+    {
+        "m": "Atrix HD",
+        "k": "MB886",
+        "d": "qinara"
+    },
+    {
+        "m": "Backflip",
+        "k": "MB300",
+        "d": "motus"
+    },
+    {
+        "m": "Backflip",
+        "k": "ME600",
+        "d": "motus"
+    },
+    {
+        "m": "CLIQ",
+        "k": "MB200",
+        "d": "morrison"
+    },
+    {
+        "m": "CLIQ",
+        "k": "morrison",
+        "d": "morrison"
+    },
+    {
+        "m": "Charm",
+        "k": "MB502",
+        "d": "umts_basil"
+    },
+    {
+        "m": "Citrus",
+        "k": "WX442",
+        "d": "cdma_ciena"
+    },
+    {
+        "m": "Citrus",
+        "k": "WX445",
+        "d": "cdma_ciena"
+    },
+    {
+        "m": "Citrus",
+        "k": "XT301",
+        "d": "cdma_ciena"
+    },
+    {
+        "m": "Cliq-XT",
+        "k": "MB501",
+        "d": "zeppelin"
+    },
+    {
+        "m": "Cliq-XT",
+        "k": "ME501",
+        "d": "zeppelin"
+    },
+    {
+        "m": "DROID MAXX 2",
+        "k": "XT1021",
+        "d": "lux"
+    },
+    {
+        "m": "DROID MAXX 2",
+        "k": "XT1565",
+        "d": "lux"
+    },
+    {
+        "m": "DROID RAZR HD",
+        "k": "DROID RAZR HD",
+        "d": "vanquish"
+    },
+    {
+        "m": "DROID RAZR HD",
+        "k": "RAZR HD",
+        "d": "vanquish_u"
+    },
+    {
+        "m": "DROID RAZR HD",
+        "k": "XT925",
+        "d": "vanquish_u"
+    },
+    {
+        "m": "DROID RAZR M",
+        "k": "XT907",
+        "d": "scorpion_mini"
+    },
+    {
+        "m": "DROID RAZR i",
+        "k": "XT890",
+        "d": "smi"
+    },
+    {
+        "m": "DROID Turbo 2",
+        "k": "XT1585",
+        "d": "kinzie"
+    },
+    {
+        "m": "DROID4",
+        "k": "DROID4",
+        "d": "cdma_maserati"
+    },
+    {
+        "m": "DVM4KA01",
+        "k": "DVM4KA01",
+        "d": "GMP"
+    },
+    {
+        "m": "Defy",
+        "k": "MB525",
+        "d": "umts_jordan"
+    },
+    {
+        "m": "Defy",
+        "k": "MB526",
+        "d": "umts_jordan"
+    },
+    {
+        "m": "Defy",
+        "k": "ME525",
+        "d": "umts_jordan"
+    },
+    {
+        "m": "Defy",
+        "k": "ME525+",
+        "d": "umts_jordan"
+    },
+    {
+        "m": "Defy",
+        "k": "unknown",
+        "d": "umts_jordan"
+    },
+    {
+        "m": "Defy Mini",
+        "k": "XT320",
+        "d": "TinBoost"
+    },
+    {
+        "m": "Defy Mini",
+        "k": "XT321",
+        "d": "TinBoost"
+    },
+    {
+        "m": "Defy Mini",
+        "k": "XT320",
+        "d": "tinboost_umts"
+    },
+    {
+        "m": "Defy Mini",
+        "k": "XT321",
+        "d": "tinboost_umts"
+    },
+    {
+        "m": "Defy Pro",
+        "k": "XT560",
+        "d": "XT560"
+    },
+    {
+        "m": "Devour",
+        "k": "Devour",
+        "d": "calgary"
+    },
+    {
+        "m": "Devour",
+        "k": "calgary",
+        "d": "calgary"
+    },
+    {
+        "m": "Droid",
+        "k": "A854",
+        "d": "miler"
+    },
+    {
+        "m": "Droid",
+        "k": "Droid",
+        "d": "sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "A853",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "Milestone",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "XT701",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "XT702",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "XT720",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid",
+        "k": "umts",
+        "d": "umts_sholes"
+    },
+    {
+        "m": "Droid 3",
+        "k": "DROID3",
+        "d": "cdma_solana"
+    },
+    {
+        "m": "Droid Bionic",
+        "k": "DROID BIONIC",
+        "d": "cdma_targa"
+    },
+    {
+        "m": "Droid II",
+        "k": "A955",
+        "d": "cdma_droid2"
+    },
+    {
+        "m": "Droid II",
+        "k": "DROID2",
+        "d": "cdma_droid2"
+    },
+    {
+        "m": "Droid II",
+        "k": "DROID2 GLOBAL",
+        "d": "cdma_droid2we"
+    },
+    {
+        "m": "Droid MAXX",
+        "k": "XT1080",
+        "d": "obake-maxx"
+    },
+    {
+        "m": "Droid Mini",
+        "k": "XT1030",
+        "d": "obakem"
+    },
+    {
+        "m": "Droid Pro",
+        "k": "DROID PRO",
+        "d": "cdma_venus2"
+    },
+    {
+        "m": "Droid Pro",
+        "k": "DROID Pro",
+        "d": "cdma_venus2"
+    },
+    {
+        "m": "Droid Pro",
+        "k": "Milestone PLUS",
+        "d": "cdma_venus2"
+    },
+    {
+        "m": "Droid Pro",
+        "k": "XT610",
+        "d": "cdma_venus2"
+    },
+    {
+        "m": "Droid RAZR",
+        "k": "XT910",
+        "d": "umts_spyder"
+    },
+    {
+        "m": "Droid Razr M",
+        "k": "201M",
+        "d": "scorpion_mini_t"
+    },
+    {
+        "m": "Droid Turbo",
+        "k": "XT1250",
+        "d": "quark"
+    },
+    {
+        "m": "Droid Turbo",
+        "k": "XT1254",
+        "d": "quark"
+    },
+    {
+        "m": "Droid Ultra",
+        "k": "XT1080",
+        "d": "obake"
+    },
+    {
+        "m": "Droid X",
+        "k": "DROIDX",
+        "d": "cdma_shadow"
+    },
+    {
+        "m": "Droid X",
+        "k": "MB810",
+        "d": "cdma_shadow"
+    },
+    {
+        "m": "Droid X",
+        "k": "ME811",
+        "d": "cdma_shadow"
+    },
+    {
+        "m": "Droid X",
+        "k": "Milestone X",
+        "d": "cdma_shadow"
+    },
+    {
+        "m": "Droid X",
+        "k": "MotoroiX",
+        "d": "cdma_shadow"
+    },
+    {
+        "m": "Droid X2",
+        "k": "DROID X2",
+        "d": "daytona"
+    },
+    {
+        "m": "Droid X2",
+        "k": "Milestone X2",
+        "d": "daytona"
+    },
+    {
+        "m": "ELECTRIFY 2",
+        "k": "XT881",
+        "d": "cdma_yangtze"
+    },
+    {
+        "m": "EVOLVE",
+        "k": "EVOLVE",
+        "d": "EVOLVE"
+    },
+    {
+        "m": "Electrify M",
+        "k": "XT901",
+        "d": "solstice"
+    },
+    {
+        "m": "Flipkart India Private Limited",
+        "k": "MOT41F",
+        "d": "landen"
+    },
+    {
+        "m": "Flipout",
+        "k": "MB511",
+        "d": "umts_ruth"
+    },
+    {
+        "m": "Flipout",
+        "k": "ME511",
+        "d": "umts_ruth"
+    },
+    {
+        "m": "Flipout",
+        "k": "MotoMB511",
+        "d": "umts_ruth"
+    },
+    {
+        "m": "GDL Xtreme6",
+        "k": "Xtreme 6",
+        "d": "Xtreme_6"
+    },
+    {
+        "m": "Glam XT800",
+        "k": "XT800",
+        "d": "titanium"
+    },
+    {
+        "m": "HS1",
+        "k": "Motorola_HS1",
+        "d": "Motorola_HS1"
+    },
+    {
+        "m": "Iron Rock",
+        "k": "XT627",
+        "d": "umts_irock"
+    },
+    {
+        "m": "LEX F10",
+        "k": "LEX F10",
+        "d": "LEXF10"
+    },
+    {
+        "m": "LEX L10g",
+        "k": "LEX L10g",
+        "d": "lexl10g"
+    },
+    {
+        "m": "LEX L10ig",
+        "k": "LEX L10ig",
+        "d": "lexl10ig"
+    },
+    {
+        "m": "LEX L11",
+        "k": "LEX L11",
+        "d": "lexl11g_64"
+    },
+    {
+        "m": "LEX L11",
+        "k": "LEX L11a",
+        "d": "lexl11g_64"
+    },
+    {
+        "m": "LEX L11",
+        "k": "LEX L11e",
+        "d": "lexl11g_64"
+    },
+    {
+        "m": "LEX L11",
+        "k": "LEX L11j",
+        "d": "lexl11g_64"
+    },
+    {
+        "m": "LEX L11",
+        "k": "LEX L11l",
+        "d": "lexl11g_64"
+    },
+    {
+        "m": "Lenovo K10",
+        "k": "Lenovo K10",
+        "d": "pokerp"
+    },
+    {
+        "m": "Lenovo K11",
+        "k": "Lenovo K11",
+        "d": "fiji"
+    },
+    {
+        "m": "Lenovo K11 Power",
+        "k": "Lenovo K11 Power",
+        "d": "blackjack"
+    },
+    {
+        "m": "Lenovo K12",
+        "k": "Lenovo K11",
+        "d": "malta"
+    },
+    {
+        "m": "Lenovo K12",
+        "k": "Lenovo K12",
+        "d": "malta"
+    },
+    {
+        "m": "Lenovo K12 Pro",
+        "k": "Lenovo K12 Note",
+        "d": "cebu"
+    },
+    {
+        "m": "Lenovo K12 Pro",
+        "k": "Lenovo K12 Pro",
+        "d": "cebu"
+    },
+    {
+        "m": "Lenovo K13",
+        "k": "Lenovo K13",
+        "d": "maltalsc"
+    },
+    {
+        "m": "Lenovo K13",
+        "k": "maltalsc",
+        "d": "maltalsc"
+    },
+    {
+        "m": "Lenovo K13 Note",
+        "k": "Lenovo K13 Note",
+        "d": "java"
+    },
+    {
+        "m": "Lenovo K14",
+        "k": "Lenovo K14",
+        "d": "aruba"
+    },
+    {
+        "m": "Lenovo K14 Note",
+        "k": "Lenovo K12 Pro",
+        "d": "cofud"
+    },
+    {
+        "m": "Lenovo K14 Note",
+        "k": "Lenovo K14 Note",
+        "d": "cofud"
+    },
+    {
+        "m": "Lenovo K14 Plus",
+        "k": "Lenovo K14 Plus",
+        "d": "cyprus64"
+    },
+    {
+        "m": "Lenovo K14 Plus",
+        "k": "cyprus64",
+        "d": "cyprus64"
+    },
+    {
+        "m": "Lenovo K15",
+        "k": "Hawaii",
+        "d": "hawaii"
+    },
+    {
+        "m": "Lenovo K15",
+        "k": "Lenovo K15",
+        "d": "hawaii"
+    },
+    {
+        "m": "Lenovo K8 Note",
+        "k": "XT1902-3",
+        "d": "manning"
+    },
+    {
+        "m": "Lenovo XT2081-4",
+        "k": "Lenovo XT2081-4",
+        "d": "guam"
+    },
+    {
+        "m": "Lenovo XT2091-7",
+        "k": "Lenovo XT2091-7",
+        "d": "cebu"
+    },
+    {
+        "m": "MOTOTRBO ION",
+        "k": "MSLB-MKZ900",
+        "d": "mkz_sdm660_64"
+    },
+    {
+        "m": "MOTOTRBO ION",
+        "k": "MSLB-MKZ900i",
+        "d": "mkz_sdm660_64"
+    },
+    {
+        "m": "MOTOTRBO ION",
+        "k": "MSLB-MKZ900ti",
+        "d": "mkz_sdm660_64"
+    },
+    {
+        "m": "MOTOTRBO ION",
+        "k": "MSLB-MKZ920",
+        "d": "mkz_sdm660_64"
+    },
+    {
+        "m": "MOTOTRBO ION",
+        "k": "MSLB-MKZ920ti",
+        "d": "mkz_sdm660_64"
+    },
+    {
+        "m": "Master Touch",
+        "k": "XT621",
+        "d": "umts_primus"
+    },
+    {
+        "m": "Milestone2",
+        "k": "A953",
+        "d": "umts_milestone2"
+    },
+    {
+        "m": "Milestone2",
+        "k": "ME722",
+        "d": "umts_milestone2"
+    },
+    {
+        "m": "Milestone2",
+        "k": "MotoA953",
+        "d": "umts_milestone2"
+    },
+    {
+        "m": "Moto 360",
+        "k": "Moto 360",
+        "d": "minnow"
+    },
+    {
+        "m": "Moto 360",
+        "k": "Moto 360",
+        "d": "mola"
+    },
+    {
+        "m": "Moto 360",
+        "k": "Moto 360",
+        "d": "smelt"
+    },
+    {
+        "m": "Moto C",
+        "k": "Moto C",
+        "d": "namath"
+    },
+    {
+        "m": "Moto C",
+        "k": "XT1754",
+        "d": "namath"
+    },
+    {
+        "m": "Moto C",
+        "k": "XT1755",
+        "d": "namath"
+    },
+    {
+        "m": "Moto C",
+        "k": "Moto C",
+        "d": "watson"
+    },
+    {
+        "m": "Moto Defy XT",
+        "k": "XT535",
+        "d": "XT535"
+    },
+    {
+        "m": "Moto Defy XT",
+        "k": "XT555C",
+        "d": "tinboostplus_cdma"
+    },
+    {
+        "m": "Moto Defy XT",
+        "k": "XT556",
+        "d": "tinboostplus_cdma"
+    },
+    {
+        "m": "Moto Defy XT",
+        "k": "XT557",
+        "d": "tinboostplus_cdma"
+    },
+    {
+        "m": "Moto Defy XT",
+        "k": "XT535",
+        "d": "tinboostplus_umts"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT1019",
+        "d": "condor_cdma"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT830C",
+        "d": "condor_cdma"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT1021",
+        "d": "condor_umts"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT1023",
+        "d": "condor_umts"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT1022",
+        "d": "condor_umtsds"
+    },
+    {
+        "m": "Moto E",
+        "k": "MotoE2",
+        "d": "otus"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT0000",
+        "d": "otus"
+    },
+    {
+        "m": "Moto E",
+        "k": "MotoE2",
+        "d": "otus_ds"
+    },
+    {
+        "m": "Moto E",
+        "k": "XT1021",
+        "d": "otus_ds"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E (4)",
+        "d": "perry"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E (4)",
+        "d": "perry_f"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E (4)",
+        "d": "sperry"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E (4)",
+        "d": "woods_f"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E (4)",
+        "d": "woods_fn"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E",
+        "d": "nora_8917"
+    },
+    {
+        "m": "Moto E",
+        "k": "moto e5",
+        "d": "nora_8917"
+    },
+    {
+        "m": "Moto E",
+        "k": "Moto E",
+        "d": "nora_8917_n"
+    },
+    {
+        "m": "Moto E",
+        "k": "moto e5",
+        "d": "nora_8917_n"
+    },
+    {
+        "m": "Moto E  Play",
+        "k": "moto e5 play",
+        "d": "rjames_f"
+    },
+    {
+        "m": "Moto E  Plus",
+        "k": "Moto E (4) Plus",
+        "d": "nicklaus_f"
+    },
+    {
+        "m": "Moto E  Plus",
+        "k": "Moto E (4) Plus",
+        "d": "nicklaus_fn"
+    },
+    {
+        "m": "Moto E  Plus",
+        "k": "Moto E (4) Plus",
+        "d": "owens"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "MotoE2",
+        "d": "surnia_cdma"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "MotoE2(4G-LTE)",
+        "d": "surnia_cdma"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "XT1526",
+        "d": "surnia_cdma"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "XT1528",
+        "d": "surnia_cdma"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "XT1528O",
+        "d": "surnia_cdma"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "MotoE2(4G-LTE)",
+        "d": "surnia_uds"
+    },
+    {
+        "m": "Moto E with 4G LTE",
+        "k": "MotoE2(4G-LTE)",
+        "d": "surnia_umts"
+    },
+    {
+        "m": "Moto E3",
+        "k": "XT1700",
+        "d": "taidos_row"
+    },
+    {
+        "m": "Moto E3 Power",
+        "k": "XT1706",
+        "d": "taido_row"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1028",
+        "d": "falcon_cdma"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1031",
+        "d": "falcon_cdma"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT937C",
+        "d": "falcon_cdma"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1002",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1003",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1008",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1032",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1034",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT939G",
+        "d": "falcon_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1033",
+        "d": "falcon_umtsds"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1063",
+        "d": "titan_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1064",
+        "d": "titan_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1068",
+        "d": "titan_umtsds"
+    },
+    {
+        "m": "Moto G",
+        "k": "titan_niibr_ds",
+        "d": "titan_umtsds"
+    },
+    {
+        "m": "Moto G",
+        "k": "MotoG3",
+        "d": "osprey_cdma"
+    },
+    {
+        "m": "Moto G",
+        "k": "MotoG3",
+        "d": "osprey_u2"
+    },
+    {
+        "m": "Moto G",
+        "k": "MotoG3",
+        "d": "osprey_ud2"
+    },
+    {
+        "m": "Moto G",
+        "k": "MotoG3",
+        "d": "osprey_uds"
+    },
+    {
+        "m": "Moto G",
+        "k": "MotoG3",
+        "d": "osprey_umts"
+    },
+    {
+        "m": "Moto G",
+        "k": "Moto G (5)",
+        "d": "cedric"
+    },
+    {
+        "m": "Moto G",
+        "k": "Moto G (5S)",
+        "d": "montana"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1799-1",
+        "d": "montana"
+    },
+    {
+        "m": "Moto G",
+        "k": "Moto G (5S)",
+        "d": "montana_n"
+    },
+    {
+        "m": "Moto G",
+        "k": "XT1799-2",
+        "d": "montana_n"
+    },
+    {
+        "m": "Moto G",
+        "k": "Moto G (4)",
+        "d": "athene"
+    },
+    {
+        "m": "Moto G",
+        "k": "Moto G (4)",
+        "d": "athene_t"
+    },
+    {
+        "m": "Moto G  Play",
+        "k": "Moto G Play",
+        "d": "harpia_n"
+    },
+    {
+        "m": "Moto G  Plus",
+        "k": "Moto G (5S) Plus",
+        "d": "sanders"
+    },
+    {
+        "m": "Moto G  Plus",
+        "k": "Moto G (4)",
+        "d": "sanders_n"
+    },
+    {
+        "m": "Moto G  Plus",
+        "k": "Moto G (5S) Plus",
+        "d": "sanders_n"
+    },
+    {
+        "m": "Moto G  Plus",
+        "k": "Moto G (4)",
+        "d": "sanders_nt"
+    },
+    {
+        "m": "Moto G  Plus",
+        "k": "Moto G (5S) Plus",
+        "d": "sanders_nt"
+    },
+    {
+        "m": "Moto G Plus",
+        "k": "Moto G (4)",
+        "d": "athene_f"
+    },
+    {
+        "m": "Moto G Turbo Edition",
+        "k": "MotoG3",
+        "d": "merlin"
+    },
+    {
+        "m": "Moto G Turbo Edition",
+        "k": "MotoG3-TE",
+        "d": "merlin"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1039",
+        "d": "peregrine"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1040",
+        "d": "peregrine"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1042",
+        "d": "peregrine"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1045",
+        "d": "peregrine"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1072",
+        "d": "thea"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1077",
+        "d": "thea_ds"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1079",
+        "d": "thea_ds"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1063",
+        "d": "thea_umtsds"
+    },
+    {
+        "m": "Moto G with 4G LTE",
+        "k": "XT1078",
+        "d": "thea_umtsds"
+    },
+    {
+        "m": "Moto G4 Play",
+        "k": "Moto G Play",
+        "d": "harpia"
+    },
+    {
+        "m": "Moto G4 Play",
+        "k": "XT1609",
+        "d": "harpia"
+    },
+    {
+        "m": "Moto G4 Play",
+        "k": "Moto G Play",
+        "d": "harpia_t"
+    },
+    {
+        "m": "Moto MAXX",
+        "k": "XT1225",
+        "d": "quark_umts"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1049",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1050",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1052",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1053",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1055",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1056",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1058",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1060",
+        "d": "ghost"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1085",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1092",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1093",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1094",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1095",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1096",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1097",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1098",
+        "d": "victara"
+    },
+    {
+        "m": "Moto X",
+        "k": "XT1789-05",
+        "d": "payton"
+    },
+    {
+        "m": "Moto X",
+        "k": "moto x4",
+        "d": "payton"
+    },
+    {
+        "m": "Moto X",
+        "k": "moto x4",
+        "d": "payton_sprout"
+    },
+    {
+        "m": "Moto X Force",
+        "k": "XT1580",
+        "d": "kinzie"
+    },
+    {
+        "m": "Moto X Force",
+        "k": "XT1580",
+        "d": "kinzie_uds"
+    },
+    {
+        "m": "Moto X Force",
+        "k": "XT1581",
+        "d": "kinzie_uds"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "Moto X Play",
+        "d": "lux"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1562",
+        "d": "lux"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1563",
+        "d": "lux"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1564",
+        "d": "lux"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "Moto X Play",
+        "d": "lux_uds"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1021",
+        "d": "lux_uds"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1562",
+        "d": "lux_uds"
+    },
+    {
+        "m": "Moto X Play",
+        "k": "XT1563",
+        "d": "lux_uds"
+    },
+    {
+        "m": "Moto X Pro",
+        "k": "Moto X Pro",
+        "d": "shamu_t"
+    },
+    {
+        "m": "Moto X Pure Edition",
+        "k": "XT1575",
+        "d": "clark"
+    },
+    {
+        "m": "Moto X Style",
+        "k": "XT1572",
+        "d": "clark"
+    },
+    {
+        "m": "Moto X Style",
+        "k": "XT1570",
+        "d": "clark_ds"
+    },
+    {
+        "m": "Moto X Style",
+        "k": "XT1572",
+        "d": "clark_ds"
+    },
+    {
+        "m": "Moto Z",
+        "k": "XT1650",
+        "d": "griffin"
+    },
+    {
+        "m": "Moto Z",
+        "k": "XT1650-05",
+        "d": "griffin"
+    },
+    {
+        "m": "Moto Z",
+        "k": "Moto Z (2)",
+        "d": "messi"
+    },
+    {
+        "m": "Moto Z",
+        "k": "XT1929-15",
+        "d": "messi"
+    },
+    {
+        "m": "Moto Z",
+        "k": "moto z3",
+        "d": "messi"
+    },
+    {
+        "m": "Moto Z  Force",
+        "k": "Moto Z (2)",
+        "d": "nash"
+    },
+    {
+        "m": "Moto Z  Force",
+        "k": "XT1789-05",
+        "d": "nash"
+    },
+    {
+        "m": "Moto Z  Play",
+        "k": "Moto Z2 Play",
+        "d": "albus"
+    },
+    {
+        "m": "Moto Z  Play",
+        "k": "XT1710-02",
+        "d": "albus"
+    },
+    {
+        "m": "Moto Z  Play",
+        "k": "XT1710-08",
+        "d": "albus"
+    },
+    {
+        "m": "Moto Z  Play",
+        "k": "XT1710-11",
+        "d": "albus"
+    },
+    {
+        "m": "Moto Z Play",
+        "k": "XT1563",
+        "d": "addison"
+    },
+    {
+        "m": "Moto Z Play",
+        "k": "XT1635-02",
+        "d": "addison"
+    },
+    {
+        "m": "Moto Z Play",
+        "k": "XT1635-03",
+        "d": "addison"
+    },
+    {
+        "m": "Moto Z Play Droid",
+        "k": "XT1635-01",
+        "d": "addison"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT611",
+        "d": "XT611"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT615",
+        "d": "XT615"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT682",
+        "d": "XT682"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT615",
+        "d": "ironmax_umts"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT685",
+        "d": "ironmax_umts"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "Motorola MOT-XT681",
+        "d": "ironmaxct_cdma"
+    },
+    {
+        "m": "Motoluxe",
+        "k": "XT626",
+        "d": "umts_irock"
+    },
+    {
+        "m": "Motoroi",
+        "k": "Milestone XT720",
+        "d": "sholest"
+    },
+    {
+        "m": "Motoroi",
+        "k": "Motorola XT720",
+        "d": "sholest"
+    },
+    {
+        "m": "Motoroi",
+        "k": "XT720",
+        "d": "sholest"
+    },
+    {
+        "m": "Motorola",
+        "k": "CSV2K",
+        "d": "stanford"
+    },
+    {
+        "m": "Motorola",
+        "k": "CSV4K",
+        "d": "zhongshan"
+    },
+    {
+        "m": "Motorola Defy",
+        "k": "Motorola Defy",
+        "d": "bathena"
+    },
+    {
+        "m": "Motorola Defy 2",
+        "k": "Defy 2",
+        "d": "BM2S1E"
+    },
+    {
+        "m": "Motorola M",
+        "k": "XT1663",
+        "d": "XT1663"
+    },
+    {
+        "m": "Motorola Moto M",
+        "k": "XT1662",
+        "d": "kungfu_m"
+    },
+    {
+        "m": "Motorola one",
+        "k": "motorola one",
+        "d": "deen_sprout"
+    },
+    {
+        "m": "Nexus 6",
+        "k": "Nexus 6",
+        "d": "shamu"
+    },
+    {
+        "m": "Opus One",
+        "k": "Motorola Titanium",
+        "d": "rubicon"
+    },
+    {
+        "m": "Opus One",
+        "k": "Titanium",
+        "d": "rubicon"
+    },
+    {
+        "m": "Photon",
+        "k": "XT897",
+        "d": "asanti_c"
+    },
+    {
+        "m": "Photon",
+        "k": "XT897S",
+        "d": "asanti_c"
+    },
+    {
+        "m": "Photon 4G",
+        "k": "ISW11M",
+        "d": "sunfire"
+    },
+    {
+        "m": "Photon 4G",
+        "k": "MB855",
+        "d": "sunfire"
+    },
+    {
+        "m": "Photon 4G",
+        "k": "Motorola Electrify",
+        "d": "sunfire"
+    },
+    {
+        "m": "Quench XT3",
+        "k": "Motorola-XT502",
+        "d": "XT502"
+    },
+    {
+        "m": "RAZR D1",
+        "k": "XT914",
+        "d": "hawk35_umts"
+    },
+    {
+        "m": "RAZR D1",
+        "k": "XT915",
+        "d": "hawk35_umts"
+    },
+    {
+        "m": "RAZR D1",
+        "k": "XT916",
+        "d": "hawk35_umts"
+    },
+    {
+        "m": "RAZR D1",
+        "k": "XT918",
+        "d": "hawk35_umts"
+    },
+    {
+        "m": "RAZR D3",
+        "k": "XT919",
+        "d": "hawk40_umts"
+    },
+    {
+        "m": "RAZR D3",
+        "k": "XT920",
+        "d": "hawk40_umts"
+    },
+    {
+        "m": "RAZR M",
+        "k": "XT907",
+        "d": "smq"
+    },
+    {
+        "m": "RAZR M",
+        "k": "201M",
+        "d": "smq_t"
+    },
+    {
+        "m": "Razr V",
+        "k": "XT885",
+        "d": "umts_yangtze"
+    },
+    {
+        "m": "Razr V",
+        "k": "XT886",
+        "d": "umts_yangtze"
+    },
+    {
+        "m": "Spice",
+        "k": "XT300",
+        "d": "sesame"
+    },
+    {
+        "m": "TC55",
+        "k": "TC55",
+        "d": "TC55"
+    },
+    {
+        "m": "TC55CH",
+        "k": "TC55CH",
+        "d": "TC55CH"
+    },
+    {
+        "m": "ThinkPhone 25 by motorola",
+        "k": "ThinkPhone 25 by motorola",
+        "d": "vienna"
+    },
+    {
+        "m": "ThinkPhone by Motorola",
+        "k": "ThinkPhone by motorola",
+        "d": "bronco"
+    },
+    {
+        "m": "ThinkPhone by Motorola",
+        "k": "motorola edge 30 pro",
+        "d": "bronco"
+    },
+    {
+        "m": "XOOM",
+        "k": "Xoom",
+        "d": "stingray"
+    },
+    {
+        "m": "XOOM",
+        "k": "MZ601",
+        "d": "umts_everest"
+    },
+    {
+        "m": "XOOM",
+        "k": "MZ601",
+        "d": "umts_hubble"
+    },
+    {
+        "m": "XOOM",
+        "k": "MZ605",
+        "d": "umts_hubble"
+    },
+    {
+        "m": "XOOM",
+        "k": "MZ604",
+        "d": "wifi_hubble"
+    },
+    {
+        "m": "XOOM",
+        "k": "MZ606",
+        "d": "wifi_hubble"
+    },
+    {
+        "m": "XOOM",
+        "k": "Xoom",
+        "d": "wingray"
+    },
+    {
+        "m": "XOOM 2",
+        "k": "MZ609",
+        "d": "fleming"
+    },
+    {
+        "m": "XOOM 2",
+        "k": "MZ617",
+        "d": "pasteur"
+    },
+    {
+        "m": "XT-50IP600",
+        "k": "XT_50IP600",
+        "d": "XT_50IP600"
+    },
+    {
+        "m": "XT080",
+        "k": "XT080",
+        "d": "XT080"
+    },
+    {
+        "m": "XT100",
+        "k": "XT100",
+        "d": "XT100"
+    },
+    {
+        "m": "XT2",
+        "k": "XT2",
+        "d": "XT2"
+    },
+    {
+        "m": "XT200",
+        "k": "XT200",
+        "d": "XT200"
+    },
+    {
+        "m": "XT2071-4",
+        "k": "XT2071-4",
+        "d": "smith"
+    },
+    {
+        "m": "XT3",
+        "k": "XT3",
+        "d": "XT3"
+    },
+    {
+        "m": "XT30",
+        "k": "XT30",
+        "d": "XT30"
+    },
+    {
+        "m": "XT4",
+        "k": "XT4",
+        "d": "XT4"
+    },
+    {
+        "m": "XT40",
+        "k": "XT40",
+        "d": "XT40"
+    },
+    {
+        "m": "XT50",
+        "k": "XT50",
+        "d": "XT50"
+    },
+    {
+        "m": "XT605",
+        "k": "XT605",
+        "d": "umts_jorian"
+    },
+    {
+        "m": "XTOUCH X",
+        "k": "XTouch X",
+        "d": "XTouch_X"
+    },
+    {
+        "m": "XTOUCH X10",
+        "k": "XTOUCH X10",
+        "d": "XTOUCH_X10"
+    },
+    {
+        "m": "XTS7",
+        "k": "XTS7",
+        "d": "XTS7"
+    },
+    {
+        "m": "XTi",
+        "k": "XTi",
+        "d": "DTP9539"
+    },
+    {
+        "m": "Xtrem650",
+        "k": "Xtrem650",
+        "d": "Xtrem650"
+    },
+    {
+        "m": "Xtreme  XT84",
+        "k": "Xtreme XT84",
+        "d": "Xtreme_XT84"
+    },
+    {
+        "m": "Xtreme XT309",
+        "k": "Xtreme XT309",
+        "d": "Xtreme_XT309"
+    },
+    {
+        "m": "Xtreme XT309 Plus",
+        "k": "Xtreme XT309 Plus",
+        "d": "Xtreme_XT309_Plus"
+    },
+    {
+        "m": "Xtreme_1",
+        "k": "Xtreme 1",
+        "d": "Xtreme_1"
+    },
+    {
+        "m": "Xtreme_3",
+        "k": "Xtreme_3",
+        "d": "Xtreme_3"
+    },
+    {
+        "m": "Xtreme_3x",
+        "k": "Xtreme_3x",
+        "d": "Xtreme_3x"
+    },
+    {
+        "m": "Xtreme_7",
+        "k": "Xtreme_7",
+        "d": "Xtreme_7"
+    },
+    {
+        "m": "moto G53",
+        "k": "XT2335-3",
+        "d": "penang"
+    },
+    {
+        "m": "moto P30 NOTE",
+        "k": "XT1942-1",
+        "d": "chef"
+    },
+    {
+        "m": "moto S30",
+        "k": "XT2243-2",
+        "d": "tundra"
+    },
+    {
+        "m": "moto X40",
+        "k": "XT2301-5",
+        "d": "rtwo"
+    },
+    {
+        "m": "moto X70 Air",
+        "k": "XT2601-1",
+        "d": "roadstr"
+    },
+    {
+        "m": "moto X70 Pro",
+        "k": "XT2603-1",
+        "d": "vantage"
+    },
+    {
+        "m": "moto e",
+        "k": "moto e",
+        "d": "ginna"
+    },
+    {
+        "m": "moto e",
+        "k": "moto e (XT2052DL)",
+        "d": "ginna"
+    },
+    {
+        "m": "moto e",
+        "k": "fijisc",
+        "d": "fijisc"
+    },
+    {
+        "m": "moto e",
+        "k": "moto e(6i)",
+        "d": "fijisc"
+    },
+    {
+        "m": "moto e",
+        "k": "malta",
+        "d": "malta"
+    },
+    {
+        "m": "moto e",
+        "k": "moto e(7)",
+        "d": "malta"
+    },
+    {
+        "m": "moto e cruise",
+        "k": "moto e5 cruise",
+        "d": "james"
+    },
+    {
+        "m": "moto e cruise",
+        "k": "moto e5 play",
+        "d": "james"
+    },
+    {
+        "m": "moto e plus",
+        "k": "Moto E",
+        "d": "rhannah"
+    },
+    {
+        "m": "moto e plus",
+        "k": "moto e5 plus",
+        "d": "rhannah"
+    },
+    {
+        "m": "moto e plus",
+        "k": "moto e(7) plus",
+        "d": "guam"
+    },
+    {
+        "m": "moto e power",
+        "k": "moto e(7) power",
+        "d": "malta"
+    },
+    {
+        "m": "moto e power",
+        "k": "moto e(7i) power",
+        "d": "maltalsc"
+    },
+    {
+        "m": "moto e13",
+        "k": "SabahLite",
+        "d": "sabahl"
+    },
+    {
+        "m": "moto e13",
+        "k": "moto e13",
+        "d": "sabahl"
+    },
+    {
+        "m": "moto e20",
+        "k": "aruba",
+        "d": "aruba"
+    },
+    {
+        "m": "moto e20",
+        "k": "moto e20",
+        "d": "aruba"
+    },
+    {
+        "m": "moto e22",
+        "k": "moto",
+        "d": "borag"
+    },
+    {
+        "m": "moto e22",
+        "k": "moto e22",
+        "d": "borag"
+    },
+    {
+        "m": "moto e22i",
+        "k": "moto",
+        "d": "borago"
+    },
+    {
+        "m": "moto e22i",
+        "k": "moto e22i",
+        "d": "borago"
+    },
+    {
+        "m": "moto e30",
+        "k": "cyprus",
+        "d": "cyprus"
+    },
+    {
+        "m": "moto e30",
+        "k": "moto e30",
+        "d": "cyprus"
+    },
+    {
+        "m": "moto e32",
+        "k": "moto e32",
+        "d": "hawaii"
+    },
+    {
+        "m": "moto e40",
+        "k": "moto e40",
+        "d": "cyprus64"
+    },
+    {
+        "m": "moto e5",
+        "k": "moto e5 (XT1920DL)",
+        "d": "nora"
+    },
+    {
+        "m": "moto e5 go",
+        "k": "moto e5 go",
+        "d": "rjames_go"
+    },
+    {
+        "m": "moto e5 play",
+        "k": "Moto E",
+        "d": "pettyl"
+    },
+    {
+        "m": "moto e5 play",
+        "k": "moto e5 play",
+        "d": "pettyl"
+    },
+    {
+        "m": "moto e5 play",
+        "k": "Moto E",
+        "d": "rjames_f"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "Moto E",
+        "d": "ahannah"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "XT1924-9",
+        "d": "ahannah"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "moto e5 plus",
+        "d": "ahannah"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "Moto E",
+        "d": "hannah"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "moto e5 plus",
+        "d": "hannah"
+    },
+    {
+        "m": "moto e5 plus",
+        "k": "moto e5 supra",
+        "d": "hannah"
+    },
+    {
+        "m": "moto e6",
+        "k": "moto e6",
+        "d": "surfna"
+    },
+    {
+        "m": "moto e6",
+        "k": "moto e6 (XT2005DL)",
+        "d": "surfna"
+    },
+    {
+        "m": "moto e6",
+        "k": "moto g(6)",
+        "d": "surfna"
+    },
+    {
+        "m": "moto e6 play",
+        "k": "moto e6 play",
+        "d": "bali"
+    },
+    {
+        "m": "moto e6s",
+        "k": "moto e6",
+        "d": "fiji"
+    },
+    {
+        "m": "moto e6s",
+        "k": "moto e6s",
+        "d": "fiji"
+    },
+    {
+        "m": "moto edge X30",
+        "k": "XT2201-2",
+        "d": "hiphic"
+    },
+    {
+        "m": "moto g",
+        "k": "moto e(7) plus",
+        "d": "capri"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(10)",
+        "d": "capri"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(100)",
+        "d": "nio"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(20)",
+        "d": "java"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g20",
+        "d": "java"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(30)",
+        "d": "caprip"
+    },
+    {
+        "m": "moto g",
+        "k": "XT2137-2",
+        "d": "ibiza"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(50)",
+        "d": "ibiza"
+    },
+    {
+        "m": "moto g",
+        "k": "XT1925-10",
+        "d": "ali"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(6)",
+        "d": "ali"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(6) (XT1925DL)",
+        "d": "ali"
+    },
+    {
+        "m": "moto g",
+        "k": "XT1790",
+        "d": "ali_n"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(6)",
+        "d": "ali_n"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(60)",
+        "d": "hanoip"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(6)",
+        "d": "river"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(7)",
+        "d": "river"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(7)",
+        "d": "river_n"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(8)",
+        "d": "rav"
+    },
+    {
+        "m": "moto g",
+        "k": "moto g(9)",
+        "d": "guamp"
+    },
+    {
+        "m": "moto g - 2025",
+        "k": "moto g - 2025",
+        "d": "kansas"
+    },
+    {
+        "m": "moto g - 2025",
+        "k": "moto g play - 2024",
+        "d": "kansas"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "moto g 5G",
+        "d": "kiev"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "motorola edge",
+        "d": "kiev"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "moto g 5G (2022)",
+        "d": "austin"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "moto g pure",
+        "d": "austin"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "moto g(50)",
+        "d": "saipan"
+    },
+    {
+        "m": "moto g 5G",
+        "k": "moto g(50) 5G",
+        "d": "saipan"
+    },
+    {
+        "m": "moto g 5G - 2023",
+        "k": "moto g 5G - 2023",
+        "d": "pnangn"
+    },
+    {
+        "m": "moto g 5G - 2023",
+        "k": "moto g stylus 5G (2022)",
+        "d": "pnangn"
+    },
+    {
+        "m": "moto g 5G - 2024",
+        "k": "moto g 5G - 2023",
+        "d": "fogo"
+    },
+    {
+        "m": "moto g 5G - 2024",
+        "k": "moto g 5G - 2024",
+        "d": "fogo"
+    },
+    {
+        "m": "moto g 5G plus",
+        "k": "moto g 5G plus",
+        "d": "nairo"
+    },
+    {
+        "m": "moto g fast",
+        "k": "moto g fast",
+        "d": "rav"
+    },
+    {
+        "m": "moto g optimo",
+        "k": "moto g(7) optimo (XT1952DL)",
+        "d": "channel"
+    },
+    {
+        "m": "moto g optimo maxx",
+        "k": "moto g(7) optimo maxx(XT1955DL)",
+        "d": "ocean"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g play (2021)",
+        "d": "guamna"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g play (XT2093DL)",
+        "d": "guamna"
+    },
+    {
+        "m": "moto g play",
+        "k": "Moto G Play",
+        "d": "aljeter"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(6) play",
+        "d": "aljeter"
+    },
+    {
+        "m": "moto g play",
+        "k": "Moto G Play",
+        "d": "aljeter_n"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(6) play",
+        "d": "aljeter_n"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(6) play",
+        "d": "jeter"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(6)",
+        "d": "channel"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(7) play",
+        "d": "channel"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(7) play",
+        "d": "lima"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(8) play",
+        "d": "lima"
+    },
+    {
+        "m": "moto g play",
+        "k": "moto g(9) play",
+        "d": "guamp"
+    },
+    {
+        "m": "moto g play - 2024",
+        "k": "moto g play - 2024",
+        "d": "fogona"
+    },
+    {
+        "m": "moto g play - 2024",
+        "k": "motorola edge 40 pro",
+        "d": "fogona"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(6) plus",
+        "d": "evert"
+    },
+    {
+        "m": "moto g plus",
+        "k": "Moto G (5) Plus",
+        "d": "evert_n"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(6) plus",
+        "d": "evert_n"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(6) plus",
+        "d": "evert_nt"
+    },
+    {
+        "m": "moto g plus",
+        "k": "XT1965-6",
+        "d": "lake"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(6) plus",
+        "d": "lake_n"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(7) plus",
+        "d": "lake_n"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(7)",
+        "d": "doha"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(8) plus",
+        "d": "doha"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(8) plus",
+        "d": "doha_n"
+    },
+    {
+        "m": "moto g plus",
+        "k": "moto g(9) plus",
+        "d": "odessa"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g power",
+        "d": "sofia"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g power",
+        "d": "borneo"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g power (2021)",
+        "d": "borneo"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g power (2022)",
+        "d": "tonga"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g power (XT2041DL)",
+        "d": "sofia"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(6) play",
+        "d": "ocean"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(7) power",
+        "d": "ocean"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(7) power",
+        "d": "ocean_n"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(7) power",
+        "d": "ocean_t"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(8) power",
+        "d": "sofiar"
+    },
+    {
+        "m": "moto g power",
+        "k": "moto g(9) power",
+        "d": "cebu"
+    },
+    {
+        "m": "moto g power - 2025",
+        "k": "moto g power - 2025",
+        "d": "vegas"
+    },
+    {
+        "m": "moto g power - 2025",
+        "k": "moto g power 5G - 2024",
+        "d": "vegas"
+    },
+    {
+        "m": "moto g power - 2026",
+        "k": "moto g power - 2025",
+        "d": "vegas26"
+    },
+    {
+        "m": "moto g power - 2026",
+        "k": "moto g power - 2026",
+        "d": "vegas26"
+    },
+    {
+        "m": "moto g power 5G - 2023",
+        "k": "moto g power 5G - 2023",
+        "d": "devonn"
+    },
+    {
+        "m": "moto g power 5G - 2023",
+        "k": "moto g(50) 5G",
+        "d": "devonn"
+    },
+    {
+        "m": "moto g power 5G - 2024",
+        "k": "moto g power 5G - 2023",
+        "d": "cancunn"
+    },
+    {
+        "m": "moto g power 5G - 2024",
+        "k": "moto g power 5G - 2024",
+        "d": "cancunn"
+    },
+    {
+        "m": "moto g power lite",
+        "k": "moto g(8) power lite",
+        "d": "blackjack"
+    },
+    {
+        "m": "moto g power lite",
+        "k": "moto g8 power lite",
+        "d": "blackjack"
+    },
+    {
+        "m": "moto g pro",
+        "k": "moto g pro",
+        "d": "sofiap_sprout"
+    },
+    {
+        "m": "moto g pure",
+        "k": "moto g power",
+        "d": "ellis"
+    },
+    {
+        "m": "moto g pure",
+        "k": "moto g pure",
+        "d": "ellis"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus",
+        "d": "sofiap"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus",
+        "d": "minsk"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus (2021)",
+        "d": "minsk"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus (XT2115DL)",
+        "d": "minsk"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus (2022)",
+        "d": "milan"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "motorola",
+        "d": "milan"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g 5G (2022)",
+        "d": "gnevan"
+    },
+    {
+        "m": "moto g stylus",
+        "k": "moto g stylus (2023)",
+        "d": "gnevan"
+    },
+    {
+        "m": "moto g stylus - 2026",
+        "k": "moto g stylus - 2025",
+        "d": "lamy"
+    },
+    {
+        "m": "moto g stylus - 2026",
+        "k": "moto g stylus - 2026",
+        "d": "lamy"
+    },
+    {
+        "m": "moto g stylus 5G",
+        "k": "moto g stylus (2021)",
+        "d": "denver"
+    },
+    {
+        "m": "moto g stylus 5G",
+        "k": "moto g stylus 5G",
+        "d": "denver"
+    },
+    {
+        "m": "moto g stylus 5G",
+        "k": "moto g stylus 5G (2022)",
+        "d": "milanf"
+    },
+    {
+        "m": "moto g stylus 5G",
+        "k": "moto g(50)",
+        "d": "milanf"
+    },
+    {
+        "m": "moto g stylus 5G - 2023",
+        "k": "moto g stylus 5G - 2023",
+        "d": "genevn"
+    },
+    {
+        "m": "moto g stylus 5G - 2023",
+        "k": "moto g stylus 5g",
+        "d": "genevn"
+    },
+    {
+        "m": "moto g stylus 5G - 2024",
+        "k": "moto g stylus 5G - 2023",
+        "d": "boston"
+    },
+    {
+        "m": "moto g stylus 5G - 2024",
+        "k": "moto g stylus 5G - 2024",
+        "d": "boston"
+    },
+    {
+        "m": "moto g stylus 5G - 2025",
+        "k": "moto g stylus - 2025",
+        "d": "mona"
+    },
+    {
+        "m": "moto g stylus 5G - 2025",
+        "k": "motorola edge 50 fusion",
+        "d": "mona"
+    },
+    {
+        "m": "moto g supra",
+        "k": "moto g(7) supra",
+        "d": "ocean"
+    },
+    {
+        "m": "moto g04",
+        "k": "lion",
+        "d": "lion"
+    },
+    {
+        "m": "moto g04",
+        "k": "moto g04",
+        "d": "lion"
+    },
+    {
+        "m": "moto g04s",
+        "k": "moto g04s",
+        "d": "lion"
+    },
+    {
+        "m": "moto g05",
+        "k": "lamu_g",
+        "d": "lamul"
+    },
+    {
+        "m": "moto g05",
+        "k": "moto g05",
+        "d": "lamul"
+    },
+    {
+        "m": "moto g06",
+        "k": "moto g05",
+        "d": "lagos"
+    },
+    {
+        "m": "moto g06",
+        "k": "moto g06",
+        "d": "lagos"
+    },
+    {
+        "m": "moto g06 power",
+        "k": "moto g06 power",
+        "d": "lagos"
+    },
+    {
+        "m": "moto g10 power",
+        "k": "moto g(10) power",
+        "d": "capri"
+    },
+    {
+        "m": "moto g13",
+        "k": "moto g13",
+        "d": "penangf"
+    },
+    {
+        "m": "moto g13",
+        "k": "penangf",
+        "d": "penangf"
+    },
+    {
+        "m": "moto g14",
+        "k": "cancun",
+        "d": "cancun"
+    },
+    {
+        "m": "moto g14",
+        "k": "moto g14",
+        "d": "cancun"
+    },
+    {
+        "m": "moto g15",
+        "k": "lamu_g",
+        "d": "lamu"
+    },
+    {
+        "m": "moto g15",
+        "k": "moto g15",
+        "d": "lamu"
+    },
+    {
+        "m": "moto g200 5G",
+        "k": "moto g200 5G",
+        "d": "xpeng"
+    },
+    {
+        "m": "moto g200 5G",
+        "k": "motorola edge 20 pro",
+        "d": "xpeng"
+    },
+    {
+        "m": "moto g22",
+        "k": "Lenovo K15 Plus",
+        "d": "hawaiip"
+    },
+    {
+        "m": "moto g22",
+        "k": "moto g22",
+        "d": "hawaiip"
+    },
+    {
+        "m": "moto g23",
+        "k": "moto g23",
+        "d": "penangf"
+    },
+    {
+        "m": "moto g24",
+        "k": "moto g24",
+        "d": "fogorow"
+    },
+    {
+        "m": "moto g24 power",
+        "k": "moto g24 power",
+        "d": "fogorow"
+    },
+    {
+        "m": "moto g31",
+        "k": "moto g31(w)",
+        "d": "cofud"
+    },
+    {
+        "m": "moto g31",
+        "k": "motorola",
+        "d": "cofud"
+    },
+    {
+        "m": "moto g31",
+        "k": "moto g31",
+        "d": "coful"
+    },
+    {
+        "m": "moto g31",
+        "k": "motorola",
+        "d": "coful"
+    },
+    {
+        "m": "moto g32",
+        "k": "moto g(100)",
+        "d": "devon"
+    },
+    {
+        "m": "moto g32",
+        "k": "moto g32",
+        "d": "devon"
+    },
+    {
+        "m": "moto g34",
+        "k": "XT2363-4",
+        "d": "fogos"
+    },
+    {
+        "m": "moto g34 5G",
+        "k": "moto g34 5G",
+        "d": "fogos"
+    },
+    {
+        "m": "moto g34 5G",
+        "k": "moto g53 5G",
+        "d": "fogos"
+    },
+    {
+        "m": "moto g35 5G",
+        "k": "moto g35 5G",
+        "d": "manila"
+    },
+    {
+        "m": "moto g40 fusion",
+        "k": "moto g(40) fusion",
+        "d": "hanoip"
+    },
+    {
+        "m": "moto g41",
+        "k": "moto g41",
+        "d": "corfu"
+    },
+    {
+        "m": "moto g41",
+        "k": "motorola",
+        "d": "corfu"
+    },
+    {
+        "m": "moto g42",
+        "k": "moto g(100)",
+        "d": "hawao"
+    },
+    {
+        "m": "moto g42",
+        "k": "moto g42",
+        "d": "hawao"
+    },
+    {
+        "m": "moto g45 5G",
+        "k": "moto g34 5GP",
+        "d": "fogos"
+    },
+    {
+        "m": "moto g45 5G",
+        "k": "moto g45 5G",
+        "d": "fogos"
+    },
+    {
+        "m": "moto g51",
+        "k": "XT2171-3",
+        "d": "cypfq"
+    },
+    {
+        "m": "moto g51",
+        "k": "moto[SPACE]g(50)",
+        "d": "cypfq"
+    },
+    {
+        "m": "moto g51 5G",
+        "k": "moto g(50)",
+        "d": "cypfq"
+    },
+    {
+        "m": "moto g51 5G",
+        "k": "moto g51 5G",
+        "d": "cypfq"
+    },
+    {
+        "m": "moto g52",
+        "k": "moto g(50)",
+        "d": "rhode"
+    },
+    {
+        "m": "moto g52",
+        "k": "moto g52",
+        "d": "rhode"
+    },
+    {
+        "m": "moto g52j 5G",
+        "k": "moto g(50)",
+        "d": "cypfr"
+    },
+    {
+        "m": "moto g52j 5G",
+        "k": "moto g52j 5G",
+        "d": "cypfr"
+    },
+    {
+        "m": "moto g53 5G",
+        "k": "moto g stylus 5G (2022)",
+        "d": "penang"
+    },
+    {
+        "m": "moto g53 5G",
+        "k": "moto g53 5G",
+        "d": "penang"
+    },
+    {
+        "m": "moto g53j 5G",
+        "k": "moto g53j 5G",
+        "d": "penang"
+    },
+    {
+        "m": "moto g53s 5G",
+        "k": "moto g53s 5G",
+        "d": "penang"
+    },
+    {
+        "m": "moto g53y 5G",
+        "k": "moto g53y 5G",
+        "d": "penang"
+    },
+    {
+        "m": "moto g54 5G",
+        "k": "XT2343-3",
+        "d": "cancunf"
+    },
+    {
+        "m": "moto g54 5G",
+        "k": "moto g54 5G",
+        "d": "cancunf"
+    },
+    {
+        "m": "moto g54 5G",
+        "k": "moto g73 5G",
+        "d": "cancunf"
+    },
+    {
+        "m": "moto g55 5G",
+        "k": "moto g54 5G",
+        "d": "taipei"
+    },
+    {
+        "m": "moto g55 5G",
+        "k": "moto g55 5G",
+        "d": "taipei"
+    },
+    {
+        "m": "moto g56 5G",
+        "k": "moto g54 5G",
+        "d": "bogota"
+    },
+    {
+        "m": "moto g56 5G",
+        "k": "moto g56 5G",
+        "d": "bogota"
+    },
+    {
+        "m": "moto g57",
+        "k": "moto g57",
+        "d": "mumba"
+    },
+    {
+        "m": "moto g57",
+        "k": "motorola edge 60 stylus",
+        "d": "mumba"
+    },
+    {
+        "m": "moto g57 power",
+        "k": "moto g57 power",
+        "d": "mumba"
+    },
+    {
+        "m": "moto g6 play",
+        "k": "Moto G Play",
+        "d": "jeter"
+    },
+    {
+        "m": "moto g62 5G",
+        "k": "moto g51 5G",
+        "d": "rhodec"
+    },
+    {
+        "m": "moto g62 5G",
+        "k": "moto g62 5G",
+        "d": "rhodec"
+    },
+    {
+        "m": "moto g62 5G",
+        "k": "moto g62 5G",
+        "d": "rhodei"
+    },
+    {
+        "m": "moto g62 5G",
+        "k": "moto g71 5G",
+        "d": "rhodei"
+    },
+    {
+        "m": "moto g64 5G",
+        "k": "moto g64 5G",
+        "d": "cancunf"
+    },
+    {
+        "m": "moto g64y 5G",
+        "k": "moto g64y 5G",
+        "d": "cancunf"
+    },
+    {
+        "m": "moto g66j 5G",
+        "k": "moto g64 5G",
+        "d": "bogota"
+    },
+    {
+        "m": "moto g66j 5G",
+        "k": "moto g66j 5G",
+        "d": "bogota"
+    },
+    {
+        "m": "moto g66y 5G",
+        "k": "moto g66y 5G",
+        "d": "bogota"
+    },
+    {
+        "m": "moto g67",
+        "k": "moto g - 2025",
+        "d": "naples"
+    },
+    {
+        "m": "moto g67",
+        "k": "moto g67",
+        "d": "naples"
+    },
+    {
+        "m": "moto g67 power 5G",
+        "k": "XT2533-4",
+        "d": "portov"
+    },
+    {
+        "m": "moto g67 power 5G",
+        "k": "moto g67 power 5G",
+        "d": "portov"
+    },
+    {
+        "m": "moto g67 power 5G",
+        "k": "motorola edge 60 stylus",
+        "d": "portov"
+    },
+    {
+        "m": "moto g71 5G",
+        "k": "moto g(50)",
+        "d": "corfur"
+    },
+    {
+        "m": "moto g71 5G",
+        "k": "moto g71 5G",
+        "d": "corfur"
+    },
+    {
+        "m": "moto g72",
+        "k": "moto g(50) 5G",
+        "d": "vicky"
+    },
+    {
+        "m": "moto g72",
+        "k": "moto g72",
+        "d": "vicky"
+    },
+    {
+        "m": "moto g73 5G",
+        "k": "moto g(50) 5G",
+        "d": "devonf"
+    },
+    {
+        "m": "moto g73 5G",
+        "k": "moto g73 5G",
+        "d": "devonf"
+    },
+    {
+        "m": "moto g75 5G",
+        "k": "moto g75 5G",
+        "d": "sorap"
+    },
+    {
+        "m": "moto g77",
+        "k": "moto g77",
+        "d": "naples"
+    },
+    {
+        "m": "moto g82 5G",
+        "k": "XT2169-2",
+        "d": "rhodep"
+    },
+    {
+        "m": "moto g82 5G",
+        "k": "XT2225-2",
+        "d": "rhodep"
+    },
+    {
+        "m": "moto g82 5G",
+        "k": "moto g71 5G",
+        "d": "rhodep"
+    },
+    {
+        "m": "moto g82 5G",
+        "k": "moto g82 5G",
+        "d": "rhodep"
+    },
+    {
+        "m": "moto g84 5G",
+        "k": "moto g53 5G",
+        "d": "bangkk"
+    },
+    {
+        "m": "moto g84 5G",
+        "k": "moto g84 5G",
+        "d": "bangkk"
+    },
+    {
+        "m": "moto g85 5G",
+        "k": "XT2427-4",
+        "d": "malmo"
+    },
+    {
+        "m": "moto g85 5G",
+        "k": "moto g85 5G",
+        "d": "malmo"
+    },
+    {
+        "m": "moto g85 5G",
+        "k": "motorola edge 40 pro",
+        "d": "malmo"
+    },
+    {
+        "m": "moto g86 5G",
+        "k": "moto g86 5G",
+        "d": "nice"
+    },
+    {
+        "m": "moto g86 5G",
+        "k": "motorola edge 50 neo",
+        "d": "nice"
+    },
+    {
+        "m": "moto g86 power 5G",
+        "k": "moto g86 power 5G",
+        "d": "nice"
+    },
+    {
+        "m": "moto g96 5G",
+        "k": "moto g96 5G",
+        "d": "cuscoi"
+    },
+    {
+        "m": "moto g96 5G",
+        "k": "motorola edge 50 fusion",
+        "d": "cuscoi"
+    },
+    {
+        "m": "moto gs",
+        "k": "moto g(60)",
+        "d": "lisbon"
+    },
+    {
+        "m": "moto gs",
+        "k": "moto g(60)s",
+        "d": "lisbon"
+    },
+    {
+        "m": "moto p30",
+        "k": "XT1943-1",
+        "d": "robusta"
+    },
+    {
+        "m": "moto p30 play",
+        "k": "XT1941-2",
+        "d": "deen"
+    },
+    {
+        "m": "moto razr 40",
+        "k": "XT2323-3",
+        "d": "lynkco"
+    },
+    {
+        "m": "moto razr 40 Ultra",
+        "k": "XT2321-2",
+        "d": "zeekr"
+    },
+    {
+        "m": "moto razr 50",
+        "k": "XT2451-4",
+        "d": "arcfox"
+    },
+    {
+        "m": "moto z3 play",
+        "k": "Moto Z3 Play",
+        "d": "beckham"
+    },
+    {
+        "m": "moto z4",
+        "k": "Moto Z3 Play",
+        "d": "foles"
+    },
+    {
+        "m": "moto z4",
+        "k": "moto z4",
+        "d": "foles"
+    },
+    {
+        "m": "motorola defy x",
+        "k": "motorola defy x",
+        "d": "BM2S1E"
+    },
+    {
+        "m": "motorola edge",
+        "k": "motorola edge",
+        "d": "racer"
+    },
+    {
+        "m": "motorola edge",
+        "k": "motorola edge (2021)",
+        "d": "berlna"
+    },
+    {
+        "m": "motorola edge",
+        "k": "motorola edge plus",
+        "d": "berlna"
+    },
+    {
+        "m": "motorola edge",
+        "k": "moto g(50) 5G",
+        "d": "tesla"
+    },
+    {
+        "m": "motorola edge",
+        "k": "motorola edge (2022)",
+        "d": "tesla"
+    },
+    {
+        "m": "motorola edge 20",
+        "k": "motorola edge 20",
+        "d": "berlin"
+    },
+    {
+        "m": "motorola edge 20",
+        "k": "motorola edge plus",
+        "d": "berlin"
+    },
+    {
+        "m": "motorola edge 20 fusion",
+        "k": "motorola",
+        "d": "kyoto"
+    },
+    {
+        "m": "motorola edge 20 fusion",
+        "k": "motorola edge 20 fusion",
+        "d": "kyoto"
+    },
+    {
+        "m": "motorola edge 20 lite",
+        "k": "motorola edge 20 lite",
+        "d": "kyoto"
+    },
+    {
+        "m": "motorola edge 20 pro",
+        "k": "moto g(100)",
+        "d": "pstar"
+    },
+    {
+        "m": "motorola edge 20 pro",
+        "k": "motorola edge 20 pro",
+        "d": "pstar"
+    },
+    {
+        "m": "motorola edge 2023",
+        "k": "motorola edge (2022)",
+        "d": "aion"
+    },
+    {
+        "m": "motorola edge 2023",
+        "k": "motorola edge 2023",
+        "d": "aion"
+    },
+    {
+        "m": "motorola edge 2024",
+        "k": "motorola edge 2023",
+        "d": "avatrn"
+    },
+    {
+        "m": "motorola edge 2024",
+        "k": "motorola edge 2024",
+        "d": "avatrn"
+    },
+    {
+        "m": "motorola edge 2025",
+        "k": "motorola edge 2025",
+        "d": "oulu"
+    },
+    {
+        "m": "motorola edge 2025",
+        "k": "motorola edge 50 neo",
+        "d": "oulu"
+    },
+    {
+        "m": "motorola edge 30",
+        "k": "moto g200 5G",
+        "d": "dubai"
+    },
+    {
+        "m": "motorola edge 30",
+        "k": "motorola edge 30",
+        "d": "dubai"
+    },
+    {
+        "m": "motorola edge 30 fusion",
+        "k": "moto g200 5G",
+        "d": "tundra"
+    },
+    {
+        "m": "motorola edge 30 fusion",
+        "k": "motorola edge 30 fusion",
+        "d": "tundra"
+    },
+    {
+        "m": "motorola edge 30 neo",
+        "k": "moto g71 5G",
+        "d": "miami"
+    },
+    {
+        "m": "motorola edge 30 neo",
+        "k": "motorola edge 30 neo",
+        "d": "miami"
+    },
+    {
+        "m": "motorola edge 30 pro",
+        "k": "motorola edge 30 pro",
+        "d": "hiphi"
+    },
+    {
+        "m": "motorola edge 30 pro",
+        "k": "motorola edge plus",
+        "d": "hiphi"
+    },
+    {
+        "m": "motorola edge 30 ultra",
+        "k": "motorola edge",
+        "d": "eqs"
+    },
+    {
+        "m": "motorola edge 30 ultra",
+        "k": "motorola edge 30 ultra",
+        "d": "eqs"
+    },
+    {
+        "m": "motorola edge 40",
+        "k": "moto g 5G (2022)",
+        "d": "lyriq"
+    },
+    {
+        "m": "motorola edge 40",
+        "k": "motorola edge 40",
+        "d": "lyriq"
+    },
+    {
+        "m": "motorola edge 40 neo",
+        "k": "motorola edge (2022)",
+        "d": "manaus"
+    },
+    {
+        "m": "motorola edge 40 neo",
+        "k": "motorola edge 40 neo",
+        "d": "manaus"
+    },
+    {
+        "m": "motorola edge 40 pro",
+        "k": "motorola edge 30 pro",
+        "d": "rtwo"
+    },
+    {
+        "m": "motorola edge 40 pro",
+        "k": "motorola edge 40 pro",
+        "d": "rtwo"
+    },
+    {
+        "m": "motorola edge 50",
+        "k": "motorola edge 50",
+        "d": "tank"
+    },
+    {
+        "m": "motorola edge 50",
+        "k": "motorola razr 40",
+        "d": "tank"
+    },
+    {
+        "m": "motorola edge 50 fusion",
+        "k": "moto g stylus 5G - 2023",
+        "d": "cusco"
+    },
+    {
+        "m": "motorola edge 50 fusion",
+        "k": "motorola edge 50 fusion",
+        "d": "cusco"
+    },
+    {
+        "m": "motorola edge 50 fusion",
+        "k": "moto g stylus 5G - 2023",
+        "d": "cuscoi"
+    },
+    {
+        "m": "motorola edge 50 neo",
+        "k": "motorola edge 50 neo",
+        "d": "vienna"
+    },
+    {
+        "m": "motorola edge 50 pro",
+        "k": "motorola edge 40 pro",
+        "d": "eqe"
+    },
+    {
+        "m": "motorola edge 50 pro",
+        "k": "motorola edge 50 pro",
+        "d": "eqe"
+    },
+    {
+        "m": "motorola edge 50 ultra",
+        "k": "motorola edge 40 pro",
+        "d": "ctwo"
+    },
+    {
+        "m": "motorola edge 50 ultra",
+        "k": "motorola edge 50 ultra",
+        "d": "ctwo"
+    },
+    {
+        "m": "motorola edge 5G UW",
+        "k": "motorola edge 5G UW",
+        "d": "berlna"
+    },
+    {
+        "m": "motorola edge 5G UW",
+        "k": "motorola edge 5G UW (2021)",
+        "d": "berlna"
+    },
+    {
+        "m": "motorola edge 60",
+        "k": "motorola edge 50 neo",
+        "d": "scout"
+    },
+    {
+        "m": "motorola edge 60",
+        "k": "motorola edge 60",
+        "d": "scout"
+    },
+    {
+        "m": "motorola edge 60 fusion",
+        "k": "motorola edge 60 fusion",
+        "d": "scout"
+    },
+    {
+        "m": "motorola edge 60 neo",
+        "k": "motorola edge 60 neo",
+        "d": "vienna"
+    },
+    {
+        "m": "motorola edge 60 pro",
+        "k": "moto g play - 2024",
+        "d": "cybert"
+    },
+    {
+        "m": "motorola edge 60 pro",
+        "k": "motorola edge 60 pro",
+        "d": "cybert"
+    },
+    {
+        "m": "motorola edge 60 stylus",
+        "k": "motorola edge 50 fusion",
+        "d": "monai"
+    },
+    {
+        "m": "motorola edge 60 stylus",
+        "k": "motorola edge 60 stylus",
+        "d": "monai"
+    },
+    {
+        "m": "motorola edge 60s pro",
+        "k": "motorola edge 60s pro",
+        "d": "cybert"
+    },
+    {
+        "m": "motorola edge 70",
+        "k": "motorola edge 50 ultra",
+        "d": "roadstr"
+    },
+    {
+        "m": "motorola edge 70",
+        "k": "motorola edge 70",
+        "d": "roadstr"
+    },
+    {
+        "m": "motorola edge 70 fusion",
+        "k": "motorola edge 50 ultra",
+        "d": "marvel"
+    },
+    {
+        "m": "motorola edge 70 fusion",
+        "k": "motorola edge 70 fusion",
+        "d": "marvel"
+    },
+    {
+        "m": "motorola edge 70 fusion +",
+        "k": "motorola edge 70 fusion plus",
+        "d": "marvel"
+    },
+    {
+        "m": "motorola edge 70 pro",
+        "k": "motorola edge 2025",
+        "d": "merc"
+    },
+    {
+        "m": "motorola edge 70 pro",
+        "k": "motorola edge 70 pro",
+        "d": "merc"
+    },
+    {
+        "m": "motorola edge S30",
+        "k": "XT2175-2",
+        "d": "xpeng"
+    },
+    {
+        "m": "motorola edge plus",
+        "k": "motorola edge plus",
+        "d": "burton"
+    },
+    {
+        "m": "motorola edge plus",
+        "k": "motorola edge plus (2022)",
+        "d": "hiphi"
+    },
+    {
+        "m": "motorola edge plus 2023",
+        "k": "motorola edge plus (2022)",
+        "d": "rtwo"
+    },
+    {
+        "m": "motorola edge plus 2023",
+        "k": "motorola edge plus 2023",
+        "d": "rtwo"
+    },
+    {
+        "m": "motorola edge plus 5G UW",
+        "k": "motorola edge plus 5G UW (2022)",
+        "d": "hiphi"
+    },
+    {
+        "m": "motorola edge s",
+        "k": "XT2125-4",
+        "d": "nio"
+    },
+    {
+        "m": "motorola edge s pro",
+        "k": "XT2153-1",
+        "d": "pstar"
+    },
+    {
+        "m": "motorola one 5G",
+        "k": "motorola one 5G",
+        "d": "nairo"
+    },
+    {
+        "m": "motorola one 5G UW",
+        "k": "motorola one 5G UW",
+        "d": "nairo"
+    },
+    {
+        "m": "motorola one 5G UW ace",
+        "k": "motorola one 5G UW ace",
+        "d": "kievv"
+    },
+    {
+        "m": "motorola one 5G UW ace",
+        "k": "motorola one 5G ace",
+        "d": "kievv"
+    },
+    {
+        "m": "motorola one 5G ace",
+        "k": "motorola one 5G ace",
+        "d": "kiev"
+    },
+    {
+        "m": "motorola one action",
+        "k": "motorola one action",
+        "d": "troika"
+    },
+    {
+        "m": "motorola one action",
+        "k": "motorola one action",
+        "d": "troika_sprout"
+    },
+    {
+        "m": "motorola one fusion",
+        "k": "motorola one fusion",
+        "d": "astro"
+    },
+    {
+        "m": "motorola one fusion+",
+        "k": "motorola one fusion+",
+        "d": "liber"
+    },
+    {
+        "m": "motorola one hyper",
+        "k": "motorola one hyper",
+        "d": "def"
+    },
+    {
+        "m": "motorola one macro",
+        "k": "motorola one macro",
+        "d": "lima"
+    },
+    {
+        "m": "motorola one power",
+        "k": "moto x4",
+        "d": "chef_sprout"
+    },
+    {
+        "m": "motorola one power",
+        "k": "motorola one power",
+        "d": "chef_sprout"
+    },
+    {
+        "m": "motorola one vision",
+        "k": "motorola one vision",
+        "d": "kane_sprout"
+    },
+    {
+        "m": "motorola one vision plus",
+        "k": "motorola one vision plus",
+        "d": "doha_n"
+    },
+    {
+        "m": "motorola one zoom",
+        "k": "moto z4",
+        "d": "parker"
+    },
+    {
+        "m": "motorola one zoom",
+        "k": "motorola one zoom",
+        "d": "parker"
+    },
+    {
+        "m": "motorola p50",
+        "k": "XT1970-5",
+        "d": "kane"
+    },
+    {
+        "m": "motorola razr",
+        "k": "motorola razr",
+        "d": "olson"
+    },
+    {
+        "m": "motorola razr",
+        "k": "motorola razr (2020)",
+        "d": "smith"
+    },
+    {
+        "m": "motorola razr 2022",
+        "k": "XT2251-1",
+        "d": "oneli"
+    },
+    {
+        "m": "motorola razr 2022",
+        "k": "motorola edge 30 pro",
+        "d": "oneli"
+    },
+    {
+        "m": "motorola razr 2022",
+        "k": "motorola razr 2022",
+        "d": "oneli"
+    },
+    {
+        "m": "motorola razr 2023",
+        "k": "motorola razr 2022",
+        "d": "lynkco"
+    },
+    {
+        "m": "motorola razr 2023",
+        "k": "motorola razr 2023",
+        "d": "lynkco"
+    },
+    {
+        "m": "motorola razr 2024",
+        "k": "motorola razr 2023",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 2024",
+        "k": "motorola razr 2024",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 2025",
+        "k": "motorola razr 2025",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 40",
+        "k": "motorola razr 40",
+        "d": "lynkco"
+    },
+    {
+        "m": "motorola razr 40 ultra",
+        "k": "motorola razr 2022",
+        "d": "zeekr"
+    },
+    {
+        "m": "motorola razr 40 ultra",
+        "k": "motorola razr 40 ultra",
+        "d": "zeekr"
+    },
+    {
+        "m": "motorola razr 40s",
+        "k": "motorola razr 40s",
+        "d": "lynkco"
+    },
+    {
+        "m": "motorola razr 50",
+        "k": "XT2453-2",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 50",
+        "k": "motorola razr 40",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 50",
+        "k": "motorola razr 50",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 50 ultra",
+        "k": "motorola razr 40 ultra",
+        "d": "arcfox"
+    },
+    {
+        "m": "motorola razr 50 ultra",
+        "k": "motorola razr 50 ultra",
+        "d": "arcfox"
+    },
+    {
+        "m": "motorola razr 50d M-51E",
+        "k": "M-51E",
+        "d": "M-51E"
+    },
+    {
+        "m": "motorola razr 50s",
+        "k": "motorola razr 50s",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 5G",
+        "k": "motorola razr 5G",
+        "d": "smith"
+    },
+    {
+        "m": "motorola razr 60",
+        "k": "motorola razr 60",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr 60 ultra",
+        "k": "XT2551-3",
+        "d": "leap"
+    },
+    {
+        "m": "motorola razr 60 ultra",
+        "k": "motorola razr 50 ultra",
+        "d": "leap"
+    },
+    {
+        "m": "motorola razr 60 ultra",
+        "k": "motorola razr 60 ultra",
+        "d": "leap"
+    },
+    {
+        "m": "motorola razr 60d M-51F",
+        "k": "M-51E",
+        "d": "M-51F"
+    },
+    {
+        "m": "motorola razr 60d M-51F",
+        "k": "M-51F",
+        "d": "M-51F"
+    },
+    {
+        "m": "motorola razr 60s",
+        "k": "motorola razr 60s",
+        "d": "aito"
+    },
+    {
+        "m": "motorola razr fold",
+        "k": "motorola edge 50 ultra",
+        "d": "blanc"
+    },
+    {
+        "m": "motorola razr fold",
+        "k": "motorola razr fold",
+        "d": "blanc"
+    },
+    {
+        "m": "motorola razr fold 2026",
+        "k": "motorola razr fold 2026",
+        "d": "blanc"
+    },
+    {
+        "m": "motorola razr plus 2023",
+        "k": "motorola razr plus 2023",
+        "d": "zeekr"
+    },
+    {
+        "m": "motorola razr plus 2024",
+        "k": "motorola razr plus 2023",
+        "d": "arcfox"
+    },
+    {
+        "m": "motorola razr plus 2024",
+        "k": "motorola razr plus 2024",
+        "d": "arcfox"
+    },
+    {
+        "m": "motorola razr plus 2025",
+        "k": "motorola razr plus 2025",
+        "d": "arcfox"
+    },
+    {
+        "m": "motorola razr ultra 2025",
+        "k": "motorola razr ultra 2025",
+        "d": "leap"
+    },
+    {
+        "m": "motorola signature",
+        "k": "motorola edge 50 ultra",
+        "d": "vantage"
+    },
+    {
+        "m": "motorola signature",
+        "k": "motorola signature",
+        "d": "vantage"
+    }
+]

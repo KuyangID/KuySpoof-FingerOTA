@@ -1,0 +1,8637 @@
+[
+    {
+        "m": "Elite",
+        "k": "SM-G1600",
+        "d": "eliteltechn"
+    },
+    {
+        "m": "Elite",
+        "k": "SM-G1650",
+        "d": "elitexltechn"
+    },
+    {
+        "m": "Galaxy A Quantum",
+        "k": "SM-A716S",
+        "d": "a71x"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015A",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015AZ",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015F",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015G",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015M",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015T1",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015U",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015U1",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-A015V",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01",
+        "k": "SM-S111DL",
+        "d": "a01q"
+    },
+    {
+        "m": "Galaxy A01 Core",
+        "k": "SM-A013F",
+        "d": "a01core"
+    },
+    {
+        "m": "Galaxy A01 Core",
+        "k": "SM-A013G",
+        "d": "a01core"
+    },
+    {
+        "m": "Galaxy A01 Core",
+        "k": "SM-A013M",
+        "d": "a01core"
+    },
+    {
+        "m": "Galaxy A02",
+        "k": "SM-A022F",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy A02",
+        "k": "SM-A022G",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy A02",
+        "k": "SM-A022M",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025A",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025AZ",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025F",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025G",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025M",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025U",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025U1",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-A025V",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A02s",
+        "k": "SM-S124DL",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy A03",
+        "k": "SM-A035F",
+        "d": "a03"
+    },
+    {
+        "m": "Galaxy A03",
+        "k": "SM-A035G",
+        "d": "a03"
+    },
+    {
+        "m": "Galaxy A03",
+        "k": "SM-A035M",
+        "d": "a03"
+    },
+    {
+        "m": "Galaxy A03 Core",
+        "k": "SM-A032F",
+        "d": "a3core"
+    },
+    {
+        "m": "Galaxy A03 Core",
+        "k": "SM-A032M",
+        "d": "a3core"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037F",
+        "d": "a03s"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037G",
+        "d": "a03s"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037M",
+        "d": "a03s"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037U",
+        "d": "a03su"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037U1",
+        "d": "a03su"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-A037W",
+        "d": "a03su"
+    },
+    {
+        "m": "Galaxy A03s",
+        "k": "SM-S134DL",
+        "d": "a03su"
+    },
+    {
+        "m": "Galaxy A04",
+        "k": "SM-A045F",
+        "d": "a04"
+    },
+    {
+        "m": "Galaxy A04",
+        "k": "SM-A045M",
+        "d": "a04"
+    },
+    {
+        "m": "Galaxy A04e",
+        "k": "SM-A042F",
+        "d": "a04e"
+    },
+    {
+        "m": "Galaxy A04e",
+        "k": "SM-A042M",
+        "d": "a04e"
+    },
+    {
+        "m": "Galaxy A04s",
+        "k": "SM-A047F",
+        "d": "a04s"
+    },
+    {
+        "m": "Galaxy A04s",
+        "k": "SM-A047M",
+        "d": "a04s"
+    },
+    {
+        "m": "Galaxy A05",
+        "k": "SM-A055F",
+        "d": "a05m"
+    },
+    {
+        "m": "Galaxy A05",
+        "k": "SM-A055M",
+        "d": "a05m"
+    },
+    {
+        "m": "Galaxy A05s",
+        "k": "SM-A057F",
+        "d": "a05s"
+    },
+    {
+        "m": "Galaxy A05s",
+        "k": "SM-A057G",
+        "d": "a05s"
+    },
+    {
+        "m": "Galaxy A05s",
+        "k": "SM-A057M",
+        "d": "a05s"
+    },
+    {
+        "m": "Galaxy A06",
+        "k": "SM-A065F",
+        "d": "a06"
+    },
+    {
+        "m": "Galaxy A06",
+        "k": "SM-A065M",
+        "d": "a06"
+    },
+    {
+        "m": "Galaxy A06 5G",
+        "k": "SM-A066B",
+        "d": "a06x"
+    },
+    {
+        "m": "Galaxy A06 5G",
+        "k": "SM-A066E",
+        "d": "a06x"
+    },
+    {
+        "m": "Galaxy A06 5G",
+        "k": "SM-A066M",
+        "d": "a06x"
+    },
+    {
+        "m": "Galaxy A07",
+        "k": "SM-A075F",
+        "d": "a07"
+    },
+    {
+        "m": "Galaxy A07",
+        "k": "SM-A075M",
+        "d": "a07"
+    },
+    {
+        "m": "Galaxy A07 5G",
+        "k": "SM-A076B",
+        "d": "a07x"
+    },
+    {
+        "m": "Galaxy A07 5G",
+        "k": "SM-A076E",
+        "d": "a07x"
+    },
+    {
+        "m": "Galaxy A07 5G",
+        "k": "SM-A076M",
+        "d": "a07x"
+    },
+    {
+        "m": "Galaxy A10",
+        "k": "SM-A105F",
+        "d": "a10"
+    },
+    {
+        "m": "Galaxy A10",
+        "k": "SM-A105FN",
+        "d": "a10"
+    },
+    {
+        "m": "Galaxy A10",
+        "k": "SM-A105G",
+        "d": "a10"
+    },
+    {
+        "m": "Galaxy A10",
+        "k": "SM-A105M",
+        "d": "a10"
+    },
+    {
+        "m": "Galaxy A10",
+        "k": "SM-A105N",
+        "d": "a10"
+    },
+    {
+        "m": "Galaxy A10e",
+        "k": "SM-A102U",
+        "d": "a10e"
+    },
+    {
+        "m": "Galaxy A10e",
+        "k": "SM-A102U1",
+        "d": "a10e"
+    },
+    {
+        "m": "Galaxy A10e",
+        "k": "SM-A102W",
+        "d": "a10e"
+    },
+    {
+        "m": "Galaxy A10e",
+        "k": "SM-S102DL",
+        "d": "a10e"
+    },
+    {
+        "m": "Galaxy A10e",
+        "k": "SM-A102N",
+        "d": "a10ekx"
+    },
+    {
+        "m": "Galaxy A10s",
+        "k": "SM-A107F",
+        "d": "a10s"
+    },
+    {
+        "m": "Galaxy A10s",
+        "k": "SM-A107M",
+        "d": "a10s"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115A",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115AP",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115AZ",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115F",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115M",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115U",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115U1",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-A115W",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A11",
+        "k": "SM-S115DL",
+        "d": "a11q"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125F",
+        "d": "a12"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125M",
+        "d": "a12"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125N",
+        "d": "a12"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A127F",
+        "d": "a12s"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A127M",
+        "d": "a12s"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125U",
+        "d": "a12u"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125U1",
+        "d": "a12u"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-A125W",
+        "d": "a12u"
+    },
+    {
+        "m": "Galaxy A12",
+        "k": "SM-S127DL",
+        "d": "a12u"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A135F",
+        "d": "a13"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A135M",
+        "d": "a13"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A135N",
+        "d": "a13"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A135U",
+        "d": "a13"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A135U1",
+        "d": "a13"
+    },
+    {
+        "m": "Galaxy A13",
+        "k": "SM-A137F",
+        "d": "a13ve"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136B",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136M",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136S",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136U",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136U1",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-A136W",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A13 5G",
+        "k": "SM-S136DL",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145F",
+        "d": "a14"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145FB",
+        "d": "a14"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145M",
+        "d": "a14"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145MB",
+        "d": "a14"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145P",
+        "d": "a14m"
+    },
+    {
+        "m": "Galaxy A14",
+        "k": "SM-A145R",
+        "d": "a14m"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146B",
+        "d": "a14x"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146M",
+        "d": "a14x"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146P",
+        "d": "a14xm"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146U",
+        "d": "a14xm"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146U1",
+        "d": "a14xm"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-A146W",
+        "d": "a14xm"
+    },
+    {
+        "m": "Galaxy A14 5G",
+        "k": "SM-S146VL",
+        "d": "a14xm"
+    },
+    {
+        "m": "Galaxy A15",
+        "k": "SM-A155F",
+        "d": "a15"
+    },
+    {
+        "m": "Galaxy A15",
+        "k": "SM-A155M",
+        "d": "a15"
+    },
+    {
+        "m": "Galaxy A15",
+        "k": "SM-A155N",
+        "d": "a15"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A1560",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156B",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156E",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156M",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156U",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156U1",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-A156W",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A15 5G",
+        "k": "SM-S156V",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy A16",
+        "k": "SM-A165F",
+        "d": "a16"
+    },
+    {
+        "m": "Galaxy A16",
+        "k": "SM-A165M",
+        "d": "a16"
+    },
+    {
+        "m": "Galaxy A16",
+        "k": "SM-A165N",
+        "d": "a16"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A1660",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166B",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166E",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166M",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166U",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166U1",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166W",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-S166V",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy A16 5G",
+        "k": "SM-A166P",
+        "d": "a16xm"
+    },
+    {
+        "m": "Galaxy A17",
+        "k": "SM-A175F",
+        "d": "a17"
+    },
+    {
+        "m": "Galaxy A17",
+        "k": "SM-A175N",
+        "d": "a17"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-A1760",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-A176B",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-A176U",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-A176U1",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-A176W",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A17 5G",
+        "k": "SM-S176V",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy A2 Core",
+        "k": "SM-A260F",
+        "d": "a2corelte"
+    },
+    {
+        "m": "Galaxy A2 Core",
+        "k": "SM-A260G",
+        "d": "a2corelte"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205F",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205FN",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205G",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205GN",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205W",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205YN",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205U",
+        "d": "a20p"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-A205U1",
+        "d": "a20p"
+    },
+    {
+        "m": "Galaxy A20",
+        "k": "SM-S205DL",
+        "d": "a20p"
+    },
+    {
+        "m": "Galaxy A20e",
+        "k": "SM-A202F",
+        "d": "a20e"
+    },
+    {
+        "m": "Galaxy A20s",
+        "k": "SM-A2070",
+        "d": "a20s"
+    },
+    {
+        "m": "Galaxy A20s",
+        "k": "SM-A207F",
+        "d": "a20s"
+    },
+    {
+        "m": "Galaxy A20s",
+        "k": "SM-A207M",
+        "d": "a20s"
+    },
+    {
+        "m": "Galaxy A21",
+        "k": "SM-A215U",
+        "d": "a21"
+    },
+    {
+        "m": "Galaxy A21",
+        "k": "SM-A215U1",
+        "d": "a21"
+    },
+    {
+        "m": "Galaxy A21",
+        "k": "SM-A215W",
+        "d": "a21"
+    },
+    {
+        "m": "Galaxy A21",
+        "k": "SM-S215DL",
+        "d": "a21"
+    },
+    {
+        "m": "Galaxy A21s",
+        "k": "SM-A217F",
+        "d": "a21s"
+    },
+    {
+        "m": "Galaxy A21s",
+        "k": "SM-A217M",
+        "d": "a21s"
+    },
+    {
+        "m": "Galaxy A21s",
+        "k": "SM-A217N",
+        "d": "a21s"
+    },
+    {
+        "m": "Galaxy A22",
+        "k": "SM-A225F",
+        "d": "a22"
+    },
+    {
+        "m": "Galaxy A22",
+        "k": "SM-A225M",
+        "d": "a22"
+    },
+    {
+        "m": "Galaxy A22 5G",
+        "k": "SM-A226B",
+        "d": "a22x"
+    },
+    {
+        "m": "Galaxy A22 5G",
+        "k": "SM-A226BR",
+        "d": "a22x"
+    },
+    {
+        "m": "Galaxy A23",
+        "k": "SM-A235F",
+        "d": "a23"
+    },
+    {
+        "m": "Galaxy A23",
+        "k": "SM-A235M",
+        "d": "a23"
+    },
+    {
+        "m": "Galaxy A23",
+        "k": "SM-A235N",
+        "d": "a23"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A233C",
+        "d": "a23ex"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A2360",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A236B",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A236E",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A236M",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A236U",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-A236U1",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-S236DL",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G",
+        "k": "SM-S237VL",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A23 5G UW",
+        "k": "SM-A236V",
+        "d": "a23xq"
+    },
+    {
+        "m": "Galaxy A24",
+        "k": "SM-A245F",
+        "d": "a24"
+    },
+    {
+        "m": "Galaxy A24",
+        "k": "SM-A245M",
+        "d": "a24"
+    },
+    {
+        "m": "Galaxy A24",
+        "k": "SM-A245N",
+        "d": "a24"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A253C",
+        "d": "a25ex"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A253Q",
+        "d": "a25ex"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A253Z",
+        "d": "a25ex"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A2560",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A256B",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A256E",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A256N",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A256U",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-A256U1",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A25 5G",
+        "k": "SM-S256VL",
+        "d": "a25x"
+    },
+    {
+        "m": "Galaxy A26 5G",
+        "k": "SM-A266B",
+        "d": "a26x"
+    },
+    {
+        "m": "Galaxy A26 5G",
+        "k": "SM-A266U",
+        "d": "a26x"
+    },
+    {
+        "m": "Galaxy A26 5G",
+        "k": "SM-A266U1",
+        "d": "a26x"
+    },
+    {
+        "m": "Galaxy A26 5G",
+        "k": "SM-S266V",
+        "d": "a26x"
+    },
+    {
+        "m": "Galaxy A26 5G",
+        "k": "SM-A266M",
+        "d": "a26xs"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300H",
+        "d": "a33g"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300F",
+        "d": "a3lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300M",
+        "d": "a3lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300XZ",
+        "d": "a3lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300YZ",
+        "d": "a3lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A3000",
+        "d": "a3ltechn"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300X",
+        "d": "a3ltechn"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A3009",
+        "d": "a3ltectc"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300G",
+        "d": "a3ltedd"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300F",
+        "d": "a3lteslk"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A3000",
+        "d": "a3ltezh"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300YZ",
+        "d": "a3ltezt"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300FU",
+        "d": "a3ulte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300XU",
+        "d": "a3ulte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A300Y",
+        "d": "a3ulte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A320Y",
+        "d": "a3y17lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A310F",
+        "d": "a3xelte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A310M",
+        "d": "a3xelte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A310X",
+        "d": "a3xelte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A310Y",
+        "d": "a3xelte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A310N0",
+        "d": "a3xeltekx"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A320F",
+        "d": "a3y17lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A320FL",
+        "d": "a3y17lte"
+    },
+    {
+        "m": "Galaxy A3",
+        "k": "SM-A320X",
+        "d": "a3y17lte"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305F",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305FN",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305G",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305GN",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305GT",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305N",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30",
+        "k": "SM-A305YN",
+        "d": "a30"
+    },
+    {
+        "m": "Galaxy A30s",
+        "k": "SM-A307FN",
+        "d": "a30s"
+    },
+    {
+        "m": "Galaxy A30s",
+        "k": "SM-A307G",
+        "d": "a30s"
+    },
+    {
+        "m": "Galaxy A30s",
+        "k": "SM-A307GN",
+        "d": "a30s"
+    },
+    {
+        "m": "Galaxy A30s",
+        "k": "SM-A307GT",
+        "d": "a30s"
+    },
+    {
+        "m": "Galaxy A31",
+        "k": "SM-A315F",
+        "d": "a31"
+    },
+    {
+        "m": "Galaxy A31",
+        "k": "SM-A315G",
+        "d": "a31"
+    },
+    {
+        "m": "Galaxy A31",
+        "k": "SM-A315N",
+        "d": "a31"
+    },
+    {
+        "m": "Galaxy A32",
+        "k": "SM-A325F",
+        "d": "a32"
+    },
+    {
+        "m": "Galaxy A32",
+        "k": "SM-A325M",
+        "d": "a32"
+    },
+    {
+        "m": "Galaxy A32",
+        "k": "SM-A325N",
+        "d": "a32"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-A326B",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-A326BR",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-A326U",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-A326U1",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-A326W",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A32 5G",
+        "k": "SM-S326DL",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy A33 5G",
+        "k": "SM-A3360",
+        "d": "a33x"
+    },
+    {
+        "m": "Galaxy A33 5G",
+        "k": "SM-A336B",
+        "d": "a33x"
+    },
+    {
+        "m": "Galaxy A33 5G",
+        "k": "SM-A336E",
+        "d": "a33x"
+    },
+    {
+        "m": "Galaxy A33 5G",
+        "k": "SM-A336M",
+        "d": "a33x"
+    },
+    {
+        "m": "Galaxy A33 5G",
+        "k": "SM-A336N",
+        "d": "a33x"
+    },
+    {
+        "m": "Galaxy A34 5G",
+        "k": "SM-A3460",
+        "d": "a34x"
+    },
+    {
+        "m": "Galaxy A34 5G",
+        "k": "SM-A346B",
+        "d": "a34x"
+    },
+    {
+        "m": "Galaxy A34 5G",
+        "k": "SM-A346E",
+        "d": "a34x"
+    },
+    {
+        "m": "Galaxy A34 5G",
+        "k": "SM-A346M",
+        "d": "a34x"
+    },
+    {
+        "m": "Galaxy A34 5G",
+        "k": "SM-A346N",
+        "d": "a34x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A3560",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356B",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356E",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356N",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356U",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356U1",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-A356W",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A35 5G",
+        "k": "SM-S356V",
+        "d": "a35x"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A3660",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366B",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366E",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366N",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366Q",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366U",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366U1",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-A366W",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A36 5G",
+        "k": "SM-S366V",
+        "d": "a36xq"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A3760",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A376B",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A376E",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A376U",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A376U1",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-A376W",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A37 5G",
+        "k": "SM-S376V",
+        "d": "a37x"
+    },
+    {
+        "m": "Galaxy A40",
+        "k": "SM-A405FM",
+        "d": "a40"
+    },
+    {
+        "m": "Galaxy A40",
+        "k": "SM-A405FN",
+        "d": "a40"
+    },
+    {
+        "m": "Galaxy A40",
+        "k": "SM-A405S",
+        "d": "a40"
+    },
+    {
+        "m": "Galaxy A40s",
+        "k": "SM-A3050",
+        "d": "a30c"
+    },
+    {
+        "m": "Galaxy A40s",
+        "k": "SM-A3051",
+        "d": "a30c"
+    },
+    {
+        "m": "Galaxy A40s",
+        "k": "SM-A3058",
+        "d": "a30c"
+    },
+    {
+        "m": "Galaxy A41",
+        "k": "SM-A415F",
+        "d": "a41"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-A4260",
+        "d": "a42xq"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-A426B",
+        "d": "a42xq"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-A426N",
+        "d": "a42xq"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-A426U",
+        "d": "a42xuq"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-A426U1",
+        "d": "a42xuq"
+    },
+    {
+        "m": "Galaxy A42 5G",
+        "k": "SM-S426DL",
+        "d": "a42xuq"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500H",
+        "d": "a53g"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500F",
+        "d": "a5lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500G",
+        "d": "a5lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500M",
+        "d": "a5lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500XZ",
+        "d": "a5lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5000",
+        "d": "a5ltechn"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500X",
+        "d": "a5ltechn"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5009",
+        "d": "a5ltectc"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5000",
+        "d": "a5ltezh"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500YZ",
+        "d": "a5ltezt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500FU",
+        "d": "a5ulte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500Y",
+        "d": "a5ulte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500W",
+        "d": "a5ultebmc"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500K",
+        "d": "a5ultektt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500L",
+        "d": "a5ultelgt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500F1",
+        "d": "a5ulteskt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A500S",
+        "d": "a5ulteskt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510Y",
+        "d": "a5xeltextc"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510F",
+        "d": "a5xelte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510M",
+        "d": "a5xelte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510X",
+        "d": "a5xelte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510Y",
+        "d": "a5xelte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5108",
+        "d": "a5xeltecmcc"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510K",
+        "d": "a5xeltektt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510L",
+        "d": "a5xeltelgt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510S",
+        "d": "a5xelteskt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5100",
+        "d": "a5xltechn"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A5100X",
+        "d": "a5xltechn"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A510XZ",
+        "d": "a5xltechn"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520F",
+        "d": "a5y17lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520X",
+        "d": "a5y17lte"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520W",
+        "d": "a5y17ltecan"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520K",
+        "d": "a5y17ltektt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520L",
+        "d": "a5y17ltelgt"
+    },
+    {
+        "m": "Galaxy A5",
+        "k": "SM-A520S",
+        "d": "a5y17lteskt"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505F",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505FM",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505FN",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505G",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505GN",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505GT",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505N",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505U",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505U1",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505W",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-A505YN",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50",
+        "k": "SM-S506DL",
+        "d": "a50"
+    },
+    {
+        "m": "Galaxy A50s",
+        "k": "SM-A5070",
+        "d": "a50s"
+    },
+    {
+        "m": "Galaxy A50s",
+        "k": "SM-A507FN",
+        "d": "a50s"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-A515F",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-A515U",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-A515U1",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-A515W",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-A515X",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51",
+        "k": "SM-S515DL",
+        "d": "a51"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A5160",
+        "d": "a51x"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A516B",
+        "d": "a51x"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A516N",
+        "d": "a51x"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A516U",
+        "d": "a51x"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A516U1",
+        "d": "a51x"
+    },
+    {
+        "m": "Galaxy A51 5G",
+        "k": "SM-A516V",
+        "d": "a51xq"
+    },
+    {
+        "m": "Galaxy A52",
+        "k": "SM-A525F",
+        "d": "a52q"
+    },
+    {
+        "m": "Galaxy A52",
+        "k": "SM-A525M",
+        "d": "a52q"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A5260",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A526B",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A526N",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A526U",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A526U1",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52 5G",
+        "k": "SM-A526W",
+        "d": "a52xq"
+    },
+    {
+        "m": "Galaxy A52s 5G",
+        "k": "SM-A528B",
+        "d": "a52sxq"
+    },
+    {
+        "m": "Galaxy A52s 5G",
+        "k": "SM-A528N",
+        "d": "a52sxq"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A5360",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536B",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536E",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536N",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536U",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536U1",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-A536W",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G",
+        "k": "SM-S536DL",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A53 5G UW",
+        "k": "SM-A536V",
+        "d": "a53x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A5460",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546B",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546E",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546U",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546U1",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546V",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-A546W",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A54 5G",
+        "k": "SM-S546VL",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy A55 5G",
+        "k": "SM-A5560",
+        "d": "a55x"
+    },
+    {
+        "m": "Galaxy A55 5G",
+        "k": "SM-A556B",
+        "d": "a55x"
+    },
+    {
+        "m": "Galaxy A55 5G",
+        "k": "SM-A556E",
+        "d": "a55x"
+    },
+    {
+        "m": "Galaxy A56 5G",
+        "k": "SM-A5660",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy A56 5G",
+        "k": "SM-A566B",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy A56 5G",
+        "k": "SM-A566E",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy A56 5G",
+        "k": "SM-A566U1",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy A56 5G",
+        "k": "SM-A566W",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A5760",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A576B",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A576Q",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A576U1",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A576W",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A57 5G",
+        "k": "SM-A576Z",
+        "d": "a57x"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600AZ",
+        "d": "a6elteaio"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600A",
+        "d": "a6elteatt"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600T1",
+        "d": "a6eltemtr"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600P",
+        "d": "a6eltespr"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600T",
+        "d": "a6eltetmo"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600U",
+        "d": "a6elteue"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600F",
+        "d": "a6lte"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600FN",
+        "d": "a6lte"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600G",
+        "d": "a6lte"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600GN",
+        "d": "a6lte"
+    },
+    {
+        "m": "Galaxy A6",
+        "k": "SM-A600N",
+        "d": "a6lteks"
+    },
+    {
+        "m": "Galaxy A6+",
+        "k": "SM-A605F",
+        "d": "a6plte"
+    },
+    {
+        "m": "Galaxy A6+",
+        "k": "SM-A605FN",
+        "d": "a6plte"
+    },
+    {
+        "m": "Galaxy A6+",
+        "k": "SM-A605G",
+        "d": "a6plte"
+    },
+    {
+        "m": "Galaxy A6+",
+        "k": "SM-A605GN",
+        "d": "a6plte"
+    },
+    {
+        "m": "Galaxy A6+",
+        "k": "SM-A6050",
+        "d": "a6pltechn"
+    },
+    {
+        "m": "Galaxy A60",
+        "k": "SM-A6060",
+        "d": "a60q"
+    },
+    {
+        "m": "Galaxy A60",
+        "k": "SM-A606Y",
+        "d": "a60q"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700H",
+        "d": "a73g"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700F",
+        "d": "a7alte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700FD",
+        "d": "a7lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700X",
+        "d": "a7lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A7000",
+        "d": "a7ltechn"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700YD",
+        "d": "a7ltechn"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A7009",
+        "d": "a7ltectc"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700K",
+        "d": "a7ltektt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700L",
+        "d": "a7ltelgt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A700S",
+        "d": "a7lteskt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750C",
+        "d": "a7y18ve"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750F",
+        "d": "a7y18lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750FN",
+        "d": "a7y18lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750G",
+        "d": "a7y18lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750GN",
+        "d": "a7y18lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A750N",
+        "d": "a7y18lteks"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710F",
+        "d": "a7xelte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710M",
+        "d": "a7xelte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710X",
+        "d": "a7xelte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A7108",
+        "d": "a7xeltecmcc"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710K",
+        "d": "a7xeltektt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710L",
+        "d": "a7xeltelgt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710S",
+        "d": "a7xelteskt"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710Y",
+        "d": "a7xeltextc"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A7100",
+        "d": "a7xltechn"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A710XZ",
+        "d": "a7xltechn"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A720F",
+        "d": "a7y17lte"
+    },
+    {
+        "m": "Galaxy A7",
+        "k": "SM-A720S",
+        "d": "a7y17lteskt"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A7050",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705F",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705FN",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705GM",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705MN",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705U",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705W",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70",
+        "k": "SM-A705YN",
+        "d": "a70q"
+    },
+    {
+        "m": "Galaxy A70s",
+        "k": "SM-A7070",
+        "d": "a70s"
+    },
+    {
+        "m": "Galaxy A70s",
+        "k": "SM-A707F",
+        "d": "a70s"
+    },
+    {
+        "m": "Galaxy A71",
+        "k": "SM-A715F",
+        "d": "a71"
+    },
+    {
+        "m": "Galaxy A71",
+        "k": "SM-A715W",
+        "d": "a71"
+    },
+    {
+        "m": "Galaxy A71",
+        "k": "SM-A715X",
+        "d": "a71"
+    },
+    {
+        "m": "Galaxy A71 5G",
+        "k": "SM-A7160",
+        "d": "a71x"
+    },
+    {
+        "m": "Galaxy A71 5G",
+        "k": "SM-A716B",
+        "d": "a71x"
+    },
+    {
+        "m": "Galaxy A71 5G",
+        "k": "SM-A716U",
+        "d": "a71xq"
+    },
+    {
+        "m": "Galaxy A71 5G",
+        "k": "SM-A716U1",
+        "d": "a71xq"
+    },
+    {
+        "m": "Galaxy A71 5G",
+        "k": "SM-A716V",
+        "d": "a71xq"
+    },
+    {
+        "m": "Galaxy A72",
+        "k": "SM-A725F",
+        "d": "a72q"
+    },
+    {
+        "m": "Galaxy A72",
+        "k": "SM-A725M",
+        "d": "a72q"
+    },
+    {
+        "m": "Galaxy A73 5G",
+        "k": "SM-A736B",
+        "d": "a73xq"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800F",
+        "d": "a8elte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800YZ",
+        "d": "a8elte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800S",
+        "d": "a8elteskt"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800I",
+        "d": "a8hplte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800IZ",
+        "d": "a8hplte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A8000",
+        "d": "a8ltechn"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A800X",
+        "d": "a8ltechn"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A810F",
+        "d": "a8xelte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A810YZ",
+        "d": "a8xelte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A810S",
+        "d": "a8xelteskt"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A530F",
+        "d": "jackpotlte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A530X",
+        "d": "jackpotlte"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A530W",
+        "d": "jackpotltecan"
+    },
+    {
+        "m": "Galaxy A8",
+        "k": "SM-A530N",
+        "d": "jackpotlteks"
+    },
+    {
+        "m": "Galaxy A8 Star",
+        "k": "SM-G885F",
+        "d": "astarqlte"
+    },
+    {
+        "m": "Galaxy A8 Star",
+        "k": "SM-G885Y",
+        "d": "astarqlte"
+    },
+    {
+        "m": "Galaxy A8 Star",
+        "k": "SM-G8850",
+        "d": "astarqltechn"
+    },
+    {
+        "m": "Galaxy A8 Star",
+        "k": "SM-G885S",
+        "d": "astarqlteskt"
+    },
+    {
+        "m": "Galaxy A8+",
+        "k": "SM-A730F",
+        "d": "jackpot2lte"
+    },
+    {
+        "m": "Galaxy A8+",
+        "k": "SM-A730X",
+        "d": "jackpot2lte"
+    },
+    {
+        "m": "Galaxy A80",
+        "k": "SM-A8050",
+        "d": "r1q"
+    },
+    {
+        "m": "Galaxy A80",
+        "k": "SM-A805F",
+        "d": "r1q"
+    },
+    {
+        "m": "Galaxy A80",
+        "k": "SM-A805N",
+        "d": "r1q"
+    },
+    {
+        "m": "Galaxy A8s",
+        "k": "SM-G887F",
+        "d": "a8sqlte"
+    },
+    {
+        "m": "Galaxy A8s",
+        "k": "SM-G8870",
+        "d": "a8sqltechn"
+    },
+    {
+        "m": "Galaxy A9",
+        "k": "SM-A920F",
+        "d": "a9y18qlte"
+    },
+    {
+        "m": "Galaxy A9",
+        "k": "SM-A920N",
+        "d": "a9y18qltekx"
+    },
+    {
+        "m": "Galaxy A9",
+        "k": "SM-A9000",
+        "d": "a9xltechn"
+    },
+    {
+        "m": "Galaxy A9 2018",
+        "k": "SM-A9200",
+        "d": "a9y18qltechn"
+    },
+    {
+        "m": "Galaxy A9 Pro",
+        "k": "SM-G887N",
+        "d": "a8sqlteks"
+    },
+    {
+        "m": "Galaxy A9 Pro",
+        "k": "SM-A9100",
+        "d": "a9xproltechn"
+    },
+    {
+        "m": "Galaxy A9 Pro",
+        "k": "SM-A910F",
+        "d": "a9xproltesea"
+    },
+    {
+        "m": "Galaxy A9 Star",
+        "k": "SM-G8858",
+        "d": "astarqltecmcc"
+    },
+    {
+        "m": "Galaxy A9 Star Lite",
+        "k": "SM-A605XC",
+        "d": "a6pltechn"
+    },
+    {
+        "m": "Galaxy A9 Star Lite",
+        "k": "SM-A6058",
+        "d": "a6pltecmcc"
+    },
+    {
+        "m": "Galaxy A90 5G",
+        "k": "SM-A9080",
+        "d": "r3q"
+    },
+    {
+        "m": "Galaxy A90 5G",
+        "k": "SM-A908B",
+        "d": "r3q"
+    },
+    {
+        "m": "Galaxy A90 5G",
+        "k": "SM-A908N",
+        "d": "r3q"
+    },
+    {
+        "m": "Galaxy Ace",
+        "k": "SM-G310R5",
+        "d": "heat3gou"
+    },
+    {
+        "m": "Galaxy Ace",
+        "k": "SM-G357M",
+        "d": "heatlte"
+    },
+    {
+        "m": "Galaxy Ace 4",
+        "k": "SM-G313HU",
+        "d": "vivaltods5m"
+    },
+    {
+        "m": "Galaxy Ace 4",
+        "k": "SM-G313HY",
+        "d": "vivaltods5m"
+    },
+    {
+        "m": "Galaxy Ace 4",
+        "k": "SM-G313M",
+        "d": "vivaltods5m"
+    },
+    {
+        "m": "Galaxy Ace 4",
+        "k": "SM-G313MY",
+        "d": "vivaltods5m"
+    },
+    {
+        "m": "Galaxy Ace 4 Lite",
+        "k": "SM-G313U",
+        "d": "vivalto3g"
+    },
+    {
+        "m": "Galaxy Ace Style",
+        "k": "SM-S765C",
+        "d": "heat3gtfnvzw"
+    },
+    {
+        "m": "Galaxy Ace Style",
+        "k": "SM-S766C",
+        "d": "heat3gtfnvzw"
+    },
+    {
+        "m": "Galaxy Ace Style",
+        "k": "SM-G310HN",
+        "d": "heatnfc3g"
+    },
+    {
+        "m": "Galaxy Ace Style",
+        "k": "SM-G357FZ",
+        "d": "heatqlte"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G313ML",
+        "d": "vivalto3g"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G316H",
+        "d": "vivalto3mve3g"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G316HU",
+        "d": "vivalto5mve3g"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G316M",
+        "d": "vivalto5mve3g"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G316MY",
+        "d": "vivalto5mve3g"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G313F",
+        "d": "vivaltolte"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G313MU",
+        "d": "vivaltolte"
+    },
+    {
+        "m": "Galaxy Ace4",
+        "k": "SM-G313HN",
+        "d": "vivaltonfc3g"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G3139D",
+        "d": "vivalto"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G313H",
+        "d": "vivalto3g"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G316U",
+        "d": "vivalto3mve3gltn"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G318H",
+        "d": "vivalto3mveml3g"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G318ML",
+        "d": "vivalto3mveml3g"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G318HZ",
+        "d": "vivalto3mveml3gsea"
+    },
+    {
+        "m": "Galaxy Ace4 Lite",
+        "k": "SM-G318MZ",
+        "d": "vivalto3mveml3gsea"
+    },
+    {
+        "m": "Galaxy Ace4 Neo",
+        "k": "SM-G316ML",
+        "d": "vivalto3mve3gltn"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850F",
+        "d": "slte"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850FQ",
+        "d": "slte"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850M",
+        "d": "slte"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850X",
+        "d": "slte"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850Y",
+        "d": "slte"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850W",
+        "d": "sltecan"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G8508S",
+        "d": "sltechn"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850K",
+        "d": "sltektt"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850L",
+        "d": "sltelgt"
+    },
+    {
+        "m": "Galaxy Alpha",
+        "k": "SM-G850S",
+        "d": "slteskt"
+    },
+    {
+        "m": "Galaxy Avant",
+        "k": "SM-G386T",
+        "d": "afyonltetmo"
+    },
+    {
+        "m": "Galaxy Buddy",
+        "k": "SM-A226L",
+        "d": "a22x"
+    },
+    {
+        "m": "Galaxy Buddy2",
+        "k": "SM-M236L",
+        "d": "m23xq"
+    },
+    {
+        "m": "Galaxy Buddy3",
+        "k": "SM-A156L",
+        "d": "a15x"
+    },
+    {
+        "m": "Galaxy Buddy4",
+        "k": "SM-A166L",
+        "d": "a16x"
+    },
+    {
+        "m": "Galaxy Buddy5",
+        "k": "SM-A176L",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy C5",
+        "k": "SM-C5000",
+        "d": "c5ltechn"
+    },
+    {
+        "m": "Galaxy C5",
+        "k": "SM-C500X",
+        "d": "c5ltechn"
+    },
+    {
+        "m": "Galaxy C5",
+        "k": "SM-C5000",
+        "d": "c5pltechn"
+    },
+    {
+        "m": "Galaxy C5 Pro",
+        "k": "SM-C5010",
+        "d": "c5proltechn"
+    },
+    {
+        "m": "Galaxy C5 Pro",
+        "k": "SM-C5018",
+        "d": "c5proltechn"
+    },
+    {
+        "m": "Galaxy C55 5G",
+        "k": "SM-C5560",
+        "d": "m55xq"
+    },
+    {
+        "m": "Galaxy C7",
+        "k": "SM-C7000",
+        "d": "c7ltechn"
+    },
+    {
+        "m": "Galaxy C7",
+        "k": "SM-C700X",
+        "d": "c7ltechn"
+    },
+    {
+        "m": "Galaxy C7",
+        "k": "SM-C701X",
+        "d": "c7proltechn"
+    },
+    {
+        "m": "Galaxy C7 Pro",
+        "k": "SM-C701F",
+        "d": "c7prolte"
+    },
+    {
+        "m": "Galaxy C7 Pro",
+        "k": "SM-C7010",
+        "d": "c7proltechn"
+    },
+    {
+        "m": "Galaxy C7 Pro",
+        "k": "SM-C7018",
+        "d": "c7proltechn"
+    },
+    {
+        "m": "Galaxy C8",
+        "k": "SM-C7100",
+        "d": "jadeltechn"
+    },
+    {
+        "m": "Galaxy C8",
+        "k": "SM-C710X",
+        "d": "jadeltechn"
+    },
+    {
+        "m": "Galaxy C8",
+        "k": "SM-C7108",
+        "d": "jadeltecmcc"
+    },
+    {
+        "m": "Galaxy C9 Pro",
+        "k": "SM-C900F",
+        "d": "c9lte"
+    },
+    {
+        "m": "Galaxy C9 Pro",
+        "k": "SM-C900Y",
+        "d": "c9lte"
+    },
+    {
+        "m": "Galaxy C9 Pro",
+        "k": "SM-C9000",
+        "d": "c9ltechn"
+    },
+    {
+        "m": "Galaxy C9 Pro",
+        "k": "SM-C9008",
+        "d": "c9ltechn"
+    },
+    {
+        "m": "Galaxy C9 Pro",
+        "k": "SM-C900X",
+        "d": "c9ltechn"
+    },
+    {
+        "m": "Galaxy Core",
+        "k": "SM-G386T1",
+        "d": "afyonlteMetroPCS"
+    },
+    {
+        "m": "Galaxy Core",
+        "k": "SM-G386W",
+        "d": "afyonltecan"
+    },
+    {
+        "m": "Galaxy Core 2",
+        "k": "SM-G355H",
+        "d": "kanas"
+    },
+    {
+        "m": "Galaxy Core LTE",
+        "k": "SM-G386F",
+        "d": "afyonlte"
+    },
+    {
+        "m": "Galaxy Core LTE",
+        "k": "SM-G3518",
+        "d": "cs03lte"
+    },
+    {
+        "m": "Galaxy Core Lite",
+        "k": "SM-G3586V",
+        "d": "victorlte"
+    },
+    {
+        "m": "Galaxy Core Lite",
+        "k": "SM-G3589W",
+        "d": "victorlte"
+    },
+    {
+        "m": "Galaxy Core Max",
+        "k": "SM-G5108",
+        "d": "kleoslte"
+    },
+    {
+        "m": "Galaxy Core Max Duos",
+        "k": "SM-G5108Q",
+        "d": "kleoslte"
+    },
+    {
+        "m": "Galaxy Core Plus",
+        "k": "SM-G350",
+        "d": "cs02"
+    },
+    {
+        "m": "Galaxy Core Plus",
+        "k": "SM-G3502",
+        "d": "cs023g"
+    },
+    {
+        "m": "Galaxy Core Plus",
+        "k": "SM-G3502L",
+        "d": "cs02ve3g"
+    },
+    {
+        "m": "Galaxy Core Plus",
+        "k": "SM-G350L",
+        "d": "cs02ve3gss"
+    },
+    {
+        "m": "Galaxy Core Plus",
+        "k": "SM-G350M",
+        "d": "cs02ve3gss"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360H",
+        "d": "core33g"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360HU",
+        "d": "core33g"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360F",
+        "d": "coreprimelte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360FY",
+        "d": "coreprimelte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360M",
+        "d": "coreprimelte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360R6",
+        "d": "coreprimeltelra"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360P",
+        "d": "coreprimeltespr"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-S820L",
+        "d": "coreprimeltetfnvzw"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360V",
+        "d": "coreprimeltevzw"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G361H",
+        "d": "coreprimeve3g"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G361HU",
+        "d": "coreprimeve3g"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G361F",
+        "d": "coreprimevelte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G361M",
+        "d": "coreprimevelte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360T1",
+        "d": "cprimeltemtr"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360T",
+        "d": "cprimeltetmo"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G3606",
+        "d": "rossalte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G3608",
+        "d": "rossalte"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G3609",
+        "d": "rossaltectc"
+    },
+    {
+        "m": "Galaxy Core Prime",
+        "k": "SM-G360GY",
+        "d": "rossaltexsa"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G355HQ",
+        "d": "kanas"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G355M",
+        "d": "kanas"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G3556D",
+        "d": "kanas3g"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G3558",
+        "d": "kanas3gcmcc"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G3559",
+        "d": "kanas3gctc"
+    },
+    {
+        "m": "Galaxy Core2",
+        "k": "SM-G355HN",
+        "d": "kanas3gnfc"
+    },
+    {
+        "m": "Galaxy E5",
+        "k": "SM-E500H",
+        "d": "e53g"
+    },
+    {
+        "m": "Galaxy E5",
+        "k": "SM-E500F",
+        "d": "e5lte"
+    },
+    {
+        "m": "Galaxy E5",
+        "k": "SM-E500M",
+        "d": "e5lte"
+    },
+    {
+        "m": "Galaxy E5",
+        "k": "SM-S978L",
+        "d": "e5ltetfnvzw"
+    },
+    {
+        "m": "Galaxy E5",
+        "k": "SM-E500YZ",
+        "d": "e5ltetw"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E700H",
+        "d": "e73g"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E700F",
+        "d": "e7lte"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E700M",
+        "d": "e7lte"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E7000",
+        "d": "e7ltechn"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E7009",
+        "d": "e7ltectc"
+    },
+    {
+        "m": "Galaxy E7",
+        "k": "SM-E7000",
+        "d": "e7ltehktw"
+    },
+    {
+        "m": "Galaxy Elite",
+        "k": "SM-G165N",
+        "d": "elite3gkx"
+    },
+    {
+        "m": "Galaxy Express2",
+        "k": "SM-G3815",
+        "d": "wilcoxlte"
+    },
+    {
+        "m": "Galaxy F02s",
+        "k": "SM-E025F",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy F04",
+        "k": "SM-E045F",
+        "d": "m04"
+    },
+    {
+        "m": "Galaxy F05",
+        "k": "SM-E055F",
+        "d": "a05m"
+    },
+    {
+        "m": "Galaxy F06 5G",
+        "k": "SM-E066B",
+        "d": "a06x"
+    },
+    {
+        "m": "Galaxy F07",
+        "k": "SM-E075F",
+        "d": "a07"
+    },
+    {
+        "m": "Galaxy F12",
+        "k": "SM-F127G",
+        "d": "f12"
+    },
+    {
+        "m": "Galaxy F13",
+        "k": "SM-E135F",
+        "d": "m13"
+    },
+    {
+        "m": "Galaxy F14",
+        "k": "SM-E145F",
+        "d": "a05s"
+    },
+    {
+        "m": "Galaxy F14 5G",
+        "k": "SM-E146B",
+        "d": "m14x"
+    },
+    {
+        "m": "Galaxy F15 5G",
+        "k": "SM-E156B",
+        "d": "m15x"
+    },
+    {
+        "m": "Galaxy F16 5G",
+        "k": "SM-E166P",
+        "d": "m16xm"
+    },
+    {
+        "m": "Galaxy F17 5G",
+        "k": "SM-E176B",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy F22",
+        "k": "SM-E225F",
+        "d": "f22"
+    },
+    {
+        "m": "Galaxy F23 5G",
+        "k": "SM-E236B",
+        "d": "m23xq"
+    },
+    {
+        "m": "Galaxy F34 5G",
+        "k": "SM-E346B",
+        "d": "m34x"
+    },
+    {
+        "m": "Galaxy F36 5G",
+        "k": "SM-E366B",
+        "d": "m36x"
+    },
+    {
+        "m": "Galaxy F41",
+        "k": "SM-F415F",
+        "d": "f41"
+    },
+    {
+        "m": "Galaxy F42 5G",
+        "k": "SM-E426B",
+        "d": "f42x"
+    },
+    {
+        "m": "Galaxy F52 5G",
+        "k": "SM-E5260",
+        "d": "f52x"
+    },
+    {
+        "m": "Galaxy F54 5G",
+        "k": "SM-E546B",
+        "d": "m54x"
+    },
+    {
+        "m": "Galaxy F55 5G",
+        "k": "SM-E556B",
+        "d": "m55xq"
+    },
+    {
+        "m": "Galaxy F56 5G",
+        "k": "SM-E566B",
+        "d": "m56x"
+    },
+    {
+        "m": "Galaxy F62",
+        "k": "SM-E625F",
+        "d": "f62"
+    },
+    {
+        "m": "Galaxy F70e 5G",
+        "k": "SM-E076B",
+        "d": "a07x"
+    },
+    {
+        "m": "Galaxy Fold",
+        "k": "SM-F9000",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold",
+        "k": "SM-F900F",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold",
+        "k": "SM-F900U",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold",
+        "k": "SM-F900U1",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold",
+        "k": "SM-F900W",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold 5G",
+        "k": "SM-F907B",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Fold 5G",
+        "k": "SM-F907N",
+        "d": "winner"
+    },
+    {
+        "m": "Galaxy Folder",
+        "k": "SM-G155S",
+        "d": "novel3gskt"
+    },
+    {
+        "m": "Galaxy Folder",
+        "k": "SM-G150NK",
+        "d": "novelltektt"
+    },
+    {
+        "m": "Galaxy Folder",
+        "k": "SM-G150N0",
+        "d": "novelltekx"
+    },
+    {
+        "m": "Galaxy Folder",
+        "k": "SM-G150NL",
+        "d": "novelltelgt"
+    },
+    {
+        "m": "Galaxy Folder",
+        "k": "SM-G150NS",
+        "d": "novellteskt"
+    },
+    {
+        "m": "Galaxy Folder2",
+        "k": "SM-G160N",
+        "d": "eliteltekx"
+    },
+    {
+        "m": "Galaxy Folder2",
+        "k": "SM-G1650",
+        "d": "elitexlte"
+    },
+    {
+        "m": "Galaxy Grand Max",
+        "k": "SM-G7202",
+        "d": "grandmax3g"
+    },
+    {
+        "m": "Galaxy Grand Max",
+        "k": "SM-G7200",
+        "d": "grandmaxltechn"
+    },
+    {
+        "m": "Galaxy Grand Max",
+        "k": "SM-G720AX",
+        "d": "grandmaxltechn"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530H",
+        "d": "fortuna3g"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G5306W",
+        "d": "fortunalte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G5308W",
+        "d": "fortunalte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530F",
+        "d": "fortunalte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530M",
+        "d": "fortunalte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G5309W",
+        "d": "fortunaltectc"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G5308W",
+        "d": "fortunaltezh"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530MU",
+        "d": "fortunaltezt"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530Y",
+        "d": "fortunaltezt"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530H",
+        "d": "fortunave3g"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530R7",
+        "d": "gprimelteacg"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530W",
+        "d": "gprimeltecan"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530T1",
+        "d": "gprimeltemtr"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530P",
+        "d": "gprimeltespr"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-S920L",
+        "d": "gprimeltetfnvzw"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530T",
+        "d": "gprimeltetmo"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530R4",
+        "d": "gprimelteusc"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G530FZ",
+        "d": "grandprimelte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G531H",
+        "d": "grandprimeve3g"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G531F",
+        "d": "grandprimevelte"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G531M",
+        "d": "grandprimevelteltn"
+    },
+    {
+        "m": "Galaxy Grand Prime",
+        "k": "SM-G531Y",
+        "d": "grandprimeveltezt"
+    },
+    {
+        "m": "Galaxy Grand Prime Plus",
+        "k": "SM-G532F",
+        "d": "grandpplte"
+    },
+    {
+        "m": "Galaxy Grand Prime Pro",
+        "k": "SM-J250F",
+        "d": "j2y18lte"
+    },
+    {
+        "m": "Galaxy Grand-Max",
+        "k": "SM-G720N0",
+        "d": "grandmaxltekx"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7102",
+        "d": "ms013g"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7106",
+        "d": "ms013g"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7108",
+        "d": "ms013g"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7109",
+        "d": "ms013g"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G710",
+        "d": "ms013gss"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7105",
+        "d": "ms01lte"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7105H",
+        "d": "ms01lte"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G7105L",
+        "d": "ms01lte"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G710K",
+        "d": "ms01ltektt"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G710L",
+        "d": "ms01ltelgt"
+    },
+    {
+        "m": "Galaxy Grand2",
+        "k": "SM-G710S",
+        "d": "ms01lteskt"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100H",
+        "d": "j13g"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100ML",
+        "d": "j13g"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-S777C",
+        "d": "j13gtfnvzw"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100F",
+        "d": "j1lte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100G",
+        "d": "j1lte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100M",
+        "d": "j1lte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100FN",
+        "d": "j1nlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100MU",
+        "d": "j1nlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100Y",
+        "d": "j1nlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J100VPP",
+        "d": "j1qltevzw"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120F",
+        "d": "j1xlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120FN",
+        "d": "j1xlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120M",
+        "d": "j1xlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120W",
+        "d": "j1xltecan"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120P",
+        "d": "j1xqltespr"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-S120VL",
+        "d": "j1xqltetfnvzw"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120H",
+        "d": "j1x3g"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120G",
+        "d": "j1xlte"
+    },
+    {
+        "m": "Galaxy J1",
+        "k": "SM-J120ZN",
+        "d": "j1xlte"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J110F",
+        "d": "j1acelte"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J110G",
+        "d": "j1acelte"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J110M",
+        "d": "j1acelteltn"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J111F",
+        "d": "j1acevelte"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J111M",
+        "d": "j1acevelte"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J110H",
+        "d": "j1pop3g"
+    },
+    {
+        "m": "Galaxy J1 Ace",
+        "k": "SM-J110L",
+        "d": "j1pop3g"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105B",
+        "d": "j1mini3g"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105H",
+        "d": "j1mini3g"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105B",
+        "d": "j1mini3gdx"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105H",
+        "d": "j1mini3gxw"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105F",
+        "d": "j1minilte"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105M",
+        "d": "j1minilte"
+    },
+    {
+        "m": "Galaxy J1 Mini",
+        "k": "SM-J105Y",
+        "d": "j1minilte"
+    },
+    {
+        "m": "Galaxy J1 Mini Prime",
+        "k": "SM-J106B",
+        "d": "j1minive3g"
+    },
+    {
+        "m": "Galaxy J1 Mini Prime",
+        "k": "SM-J106H",
+        "d": "j1minive3g"
+    },
+    {
+        "m": "Galaxy J1 Mini Prime",
+        "k": "SM-J106B",
+        "d": "j1minive3gxtc"
+    },
+    {
+        "m": "Galaxy J1 Mini Prime",
+        "k": "SM-J106M",
+        "d": "j1minivelte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200H",
+        "d": "j23g"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J260T1",
+        "d": "j2corepltemtr"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-S260DL",
+        "d": "j2corepltetfntmo"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200F",
+        "d": "j2lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200G",
+        "d": "j2lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200GU",
+        "d": "j2lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200M",
+        "d": "j2lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J200Y",
+        "d": "j2lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J250Y",
+        "d": "j2y18lte"
+    },
+    {
+        "m": "Galaxy J2",
+        "k": "SM-J210F",
+        "d": "j2xlte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260F",
+        "d": "j2corelte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260G",
+        "d": "j2corelte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260M",
+        "d": "j2corelte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260Y",
+        "d": "j2corelte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260FU",
+        "d": "j2corey20lte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260GU",
+        "d": "j2corey20lte"
+    },
+    {
+        "m": "Galaxy J2 Core",
+        "k": "SM-J260MU",
+        "d": "j2corey20lte"
+    },
+    {
+        "m": "Galaxy J2 Prime",
+        "k": "SM-G532G",
+        "d": "grandpplte"
+    },
+    {
+        "m": "Galaxy J2 Prime",
+        "k": "SM-G532M",
+        "d": "grandpplte"
+    },
+    {
+        "m": "Galaxy J2 Pro",
+        "k": "SM-J210F",
+        "d": "j2xlteins"
+    },
+    {
+        "m": "Galaxy J2 Pro",
+        "k": "SM-J250G",
+        "d": "j2y18lte"
+    },
+    {
+        "m": "Galaxy J2 Pro",
+        "k": "SM-J250M",
+        "d": "j2y18lte"
+    },
+    {
+        "m": "Galaxy J2 Pure",
+        "k": "SM-J260AZ",
+        "d": "j2coreplteaio"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J3109",
+        "d": "j3ltectc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320P",
+        "d": "j3ltespr"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J327U",
+        "d": "j3popelteue"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J327R7",
+        "d": "j3poplteacg"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J327R6",
+        "d": "j3popltelra"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J327R4",
+        "d": "j3poplteusc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J337R7",
+        "d": "j3topelteacg"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J337VPP",
+        "d": "j3topeltevzw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J337U",
+        "d": "j3toplteue"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320H",
+        "d": "j3x3g"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J3300",
+        "d": "j3y17qltecmcc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J3308",
+        "d": "j3y17qltecmcc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320N0",
+        "d": "j3ltekx"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-S320VL",
+        "d": "j3ltetfnvzw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320Y",
+        "d": "j3ltetw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320YZ",
+        "d": "j3ltetw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320R4",
+        "d": "j3lteusc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320V",
+        "d": "j3ltevzw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320VPP",
+        "d": "j3ltevzw"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320ZN",
+        "d": "j3ltexsa"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320F",
+        "d": "j3xlte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320G",
+        "d": "j3xlte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320M",
+        "d": "j3xlte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320W8",
+        "d": "j3xltebmc"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J320FN",
+        "d": "j3xnlte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J330F",
+        "d": "j3y17lte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J330FN",
+        "d": "j3y17lte"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J330N",
+        "d": "j3y17ltekx"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J330L",
+        "d": "j3y17ltelgt"
+    },
+    {
+        "m": "Galaxy J3",
+        "k": "SM-J337W",
+        "d": "j3topltecs"
+    },
+    {
+        "m": "Galaxy J3 Achieve",
+        "k": "SM-J337P",
+        "d": "j3topeltespr"
+    },
+    {
+        "m": "Galaxy J3 Aura",
+        "k": "SM-J337R4",
+        "d": "j3topelteusc"
+    },
+    {
+        "m": "Galaxy J3 Eclipse",
+        "k": "SM-J327V",
+        "d": "j3popltevzw"
+    },
+    {
+        "m": "Galaxy J3 Emerge",
+        "k": "SM-J327P",
+        "d": "j3popltespr"
+    },
+    {
+        "m": "Galaxy J3 Mission",
+        "k": "SM-J327VPP",
+        "d": "j3popltevzw"
+    },
+    {
+        "m": "Galaxy J3 Orbit",
+        "k": "SM-S367VL",
+        "d": "j3topeltetfnvzw"
+    },
+    {
+        "m": "Galaxy J3 Orbit",
+        "k": "SM-S357BL",
+        "d": "j3topltetfntmo"
+    },
+    {
+        "m": "Galaxy J3 Pop",
+        "k": "SM-S337TL",
+        "d": "j3popeltetfntmo"
+    },
+    {
+        "m": "Galaxy J3 Pop",
+        "k": "SM-S327VL",
+        "d": "j3popltetfnvzw"
+    },
+    {
+        "m": "Galaxy J3 Prime",
+        "k": "SM-J327W",
+        "d": "j3popeltecan"
+    },
+    {
+        "m": "Galaxy J3 Prime",
+        "k": "SM-J327T1",
+        "d": "j3popeltemtr"
+    },
+    {
+        "m": "Galaxy J3 Prime",
+        "k": "SM-J327T",
+        "d": "j3popeltetmo"
+    },
+    {
+        "m": "Galaxy J3 Pro",
+        "k": "SM-J3110",
+        "d": "j3xproltechn"
+    },
+    {
+        "m": "Galaxy J3 Pro",
+        "k": "SM-J3119",
+        "d": "j3xproltectc"
+    },
+    {
+        "m": "Galaxy J3 Pro",
+        "k": "SM-J330G",
+        "d": "j3y17lte"
+    },
+    {
+        "m": "Galaxy J3 Star",
+        "k": "SM-J337T",
+        "d": "j3topltetmo"
+    },
+    {
+        "m": "Galaxy J3 V",
+        "k": "SM-J337V",
+        "d": "j3topeltevzw"
+    },
+    {
+        "m": "Galaxy J4",
+        "k": "SM-J400F",
+        "d": "j4lte"
+    },
+    {
+        "m": "Galaxy J4",
+        "k": "SM-J400G",
+        "d": "j4lte"
+    },
+    {
+        "m": "Galaxy J4",
+        "k": "SM-J400M",
+        "d": "j4lte"
+    },
+    {
+        "m": "Galaxy J4 Core",
+        "k": "SM-J410F",
+        "d": "j4corelte"
+    },
+    {
+        "m": "Galaxy J4 Core",
+        "k": "SM-J410G",
+        "d": "j4corelte"
+    },
+    {
+        "m": "Galaxy J4+",
+        "k": "SM-J415F",
+        "d": "j4primelte"
+    },
+    {
+        "m": "Galaxy J4+",
+        "k": "SM-J415FN",
+        "d": "j4primelte"
+    },
+    {
+        "m": "Galaxy J4+",
+        "k": "SM-J415G",
+        "d": "j4primelte"
+    },
+    {
+        "m": "Galaxy J4+",
+        "k": "SM-J415GN",
+        "d": "j4primelte"
+    },
+    {
+        "m": "Galaxy J4+",
+        "k": "SM-J415N",
+        "d": "j4primeltekx"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500H",
+        "d": "j53g"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J5007",
+        "d": "j5lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500F",
+        "d": "j5lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500G",
+        "d": "j5lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500M",
+        "d": "j5lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J5008",
+        "d": "j5ltechn"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500N0",
+        "d": "j5ltekx"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500FN",
+        "d": "j5nlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J530F",
+        "d": "j5y17lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J530FM",
+        "d": "j5y17lte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J530K",
+        "d": "j5y17ltektt"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J530L",
+        "d": "j5y17ltelgt"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J530S",
+        "d": "j5y17lteskt"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J500Y",
+        "d": "j5ylte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510H",
+        "d": "j5x3g"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J5108",
+        "d": "j5xltecmcc"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510F",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510FN",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510FQ",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510GN",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510MN",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510UN",
+        "d": "j5xnlte"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510K",
+        "d": "j5xnltektt"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510L",
+        "d": "j5xnltelgt"
+    },
+    {
+        "m": "Galaxy J5",
+        "k": "SM-J510S",
+        "d": "j5xnlteskt"
+    },
+    {
+        "m": "Galaxy J5 Prime",
+        "k": "SM-G570F",
+        "d": "on5xelte"
+    },
+    {
+        "m": "Galaxy J5 Prime",
+        "k": "SM-G570M",
+        "d": "on5xelte"
+    },
+    {
+        "m": "Galaxy J5 Prime",
+        "k": "SM-G570Y",
+        "d": "on5xelte"
+    },
+    {
+        "m": "Galaxy J5 Prime",
+        "k": "SM-G570F",
+        "d": "on5xelteins"
+    },
+    {
+        "m": "Galaxy J5 Prime",
+        "k": "SM-G5700",
+        "d": "on5xltechn"
+    },
+    {
+        "m": "Galaxy J5 Pro",
+        "k": "SM-J530G",
+        "d": "j5y17lte"
+    },
+    {
+        "m": "Galaxy J5 Pro",
+        "k": "SM-J530GM",
+        "d": "j5y17lte"
+    },
+    {
+        "m": "Galaxy J5 Pro",
+        "k": "SM-J530Y",
+        "d": "j5y17ltedx"
+    },
+    {
+        "m": "Galaxy J5 Pro",
+        "k": "SM-J530YM",
+        "d": "j5y17ltextc"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600F",
+        "d": "j6lte"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600FN",
+        "d": "j6lte"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600G",
+        "d": "j6lte"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600GT",
+        "d": "j6lte"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600N",
+        "d": "j6ltekx"
+    },
+    {
+        "m": "Galaxy J6",
+        "k": "SM-J600L",
+        "d": "j6ltelgt"
+    },
+    {
+        "m": "Galaxy J6+",
+        "k": "SM-J610F",
+        "d": "j6primelte"
+    },
+    {
+        "m": "Galaxy J6+",
+        "k": "SM-J610FN",
+        "d": "j6primelte"
+    },
+    {
+        "m": "Galaxy J6+",
+        "k": "SM-J610G",
+        "d": "j6primelte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700K",
+        "d": "j75ltektt"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700H",
+        "d": "j7e3g"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700F",
+        "d": "j7elte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700M",
+        "d": "j7elte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J7008",
+        "d": "j7ltechn"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J727U",
+        "d": "j7popelteue"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J727R4",
+        "d": "j7poplteusc"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J727VPP",
+        "d": "j7popltevzw"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J737VPP",
+        "d": "j7topeltevzw"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J737A",
+        "d": "j7toplteatt"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J737U",
+        "d": "j7toplteue"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J730F",
+        "d": "j7y17lte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J730FM",
+        "d": "j7y17lte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700P",
+        "d": "j7ltespr"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700T1",
+        "d": "j7eltemtr"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J700T",
+        "d": "j7eltetmo"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J710F",
+        "d": "j7xelte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J710FQ",
+        "d": "j7xelte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J710GN",
+        "d": "j7xelte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J710MN",
+        "d": "j7xelte"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J7108",
+        "d": "j7xeltecmcc"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J710K",
+        "d": "j7xeltektt"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J7109",
+        "d": "j7xltectc"
+    },
+    {
+        "m": "Galaxy J7",
+        "k": "SM-J730K",
+        "d": "j7y17ltektt"
+    },
+    {
+        "m": "Galaxy J7 Aura",
+        "k": "SM-J737R4",
+        "d": "j7topelteusc"
+    },
+    {
+        "m": "Galaxy J7 Crown",
+        "k": "SM-S767VL",
+        "d": "j7topeltetfnvzw"
+    },
+    {
+        "m": "Galaxy J7 Crown",
+        "k": "SM-S757BL",
+        "d": "j7topltetfntmo"
+    },
+    {
+        "m": "Galaxy J7 Duo",
+        "k": "SM-J720F",
+        "d": "j7duolte"
+    },
+    {
+        "m": "Galaxy J7 Duo",
+        "k": "SM-J720M",
+        "d": "j7duolte"
+    },
+    {
+        "m": "Galaxy J7 Max",
+        "k": "SM-G615F",
+        "d": "j7maxlte"
+    },
+    {
+        "m": "Galaxy J7 Neo",
+        "k": "SM-J701F",
+        "d": "j7velte"
+    },
+    {
+        "m": "Galaxy J7 Neo",
+        "k": "SM-J701M",
+        "d": "j7velte"
+    },
+    {
+        "m": "Galaxy J7 Neo",
+        "k": "SM-J701MT",
+        "d": "j7velte"
+    },
+    {
+        "m": "Galaxy J7 Perx",
+        "k": "SM-J727P",
+        "d": "j7popltespr"
+    },
+    {
+        "m": "Galaxy J7 Pop",
+        "k": "SM-S727VL",
+        "d": "j7popqltetfnvzw"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-J727T1",
+        "d": "j7popeltemtr"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-J727T",
+        "d": "j7popeltetmo"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-G610F",
+        "d": "on7xelte"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-G610M",
+        "d": "on7xelte"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-G610Y",
+        "d": "on7xelte"
+    },
+    {
+        "m": "Galaxy J7 Prime",
+        "k": "SM-G6100",
+        "d": "on7xltechn"
+    },
+    {
+        "m": "Galaxy J7 Prime2",
+        "k": "SM-G611M",
+        "d": "on7xreflte"
+    },
+    {
+        "m": "Galaxy J7 Prime2",
+        "k": "SM-G611MT",
+        "d": "on7xreflte"
+    },
+    {
+        "m": "Galaxy J7 Prime2",
+        "k": "SM-G611FF",
+        "d": "on7xreflteins"
+    },
+    {
+        "m": "Galaxy J7 Pro",
+        "k": "SM-J730G",
+        "d": "j7y17lte"
+    },
+    {
+        "m": "Galaxy J7 Pro",
+        "k": "SM-J730GM",
+        "d": "j7y17lte"
+    },
+    {
+        "m": "Galaxy J7 Refine",
+        "k": "SM-J737P",
+        "d": "j7topeltespr"
+    },
+    {
+        "m": "Galaxy J7 Sky Pro",
+        "k": "SM-S737TL",
+        "d": "j7popeltetfntmo"
+    },
+    {
+        "m": "Galaxy J7 Star",
+        "k": "SM-J737T1",
+        "d": "j7topltemtr"
+    },
+    {
+        "m": "Galaxy J7 Star",
+        "k": "SM-J737T",
+        "d": "j7topltetmo"
+    },
+    {
+        "m": "Galaxy J7 V",
+        "k": "SM-J727V",
+        "d": "j7popltevzw"
+    },
+    {
+        "m": "Galaxy J7 V",
+        "k": "SM-J737V",
+        "d": "j7topeltevzw"
+    },
+    {
+        "m": "Galaxy J7+",
+        "k": "SM-C710F",
+        "d": "jadelte"
+    },
+    {
+        "m": "Galaxy J8",
+        "k": "SM-J810F",
+        "d": "j8y18lte"
+    },
+    {
+        "m": "Galaxy J8",
+        "k": "SM-J810G",
+        "d": "j8y18lte"
+    },
+    {
+        "m": "Galaxy J8",
+        "k": "SM-J810M",
+        "d": "j8y18lte"
+    },
+    {
+        "m": "Galaxy J8",
+        "k": "SM-J810Y",
+        "d": "j8y18lte"
+    },
+    {
+        "m": "Galaxy Jean",
+        "k": "SM-A605K",
+        "d": "a6pltektt"
+    },
+    {
+        "m": "Galaxy Jean2",
+        "k": "SM-A202K",
+        "d": "a20e"
+    },
+    {
+        "m": "Galaxy Jump2",
+        "k": "SM-M336K",
+        "d": "m33x"
+    },
+    {
+        "m": "Galaxy Jump3",
+        "k": "SM-M446K",
+        "d": "m44x"
+    },
+    {
+        "m": "Galaxy Jump4",
+        "k": "SM-M366K",
+        "d": "m36x"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C111",
+        "d": "m2a3g"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C111M",
+        "d": "m2a3g"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C115",
+        "d": "m2alte"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C115M",
+        "d": "m2alte"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C115W",
+        "d": "m2altecan"
+    },
+    {
+        "m": "Galaxy K Zoom",
+        "k": "SM-C115L",
+        "d": "m2altelgt"
+    },
+    {
+        "m": "Galaxy M01",
+        "k": "SM-M015F",
+        "d": "m01q"
+    },
+    {
+        "m": "Galaxy M01",
+        "k": "SM-M015G",
+        "d": "m01q"
+    },
+    {
+        "m": "Galaxy M01 Core",
+        "k": "SM-M013F",
+        "d": "a01core"
+    },
+    {
+        "m": "Galaxy M01s",
+        "k": "SM-M017F",
+        "d": "a10s"
+    },
+    {
+        "m": "Galaxy M02",
+        "k": "SM-M022F",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy M02",
+        "k": "SM-M022G",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy M02",
+        "k": "SM-M022M",
+        "d": "a02"
+    },
+    {
+        "m": "Galaxy M02s",
+        "k": "SM-M025F",
+        "d": "a02q"
+    },
+    {
+        "m": "Galaxy M04",
+        "k": "SM-M045F",
+        "d": "m04"
+    },
+    {
+        "m": "Galaxy M05",
+        "k": "SM-M055F",
+        "d": "a05m"
+    },
+    {
+        "m": "Galaxy M06 5G",
+        "k": "SM-M066B",
+        "d": "a06x"
+    },
+    {
+        "m": "Galaxy M07",
+        "k": "SM-M075F",
+        "d": "a07"
+    },
+    {
+        "m": "Galaxy M10",
+        "k": "SM-M105F",
+        "d": "m10lte"
+    },
+    {
+        "m": "Galaxy M10",
+        "k": "SM-M105G",
+        "d": "m10lte"
+    },
+    {
+        "m": "Galaxy M10",
+        "k": "SM-M105M",
+        "d": "m10lte"
+    },
+    {
+        "m": "Galaxy M10",
+        "k": "SM-M105Y",
+        "d": "m10lte"
+    },
+    {
+        "m": "Galaxy M10s",
+        "k": "SM-M107F",
+        "d": "m10s"
+    },
+    {
+        "m": "Galaxy M11",
+        "k": "SM-M115F",
+        "d": "m11q"
+    },
+    {
+        "m": "Galaxy M11",
+        "k": "SM-M115M",
+        "d": "m11q"
+    },
+    {
+        "m": "Galaxy M12",
+        "k": "SM-M127F",
+        "d": "m12"
+    },
+    {
+        "m": "Galaxy M12",
+        "k": "SM-M127G",
+        "d": "m12"
+    },
+    {
+        "m": "Galaxy M12",
+        "k": "SM-M127N",
+        "d": "m12"
+    },
+    {
+        "m": "Galaxy M13",
+        "k": "SM-M135F",
+        "d": "m13"
+    },
+    {
+        "m": "Galaxy M13",
+        "k": "SM-M135FU",
+        "d": "m13"
+    },
+    {
+        "m": "Galaxy M13",
+        "k": "SM-M135M",
+        "d": "m13"
+    },
+    {
+        "m": "Galaxy M13 5G",
+        "k": "SM-M136B",
+        "d": "a13x"
+    },
+    {
+        "m": "Galaxy M14",
+        "k": "SM-M145F",
+        "d": "a05s"
+    },
+    {
+        "m": "Galaxy M14 5G",
+        "k": "SM-M146B",
+        "d": "m14x"
+    },
+    {
+        "m": "Galaxy M15 5G",
+        "k": "SM-M156B",
+        "d": "m15x"
+    },
+    {
+        "m": "Galaxy M16 5G",
+        "k": "SM-M166P",
+        "d": "m16xm"
+    },
+    {
+        "m": "Galaxy M17 5G",
+        "k": "SM-M176B",
+        "d": "a17x"
+    },
+    {
+        "m": "Galaxy M17e 5G",
+        "k": "SM-M076B",
+        "d": "a07x"
+    },
+    {
+        "m": "Galaxy M20",
+        "k": "SM-M205N",
+        "d": "m20"
+    },
+    {
+        "m": "Galaxy M20",
+        "k": "SM-M205F",
+        "d": "m20lte"
+    },
+    {
+        "m": "Galaxy M20",
+        "k": "SM-M205FN",
+        "d": "m20lte"
+    },
+    {
+        "m": "Galaxy M20",
+        "k": "SM-M205G",
+        "d": "m20lte"
+    },
+    {
+        "m": "Galaxy M20",
+        "k": "SM-M205M",
+        "d": "m20lte"
+    },
+    {
+        "m": "Galaxy M21",
+        "k": "SM-M215F",
+        "d": "m21"
+    },
+    {
+        "m": "Galaxy M21 2021 Edition",
+        "k": "SM-M215G",
+        "d": "m21"
+    },
+    {
+        "m": "Galaxy M22",
+        "k": "SM-M225FV",
+        "d": "m22"
+    },
+    {
+        "m": "Galaxy M23 5G",
+        "k": "SM-M236B",
+        "d": "m23xq"
+    },
+    {
+        "m": "Galaxy M23 5G",
+        "k": "SM-M236Q",
+        "d": "m23xq"
+    },
+    {
+        "m": "Galaxy M30",
+        "k": "SM-M305F",
+        "d": "m30lte"
+    },
+    {
+        "m": "Galaxy M30",
+        "k": "SM-M305M",
+        "d": "m30lte"
+    },
+    {
+        "m": "Galaxy M30s",
+        "k": "SM-M3070",
+        "d": "m30s"
+    },
+    {
+        "m": "Galaxy M30s",
+        "k": "SM-M307F",
+        "d": "m30s"
+    },
+    {
+        "m": "Galaxy M30s",
+        "k": "SM-M307FN",
+        "d": "m30s"
+    },
+    {
+        "m": "Galaxy M31",
+        "k": "SM-M315F",
+        "d": "m31"
+    },
+    {
+        "m": "Galaxy M31s",
+        "k": "SM-M317F",
+        "d": "m31s"
+    },
+    {
+        "m": "Galaxy M32",
+        "k": "SM-M325F",
+        "d": "m32"
+    },
+    {
+        "m": "Galaxy M32",
+        "k": "SM-M325FV",
+        "d": "m32"
+    },
+    {
+        "m": "Galaxy M32 5G",
+        "k": "SM-M326B",
+        "d": "a32x"
+    },
+    {
+        "m": "Galaxy M33 5G",
+        "k": "SM-M336B",
+        "d": "m33x"
+    },
+    {
+        "m": "Galaxy M33 5G",
+        "k": "SM-M336BU",
+        "d": "m33x"
+    },
+    {
+        "m": "Galaxy M34 5G",
+        "k": "SM-M346B",
+        "d": "m34x"
+    },
+    {
+        "m": "Galaxy M34 5G",
+        "k": "SM-M346B1",
+        "d": "m34x"
+    },
+    {
+        "m": "Galaxy M34 5G",
+        "k": "SM-M346B2",
+        "d": "m34x"
+    },
+    {
+        "m": "Galaxy M35 5G",
+        "k": "SM-M356B",
+        "d": "m35x"
+    },
+    {
+        "m": "Galaxy M36 5G",
+        "k": "SM-M366B",
+        "d": "m36x"
+    },
+    {
+        "m": "Galaxy M40",
+        "k": "SM-M405F",
+        "d": "m40"
+    },
+    {
+        "m": "Galaxy M42 5G",
+        "k": "SM-M426B",
+        "d": "a42xq"
+    },
+    {
+        "m": "Galaxy M51",
+        "k": "SM-M515F",
+        "d": "m51"
+    },
+    {
+        "m": "Galaxy M52 5G",
+        "k": "SM-M526B",
+        "d": "m52xq"
+    },
+    {
+        "m": "Galaxy M52 5G",
+        "k": "SM-M526BR",
+        "d": "m52xq"
+    },
+    {
+        "m": "Galaxy M53 5G",
+        "k": "SM-M536B",
+        "d": "m53x"
+    },
+    {
+        "m": "Galaxy M54 5G",
+        "k": "SM-M546B",
+        "d": "m54x"
+    },
+    {
+        "m": "Galaxy M55 5G",
+        "k": "SM-M556B",
+        "d": "m55xq"
+    },
+    {
+        "m": "Galaxy M55 5G",
+        "k": "SM-M556E",
+        "d": "m55xq"
+    },
+    {
+        "m": "Galaxy M55s 5G",
+        "k": "SM-M558B",
+        "d": "m55xq"
+    },
+    {
+        "m": "Galaxy M56 5G",
+        "k": "SM-M566B",
+        "d": "m56x"
+    },
+    {
+        "m": "Galaxy M62",
+        "k": "SM-M625F",
+        "d": "m62"
+    },
+    {
+        "m": "Galaxy Mega 2",
+        "k": "SM-G750H",
+        "d": "mega23g"
+    },
+    {
+        "m": "Galaxy Mega2",
+        "k": "SM-G750F",
+        "d": "mega2lte"
+    },
+    {
+        "m": "Galaxy Mega2",
+        "k": "SM-G750H",
+        "d": "vasta3g"
+    },
+    {
+        "m": "Galaxy Mega2",
+        "k": "SM-G7508Q",
+        "d": "vastalte"
+    },
+    {
+        "m": "Galaxy Mega2",
+        "k": "SM-G7508Q",
+        "d": "vastaltezh"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915K",
+        "d": "tbeltektt"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915L",
+        "d": "tbeltelgt"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915S",
+        "d": "tbelteskt"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N9150",
+        "d": "tblte"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915F",
+        "d": "tblte"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915FY",
+        "d": "tblte"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915G",
+        "d": "tblte"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915X",
+        "d": "tblte"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915W8",
+        "d": "tbltecan"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N9150",
+        "d": "tbltechn"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915P",
+        "d": "tbltespr"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915T",
+        "d": "tbltetmo"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915T3",
+        "d": "tbltetmo"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915R4",
+        "d": "tblteusc"
+    },
+    {
+        "m": "Galaxy Note Edge",
+        "k": "SM-N915V",
+        "d": "tbltevzw"
+    },
+    {
+        "m": "Galaxy Note Fan Edition",
+        "k": "SM-N935F",
+        "d": "gracerlte"
+    },
+    {
+        "m": "Galaxy Note Fan Edition",
+        "k": "SM-N935K",
+        "d": "gracerltektt"
+    },
+    {
+        "m": "Galaxy Note Fan Edition",
+        "k": "SM-N935L",
+        "d": "gracerltelgt"
+    },
+    {
+        "m": "Galaxy Note Fan Edition",
+        "k": "SM-N935S",
+        "d": "gracerlteskt"
+    },
+    {
+        "m": "Galaxy Note10",
+        "k": "SM-N970F",
+        "d": "d1"
+    },
+    {
+        "m": "Galaxy Note10",
+        "k": "SM-N9700",
+        "d": "d1q"
+    },
+    {
+        "m": "Galaxy Note10",
+        "k": "SM-N970U",
+        "d": "d1q"
+    },
+    {
+        "m": "Galaxy Note10",
+        "k": "SM-N970U1",
+        "d": "d1q"
+    },
+    {
+        "m": "Galaxy Note10",
+        "k": "SM-N970W",
+        "d": "d1q"
+    },
+    {
+        "m": "Galaxy Note10 5G",
+        "k": "SM-N971N",
+        "d": "d1x"
+    },
+    {
+        "m": "Galaxy Note10 Lite",
+        "k": "SM-N770F",
+        "d": "r7"
+    },
+    {
+        "m": "Galaxy Note10 Lite",
+        "k": "SM-N770X",
+        "d": "r7"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N9750",
+        "d": "d2q"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N975C",
+        "d": "d2q"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N975U",
+        "d": "d2q"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N975U1",
+        "d": "d2q"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N975W",
+        "d": "d2q"
+    },
+    {
+        "m": "Galaxy Note10+",
+        "k": "SM-N975F",
+        "d": "d2s"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N976B",
+        "d": "d2x"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N976N",
+        "d": "d2x"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N9760",
+        "d": "d2xq"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N976Q",
+        "d": "d2xq"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N976V",
+        "d": "d2xq"
+    },
+    {
+        "m": "Galaxy Note10+ 5G",
+        "k": "SM-N976U",
+        "d": "d2xq2"
+    },
+    {
+        "m": "Galaxy Note20",
+        "k": "SM-N980F",
+        "d": "c1s"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N9810",
+        "d": "c1q"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N981N",
+        "d": "c1q"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N981U",
+        "d": "c1q"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N981U1",
+        "d": "c1q"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N981W",
+        "d": "c1q"
+    },
+    {
+        "m": "Galaxy Note20 5G",
+        "k": "SM-N981B",
+        "d": "c1s"
+    },
+    {
+        "m": "Galaxy Note20 Ultra",
+        "k": "SM-N985F",
+        "d": "c2s"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N9860",
+        "d": "c2q"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N986N",
+        "d": "c2q"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N986U",
+        "d": "c2q"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N986U1",
+        "d": "c2q"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N986W",
+        "d": "c2q"
+    },
+    {
+        "m": "Galaxy Note20 Ultra 5G",
+        "k": "SM-N986B",
+        "d": "c2s"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900",
+        "d": "ha3g"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9000Q",
+        "d": "ha3g"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9005",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9006",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9007",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9008V",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9009",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900U",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900W8",
+        "d": "hltecan"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900K",
+        "d": "hltektt"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900L",
+        "d": "hltelgt"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900S",
+        "d": "hlteskt"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900P",
+        "d": "hltespr"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900T",
+        "d": "hltetmo"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900R4",
+        "d": "hlteusc"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N900V",
+        "d": "hltevzw"
+    },
+    {
+        "m": "Galaxy Note3",
+        "k": "SM-N9007",
+        "d": "htdlte"
+    },
+    {
+        "m": "Galaxy Note3 Duos",
+        "k": "SM-N9002",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3 Duos",
+        "k": "SM-N9008",
+        "d": "hlte"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N750K",
+        "d": "frescoltektt"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N750L",
+        "d": "frescoltelgt"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N750S",
+        "d": "frescolteskt"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N750",
+        "d": "hl3g"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N7500Q",
+        "d": "hl3g"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N7502",
+        "d": "hl3gds"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N7505",
+        "d": "hllte"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N7505L",
+        "d": "hllte"
+    },
+    {
+        "m": "Galaxy Note3 Neo",
+        "k": "SM-N7507",
+        "d": "hllte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N916K",
+        "d": "tre3caltektt"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910H",
+        "d": "tre3g"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910C",
+        "d": "trelte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910K",
+        "d": "treltektt"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910L",
+        "d": "treltelgt"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910S",
+        "d": "trelteskt"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910U",
+        "d": "trhplte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910F",
+        "d": "trlte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910G",
+        "d": "trlte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910X",
+        "d": "trlte"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910F",
+        "d": "trlteatt"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910W8",
+        "d": "trltecan"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N9100",
+        "d": "trltechn"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N9106W",
+        "d": "trltechn"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N9108V",
+        "d": "trltechn"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N9109W",
+        "d": "trltechn"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N9100",
+        "d": "trltechnzh"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910P",
+        "d": "trltespr"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910T",
+        "d": "trltetmo"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910T2",
+        "d": "trltetmo"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910T3",
+        "d": "trltetmo"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910R4",
+        "d": "trlteusc"
+    },
+    {
+        "m": "Galaxy Note4",
+        "k": "SM-N910V",
+        "d": "trltevzw"
+    },
+    {
+        "m": "Galaxy Note4 S-LTE",
+        "k": "SM-N916L",
+        "d": "tre3caltelgt"
+    },
+    {
+        "m": "Galaxy Note4 S-LTE",
+        "k": "SM-N916S",
+        "d": "tre3calteskt"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N9208",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920C",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920F",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920G",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920I",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920X",
+        "d": "noblelte"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920R7",
+        "d": "noblelteacg"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920W8",
+        "d": "nobleltebmc"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N9200",
+        "d": "nobleltechn"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N9208",
+        "d": "nobleltecmcc"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N9200",
+        "d": "nobleltehk"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920K",
+        "d": "nobleltektt"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920L",
+        "d": "nobleltelgt"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920R6",
+        "d": "nobleltelra"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920S",
+        "d": "noblelteskt"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920P",
+        "d": "nobleltespr"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920T",
+        "d": "nobleltetmo"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920R4",
+        "d": "noblelteusc"
+    },
+    {
+        "m": "Galaxy Note5",
+        "k": "SM-N920V",
+        "d": "nobleltevzw"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930F",
+        "d": "gracelte"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930X",
+        "d": "gracelte"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930K",
+        "d": "graceltektt"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930L",
+        "d": "graceltelgt"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930S",
+        "d": "gracelteskt"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930R7",
+        "d": "graceqlteacg"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930W8",
+        "d": "graceqltebmc"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N9300",
+        "d": "graceqltechn"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930R6",
+        "d": "graceqltelra"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930P",
+        "d": "graceqltespr"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930VL",
+        "d": "graceqltetfnvzw"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930T",
+        "d": "graceqltetmo"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930U",
+        "d": "graceqlteue"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930R4",
+        "d": "graceqlteusc"
+    },
+    {
+        "m": "Galaxy Note7",
+        "k": "SM-N930V",
+        "d": "graceqltevzw"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950F",
+        "d": "greatlte"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950N",
+        "d": "greatlteks"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950XN",
+        "d": "greatlteks"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950U",
+        "d": "greatqlte"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N9500",
+        "d": "greatqltechn"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N9508",
+        "d": "greatqltecmcc"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950W",
+        "d": "greatqltecs"
+    },
+    {
+        "m": "Galaxy Note8",
+        "k": "SM-N950U1",
+        "d": "greatqlteue"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N960F",
+        "d": "crownlte"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N960N",
+        "d": "crownlteks"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N9600",
+        "d": "crownqltechn"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N960W",
+        "d": "crownqltecs"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N960U",
+        "d": "crownqltesq"
+    },
+    {
+        "m": "Galaxy Note9",
+        "k": "SM-N960U1",
+        "d": "crownqlteue"
+    },
+    {
+        "m": "Galaxy On Max",
+        "k": "SM-G615FU",
+        "d": "j7maxlte"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-G550FY",
+        "d": "o5lte"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-G5500",
+        "d": "o5ltechn"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-G550T1",
+        "d": "on5ltemtr"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-S550TL",
+        "d": "on5ltetfntmo"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-G550T",
+        "d": "on5ltetmo"
+    },
+    {
+        "m": "Galaxy On5",
+        "k": "SM-G550T2",
+        "d": "on5ltetmo"
+    },
+    {
+        "m": "Galaxy On5 Pro",
+        "k": "SM-G550FY",
+        "d": "o5prolte"
+    },
+    {
+        "m": "Galaxy On6",
+        "k": "SM-J600GF",
+        "d": "j6lte"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G600FY",
+        "d": "o7lte"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G6000",
+        "d": "o7ltechn"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G600F",
+        "d": "on7elte"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G610K",
+        "d": "on7xeltektt"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G610L",
+        "d": "on7xeltelgt"
+    },
+    {
+        "m": "Galaxy On7",
+        "k": "SM-G610S",
+        "d": "on7xelteskt"
+    },
+    {
+        "m": "Galaxy On7 Prime",
+        "k": "SM-G611F",
+        "d": "on7xreflte"
+    },
+    {
+        "m": "Galaxy On7 Prime",
+        "k": "SM-G611K",
+        "d": "on7xrefltektt"
+    },
+    {
+        "m": "Galaxy On7 Prime",
+        "k": "SM-G611L",
+        "d": "on7xrefltelgt"
+    },
+    {
+        "m": "Galaxy On7 Prime",
+        "k": "SM-G611S",
+        "d": "on7xreflteskt"
+    },
+    {
+        "m": "Galaxy On7 Pro",
+        "k": "SM-G600FY",
+        "d": "o7prolte"
+    },
+    {
+        "m": "Galaxy On8",
+        "k": "SM-J710FN",
+        "d": "j7xlte"
+    },
+    {
+        "m": "Galaxy On8",
+        "k": "SM-J810GF",
+        "d": "j8y18lte"
+    },
+    {
+        "m": "Galaxy Pocket2",
+        "k": "SM-G110B",
+        "d": "pocket23g"
+    },
+    {
+        "m": "Galaxy Pocket2",
+        "k": "SM-G110M",
+        "d": "pocket23g"
+    },
+    {
+        "m": "Galaxy Pocket2",
+        "k": "SM-G110H",
+        "d": "pocket2ss3g"
+    },
+    {
+        "m": "Galaxy Quantum2",
+        "k": "SM-A826S",
+        "d": "a82xq"
+    },
+    {
+        "m": "Galaxy Quantum3",
+        "k": "SM-M536S",
+        "d": "m53x"
+    },
+    {
+        "m": "Galaxy Quantum4",
+        "k": "SM-A546S",
+        "d": "a54x"
+    },
+    {
+        "m": "Galaxy Quantum5",
+        "k": "SM-A556S",
+        "d": "a55x"
+    },
+    {
+        "m": "Galaxy Quantum6",
+        "k": "SM-A566S",
+        "d": "a56x"
+    },
+    {
+        "m": "Galaxy Round",
+        "k": "SM-G910S",
+        "d": "flteskt"
+    },
+    {
+        "m": "Galaxy S Duos3",
+        "k": "SM-G313HZ",
+        "d": "vivalto3gvn"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973F",
+        "d": "beyond1"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973N",
+        "d": "beyond1"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G9730",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G9738",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973C",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973U",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973U1",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10",
+        "k": "SM-G973W",
+        "d": "beyond1q"
+    },
+    {
+        "m": "Galaxy S10 5G",
+        "k": "SM-G977B",
+        "d": "beyondx"
+    },
+    {
+        "m": "Galaxy S10 5G",
+        "k": "SM-G977N",
+        "d": "beyondx"
+    },
+    {
+        "m": "Galaxy S10 5G",
+        "k": "SM-G977P",
+        "d": "beyondxq"
+    },
+    {
+        "m": "Galaxy S10 5G",
+        "k": "SM-G977T",
+        "d": "beyondxq"
+    },
+    {
+        "m": "Galaxy S10 5G",
+        "k": "SM-G977U",
+        "d": "beyondxq"
+    },
+    {
+        "m": "Galaxy S10 Lite",
+        "k": "SM-G770F",
+        "d": "r5q"
+    },
+    {
+        "m": "Galaxy S10 Lite",
+        "k": "SM-G770U1",
+        "d": "r5q"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G975F",
+        "d": "beyond2"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G975N",
+        "d": "beyond2"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G9750",
+        "d": "beyond2q"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G9758",
+        "d": "beyond2q"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G975U",
+        "d": "beyond2q"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G975U1",
+        "d": "beyond2q"
+    },
+    {
+        "m": "Galaxy S10+",
+        "k": "SM-G975W",
+        "d": "beyond2q"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G970F",
+        "d": "beyond0"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G970N",
+        "d": "beyond0"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G9700",
+        "d": "beyond0q"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G9708",
+        "d": "beyond0q"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G970U",
+        "d": "beyond0q"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G970U1",
+        "d": "beyond0q"
+    },
+    {
+        "m": "Galaxy S10e",
+        "k": "SM-G970W",
+        "d": "beyond0q"
+    },
+    {
+        "m": "Galaxy S20",
+        "k": "SM-G980F",
+        "d": "x1s"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G9810",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981N",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981U",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981U1",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981V",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981W",
+        "d": "x1q"
+    },
+    {
+        "m": "Galaxy S20 5G",
+        "k": "SM-G981B",
+        "d": "x1s"
+    },
+    {
+        "m": "Galaxy S20 FE",
+        "k": "SM-G780G",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE",
+        "k": "SM-G780F",
+        "d": "r8s"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G7810",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781B",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781N",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781U",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781U1",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781V",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 FE 5G",
+        "k": "SM-G781W",
+        "d": "r8q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G9880",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988N",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988Q",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988U",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988U1",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988W",
+        "d": "z3q"
+    },
+    {
+        "m": "Galaxy S20 Ultra 5G",
+        "k": "SM-G988B",
+        "d": "z3s"
+    },
+    {
+        "m": "Galaxy S20+",
+        "k": "SM-G985F",
+        "d": "y2s"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G9860",
+        "d": "y2q"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G986N",
+        "d": "y2q"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G986U",
+        "d": "y2q"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G986U1",
+        "d": "y2q"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G986W",
+        "d": "y2q"
+    },
+    {
+        "m": "Galaxy S20+ 5G",
+        "k": "SM-G986B",
+        "d": "y2s"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G9910",
+        "d": "o1q"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G991Q",
+        "d": "o1q"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G991U1",
+        "d": "o1q"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G991W",
+        "d": "o1q"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G991B",
+        "d": "o1s"
+    },
+    {
+        "m": "Galaxy S21 5G",
+        "k": "SM-G991N",
+        "d": "o1s"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G9900",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990B",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990B2",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990U",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990U1",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990U2",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990U3",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990W",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990W2",
+        "d": "r9q"
+    },
+    {
+        "m": "Galaxy S21 FE 5G",
+        "k": "SM-G990E",
+        "d": "r9s"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G9980",
+        "d": "p3q"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G998U",
+        "d": "p3q"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G998U1",
+        "d": "p3q"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G998W",
+        "d": "p3q"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G998B",
+        "d": "p3s"
+    },
+    {
+        "m": "Galaxy S21 Ultra 5G",
+        "k": "SM-G998N",
+        "d": "p3s"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G9960",
+        "d": "t2q"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G996U",
+        "d": "t2q"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G996U1",
+        "d": "t2q"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G996W",
+        "d": "t2q"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G996B",
+        "d": "t2s"
+    },
+    {
+        "m": "Galaxy S21+ 5G",
+        "k": "SM-G996N",
+        "d": "t2s"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S9010",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901E",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901N",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901U",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901U1",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901W",
+        "d": "r0q"
+    },
+    {
+        "m": "Galaxy S22",
+        "k": "SM-S901B",
+        "d": "r0s"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S9080",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908E",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908N",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908U",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908U1",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908W",
+        "d": "b0q"
+    },
+    {
+        "m": "Galaxy S22 Ultra",
+        "k": "SM-S908B",
+        "d": "b0s"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S9060",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906E",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906N",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906U",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906U1",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906W",
+        "d": "g0q"
+    },
+    {
+        "m": "Galaxy S22+",
+        "k": "SM-S906B",
+        "d": "g0s"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S9110",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911B",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911C",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911N",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911U",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911U1",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23",
+        "k": "SM-S911W",
+        "d": "dm1q"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S7110",
+        "d": "r11q"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S711U",
+        "d": "r11q"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S711U1",
+        "d": "r11q"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S711W",
+        "d": "r11q"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S711B",
+        "d": "r11s"
+    },
+    {
+        "m": "Galaxy S23 FE",
+        "k": "SM-S711N",
+        "d": "r11s"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S9180",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918B",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918N",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918Q",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918U",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918U1",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23 Ultra",
+        "k": "SM-S918W",
+        "d": "dm3q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S9160",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S916B",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S916N",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S916U",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S916U1",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S23+",
+        "k": "SM-S916W",
+        "d": "dm2q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S9210",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921E",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921Q",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921U",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921U1",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921W",
+        "d": "e1q"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921B",
+        "d": "e1s"
+    },
+    {
+        "m": "Galaxy S24",
+        "k": "SM-S921N",
+        "d": "e1s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S7210",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721B",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721N",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721Q",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721U",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721U1",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 FE",
+        "k": "SM-S721W",
+        "d": "r12s"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S9280",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928B",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928N",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928Q",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928U",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928U1",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24 Ultra",
+        "k": "SM-S928W",
+        "d": "e3q"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S9260",
+        "d": "e2q"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S926U",
+        "d": "e2q"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S926U1",
+        "d": "e2q"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S926W",
+        "d": "e2q"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S926B",
+        "d": "e2s"
+    },
+    {
+        "m": "Galaxy S24+",
+        "k": "SM-S926N",
+        "d": "e2s"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S9310",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931B",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931N",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931Q",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931U",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931U1",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931W",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25",
+        "k": "SM-S931Z",
+        "d": "pa1q"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S9370",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S937B",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S937N",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S937U",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S937U1",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 Edge",
+        "k": "SM-S937W",
+        "d": "psq"
+    },
+    {
+        "m": "Galaxy S25 FE",
+        "k": "SM-S731B",
+        "d": "r13s"
+    },
+    {
+        "m": "Galaxy S25 FE",
+        "k": "SM-S731N",
+        "d": "r13s"
+    },
+    {
+        "m": "Galaxy S25 FE",
+        "k": "SM-S731U",
+        "d": "r13s"
+    },
+    {
+        "m": "Galaxy S25 FE",
+        "k": "SM-S731U1",
+        "d": "r13s"
+    },
+    {
+        "m": "Galaxy S25 FE",
+        "k": "SM-S731W",
+        "d": "r13s"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S9380",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938B",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938N",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938Q",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938U",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938U1",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938W",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25 Ultra",
+        "k": "SM-S938Z",
+        "d": "pa3q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S9360",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S936B",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S936N",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S936U",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S936U1",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S25+",
+        "k": "SM-S936W",
+        "d": "pa2q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S9420",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942C",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942Q",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942U",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942U1",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942W",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942Z",
+        "d": "m1q"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942B",
+        "d": "m1s"
+    },
+    {
+        "m": "Galaxy S26",
+        "k": "SM-S942N",
+        "d": "m1s"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S9480",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948B",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948C",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948N",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948Q",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948U",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948U1",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948W",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26 Ultra",
+        "k": "SM-S948Z",
+        "d": "m3q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S9470",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947C",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947Q",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947U",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947U1",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947W",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947Z",
+        "d": "m2q"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947B",
+        "d": "m2s"
+    },
+    {
+        "m": "Galaxy S26+",
+        "k": "SM-S947N",
+        "d": "m2s"
+    },
+    {
+        "m": "Galaxy S3 Mini",
+        "k": "SM-G730W8",
+        "d": "goldenltebmc"
+    },
+    {
+        "m": "Galaxy S3 Mini",
+        "k": "SM-G730V",
+        "d": "goldenltevzw"
+    },
+    {
+        "m": "Galaxy S3 Slim",
+        "k": "SM-G3812B",
+        "d": "wilcoxds"
+    },
+    {
+        "m": "Galaxy S4",
+        "k": "SM-S975L",
+        "d": "jfltetfnatt"
+    },
+    {
+        "m": "Galaxy S4 Zoom",
+        "k": "SM-C101",
+        "d": "mproject3g"
+    },
+    {
+        "m": "Galaxy S4 Zoom",
+        "k": "SM-C105K",
+        "d": "mprojectltektt"
+    },
+    {
+        "m": "Galaxy S4 Zoom",
+        "k": "SM-C105L",
+        "d": "mprojectltelgt"
+    },
+    {
+        "m": "Galaxy S4 Zoom",
+        "k": "SM-C105S",
+        "d": "mprojectlteskt"
+    },
+    {
+        "m": "Galaxy S4 Zoom",
+        "k": "SM-C105",
+        "d": "mprojectqlte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900H",
+        "d": "k3g"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G9008W",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G9009W",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900F",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900FQ",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900I",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900M",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900MD",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900T1",
+        "d": "klteMetroPCS"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900T4",
+        "d": "klteMetroPCS"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900R7",
+        "d": "klteacg"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900W8",
+        "d": "kltecan"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G9006W",
+        "d": "klteduoszn"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900K",
+        "d": "kltektt"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900L",
+        "d": "kltelgt"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900R6",
+        "d": "kltelra"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900S",
+        "d": "klteskt"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900P",
+        "d": "kltespr"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-S903VL",
+        "d": "kltetfnvzw"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900T",
+        "d": "kltetmo"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900T3",
+        "d": "kltetmo"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900R4",
+        "d": "klteusc"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900V",
+        "d": "kltevzw"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G900X",
+        "d": "kwifi"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G906K",
+        "d": "lentisltektt"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G906L",
+        "d": "lentisltelgt"
+    },
+    {
+        "m": "Galaxy S5",
+        "k": "SM-G906S",
+        "d": "lentislteskt"
+    },
+    {
+        "m": "Galaxy S5 Active",
+        "k": "SM-G870F0",
+        "d": "kactiveltekx"
+    },
+    {
+        "m": "Galaxy S5 Active",
+        "k": "SM-G870F",
+        "d": "klteactive"
+    },
+    {
+        "m": "Galaxy S5 Active",
+        "k": "SM-G870W",
+        "d": "kltecanactive"
+    },
+    {
+        "m": "Galaxy S5 Dual SIM",
+        "k": "SM-G900FD",
+        "d": "klte"
+    },
+    {
+        "m": "Galaxy S5 Google Play Edition",
+        "k": "SM-G900FG",
+        "d": "kgedlte"
+    },
+    {
+        "m": "Galaxy S5 K Sport",
+        "k": "SM-G860P",
+        "d": "kltesprsports"
+    },
+    {
+        "m": "Galaxy S5 LTE-A",
+        "k": "SM-G901F",
+        "d": "kccat6"
+    },
+    {
+        "m": "Galaxy S5 Mini",
+        "k": "SM-G800H",
+        "d": "kmini3g"
+    },
+    {
+        "m": "Galaxy S5 Mini",
+        "k": "SM-G800R4",
+        "d": "kminilteusc"
+    },
+    {
+        "m": "Galaxy S5 Neo",
+        "k": "SM-G903F",
+        "d": "s5neolte"
+    },
+    {
+        "m": "Galaxy S5 Neo",
+        "k": "SM-G903M",
+        "d": "s5neolte"
+    },
+    {
+        "m": "Galaxy S5 Neo",
+        "k": "SM-G903W",
+        "d": "s5neoltecan"
+    },
+    {
+        "m": "Galaxy S5 mini",
+        "k": "SM-G800HQ",
+        "d": "kmini3g"
+    },
+    {
+        "m": "Galaxy S5 mini",
+        "k": "SM-G800F",
+        "d": "kminilte"
+    },
+    {
+        "m": "Galaxy S5 mini",
+        "k": "SM-G800M",
+        "d": "kminilte"
+    },
+    {
+        "m": "Galaxy S5 mini",
+        "k": "SM-G800Y",
+        "d": "kminilte"
+    },
+    {
+        "m": "Galaxy S5 mini",
+        "k": "SM-G800X",
+        "d": "kminiwifi"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920F",
+        "d": "zeroflte"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920I",
+        "d": "zeroflte"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920X",
+        "d": "zeroflte"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920R7",
+        "d": "zeroflteacg"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920W8",
+        "d": "zerofltebmc"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G9200",
+        "d": "zerofltechn"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G9208",
+        "d": "zerofltechn"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G9209",
+        "d": "zerofltectc"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920K",
+        "d": "zerofltektt"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920L",
+        "d": "zerofltelgt"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920R6",
+        "d": "zerofltelra"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920T1",
+        "d": "zerofltemtr"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920S",
+        "d": "zeroflteskt"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920P",
+        "d": "zerofltespr"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-S906L",
+        "d": "zerofltetfnvzw"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-S907VL",
+        "d": "zerofltetfnvzw"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920T",
+        "d": "zerofltetmo"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920R4",
+        "d": "zeroflteusc"
+    },
+    {
+        "m": "Galaxy S6",
+        "k": "SM-G920V",
+        "d": "zerofltevzw"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925I",
+        "d": "zerolte"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925X",
+        "d": "zerolte"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925R7",
+        "d": "zerolteacg"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925W8",
+        "d": "zeroltebmc"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G9250",
+        "d": "zeroltechn"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925K",
+        "d": "zeroltektt"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925R6",
+        "d": "zeroltelra"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925S",
+        "d": "zerolteskt"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925P",
+        "d": "zeroltespr"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925T",
+        "d": "zeroltetmo"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925R4",
+        "d": "zerolteusc"
+    },
+    {
+        "m": "Galaxy S6 Edge",
+        "k": "SM-G925V",
+        "d": "zeroltevzw"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G9287C",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928C",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928G",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928I",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928X",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928W8",
+        "d": "zenltebmc"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G9280",
+        "d": "zenltechn"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928K",
+        "d": "zenltektt"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928N0",
+        "d": "zenltekx"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928L",
+        "d": "zenltelgt"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928S",
+        "d": "zenlteskt"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928P",
+        "d": "zenltespr"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928T",
+        "d": "zenltetmo"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928R4",
+        "d": "zenlteusc"
+    },
+    {
+        "m": "Galaxy S6 Edge+",
+        "k": "SM-G928V",
+        "d": "zenltevzw"
+    },
+    {
+        "m": "Galaxy S6 edge",
+        "k": "SM-G925F",
+        "d": "zerolte"
+    },
+    {
+        "m": "Galaxy S6 edge",
+        "k": "SM-G925L",
+        "d": "zeroltelgt"
+    },
+    {
+        "m": "Galaxy S6 edge+",
+        "k": "SM-G9287",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S6 edge+",
+        "k": "SM-G928F",
+        "d": "zenlte"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930F",
+        "d": "herolte"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930X",
+        "d": "herolte"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930W8",
+        "d": "heroltebmc"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930K",
+        "d": "heroltektt"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930L",
+        "d": "heroltelgt"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930S",
+        "d": "herolteskt"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930R7",
+        "d": "heroqlteacg"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G9300",
+        "d": "heroqltechn"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G9308",
+        "d": "heroqltechn"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930R6",
+        "d": "heroqltelra"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930T1",
+        "d": "heroqltemtr"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930P",
+        "d": "heroqltespr"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930VL",
+        "d": "heroqltetfnvzw"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930T",
+        "d": "heroqltetmo"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930U",
+        "d": "heroqlteue"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930R4",
+        "d": "heroqlteusc"
+    },
+    {
+        "m": "Galaxy S7",
+        "k": "SM-G930V",
+        "d": "heroqltevzw"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935X",
+        "d": "hero2lte"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935W8",
+        "d": "hero2ltebmc"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935K",
+        "d": "hero2ltektt"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935S",
+        "d": "hero2lteskt"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935P",
+        "d": "hero2qltespr"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935T",
+        "d": "hero2qltetmo"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935R4",
+        "d": "hero2qlteusc"
+    },
+    {
+        "m": "Galaxy S7 Edge",
+        "k": "SM-G935V",
+        "d": "hero2qltevzw"
+    },
+    {
+        "m": "Galaxy S7 edge",
+        "k": "SM-G935F",
+        "d": "hero2lte"
+    },
+    {
+        "m": "Galaxy S7 edge",
+        "k": "SM-G935L",
+        "d": "hero2ltelgt"
+    },
+    {
+        "m": "Galaxy S7 edge",
+        "k": "SM-G9350",
+        "d": "hero2qltechn"
+    },
+    {
+        "m": "Galaxy S7 edge",
+        "k": "SM-G935U",
+        "d": "hero2qlteue"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G950F",
+        "d": "dreamlte"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G950N",
+        "d": "dreamlteks"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G950W",
+        "d": "dreamqltecan"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G9500",
+        "d": "dreamqltechn"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G9508",
+        "d": "dreamqltecmcc"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G950U",
+        "d": "dreamqltesq"
+    },
+    {
+        "m": "Galaxy S8",
+        "k": "SM-G950U1",
+        "d": "dreamqlteue"
+    },
+    {
+        "m": "Galaxy S8 Active",
+        "k": "SM-G892A",
+        "d": "cruiserlteatt"
+    },
+    {
+        "m": "Galaxy S8 Active",
+        "k": "SM-G892U",
+        "d": "cruiserltesq"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G955F",
+        "d": "dream2lte"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G955N",
+        "d": "dream2lteks"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G955W",
+        "d": "dream2qltecan"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G9550",
+        "d": "dream2qltechn"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G955U",
+        "d": "dream2qltesq"
+    },
+    {
+        "m": "Galaxy S8+",
+        "k": "SM-G955U1",
+        "d": "dream2qlteue"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G960F",
+        "d": "starlte"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G960N",
+        "d": "starlteks"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G9600",
+        "d": "starqltechn"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G9608",
+        "d": "starqltecmcc"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G960W",
+        "d": "starqltecs"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G960U",
+        "d": "starqltesq"
+    },
+    {
+        "m": "Galaxy S9",
+        "k": "SM-G960U1",
+        "d": "starqlteue"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G965F",
+        "d": "star2lte"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G965N",
+        "d": "star2lteks"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G9650",
+        "d": "star2qltechn"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G965W",
+        "d": "star2qltecs"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G965U",
+        "d": "star2qltesq"
+    },
+    {
+        "m": "Galaxy S9+",
+        "k": "SM-G965U1",
+        "d": "star2qlteue"
+    },
+    {
+        "m": "Galaxy Star2 Plus",
+        "k": "SM-G350E",
+        "d": "higgs2g"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3502U",
+        "d": "cs023g"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3508",
+        "d": "cs02cmcc"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3509",
+        "d": "cs02ctc"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3508I",
+        "d": "cs02ve"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3502C",
+        "d": "cs02ve3g"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3502I",
+        "d": "cs02ve3g"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3508J",
+        "d": "cs02ve3g"
+    },
+    {
+        "m": "Galaxy Trend3",
+        "k": "SM-G3509I",
+        "d": "cs02ve3g"
+    },
+    {
+        "m": "Galaxy Wide",
+        "k": "SM-G600S",
+        "d": "on7nlteskt"
+    },
+    {
+        "m": "Galaxy Wide2",
+        "k": "SM-J727S",
+        "d": "j7popelteskt"
+    },
+    {
+        "m": "Galaxy Wide3",
+        "k": "SM-J737S",
+        "d": "j7toplteskt"
+    },
+    {
+        "m": "Galaxy Wide4",
+        "k": "SM-A205S",
+        "d": "a20"
+    },
+    {
+        "m": "Galaxy Wide5",
+        "k": "SM-E426S",
+        "d": "f42x"
+    },
+    {
+        "m": "Galaxy Wide7",
+        "k": "SM-M156S",
+        "d": "m15x"
+    },
+    {
+        "m": "Galaxy Wide8",
+        "k": "SM-M166S",
+        "d": "m16x"
+    },
+    {
+        "m": "Galaxy Win Pro",
+        "k": "SM-G3818",
+        "d": "wilcox3g"
+    },
+    {
+        "m": "Galaxy Win Pro",
+        "k": "SM-G3819",
+        "d": "wilcoxctc"
+    },
+    {
+        "m": "Galaxy Win Pro",
+        "k": "SM-G3819D",
+        "d": "wilcoxctc"
+    },
+    {
+        "m": "Galaxy Win Pro",
+        "k": "SM-G3812",
+        "d": "wilcoxds"
+    },
+    {
+        "m": "Galaxy XCover 4s",
+        "k": "SM-G398FN",
+        "d": "xcover4s"
+    },
+    {
+        "m": "Galaxy XCover 5",
+        "k": "SM-G525F",
+        "d": "xcover5"
+    },
+    {
+        "m": "Galaxy XCover 5",
+        "k": "SM-G525N",
+        "d": "xcover5"
+    },
+    {
+        "m": "Galaxy XCover Field Pro",
+        "k": "SM-G889F",
+        "d": "haechiy19"
+    },
+    {
+        "m": "Galaxy XCover FieldPro",
+        "k": "SM-G889G",
+        "d": "haechiy19"
+    },
+    {
+        "m": "Galaxy XCover FieldPro",
+        "k": "SM-G889YB",
+        "d": "haechiy19"
+    },
+    {
+        "m": "Galaxy XCover FieldPro",
+        "k": "SM-G889A",
+        "d": "haechiy19lteatt"
+    },
+    {
+        "m": "Galaxy XCover Pro",
+        "k": "SM-G715FN",
+        "d": "xcoverpro"
+    },
+    {
+        "m": "Galaxy XCover4",
+        "k": "SM-G390F",
+        "d": "xcover4lte"
+    },
+    {
+        "m": "Galaxy XCover6 Pro",
+        "k": "SM-G736B",
+        "d": "xcoverpro2"
+    },
+    {
+        "m": "Galaxy XCover6 Pro",
+        "k": "SM-G736U",
+        "d": "xcoverpro2"
+    },
+    {
+        "m": "Galaxy XCover6 Pro",
+        "k": "SM-G736U1",
+        "d": "xcoverpro2"
+    },
+    {
+        "m": "Galaxy XCover6 Pro",
+        "k": "SM-G736W",
+        "d": "xcoverpro2"
+    },
+    {
+        "m": "Galaxy XCover7",
+        "k": "SM-G556B",
+        "d": "xcover7"
+    },
+    {
+        "m": "Galaxy XCover7 Pro",
+        "k": "SM-G766B",
+        "d": "xcover7pro"
+    },
+    {
+        "m": "Galaxy XCover7 Pro",
+        "k": "SM-G766N",
+        "d": "xcover7pro"
+    },
+    {
+        "m": "Galaxy XCover7 Pro",
+        "k": "SM-G766U",
+        "d": "xcover7pro"
+    },
+    {
+        "m": "Galaxy XCover7 Pro",
+        "k": "SM-G766U1",
+        "d": "xcover7pro"
+    },
+    {
+        "m": "Galaxy XCover7 Pro",
+        "k": "SM-G766W",
+        "d": "xcover7pro"
+    },
+    {
+        "m": "Galaxy XR",
+        "k": "SM-I610",
+        "d": "xrvst2"
+    },
+    {
+        "m": "Galaxy XR",
+        "k": "SM-I610H",
+        "d": "xrvst2"
+    },
+    {
+        "m": "Galaxy Xcover3",
+        "k": "SM-G388F",
+        "d": "xcover3lte"
+    },
+    {
+        "m": "Galaxy Xcover3",
+        "k": "SM-G389F",
+        "d": "xcover3velte"
+    },
+    {
+        "m": "Galaxy Xcover4",
+        "k": "SM-G390Y",
+        "d": "xcover4lte"
+    },
+    {
+        "m": "Galaxy Xcover4",
+        "k": "SM-G390W",
+        "d": "xcover4ltecan"
+    },
+    {
+        "m": "Galaxy Young2",
+        "k": "SM-G130H",
+        "d": "young23g"
+    },
+    {
+        "m": "Galaxy Young2",
+        "k": "SM-G130M",
+        "d": "young23g"
+    },
+    {
+        "m": "Galaxy Young2",
+        "k": "SM-G130U",
+        "d": "young23g"
+    },
+    {
+        "m": "Galaxy Young2",
+        "k": "SM-G130E",
+        "d": "young2ds2g"
+    },
+    {
+        "m": "Galaxy Young2",
+        "k": "SM-G130HN",
+        "d": "young2nfc3g"
+    },
+    {
+        "m": "Galaxy Young2 Pro",
+        "k": "SM-G130BU",
+        "d": "young2ve3g"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F7000",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F700F",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F700N",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F700U",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F700U1",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip",
+        "k": "SM-F700W",
+        "d": "bloomq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F7070",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F707B",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F707N",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F707U",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F707U1",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip 5G",
+        "k": "SM-F707W",
+        "d": "bloomxq"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F7110",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F711B",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F711N",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F711U",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F711U1",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip3 5G",
+        "k": "SM-F711W",
+        "d": "b2q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F7210",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721B",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721C",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721N",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721U",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721U1",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip4",
+        "k": "SM-F721W",
+        "d": "b4q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F7310",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731B",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731N",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731Q",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731U",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731U1",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip5",
+        "k": "SM-F731W",
+        "d": "b5q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F7410",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741B",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741N",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741Q",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741U",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741U1",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip6",
+        "k": "SM-F741W",
+        "d": "b6q"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F7660",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766B",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766N",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766Q",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766U",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766U1",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766W",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7",
+        "k": "SM-F766Z",
+        "d": "b7s"
+    },
+    {
+        "m": "Galaxy Z Flip7 FE",
+        "k": "SM-F7610",
+        "d": "b7r"
+    },
+    {
+        "m": "Galaxy Z Flip7 FE",
+        "k": "SM-F761B",
+        "d": "b7r"
+    },
+    {
+        "m": "Galaxy Z Flip7 FE",
+        "k": "SM-F761N",
+        "d": "b7r"
+    },
+    {
+        "m": "Galaxy Z Flip7 FE",
+        "k": "SM-F761U",
+        "d": "b7r"
+    },
+    {
+        "m": "Galaxy Z Flip7 FE",
+        "k": "SM-F761U1",
+        "d": "b7r"
+    },
+    {
+        "m": "Galaxy Z Fold Special Edition",
+        "k": "SM-F958N",
+        "d": "q6aq"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F9160",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916B",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916N",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916Q",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916U",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916U1",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold2 5G",
+        "k": "SM-F916W",
+        "d": "f2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F9260",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F926B",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F926N",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F926U",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F926U1",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold3 5G",
+        "k": "SM-F926W",
+        "d": "q2q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F9360",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F936B",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F936N",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F936U",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F936U1",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold4",
+        "k": "SM-F936W",
+        "d": "q4q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F9460",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946B",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946N",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946Q",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946U",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946U1",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold5",
+        "k": "SM-F946W",
+        "d": "q5q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F9560",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956B",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956N",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956Q",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956U",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956U1",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold6",
+        "k": "SM-F956W",
+        "d": "q6q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F9660",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966B",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966N",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966Q",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966U",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966U1",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966W",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold7",
+        "k": "SM-F966Z",
+        "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z TriFold",
+        "k": "SM-F9680",
+        "d": "q7mq"
+    },
+    {
+        "m": "Galaxy Z TriFold",
+        "k": "SM-F968B",
+        "d": "q7mq"
+    },
+    {
+        "m": "Galaxy Z TriFold",
+        "k": "SM-F968N",
+        "d": "q7mq"
+    },
+    {
+        "m": "Galaxy Z TriFold",
+        "k": "SM-F968U1",
+        "d": "q7mq"
+    },
+    {
+        "m": "J1 Mini Prime",
+        "k": "SM-J106F",
+        "d": "j1minivelte"
+    },
+    {
+        "m": "SM-G6200",
+        "k": "SM-G6200",
+        "d": "Phoenix"
+    },
+    {
+        "m": "SM-G9198",
+        "k": "SM-G9198",
+        "d": "philippeltechn"
+    },
+    {
+        "m": "SM-J260A",
+        "k": "SM-J260A",
+        "d": "j2coreplteatt"
+    },
+    {
+        "m": "SM-J336AZ",
+        "k": "SM-J336AZ",
+        "d": "j3toplteaio"
+    },
+    {
+        "m": "SM-J337A",
+        "k": "SM-J337A",
+        "d": "j3toplteatt"
+    },
+    {
+        "m": "SM-J337AZ",
+        "k": "SM-J337AZ",
+        "d": "j3toplteaio"
+    }
+]

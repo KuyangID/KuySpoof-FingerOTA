@@ -1,0 +1,642 @@
+[
+    {
+        "m": "Elsa",
+        "k": "ELA-LX2",
+        "d": "HNELA-M"
+    },
+    {
+        "m": "Elsa",
+        "k": "ELA-LX3",
+        "d": "HNELA-M"
+    },
+    {
+        "m": "HONOR  X9d",
+        "k": "MTN-NX1",
+        "d": "HNMTN-Q1"
+    },
+    {
+        "m": "HONOR 100",
+        "k": "MAA-AN00",
+        "d": "HNMAA"
+    },
+    {
+        "m": "HONOR 100 Pro",
+        "k": "MAA-AN10",
+        "d": "HNMAP"
+    },
+    {
+        "m": "HONOR 200",
+        "k": "ELI-AN00",
+        "d": "HNELI"
+    },
+    {
+        "m": "HONOR 200",
+        "k": "ELI-NX9",
+        "d": "HNELIX"
+    },
+    {
+        "m": "HONOR 200 Pro",
+        "k": "ELP-AN00",
+        "d": "HNELP"
+    },
+    {
+        "m": "HONOR 200 Pro",
+        "k": "ELP-NX9",
+        "d": "HNELPX"
+    },
+    {
+        "m": "HONOR 400",
+        "k": "DNY-NX9",
+        "d": "HNDNYX"
+    },
+    {
+        "m": "HONOR 400 Lite",
+        "k": "ABR-NX1",
+        "d": "HNABR-M"
+    },
+    {
+        "m": "HONOR 400 Lite",
+        "k": "ABR-NX3",
+        "d": "HNABR-M"
+    },
+    {
+        "m": "HONOR 400 Pro",
+        "k": "DNP-NX9",
+        "d": "HNDNPX"
+    },
+    {
+        "m": "HONOR 50",
+        "k": "NTH-NX9",
+        "d": "HNNTH"
+    },
+    {
+        "m": "HONOR 50 Lite",
+        "k": "NTN-L22",
+        "d": "HNNTN"
+    },
+    {
+        "m": "HONOR 50 Lite",
+        "k": "NTN-LX1",
+        "d": "HNNTN"
+    },
+    {
+        "m": "HONOR 50 Lite",
+        "k": "NTN-LX3",
+        "d": "HNNTN"
+    },
+    {
+        "m": "HONOR 500",
+        "k": "MEY-AN00",
+        "d": "HNMEY"
+    },
+    {
+        "m": "HONOR 600",
+        "k": "VKJ-NX9",
+        "d": "HNVKJX"
+    },
+    {
+        "m": "HONOR 600 Lite",
+        "k": "LNA-NX1",
+        "d": "HNLNA-M1"
+    },
+    {
+        "m": "HONOR 600 Pro",
+        "k": "VKP-NX9",
+        "d": "HNVKPX"
+    },
+    {
+        "m": "HONOR 600e",
+        "k": "LNA-NX3",
+        "d": "HNLNA-M1"
+    },
+    {
+        "m": "HONOR 70",
+        "k": "FNE-NX9",
+        "d": "HNFNE"
+    },
+    {
+        "m": "HONOR 70 Lite",
+        "k": "RBN-NX1",
+        "d": "HNRBN-Q"
+    },
+    {
+        "m": "HONOR 90",
+        "k": "REA-NX9",
+        "d": "HNREA"
+    },
+    {
+        "m": "HONOR 90 GT",
+        "k": "MAG-AN00",
+        "d": "HNMAG"
+    },
+    {
+        "m": "HONOR 90 Lite",
+        "k": "CRT-NX1",
+        "d": "HNCRT-M2"
+    },
+    {
+        "m": "HONOR 90 Lite",
+        "k": "CRT-NX3",
+        "d": "HNCRT-M2"
+    },
+    {
+        "m": "HONOR CHOICE T10",
+        "k": "BLK-L03",
+        "d": "BLK-L03"
+    },
+    {
+        "m": "HONOR CHOICE T10",
+        "k": "BLK-L09",
+        "d": "BLK-L09"
+    },
+    {
+        "m": "HONOR Magic V2",
+        "k": "VER-N49",
+        "d": "HNVER"
+    },
+    {
+        "m": "HONOR Magic V3",
+        "k": "FCP-N49",
+        "d": "HNFCPX"
+    },
+    {
+        "m": "HONOR Magic V5",
+        "k": "MBH-N49",
+        "d": "HNMBHX"
+    },
+    {
+        "m": "HONOR Magic Vs",
+        "k": "FRI-NX9",
+        "d": "HNFRI"
+    },
+    {
+        "m": "HONOR Magic4 Lite",
+        "k": "ANY-LX1",
+        "d": "HNANY-Q1"
+    },
+    {
+        "m": "HONOR Magic4 Lite 5G",
+        "k": "ANY-NX1",
+        "d": "HNANY-Q"
+    },
+    {
+        "m": "HONOR Magic4 Pro",
+        "k": "LGE-NX9",
+        "d": "HNLGE"
+    },
+    {
+        "m": "HONOR Magic5",
+        "k": "PGT-N09",
+        "d": "HNPGT"
+    },
+    {
+        "m": "HONOR Magic5 Lite 5G",
+        "k": "RMO-NX1",
+        "d": "HNRMO-Q"
+    },
+    {
+        "m": "HONOR Magic5 Lite 5G",
+        "k": "RMO-NX3",
+        "d": "HNRMO-Q"
+    },
+    {
+        "m": "HONOR Magic5 Pro",
+        "k": "PGT-N19",
+        "d": "HNPGT"
+    },
+    {
+        "m": "HONOR Magic6",
+        "k": "BVL-AN00",
+        "d": "HNBVL-AN00"
+    },
+    {
+        "m": "HONOR Magic6 Lite 5G",
+        "k": "ALI-NX1",
+        "d": "HNALI-Q"
+    },
+    {
+        "m": "HONOR Magic6 Lite 5G",
+        "k": "ALI-NX3",
+        "d": "HNALI-Q"
+    },
+    {
+        "m": "HONOR Magic6 Pro",
+        "k": "BVL-AN16",
+        "d": "HNBVL"
+    },
+    {
+        "m": "HONOR Magic6 Pro",
+        "k": "BVL-N49",
+        "d": "HNBVL"
+    },
+    {
+        "m": "HONOR Magic7",
+        "k": "PTP-N29",
+        "d": "HNPLPX"
+    },
+    {
+        "m": "HONOR Magic7 Lite",
+        "k": "BRP-NX1M",
+        "d": "HNBRP-Q1"
+    },
+    {
+        "m": "HONOR Magic7 Lite",
+        "k": "BRP-NX3",
+        "d": "HNBRP-Q1"
+    },
+    {
+        "m": "HONOR Magic7 Pro",
+        "k": "PTP-N49",
+        "d": "HNPTPX"
+    },
+    {
+        "m": "HONOR Magic8 Lite",
+        "k": "MTN-NX1M",
+        "d": "HNMTN-Q1"
+    },
+    {
+        "m": "HONOR Magic8 Lite",
+        "k": "MTN-NX3",
+        "d": "HNMTN-Q1"
+    },
+    {
+        "m": "HONOR Magic8 pro",
+        "k": "BKQ-N49",
+        "d": "HNBKQ"
+    },
+    {
+        "m": "HONOR Play9A",
+        "k": "GFY-LX3",
+        "d": "HNGFY-M"
+    },
+    {
+        "m": "HONOR Play9C",
+        "k": "NIC-LX3P",
+        "d": "HNNIC-M1"
+    },
+    {
+        "m": "HONOR X5",
+        "k": "VNA-LX2",
+        "d": "HNVNA-M"
+    },
+    {
+        "m": "HONOR X5",
+        "k": "VNA-LX3",
+        "d": "HNVNA-M"
+    },
+    {
+        "m": "HONOR X5 Plus",
+        "k": "WOD-LX1",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X5 Plus",
+        "k": "WOD-LX2",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X5 Plus",
+        "k": "WOD-LX3",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X5b",
+        "k": "GFY-LX2",
+        "d": "HNGFY-M"
+    },
+    {
+        "m": "HONOR X5b Plus",
+        "k": "GFY-LX2P",
+        "d": "HNGFY-M"
+    },
+    {
+        "m": "HONOR X5c",
+        "k": "NLA-LX2",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5c",
+        "k": "NLA-LX3",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5c Plus",
+        "k": "NLA-LX1",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5c Plus",
+        "k": "NLA-LX2P",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5d",
+        "k": "NAA-LX2",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5d Plus",
+        "k": "NAA-LX2P",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X6",
+        "k": "VNE-LX1",
+        "d": "HNVNE-M"
+    },
+    {
+        "m": "HONOR X6",
+        "k": "VNE-LX2",
+        "d": "HNVNE-M"
+    },
+    {
+        "m": "HONOR X6",
+        "k": "VNE-LX3",
+        "d": "HNVNE-M"
+    },
+    {
+        "m": "HONOR X6a",
+        "k": "WDY-LX1",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X6a",
+        "k": "WDY-LX2",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X6a",
+        "k": "WDY-LX3",
+        "d": "HNWDY-M"
+    },
+    {
+        "m": "HONOR X6b",
+        "k": "JDY-LX1",
+        "d": "HNJDY-M1"
+    },
+    {
+        "m": "HONOR X6b",
+        "k": "JDY-LX2",
+        "d": "HNJDY-M1"
+    },
+    {
+        "m": "HONOR X6b",
+        "k": "JDY-LX3P",
+        "d": "HNJDY-M1"
+    },
+    {
+        "m": "HONOR X6b 5G",
+        "k": "ALT-NX3",
+        "d": "HNALT-Q2"
+    },
+    {
+        "m": "HONOR X6b Plus",
+        "k": "JDY-LX3",
+        "d": "HNJDY-M1"
+    },
+    {
+        "m": "HONOR X6c",
+        "k": "NIC-LX1",
+        "d": "HNNIC-M1"
+    },
+    {
+        "m": "HONOR X6c",
+        "k": "NIC-LX2",
+        "d": "HNNIC-M1"
+    },
+    {
+        "m": "HONOR X6c",
+        "k": "NIC-LX3",
+        "d": "HNNIC-M1"
+    },
+    {
+        "m": "HONOR X6d 5G",
+        "k": "NLA-NX1",
+        "d": "HNNLA-M2"
+    },
+    {
+        "m": "HONOR X6d 5G",
+        "k": "NLA-NX3",
+        "d": "HNNLA-M2"
+    },
+    {
+        "m": "HONOR X7",
+        "k": "CMA-LX1",
+        "d": "HNCMA-Q"
+    },
+    {
+        "m": "HONOR X7",
+        "k": "CMA-LX2",
+        "d": "HNCMA-Q"
+    },
+    {
+        "m": "HONOR X7",
+        "k": "CMA-LX3",
+        "d": "HNCMA-Q"
+    },
+    {
+        "m": "HONOR X7a",
+        "k": "RKY-LX1",
+        "d": "HNRKY-M1"
+    },
+    {
+        "m": "HONOR X7a",
+        "k": "RKY-LX2",
+        "d": "HNRKY-M1"
+    },
+    {
+        "m": "HONOR X7a",
+        "k": "RKY-LX3",
+        "d": "HNRKY-M1"
+    },
+    {
+        "m": "HONOR X7b",
+        "k": "CLK-LX1",
+        "d": "HNCLK-Q"
+    },
+    {
+        "m": "HONOR X7b",
+        "k": "CLK-LX2",
+        "d": "HNCLK-Q"
+    },
+    {
+        "m": "HONOR X7b",
+        "k": "CLK-LX3",
+        "d": "HNCLK-Q"
+    },
+    {
+        "m": "HONOR X7b 5G",
+        "k": "CLK-NX1",
+        "d": "HNCLK-M1"
+    },
+    {
+        "m": "HONOR X7b 5G",
+        "k": "CLK-NX2",
+        "d": "HNCLK-M1"
+    },
+    {
+        "m": "HONOR X7c",
+        "k": "ALT-LX1",
+        "d": "HNALT-QL"
+    },
+    {
+        "m": "HONOR X7c",
+        "k": "ALT-LX2",
+        "d": "HNALT-QL"
+    },
+    {
+        "m": "HONOR X7c",
+        "k": "ALT-LX3",
+        "d": "HNALT-QL"
+    },
+    {
+        "m": "HONOR X7c 5G",
+        "k": "ALT-NX1",
+        "d": "HNALT-Q1"
+    },
+    {
+        "m": "HONOR X7d",
+        "k": "LGN-LX1",
+        "d": "HNLGN-QL"
+    },
+    {
+        "m": "HONOR X7d",
+        "k": "LGN-LX2",
+        "d": "HNLGN-QL"
+    },
+    {
+        "m": "HONOR X7d",
+        "k": "LGN-LX3",
+        "d": "HNLGN-QL"
+    },
+    {
+        "m": "HONOR X8",
+        "k": "TFY-LX1",
+        "d": "HNTFY-Q"
+    },
+    {
+        "m": "HONOR X8",
+        "k": "TFY-LX2",
+        "d": "HNTFY-Q"
+    },
+    {
+        "m": "HONOR X8",
+        "k": "TFY-LX3",
+        "d": "HNTFY-Q"
+    },
+    {
+        "m": "HONOR X8 5G",
+        "k": "VNE-N41",
+        "d": "HNVNE-Q"
+    },
+    {
+        "m": "HONOR X8a",
+        "k": "CRT-LX1",
+        "d": "HNCRT-M1"
+    },
+    {
+        "m": "HONOR X8a",
+        "k": "CRT-LX2",
+        "d": "HNCRT-M1"
+    },
+    {
+        "m": "HONOR X8a",
+        "k": "CRT-LX3",
+        "d": "HNCRT-M1"
+    },
+    {
+        "m": "HONOR X8a 5G",
+        "k": "RBN-NX3",
+        "d": "HNRBN-Q"
+    },
+    {
+        "m": "HONOR X8b",
+        "k": "LLY-LX1",
+        "d": "HNLLY-Q"
+    },
+    {
+        "m": "HONOR X8b",
+        "k": "LLY-LX2",
+        "d": "HNLLY-Q"
+    },
+    {
+        "m": "HONOR X8b",
+        "k": "LLY-LX3",
+        "d": "HNLLY-Q"
+    },
+    {
+        "m": "HONOR X8c",
+        "k": "ABR-LX1",
+        "d": "HNABR-Q"
+    },
+    {
+        "m": "HONOR X8c",
+        "k": "ABR-LX2",
+        "d": "HNABR-Q"
+    },
+    {
+        "m": "HONOR X8c",
+        "k": "ABR-LX3",
+        "d": "HNABR-Q"
+    },
+    {
+        "m": "HONOR X8d",
+        "k": "LNA-LX2",
+        "d": "HNLNA-Q"
+    },
+    {
+        "m": "HONOR X8d",
+        "k": "LNA-LX3",
+        "d": "HNLNA-Q"
+    },
+    {
+        "m": "HONOR X9",
+        "k": "ANY-LX2",
+        "d": "HNANY-Q1"
+    },
+    {
+        "m": "HONOR X9",
+        "k": "ANY-LX3",
+        "d": "HNANY-Q1"
+    },
+    {
+        "m": "HONOR X9c",
+        "k": "BRP-NX1",
+        "d": "HNBRP-Q1"
+    },
+    {
+        "m": "Honor 200 Lite",
+        "k": "LLY-NX1",
+        "d": "HNLLY-M1"
+    },
+    {
+        "m": "Honor 200 Lite",
+        "k": "LLY-NX3",
+        "d": "HNLLY-M1"
+    },
+    {
+        "m": "Honor X9b 5G",
+        "k": "ALI-NX3P",
+        "d": "HNALI-Q"
+    },
+    {
+        "m": "PORSCHE DESIGN HONOR Magic V2 RSR",
+        "k": "VER-N49DP",
+        "d": "HNVER"
+    },
+    {
+        "m": "PORSCHE DESIGN HONOR Magic6",
+        "k": "BVL-N59",
+        "d": "HNBVL"
+    },
+    {
+        "m": "PORSCHE DESIGN HONOR Magic6 RSR",
+        "k": "BVL-AN20",
+        "d": "HNBVL"
+    },
+    {
+        "m": "PORSCHE DESIGN HONOR Magic7 RSR",
+        "k": "PTP-N59",
+        "d": "HNPTPX"
+    }
+]

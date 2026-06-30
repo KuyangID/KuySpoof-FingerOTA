@@ -1,0 +1,4402 @@
+[
+    {
+        "m": "A199",
+        "k": "HUAWEI A199",
+        "d": "hwa199"
+    },
+    {
+        "m": "ATH-TL00",
+        "k": "ATH-TL00",
+        "d": "HWATH"
+    },
+    {
+        "m": "ATH-TL00H",
+        "k": "ATH-TL00H",
+        "d": "HWATH"
+    },
+    {
+        "m": "ATH-UL00",
+        "k": "ATH-UL00",
+        "d": "HWATH"
+    },
+    {
+        "m": "Ascend D",
+        "k": "U9500",
+        "d": "hwu9500"
+    },
+    {
+        "m": "Ascend G510",
+        "k": "HUAWEI G510-0251",
+        "d": "hwG510-0251"
+    },
+    {
+        "m": "Ascend G525",
+        "k": "HUAWEI Ascend G525",
+        "d": "hwG525-U00"
+    },
+    {
+        "m": "Ascend G525",
+        "k": "HUAWEI G525-U00",
+        "d": "hwG525-U00"
+    },
+    {
+        "m": "B199",
+        "k": "HUAWEI B199",
+        "d": "hwB199"
+    },
+    {
+        "m": "C199",
+        "k": "HUAWEI C199",
+        "d": "hwC199"
+    },
+    {
+        "m": "C199s",
+        "k": "HUAWEI C199s",
+        "d": "hwC199s"
+    },
+    {
+        "m": "C8812",
+        "k": "HUAWEI C8812",
+        "d": "hwc8812"
+    },
+    {
+        "m": "C8813D",
+        "k": "HUAWEI C8813D",
+        "d": "hwc8813"
+    },
+    {
+        "m": "C8813DQ",
+        "k": "HUAWEI C8813DQ",
+        "d": "hwC8813DQ"
+    },
+    {
+        "m": "C8815",
+        "k": "HUAWEI C8815",
+        "d": "hwC8815"
+    },
+    {
+        "m": "C8816",
+        "k": "HUAWEI C8816",
+        "d": "hwC8816"
+    },
+    {
+        "m": "C8816D",
+        "k": "HUAWEI C8816D",
+        "d": "hwC8816D"
+    },
+    {
+        "m": "C8817D",
+        "k": "C8817D",
+        "d": "hwC8817D"
+    },
+    {
+        "m": "C8817E",
+        "k": "HUAWEI C8817E",
+        "d": "hwC8817E"
+    },
+    {
+        "m": "C8817L",
+        "k": "HUAWEI C8817L",
+        "d": "hwC8817L"
+    },
+    {
+        "m": "C8818",
+        "k": "HUAWEI C8818",
+        "d": "hwC8818"
+    },
+    {
+        "m": "C8826D",
+        "k": "HUAWEI C8826D",
+        "d": "hwc8826D"
+    },
+    {
+        "m": "C8850",
+        "k": "HUAWEI-C8850",
+        "d": "hwc8850"
+    },
+    {
+        "m": "CHC-U03",
+        "k": "CHC-U03",
+        "d": "hwCHC-H"
+    },
+    {
+        "m": "CHC-U23",
+        "k": "CHC-U23",
+        "d": "hwCHC-H"
+    },
+    {
+        "m": "CHM-CL00",
+        "k": "CHM-CL00",
+        "d": "hwCHM-Q"
+    },
+    {
+        "m": "CHM-U01",
+        "k": "CHM-U01",
+        "d": "hwCHM-H"
+    },
+    {
+        "m": "CM990",
+        "k": "CM990",
+        "d": "hwCM990"
+    },
+    {
+        "m": "CUN-AL00",
+        "k": "CUN-AL00",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "CUN-TL00",
+        "k": "CUN-TL00",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Che1-CL10",
+        "k": "Che1-CL10",
+        "d": "Che1"
+    },
+    {
+        "m": "Che1-CL20",
+        "k": "Che1-CL20",
+        "d": "Che1"
+    },
+    {
+        "m": "Che1-L04",
+        "k": "Che1-L04",
+        "d": "Che1"
+    },
+    {
+        "m": "Che2-L11",
+        "k": "Che2-L11",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Che2-L23",
+        "k": "Che2-L23",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Che2-TL00",
+        "k": "Che2-TL00",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Che2-TL00H",
+        "k": "Che2-TL00H",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Che2-TL00M",
+        "k": "Che2-TL00M",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Che2-UL00",
+        "k": "Che2-UL00",
+        "d": "hwChe2"
+    },
+    {
+        "m": "Cherry Mini",
+        "k": "CHC-U01",
+        "d": "hwCHC-H"
+    },
+    {
+        "m": "China",
+        "k": "M330",
+        "d": "m330"
+    },
+    {
+        "m": "Copper Plus",
+        "k": "H1611",
+        "d": "HWH1611-Q"
+    },
+    {
+        "m": "Copper Plus",
+        "k": "HUAWEI H1611",
+        "d": "HWH1611-Q"
+    },
+    {
+        "m": "DAV",
+        "k": "HUAWEI P8max",
+        "d": "HWP8max"
+    },
+    {
+        "m": "ECO",
+        "k": "HUAWEI LUA-L03",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "ECO",
+        "k": "HUAWEI LUA-L13",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "ECO",
+        "k": "HUAWEI LUA-L23",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "ECO",
+        "k": "HUAWEI LUA-U03",
+        "d": "HWLUA-U6582"
+    },
+    {
+        "m": "ECO",
+        "k": "HUAWEI LUA-U23",
+        "d": "HWLUA-U6582"
+    },
+    {
+        "m": "ES8100",
+        "k": "ES8100",
+        "d": "hwes8100"
+    },
+    {
+        "m": "ES8500",
+        "k": "HuaweiES8500",
+        "d": "hwes8500"
+    },
+    {
+        "m": "FIG-LX1",
+        "k": "FIG-LX1",
+        "d": "HWFIG-H"
+    },
+    {
+        "m": "FRD-L02",
+        "k": "FRD-L02",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Fusion 2",
+        "k": "Huawei-U8665",
+        "d": "hwu8665"
+    },
+    {
+        "m": "G350",
+        "k": "HUAWEI G350",
+        "d": "hwg350"
+    },
+    {
+        "m": "G350",
+        "k": "HUAWEI G350-U00",
+        "d": "hwg350"
+    },
+    {
+        "m": "G350-U20",
+        "k": "HUAWEI G350-U20",
+        "d": "HWG350"
+    },
+    {
+        "m": "G506",
+        "k": "HUAWEI G506-U151",
+        "d": "hwG506-U151"
+    },
+    {
+        "m": "G510",
+        "k": "HUAWEI G510-0010",
+        "d": "hwG510-0010"
+    },
+    {
+        "m": "G510",
+        "k": "HUAWEI G510-0100",
+        "d": "hwG510-0100"
+    },
+    {
+        "m": "G510",
+        "k": "HuaweiG510-0100",
+        "d": "hwG510-0100"
+    },
+    {
+        "m": "G510",
+        "k": "HuaweiG510-0100-orange",
+        "d": "hwG510-0100"
+    },
+    {
+        "m": "G510",
+        "k": "HUAWEI Ascend G510",
+        "d": "hwG510-0200"
+    },
+    {
+        "m": "G510",
+        "k": "HUAWEI G510-0200",
+        "d": "hwG510-0200"
+    },
+    {
+        "m": "G510",
+        "k": "Orange Daytona",
+        "d": "hwG510-0200"
+    },
+    {
+        "m": "G520",
+        "k": "HUAWEI G520-5000",
+        "d": "hwG520-5000"
+    },
+    {
+        "m": "G521-L076",
+        "k": "HUAWEI G521-L076",
+        "d": "HWG521-L"
+    },
+    {
+        "m": "G521-L176",
+        "k": "HUAWEI G521-L176",
+        "d": "HWG521-L"
+    },
+    {
+        "m": "G526",
+        "k": "G526-L11",
+        "d": "hwG526-L11"
+    },
+    {
+        "m": "G526",
+        "k": "G526-L22",
+        "d": "hwG526-L22"
+    },
+    {
+        "m": "G526",
+        "k": "G526-L33",
+        "d": "hwG526-L33"
+    },
+    {
+        "m": "G527",
+        "k": "G527-U081",
+        "d": "hwG527-U081"
+    },
+    {
+        "m": "G535-L11",
+        "k": "HUAWEI G535-L11",
+        "d": "hwG535-L11"
+    },
+    {
+        "m": "G535-L11",
+        "k": "Kestrel",
+        "d": "hwG535-L11"
+    },
+    {
+        "m": "G535-L11",
+        "k": "Orange Gova",
+        "d": "hwG535-L11"
+    },
+    {
+        "m": "G535-L11",
+        "k": "Speedsurfer",
+        "d": "hwG535-L11"
+    },
+    {
+        "m": "G535-L11",
+        "k": "Ultym5",
+        "d": "hwG535-L11"
+    },
+    {
+        "m": "G6-C00",
+        "k": "HUAWEI G6-C00",
+        "d": "hwG6-C00"
+    },
+    {
+        "m": "G6-L11",
+        "k": "HUAWEI G6-L11",
+        "d": "hwG6-L11"
+    },
+    {
+        "m": "G6-L22",
+        "k": "HUAWEI G6-L22",
+        "d": "hwG6-L22"
+    },
+    {
+        "m": "G6-L33",
+        "k": "HUAWEI G6-L33",
+        "d": "hwG6-L33"
+    },
+    {
+        "m": "G6-U00",
+        "k": "HUAWEI G6-U00",
+        "d": "hwG6-U00"
+    },
+    {
+        "m": "G6-U10",
+        "k": "HUAWEI G6-U10",
+        "d": "hwG6-U10"
+    },
+    {
+        "m": "G6-U251",
+        "k": "HUAWEI G6-U251",
+        "d": "hwG6-U251"
+    },
+    {
+        "m": "G6-U34",
+        "k": "HUAWEI G6-U34",
+        "d": "hwG6-U34"
+    },
+    {
+        "m": "G606",
+        "k": "HUAWEI G606-T00",
+        "d": "HWG606"
+    },
+    {
+        "m": "G606-T00",
+        "k": "HUAWEI G606-T00",
+        "d": "HWG606-T00"
+    },
+    {
+        "m": "G610",
+        "k": "HUAWEI G610-T00",
+        "d": "hwG610-T00"
+    },
+    {
+        "m": "G610",
+        "k": "G610-U00",
+        "d": "hwG610-U00"
+    },
+    {
+        "m": "G610",
+        "k": "HUAWEI G610-U00",
+        "d": "hwG610-U00"
+    },
+    {
+        "m": "G610",
+        "k": "HUAWEI G610-U30",
+        "d": "hwG610-U30"
+    },
+    {
+        "m": "G610-T01",
+        "k": "HUAWEI G610-T01",
+        "d": "hwG610-T01"
+    },
+    {
+        "m": "G610-T11",
+        "k": "HUAWEI G610-T11",
+        "d": "hwG610-T11"
+    },
+    {
+        "m": "G610-U15",
+        "k": "HUAWEI G610-U15",
+        "d": "hwG610-U15"
+    },
+    {
+        "m": "G610-U20",
+        "k": "HUAWEI G610-U20",
+        "d": "hwG610-U20"
+    },
+    {
+        "m": "G610C",
+        "k": "HUAWEI G610-C00",
+        "d": "hwG610-C00"
+    },
+    {
+        "m": "G615-U10",
+        "k": "G615-U10",
+        "d": "hwG615-U10"
+    },
+    {
+        "m": "G615-U10",
+        "k": "HUAWEI G615-U10",
+        "d": "hwG615-U10"
+    },
+    {
+        "m": "G616-L076",
+        "k": "HUAWEI G616-L076",
+        "d": "HWG616-L"
+    },
+    {
+        "m": "G620-A2",
+        "k": "HUAWEI G620-A2",
+        "d": "hwG620-A2"
+    },
+    {
+        "m": "G620-L72",
+        "k": "HUAWEI G620-L72",
+        "d": "hwG620-L72"
+    },
+    {
+        "m": "G620-L75",
+        "k": "G620-L75",
+        "d": "hwG620-L75"
+    },
+    {
+        "m": "G620S-L01",
+        "k": "G620S-L01",
+        "d": "hwG620S-L01"
+    },
+    {
+        "m": "G620S-L02",
+        "k": "G620S-L02",
+        "d": "hwG620S-L02"
+    },
+    {
+        "m": "G620S-L03",
+        "k": "G620S-L03",
+        "d": "hwG620S-L03"
+    },
+    {
+        "m": "G620S-L03",
+        "k": "HUAWEI G620",
+        "d": "hwG620S-L03"
+    },
+    {
+        "m": "G620S-L03",
+        "k": "Personal Huawei G620S",
+        "d": "hwG620S-L03"
+    },
+    {
+        "m": "G620S-UL00",
+        "k": "G620S-UL00",
+        "d": "hwG620S-UL00"
+    },
+    {
+        "m": "G621-TL00",
+        "k": "G621-TL00",
+        "d": "hwG621-TL00"
+    },
+    {
+        "m": "G621-TL00M",
+        "k": "G621-TL00M",
+        "d": "hwG621-TL00"
+    },
+    {
+        "m": "G628-TL00",
+        "k": "HUAWEI G628-TL00",
+        "d": "HWG628-TL"
+    },
+    {
+        "m": "G629-UL00",
+        "k": "HUAWEI G629-UL00",
+        "d": "HWG629-UL"
+    },
+    {
+        "m": "G630",
+        "k": "HUAWEI G630-T00",
+        "d": "hwG630-T00"
+    },
+    {
+        "m": "G630-U00",
+        "k": "HUAWEI G630-U00",
+        "d": "hwG630-U00"
+    },
+    {
+        "m": "G630-U10",
+        "k": "G630-U10",
+        "d": "hwG630-U10"
+    },
+    {
+        "m": "G630-U20",
+        "k": "G630-U20",
+        "d": "hwG630-U20"
+    },
+    {
+        "m": "G630-U251",
+        "k": "G630-U251",
+        "d": "hwG630-U251"
+    },
+    {
+        "m": "G630-U251",
+        "k": "HUAWEI G630-U251",
+        "d": "hwG630-U251"
+    },
+    {
+        "m": "G660-L075",
+        "k": "HUAWEI G660-L075",
+        "d": "hwG660-L075"
+    },
+    {
+        "m": "G7 Plus",
+        "k": "HUAWEI RIO-TL00",
+        "d": "HWRIO"
+    },
+    {
+        "m": "G7 Plus",
+        "k": "HUAWEI RIO-UL00",
+        "d": "HWRIO"
+    },
+    {
+        "m": "G7-L01",
+        "k": "G7-L01",
+        "d": "hwG7-L01"
+    },
+    {
+        "m": "G7-L01",
+        "k": "HUAWEI G7-L01",
+        "d": "hwG7-L01"
+    },
+    {
+        "m": "G7-L02",
+        "k": "HUAWEI G7-L02",
+        "d": "hwG7-L02"
+    },
+    {
+        "m": "G7-L03",
+        "k": "G7-L03",
+        "d": "hwG7-L03"
+    },
+    {
+        "m": "G7-L03",
+        "k": "HUAWEI G7",
+        "d": "hwG7-L03"
+    },
+    {
+        "m": "G7-L03",
+        "k": "HUAWEI G7-L03",
+        "d": "hwG7-L03"
+    },
+    {
+        "m": "G7-L11",
+        "k": "HUAWEI G7-L11",
+        "d": "hwG7-L11"
+    },
+    {
+        "m": "G7-TL00",
+        "k": "G7-TL00",
+        "d": "hwG7-TL00"
+    },
+    {
+        "m": "G7-TL00",
+        "k": "HUAWEI G7-TL00",
+        "d": "hwG7-TL00"
+    },
+    {
+        "m": "G7-UL20",
+        "k": "HUAWEI G7-UL20",
+        "d": "hwG7-UL20"
+    },
+    {
+        "m": "G700",
+        "k": "HUAWEI G700-T00",
+        "d": "hwG700-T00"
+    },
+    {
+        "m": "G700",
+        "k": "HUAWEI G700-U00",
+        "d": "hwG700-U00"
+    },
+    {
+        "m": "G700-T01",
+        "k": "HUAWEI G700-T01",
+        "d": "hwG700-T01"
+    },
+    {
+        "m": "G700-U10",
+        "k": "HUAWEI G700-U10",
+        "d": "hwG700-U10"
+    },
+    {
+        "m": "G700-U20",
+        "k": "HUAWEI G700-U20",
+        "d": "hwG700-U20"
+    },
+    {
+        "m": "G716",
+        "k": "HUAWEI G716-L070",
+        "d": "hwG716-L070"
+    },
+    {
+        "m": "G718",
+        "k": "HUAWEI G718",
+        "d": "hwg718"
+    },
+    {
+        "m": "G730",
+        "k": "HUAWEI G730-C00",
+        "d": "hwG730-C00"
+    },
+    {
+        "m": "G730",
+        "k": "HUAWEI G730-T00",
+        "d": "hwG730-T00"
+    },
+    {
+        "m": "G730",
+        "k": "HUAWEI G730-U00",
+        "d": "hwG730-U00"
+    },
+    {
+        "m": "G730-L075",
+        "k": "HUAWEI G730-L075",
+        "d": "hwG730-L075"
+    },
+    {
+        "m": "G730-U10",
+        "k": "HUAWEI G730-U10",
+        "d": "hwG730-U10"
+    },
+    {
+        "m": "G730-U251",
+        "k": "HUAWEI G730-U251",
+        "d": "hwG730-U251"
+    },
+    {
+        "m": "G730-U27",
+        "k": "HUAWEI G730-U27",
+        "d": "hwG730-U27"
+    },
+    {
+        "m": "G730-U30",
+        "k": "HUAWEI G730-U30",
+        "d": "hwG730-U30"
+    },
+    {
+        "m": "G735-L03",
+        "k": "G735-L03",
+        "d": "hwG735"
+    },
+    {
+        "m": "G735-L12",
+        "k": "G735-L12",
+        "d": "hwG735"
+    },
+    {
+        "m": "G735-L23",
+        "k": "G735-L23",
+        "d": "hwG735"
+    },
+    {
+        "m": "G740",
+        "k": "G740-L00",
+        "d": "hwG740-L00"
+    },
+    {
+        "m": "G740",
+        "k": "Orange Yumo",
+        "d": "hwG740-L00"
+    },
+    {
+        "m": "G750-T00",
+        "k": "HUAWEI G750-T00",
+        "d": "hwG750-T00"
+    },
+    {
+        "m": "G750-T01",
+        "k": "HUAWEI G750-T01",
+        "d": "hwG750-T01"
+    },
+    {
+        "m": "G750-T01M",
+        "k": "HUAWEI G750-T01M",
+        "d": "hwG750-T01M"
+    },
+    {
+        "m": "G750-T20",
+        "k": "HUAWEI G750-T20",
+        "d": "hwG750-T20"
+    },
+    {
+        "m": "G750-U10",
+        "k": "HUAWEI G750-U10",
+        "d": "hwG750-U10"
+    },
+    {
+        "m": "G7500",
+        "k": "HUAWEI G7500",
+        "d": "HWG7500"
+    },
+    {
+        "m": "G9 Plus",
+        "k": "HUAWEI MLA-TL00",
+        "d": "HWMLA"
+    },
+    {
+        "m": "G9 Plus",
+        "k": "HUAWEI MLA-TL10",
+        "d": "HWMLA"
+    },
+    {
+        "m": "G9 Plus",
+        "k": "HUAWEI MLA-UL00",
+        "d": "HWMLA"
+    },
+    {
+        "m": "G9 Plus",
+        "k": "MLA-TL00",
+        "d": "HWMLA"
+    },
+    {
+        "m": "G9 Plus",
+        "k": "MLA-UL00",
+        "d": "HWMLA"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L01",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L03",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L13",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L21",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L22",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3",
+        "k": "HUAWEI TAG-L23",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "GR3 2017",
+        "k": "DIG-L01",
+        "d": "HWDIG-L8940"
+    },
+    {
+        "m": "GR3 2017",
+        "k": "DIG-L21",
+        "d": "HWDIG-L8940"
+    },
+    {
+        "m": "GR3 2017",
+        "k": "DIG-L22",
+        "d": "HWDIG-L8940"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L03",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L05",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L21",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L22",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L23",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "HUAWEI KII-L33",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5",
+        "k": "KII-L21",
+        "d": "HWKII-Q"
+    },
+    {
+        "m": "GR5W",
+        "k": "H1621",
+        "d": "HWH1621-Q"
+    },
+    {
+        "m": "GT3",
+        "k": "HUAWEI NMO-L21",
+        "d": "HWNMO-H"
+    },
+    {
+        "m": "GT3",
+        "k": "HUAWEI NMO-L22",
+        "d": "HWNMO-H"
+    },
+    {
+        "m": "GT3",
+        "k": "HUAWEI NMO-L23",
+        "d": "HWNMO-H"
+    },
+    {
+        "m": "GT3",
+        "k": "HUAWEI NMO-L31",
+        "d": "HWNMO-H"
+    },
+    {
+        "m": "GX8",
+        "k": "HUAWEI",
+        "d": "hwRIO-L01"
+    },
+    {
+        "m": "GX8",
+        "k": "HUAWEI RIO-L01",
+        "d": "hwRIO-L01"
+    },
+    {
+        "m": "Gran_Roraima",
+        "k": "Orinoquia Gran Roraima + S7-722u",
+        "d": "hws7721u"
+    },
+    {
+        "m": "H30-C00",
+        "k": "H30-C00",
+        "d": "hwH30-C00"
+    },
+    {
+        "m": "H30-L01",
+        "k": "HONOR H30-L01",
+        "d": "hwH30"
+    },
+    {
+        "m": "H30-L01M",
+        "k": "HONOR H30-L01M",
+        "d": "hwH30"
+    },
+    {
+        "m": "H30-L02",
+        "k": "H30-L02",
+        "d": "hwH30"
+    },
+    {
+        "m": "H30-L02",
+        "k": "HONOR H30-L02",
+        "d": "hwH30"
+    },
+    {
+        "m": "H30-T00",
+        "k": "H30-T00",
+        "d": "hwH30-T00"
+    },
+    {
+        "m": "H60",
+        "k": "H60-L01",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-J1",
+        "k": "HW-H60-J1",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L02",
+        "k": "H60-L02",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L03",
+        "k": "H60-L03",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L04",
+        "k": "H60-L04",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L11",
+        "k": "H60-L11",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L12",
+        "k": "H60-L12",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L21",
+        "k": "H60-L21",
+        "d": "hwH60"
+    },
+    {
+        "m": "H60-L21",
+        "k": "H60-L21",
+        "d": "hwH60-L21"
+    },
+    {
+        "m": "H871G",
+        "k": "HUAWEI H871G",
+        "d": "hwh871g"
+    },
+    {
+        "m": "H882L",
+        "k": "H882L",
+        "d": "hwh882l"
+    },
+    {
+        "m": "H891L",
+        "k": "HUAWEI H891L",
+        "d": "hwH891L"
+    },
+    {
+        "m": "H892L",
+        "k": "HUAWEI H892L",
+        "d": "hwH892L"
+    },
+    {
+        "m": "HAUWEI Y5 Lite 2018",
+        "k": "CAG-L22",
+        "d": "HWCAG-L6737M"
+    },
+    {
+        "m": "HONOR 10i",
+        "k": "HRY-LX1T",
+        "d": "HWHRY-HF"
+    },
+    {
+        "m": "HONOR 20",
+        "k": "YAL-AL00",
+        "d": "HWYAL"
+    },
+    {
+        "m": "HONOR 20",
+        "k": "YAL-L21",
+        "d": "HWYAL"
+    },
+    {
+        "m": "HONOR 20",
+        "k": "YAL-TL00",
+        "d": "HWYAL"
+    },
+    {
+        "m": "HONOR 20 LITE",
+        "k": "MAR-LX1R",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HONOR 20 PRO",
+        "k": "YAL-AL10",
+        "d": "HWYAL"
+    },
+    {
+        "m": "HONOR 20 PRO",
+        "k": "YAL-L41",
+        "d": "HWYAL"
+    },
+    {
+        "m": "HONOR 20S",
+        "k": "MAR-LX1H",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HONOR 20i",
+        "k": "HRY-AL00Ta",
+        "d": "HWHRY-HF"
+    },
+    {
+        "m": "HONOR 4X",
+        "k": "Che2-L12",
+        "d": "hwChe2"
+    },
+    {
+        "m": "HONOR 8A Pro",
+        "k": "JAT-L29",
+        "d": "HWJAT-M"
+    },
+    {
+        "m": "HONOR 8A Pro",
+        "k": "JAT-L41",
+        "d": "HWJAT-M"
+    },
+    {
+        "m": "HONOR 8A Pro",
+        "k": "JAT-LX1",
+        "d": "HWJAT-M"
+    },
+    {
+        "m": "HONOR 8A Pro",
+        "k": "JAT-LX3",
+        "d": "HWJAT-M"
+    },
+    {
+        "m": "HONOR 8S",
+        "k": "KSA-LX2",
+        "d": "HWKSA-M"
+    },
+    {
+        "m": "HONOR 8S",
+        "k": "KSA-LX3",
+        "d": "HWKSA-M"
+    },
+    {
+        "m": "HONOR 8S",
+        "k": "KSA-LX9",
+        "d": "HWKSA-M"
+    },
+    {
+        "m": "HONOR 9A",
+        "k": "DUB-LX1",
+        "d": "HWDUB-Q"
+    },
+    {
+        "m": "HONOR 9X",
+        "k": "STK-L22",
+        "d": "HWSTK-HF"
+    },
+    {
+        "m": "HONOR 9X",
+        "k": "STK-LX1",
+        "d": "HWSTK-HF"
+    },
+    {
+        "m": "HONOR 9X",
+        "k": "STK-LX3",
+        "d": "HWSTK-HF"
+    },
+    {
+        "m": "HONOR 9X Lite",
+        "k": "JSN-L21",
+        "d": "HWJSN-H"
+    },
+    {
+        "m": "HONOR 9X lite",
+        "k": "JSN-L22",
+        "d": "HWJSN-H"
+    },
+    {
+        "m": "HONOR 9X lite",
+        "k": "JSN-L23",
+        "d": "HWJSN-H"
+    },
+    {
+        "m": "HONOR V20",
+        "k": "PCT-TL10",
+        "d": "HWPCT"
+    },
+    {
+        "m": "HONOR View20",
+        "k": "PCT-AL10",
+        "d": "HWPCT"
+    },
+    {
+        "m": "HONOR View20",
+        "k": "PCT-L29",
+        "d": "HWPCT"
+    },
+    {
+        "m": "HUAWEI G Elite Plus",
+        "k": "SLA-L03",
+        "d": "HWSLA-Q"
+    },
+    {
+        "m": "HUAWEI GR5 2017",
+        "k": "BLL-L21",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI GR5 2017",
+        "k": "BLL-L22",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI GR5 2017",
+        "k": "HUAWEI BLL-L21",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI GR5 2017",
+        "k": "HUAWEI BLL-L22",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI Mate 20",
+        "k": "HMA-L09",
+        "d": "HWHMA"
+    },
+    {
+        "m": "HUAWEI Mate 20",
+        "k": "HMA-L29",
+        "d": "HWHMA"
+    },
+    {
+        "m": "HUAWEI Mate 20 Pro",
+        "k": "LYA-L0C",
+        "d": "HWLYA"
+    },
+    {
+        "m": "HUAWEI Mate 20 Pro",
+        "k": "LYA-L29",
+        "d": "HWLYA"
+    },
+    {
+        "m": "HUAWEI Mate 20 X",
+        "k": "EVR-AN00",
+        "d": "HWEVR"
+    },
+    {
+        "m": "HUAWEI Mate 20 X",
+        "k": "EVR-N29",
+        "d": "HWEVR"
+    },
+    {
+        "m": "HUAWEI Mate 20 lite",
+        "k": "SNE-LX1",
+        "d": "HWSNE"
+    },
+    {
+        "m": "HUAWEI Mate 9 lite",
+        "k": "BLL-L23",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI Mate 9 lite",
+        "k": "HUAWEI BLL-L23",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "HUAWEI Mate SE",
+        "k": "BND-L34",
+        "d": "HWBND-H"
+    },
+    {
+        "m": "HUAWEI Nova 3i",
+        "k": "INE-LX1",
+        "d": "HWINE"
+    },
+    {
+        "m": "HUAWEI P20 Lite",
+        "k": "ANE-LX2J",
+        "d": "HWANE"
+    },
+    {
+        "m": "HUAWEI P20 Lite",
+        "k": "HWV32",
+        "d": "HWANE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-AL00",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L04",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L09",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L14",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L29",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L39",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-L49",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30",
+        "k": "ELE-TL00",
+        "d": "HWELE"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "HWV33",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX1A",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX1Am",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX1B",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX1M",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX1Mm",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX2",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX2B",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX2m",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX3A",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX3Am",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P30 lite",
+        "k": "MAR-LX3Bm",
+        "d": "HWMAR"
+    },
+    {
+        "m": "HUAWEI P9 lite mini",
+        "k": "SLA-L02",
+        "d": "HWSLA-Q"
+    },
+    {
+        "m": "HUAWEI P9 lite mini",
+        "k": "SLA-L22",
+        "d": "HWSLA-Q"
+    },
+    {
+        "m": "HUAWEI P9 lite mini",
+        "k": "SLA-L23",
+        "d": "HWSLA-Q"
+    },
+    {
+        "m": "HUAWEI Y MAX",
+        "k": "ARS-L22",
+        "d": "HWARS-Q"
+    },
+    {
+        "m": "HUAWEI Y3 2017",
+        "k": "CRO-L02",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y3 2017",
+        "k": "CRO-L22",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y3 2017",
+        "k": "HUAWEI CRO-L02",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y3 2017",
+        "k": "HUAWEI CRO-L22",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y3 2018",
+        "k": "CAG-L02",
+        "d": "HWCAG-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 2018",
+        "k": "DRA-L01",
+        "d": "HWDRA-M"
+    },
+    {
+        "m": "HUAWEI Y5 2018",
+        "k": "DRA-L21",
+        "d": "HWDRA-M"
+    },
+    {
+        "m": "HUAWEI Y5 2018",
+        "k": "DRA-LX2",
+        "d": "HWDRA-M"
+    },
+    {
+        "m": "HUAWEI Y5 2018",
+        "k": "DRA-LX3",
+        "d": "HWDRA-MG"
+    },
+    {
+        "m": "HUAWEI Y5 2019",
+        "k": "AMN-LX1",
+        "d": "HWAMN-M"
+    },
+    {
+        "m": "HUAWEI Y5 2019",
+        "k": "AMN-LX2",
+        "d": "HWAMN-M"
+    },
+    {
+        "m": "HUAWEI Y5 2019",
+        "k": "AMN-LX3",
+        "d": "HWAMN-M"
+    },
+    {
+        "m": "HUAWEI Y5 2019",
+        "k": "AMN-LX9",
+        "d": "HWAMN-M"
+    },
+    {
+        "m": "HUAWEI Y5 lite",
+        "k": "DRA-LX5",
+        "d": "HWDRA-MG"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2017",
+        "k": "CRO-L03",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2017",
+        "k": "CRO-L23",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2017",
+        "k": "HUAWEI CRO-L03",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2017",
+        "k": "HUAWEI CRO-L23",
+        "d": "HWCRO-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2018",
+        "k": "CAG-L03",
+        "d": "HWCAG-L6737M"
+    },
+    {
+        "m": "HUAWEI Y5 lite 2018",
+        "k": "CAG-L23",
+        "d": "HWCAG-L6737M"
+    },
+    {
+        "m": "HUAWEI Y6 2017",
+        "k": "MYA-L11",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "HUAWEI Y6 2018",
+        "k": "ATU-L11",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 2018",
+        "k": "ATU-L21",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 2018",
+        "k": "ATU-L22",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 2018",
+        "k": "ATU-LX3",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 2019",
+        "k": "MRD-LX1",
+        "d": "HWMRD-M1"
+    },
+    {
+        "m": "HUAWEI Y6 2019",
+        "k": "MRD-LX1F",
+        "d": "HWMRD-M1"
+    },
+    {
+        "m": "HUAWEI Y6 2019",
+        "k": "MRD-LX1N",
+        "d": "HWMRD-M1"
+    },
+    {
+        "m": "HUAWEI Y6 2019",
+        "k": "MRD-LX3",
+        "d": "HWMRD-M1"
+    },
+    {
+        "m": "HUAWEI Y6 Prime 2018",
+        "k": "ATU-L31",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 Prime 2018",
+        "k": "ATU-L42",
+        "d": "HWATU-QG"
+    },
+    {
+        "m": "HUAWEI Y6 Pro 2019",
+        "k": "MRD-LX2",
+        "d": "HWMRD-M1"
+    },
+    {
+        "m": "HUAWEI Y6II",
+        "k": "HUAWEI CAM-L53",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "HUAWEI Y7 2018",
+        "k": "LDN-L01",
+        "d": "HWLDN-Q"
+    },
+    {
+        "m": "HUAWEI Y7 2018",
+        "k": "LDN-L21",
+        "d": "HWLDN-Q"
+    },
+    {
+        "m": "HUAWEI Y7 2018",
+        "k": "LDN-LX3",
+        "d": "HWLDN-Q"
+    },
+    {
+        "m": "HUAWEI Y7 2019",
+        "k": "DUB-LX3",
+        "d": "HWDUB-Q"
+    },
+    {
+        "m": "HUAWEI Y7 Prime 2018",
+        "k": "LDN-LX2",
+        "d": "HWLDN-Q"
+    },
+    {
+        "m": "HUAWEI Y7 Pro 2019",
+        "k": "DUB-LX2",
+        "d": "HWDUB-Q"
+    },
+    {
+        "m": "HUAWEI Y8s",
+        "k": "JKM-LX1",
+        "d": "HWJKM-H"
+    },
+    {
+        "m": "HUAWEI Y8s",
+        "k": "JKM-LX2",
+        "d": "HWJKM-H"
+    },
+    {
+        "m": "HUAWEI Y8s",
+        "k": "JKM-LX3",
+        "d": "HWJKM-H"
+    },
+    {
+        "m": "HUAWEI Y9 2018",
+        "k": "FLA-LX1",
+        "d": "HWFLA-H"
+    },
+    {
+        "m": "HUAWEI Y9 2018",
+        "k": "FLA-LX2",
+        "d": "HWFLA-H"
+    },
+    {
+        "m": "HUAWEI Y9 2018",
+        "k": "FLA-LX3",
+        "d": "HWFLA-H"
+    },
+    {
+        "m": "HUAWEI Y9 Prime 2019",
+        "k": "STK-L21",
+        "d": "HWSTK-HF"
+    },
+    {
+        "m": "HUAWEI nova 2 Plus",
+        "k": "BAC-L21",
+        "d": "HWBAC"
+    },
+    {
+        "m": "HUAWEI nova 2 Plus",
+        "k": "BAC-L22",
+        "d": "HWBAC"
+    },
+    {
+        "m": "HUAWEI nova lite 2",
+        "k": "704HW",
+        "d": "HWFIG-H"
+    },
+    {
+        "m": "HUAWEI nova lite 3",
+        "k": "POT-LX2J",
+        "d": "HWPOT-H"
+    },
+    {
+        "m": "HUAWEI nova lite for Y!mobile",
+        "k": "608HW",
+        "d": "HWPRA-H"
+    },
+    {
+        "m": "HW-03E",
+        "k": "HW-03E",
+        "d": "HW-03E"
+    },
+    {
+        "m": "HWT31",
+        "k": "HWT31",
+        "d": "hwfdra04l"
+    },
+    {
+        "m": "Hol-T00",
+        "k": "Hol-T00",
+        "d": "HWHol-T"
+    },
+    {
+        "m": "Hol-U10",
+        "k": "Hol-U10",
+        "d": "HWHol-U"
+    },
+    {
+        "m": "Hol-U19",
+        "k": "Hol-U19",
+        "d": "HWHol-U"
+    },
+    {
+        "m": "Honor 10",
+        "k": "COL-AL00",
+        "d": "HWCOL"
+    },
+    {
+        "m": "Honor 10",
+        "k": "COL-AL10",
+        "d": "HWCOL"
+    },
+    {
+        "m": "Honor 10",
+        "k": "COL-L29",
+        "d": "HWCOL"
+    },
+    {
+        "m": "Honor 10",
+        "k": "COL-TL10",
+        "d": "HWCOL"
+    },
+    {
+        "m": "Honor 10 Lite",
+        "k": "HRY-AL00",
+        "d": "HWHRY-H"
+    },
+    {
+        "m": "Honor 10 Lite",
+        "k": "HRY-AL00a",
+        "d": "HWHRY-HF"
+    },
+    {
+        "m": "Honor 4A",
+        "k": "SCC-U21",
+        "d": "hnSCC-Q"
+    },
+    {
+        "m": "Honor 4A",
+        "k": "SCL-AL00",
+        "d": "hnSCL-Q"
+    },
+    {
+        "m": "Honor 4A",
+        "k": "SCL-CL00",
+        "d": "hnSCL-Q"
+    },
+    {
+        "m": "Honor 4A",
+        "k": "SCL-TL00",
+        "d": "hnSCL-Q"
+    },
+    {
+        "m": "Honor 4A",
+        "k": "SCL-TL00H",
+        "d": "hnSCL-Q"
+    },
+    {
+        "m": "Honor 5A",
+        "k": "HUAWEI LYO-L21",
+        "d": "HWLYO-L6735"
+    },
+    {
+        "m": "Honor 5A",
+        "k": "LYO-L21",
+        "d": "HWLYO-L6735"
+    },
+    {
+        "m": "Honor 5C",
+        "k": "NEM-L21",
+        "d": "HNNEM-H"
+    },
+    {
+        "m": "Honor 5C",
+        "k": "NEM-L22",
+        "d": "HNNEM-H"
+    },
+    {
+        "m": "Honor 5C",
+        "k": "NEM-L51",
+        "d": "HNNEM-H"
+    },
+    {
+        "m": "Honor 5X",
+        "k": "KIW-L21",
+        "d": "HNKIW-Q"
+    },
+    {
+        "m": "Honor 5X",
+        "k": "KIW-TL00H",
+        "d": "HNKIW-Q"
+    },
+    {
+        "m": "Honor 6A",
+        "k": "DLI-L22",
+        "d": "HWDLI-Q"
+    },
+    {
+        "m": "Honor 6A",
+        "k": "DLI-TL20",
+        "d": "HWDLI-Q"
+    },
+    {
+        "m": "Honor 6X",
+        "k": "BLN-L24",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-AL10",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-CL00",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-L01",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-TL00",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-TL01H",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7",
+        "k": "PLK-UL00",
+        "d": "HWPLK"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-AL00",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-AL20",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-L29",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-L33",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-TL00",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "AUM-TL20",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7A",
+        "k": "DUA-L22",
+        "d": "HWDUA-M"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "AUM-L41",
+        "d": "HWAUM-Q"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "LND-AL30",
+        "d": "HWLND-Q"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "LND-AL40",
+        "d": "HWLND-Q"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "LND-L29",
+        "d": "HWLND-Q"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "LND-TL30",
+        "d": "HWLND-Q"
+    },
+    {
+        "m": "Honor 7C",
+        "k": "LND-TL40",
+        "d": "HWLND-Q"
+    },
+    {
+        "m": "Honor 7S",
+        "k": "DUA-AL00",
+        "d": "HWDUA-M"
+    },
+    {
+        "m": "Honor 7S",
+        "k": "DUA-LX3",
+        "d": "HWDUA-M"
+    },
+    {
+        "m": "Honor 7X",
+        "k": "BND-L21",
+        "d": "HWBND-H"
+    },
+    {
+        "m": "Honor 7X",
+        "k": "BND-L24",
+        "d": "HWBND-H"
+    },
+    {
+        "m": "Honor 7X",
+        "k": "BND-L31",
+        "d": "HWBND-H"
+    },
+    {
+        "m": "Honor 7i",
+        "k": "ATH-AL00",
+        "d": "HWATH"
+    },
+    {
+        "m": "Honor 7i",
+        "k": "ATH-CL00",
+        "d": "HWATH"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-AL00",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-AL10",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-DL00",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-L04",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-L09",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-L14",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-L19",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-L24",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8",
+        "k": "FRD-TL00",
+        "d": "HWFRD"
+    },
+    {
+        "m": "Honor 8 Lite",
+        "k": "PRA-LX1",
+        "d": "HWPRA-H"
+    },
+    {
+        "m": "Honor 8 Pro",
+        "k": "DUK-L09",
+        "d": "HWDUK"
+    },
+    {
+        "m": "Honor 8A",
+        "k": "JAT-AL00",
+        "d": "HWJAT-M"
+    },
+    {
+        "m": "Honor 8C",
+        "k": "BKK-L21",
+        "d": "HWBKK-Q"
+    },
+    {
+        "m": "Honor 8X Max",
+        "k": "ARE-L22HN",
+        "d": "HWARE-QC"
+    },
+    {
+        "m": "Honor 8x",
+        "k": "JSN-L42",
+        "d": "HWJSN-H"
+    },
+    {
+        "m": "Honor 9",
+        "k": "STF-AL00",
+        "d": "HWSTF"
+    },
+    {
+        "m": "Honor 9",
+        "k": "STF-AL10",
+        "d": "HWSTF"
+    },
+    {
+        "m": "Honor 9",
+        "k": "STF-L09",
+        "d": "HWSTF"
+    },
+    {
+        "m": "Honor 9",
+        "k": "STF-L09S",
+        "d": "HWSTF"
+    },
+    {
+        "m": "Honor 9",
+        "k": "STF-TL10",
+        "d": "HWSTF"
+    },
+    {
+        "m": "Honor 9 Lite",
+        "k": "LLD-L21",
+        "d": "HWLLD-H"
+    },
+    {
+        "m": "Honor 9 Lite",
+        "k": "LLD-L31",
+        "d": "HWLLD-H"
+    },
+    {
+        "m": "Honor 9N",
+        "k": "LLD-AL20",
+        "d": "HWLLD-H2"
+    },
+    {
+        "m": "Honor Magic",
+        "k": "HUAWEI NTS-AL00",
+        "d": "HWNTS"
+    },
+    {
+        "m": "Honor Magic",
+        "k": "NTS-AL00",
+        "d": "HWNTS"
+    },
+    {
+        "m": "Honor Magic 2",
+        "k": "TNY-AL00",
+        "d": "HWTNY"
+    },
+    {
+        "m": "Honor Magic 2",
+        "k": "TNY-TL00",
+        "d": "HWTNY"
+    },
+    {
+        "m": "Honor Note10",
+        "k": "RVL-AL09",
+        "d": "HWRVL"
+    },
+    {
+        "m": "Honor Play",
+        "k": "COR-AL00",
+        "d": "HWCOR"
+    },
+    {
+        "m": "Honor Play",
+        "k": "COR-AL10",
+        "d": "HWCOR"
+    },
+    {
+        "m": "Honor Play",
+        "k": "COR-L29",
+        "d": "HWCOR"
+    },
+    {
+        "m": "Honor Play",
+        "k": "COR-TL10",
+        "d": "HWCOR"
+    },
+    {
+        "m": "Honor V10",
+        "k": "BKL-AL00",
+        "d": "HWBKL"
+    },
+    {
+        "m": "Honor V10",
+        "k": "BKL-AL20",
+        "d": "HWBKL"
+    },
+    {
+        "m": "Honor V10",
+        "k": "BKL-TL10",
+        "d": "HWBKL"
+    },
+    {
+        "m": "Honor V8",
+        "k": "KNT-AL10",
+        "d": "HWKNT"
+    },
+    {
+        "m": "Honor V8",
+        "k": "KNT-AL20",
+        "d": "HWKNT"
+    },
+    {
+        "m": "Honor V8",
+        "k": "KNT-TL10",
+        "d": "HWKNT"
+    },
+    {
+        "m": "Honor V8",
+        "k": "KNT-UL10",
+        "d": "HWKNT"
+    },
+    {
+        "m": "Honor V9",
+        "k": "DUK-AL20",
+        "d": "HWDUK"
+    },
+    {
+        "m": "Honor V9",
+        "k": "DUK-TL30",
+        "d": "HWDUK"
+    },
+    {
+        "m": "Honor View 10",
+        "k": "BKL-L04",
+        "d": "HWBKL"
+    },
+    {
+        "m": "Honor View 10",
+        "k": "BKL-L09",
+        "d": "HWBKL"
+    },
+    {
+        "m": "Honor3",
+        "k": "H30-T10",
+        "d": "hwH30-T10"
+    },
+    {
+        "m": "Honor3",
+        "k": "H30-U10",
+        "d": "hwH30-U10"
+    },
+    {
+        "m": "Honor3",
+        "k": "HUAWEI HN3-U00",
+        "d": "hwhn3-u00"
+    },
+    {
+        "m": "Honor3",
+        "k": "HUAWEI HN3-U01",
+        "d": "hwhn3-u01"
+    },
+    {
+        "m": "Huawei Mate 20 X",
+        "k": "EVR-L29",
+        "d": "HWEVR"
+    },
+    {
+        "m": "Huawei Mate 20 X",
+        "k": "EVR-TL00",
+        "d": "HWEVR"
+    },
+    {
+        "m": "Huawei Nova 2",
+        "k": "PIC-LX9",
+        "d": "HWPIC"
+    },
+    {
+        "m": "Huawei Y9 2019",
+        "k": "JKM-AL00a",
+        "d": "HWJKM-HM"
+    },
+    {
+        "m": "Huwei Mate 20 X",
+        "k": "EVR-AL00",
+        "d": "HWEVR"
+    },
+    {
+        "m": "IDEOS",
+        "k": "Comet",
+        "d": "U8150"
+    },
+    {
+        "m": "IDEOS",
+        "k": "Ideos",
+        "d": "U8150"
+    },
+    {
+        "m": "IDEOS",
+        "k": "Ideos",
+        "d": "u8150"
+    },
+    {
+        "m": "Ice-Twist",
+        "k": "Ice-Twist",
+        "d": "Ice-Twist"
+    },
+    {
+        "m": "Ideos X5",
+        "k": "Huawei U8800-51",
+        "d": "hwu8800-51"
+    },
+    {
+        "m": "Ideos X5",
+        "k": "IDEOS X5",
+        "d": "hwu8800-51"
+    },
+    {
+        "m": "Ideos X5",
+        "k": "U8800",
+        "d": "hwu8800-51"
+    },
+    {
+        "m": "Ideos X5",
+        "k": "U8800-51",
+        "d": "hwu8800-51"
+    },
+    {
+        "m": "Kiwi-2",
+        "k": "H1622",
+        "d": "HWH710VL-Q"
+    },
+    {
+        "m": "LISZT",
+        "k": "HUAWEI M2-A01L",
+        "d": "hwliszt"
+    },
+    {
+        "m": "LISZT",
+        "k": "HUAWEI M2-A01W",
+        "d": "hwliszt"
+    },
+    {
+        "m": "M220",
+        "k": "M220",
+        "d": "hwmediaqm220"
+    },
+    {
+        "m": "M220",
+        "k": "M220c",
+        "d": "hwmediaqm220"
+    },
+    {
+        "m": "M620",
+        "k": "M620",
+        "d": "M620"
+    },
+    {
+        "m": "M620",
+        "k": "TB01",
+        "d": "M620"
+    },
+    {
+        "m": "M835",
+        "k": "HUAWEI-M835",
+        "d": "hwm835"
+    },
+    {
+        "m": "M860",
+        "k": "M860",
+        "d": "M860"
+    },
+    {
+        "m": "M865",
+        "k": "M865",
+        "d": "hwm865"
+    },
+    {
+        "m": "M865",
+        "k": "USCCADR3305",
+        "d": "hwm865"
+    },
+    {
+        "m": "M868",
+        "k": "HUAWEI M868",
+        "d": "hwm868"
+    },
+    {
+        "m": "MAIMANG 6",
+        "k": "RNE-AL00",
+        "d": "HWRNE"
+    },
+    {
+        "m": "MAIMANG 7",
+        "k": "SNE-AL00",
+        "d": "HWSNE"
+    },
+    {
+        "m": "MS4C",
+        "k": "MS4C",
+        "d": "hwMS4C"
+    },
+    {
+        "m": "MT1",
+        "k": "HUAWEI MT1-U06",
+        "d": "hwmt1-u06"
+    },
+    {
+        "m": "MT2-L01",
+        "k": "HUAWEI MT2-L01",
+        "d": "hwmt2-l01"
+    },
+    {
+        "m": "MT2-L02",
+        "k": "HUAWEI MT2-L02",
+        "d": "hwmt2-l02"
+    },
+    {
+        "m": "MT2-L03",
+        "k": "MT2L03",
+        "d": "hwMT2L03"
+    },
+    {
+        "m": "MT2-L05",
+        "k": "HUAWEI MT2-L05",
+        "d": "hwmt2-l05"
+    },
+    {
+        "m": "MT2L03LITE",
+        "k": "MT2L03",
+        "d": "hwMT2L03LITE"
+    },
+    {
+        "m": "Mate",
+        "k": "HUAWEI MT1-T00",
+        "d": "hwmt1-t00"
+    },
+    {
+        "m": "Mate 10",
+        "k": "ALP-AL00",
+        "d": "HWALP"
+    },
+    {
+        "m": "Mate 10",
+        "k": "ALP-L09",
+        "d": "HWALP"
+    },
+    {
+        "m": "Mate 10",
+        "k": "ALP-L29",
+        "d": "HWALP"
+    },
+    {
+        "m": "Mate 10",
+        "k": "ALP-TL00",
+        "d": "HWALP"
+    },
+    {
+        "m": "Mate 10 Pro",
+        "k": "BLA-A09",
+        "d": "HWBLA"
+    },
+    {
+        "m": "Mate 10 Pro",
+        "k": "BLA-AL00",
+        "d": "HWBLA"
+    },
+    {
+        "m": "Mate 10 Pro",
+        "k": "BLA-L09",
+        "d": "HWBLA"
+    },
+    {
+        "m": "Mate 10 Pro",
+        "k": "BLA-L29",
+        "d": "HWBLA"
+    },
+    {
+        "m": "Mate 10 Pro",
+        "k": "BLA-TL00",
+        "d": "HWBLA"
+    },
+    {
+        "m": "Mate 10 lite",
+        "k": "RNE-L01",
+        "d": "HWRNE"
+    },
+    {
+        "m": "Mate 10 lite",
+        "k": "RNE-L03",
+        "d": "HWRNE"
+    },
+    {
+        "m": "Mate 10 lite",
+        "k": "RNE-L21",
+        "d": "HWRNE"
+    },
+    {
+        "m": "Mate 10 lite",
+        "k": "RNE-L23",
+        "d": "HWRNE"
+    },
+    {
+        "m": "Mate 20",
+        "k": "HMA-AL00",
+        "d": "HWHMA"
+    },
+    {
+        "m": "Mate 20",
+        "k": "HMA-TL00",
+        "d": "HWHMA"
+    },
+    {
+        "m": "Mate 20 Pro",
+        "k": "LYA-AL00",
+        "d": "HWLYA"
+    },
+    {
+        "m": "Mate 20 Pro",
+        "k": "LYA-AL10",
+        "d": "HWLYA"
+    },
+    {
+        "m": "Mate 20 Pro",
+        "k": "LYA-L09",
+        "d": "HWLYA"
+    },
+    {
+        "m": "Mate 20 Pro",
+        "k": "LYA-TL00",
+        "d": "HWLYA"
+    },
+    {
+        "m": "Mate 20 RS",
+        "k": "LYA-AL00P",
+        "d": "HWLYA"
+    },
+    {
+        "m": "Mate 20 lite",
+        "k": "SNE-LX2",
+        "d": "HWSNE"
+    },
+    {
+        "m": "Mate 20 lite",
+        "k": "SNE-LX3",
+        "d": "HWSNE"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-CL00",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-J1",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-L09",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-TL00",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-TL10",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 7",
+        "k": "HUAWEI MT7-UL00",
+        "d": "hwmt7"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-AL10",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-CL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-DL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-L09",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-L29",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-TL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "HUAWEI NXT-TL00B",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-AL10",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-CL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-DL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-L09",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-L29",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 8",
+        "k": "NXT-TL00",
+        "d": "HWNXT"
+    },
+    {
+        "m": "Mate 9",
+        "k": "MHA-AL00",
+        "d": "HWMHA"
+    },
+    {
+        "m": "Mate 9",
+        "k": "MHA-L09",
+        "d": "HWMHA"
+    },
+    {
+        "m": "Mate 9",
+        "k": "MHA-L29",
+        "d": "HWMHA"
+    },
+    {
+        "m": "Mate 9",
+        "k": "MHA-TL00",
+        "d": "HWMHA"
+    },
+    {
+        "m": "Mate 9 Pro",
+        "k": "LON-AL00",
+        "d": "HWLON"
+    },
+    {
+        "m": "Mate 9 Pro",
+        "k": "LON-L29",
+        "d": "HWLON"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-CL00",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-CL20",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-L09",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-TL00",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-UL00",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate S",
+        "k": "HUAWEI CRR-UL20",
+        "d": "HWCRR"
+    },
+    {
+        "m": "Mate2",
+        "k": "HUAWEI MT2-C00",
+        "d": "hwmt2-c00"
+    },
+    {
+        "m": "MediaQ M380",
+        "k": "M380-10",
+        "d": "HWM380"
+    },
+    {
+        "m": "Nexus 6P",
+        "k": "Nexus 6P",
+        "d": "angler"
+    },
+    {
+        "m": "Nova 3i",
+        "k": "INE-LX2r",
+        "d": "HWINE"
+    },
+    {
+        "m": "P10",
+        "k": "VTR-AL00",
+        "d": "HWVTR"
+    },
+    {
+        "m": "P10",
+        "k": "VTR-L09",
+        "d": "HWVTR"
+    },
+    {
+        "m": "P10",
+        "k": "VTR-L29",
+        "d": "HWVTR"
+    },
+    {
+        "m": "P10",
+        "k": "VTR-TL00",
+        "d": "HWVTR"
+    },
+    {
+        "m": "P10 Plus",
+        "k": "VKY-AL00",
+        "d": "HWVKY"
+    },
+    {
+        "m": "P10 Plus",
+        "k": "VKY-L09",
+        "d": "HWVKY"
+    },
+    {
+        "m": "P10 Plus",
+        "k": "VKY-L29",
+        "d": "HWVKY"
+    },
+    {
+        "m": "P10 Plus",
+        "k": "VKY-TL00",
+        "d": "HWVKY"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-L03T",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-LX1",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-LX1A",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-LX2",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-LX2J",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P10 lite",
+        "k": "WAS-LX3",
+        "d": "HWWAS-H"
+    },
+    {
+        "m": "P20",
+        "k": "EML-AL00",
+        "d": "HWEML"
+    },
+    {
+        "m": "P20",
+        "k": "EML-L09",
+        "d": "HWEML"
+    },
+    {
+        "m": "P20",
+        "k": "EML-L29",
+        "d": "HWEML"
+    },
+    {
+        "m": "P20",
+        "k": "EML-TL00",
+        "d": "HWEML"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "HW-01K",
+        "d": "HW-01K"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-AL00",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-AL00l",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-AL01",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-L04",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-L09",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-L29",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-TL00",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 Pro",
+        "k": "CLT-TL01",
+        "d": "HWCLT"
+    },
+    {
+        "m": "P20 lite",
+        "k": "ANE-LX1",
+        "d": "HWANE"
+    },
+    {
+        "m": "P20 lite",
+        "k": "ANE-LX2",
+        "d": "HWANE"
+    },
+    {
+        "m": "P20 lite",
+        "k": "ANE-LX3",
+        "d": "HWANE"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "HW-02L",
+        "d": "HW-02L"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-AL00",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-AL10",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-L04",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-L09",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-L29",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 Pro",
+        "k": "VOG-TL00",
+        "d": "HWVOG"
+    },
+    {
+        "m": "P30 lite",
+        "k": "MAR-LX2J",
+        "d": "HWMAR"
+    },
+    {
+        "m": "P6S",
+        "k": "P6 S-L04",
+        "d": "hwP6s-l04"
+    },
+    {
+        "m": "P6S-L04",
+        "k": "302HW",
+        "d": "hwp6s-l04"
+    },
+    {
+        "m": "P6S-U06",
+        "k": "HUAWEI P6 S-U06",
+        "d": "hwp6s-u06"
+    },
+    {
+        "m": "P7 mini",
+        "k": "HUAWEI P7 mini",
+        "d": "hwP7Mini"
+    },
+    {
+        "m": "P7-L09",
+        "k": "HUAWEI P7-L09",
+        "d": "hwp7"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "503HW",
+        "d": "hwALE-H"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "ALE-L02",
+        "d": "hwALE-H"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "ALE-L21",
+        "d": "hwALE-H"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "ALE-L23",
+        "d": "hwALE-H"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "Autana LTE",
+        "d": "hwALE-H"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "HUAWEI ALE-CL00",
+        "d": "hwALE-Q"
+    },
+    {
+        "m": "P8 Lite",
+        "k": "HUAWEI ALE-L04",
+        "d": "hwALE-Q"
+    },
+    {
+        "m": "P8 lite 2017",
+        "k": "PRA-LA1",
+        "d": "HWPRA-H"
+    },
+    {
+        "m": "P9 Lite PREMIUM",
+        "k": "HUAWEI VNS-L52",
+        "d": "HWVNS-Q"
+    },
+    {
+        "m": "P9 Plus",
+        "k": "VIE-AL10",
+        "d": "HWVIE"
+    },
+    {
+        "m": "P9 Plus",
+        "k": "VIE-L09",
+        "d": "HWVIE"
+    },
+    {
+        "m": "P9 Plus",
+        "k": "VIE-L29",
+        "d": "HWVIE"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L21",
+        "d": "HWVNS-H"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L22",
+        "d": "HWVNS-H"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L23",
+        "d": "HWVNS-H"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L31",
+        "d": "HWVNS-H"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L53",
+        "d": "HWVNS-H"
+    },
+    {
+        "m": "P9 lite",
+        "k": "HUAWEI VNS-L62",
+        "d": "HWVNS-Q"
+    },
+    {
+        "m": "PE-CL00",
+        "k": "PE-CL00",
+        "d": "hwPE"
+    },
+    {
+        "m": "PE-TL00M",
+        "k": "PE-TL00M",
+        "d": "hwPE"
+    },
+    {
+        "m": "PE-TL10",
+        "k": "PE-TL10",
+        "d": "hwPE"
+    },
+    {
+        "m": "PE-TL20",
+        "k": "PE-TL20",
+        "d": "hwPE"
+    },
+    {
+        "m": "PE-UL00",
+        "k": "PE-UL00",
+        "d": "hwPE"
+    },
+    {
+        "m": "PORSCHE DESIGN HUAWEI Mate RS",
+        "k": "NEO-AL00",
+        "d": "HWNEO"
+    },
+    {
+        "m": "PORSCHE DESIGN HUAWEI Mate RS",
+        "k": "NEO-L29",
+        "d": "HWNEO"
+    },
+    {
+        "m": "Prism II",
+        "k": "Prism II",
+        "d": "hwu8686"
+    },
+    {
+        "m": "Q22",
+        "k": "Q22",
+        "d": "HWQ22"
+    },
+    {
+        "m": "RIO-CL00",
+        "k": "HUAWEI RIO-CL00",
+        "d": "hwRIO-CL00"
+    },
+    {
+        "m": "SC-CL00",
+        "k": "HUAWEI SC-CL00",
+        "d": "HWSC-CL00"
+    },
+    {
+        "m": "SC-UL10",
+        "k": "HUAWEI SC-UL10",
+        "d": "HWSC-UL10"
+    },
+    {
+        "m": "Sensa LTE",
+        "k": "H710VL",
+        "d": "HWH710VL-Q"
+    },
+    {
+        "m": "Sensa LTE",
+        "k": "H715BL",
+        "d": "HWH715BL-Q"
+    },
+    {
+        "m": "ShotX",
+        "k": "HUAWEI ATH-UL01",
+        "d": "HWATH"
+    },
+    {
+        "m": "ShotX",
+        "k": "HUAWEI ATH-UL06",
+        "d": "HWATH"
+    },
+    {
+        "m": "T-Mobile Pulse",
+        "k": "Huawei_8100-9",
+        "d": "U8100"
+    },
+    {
+        "m": "T-Mobile Pulse",
+        "k": "Tactile internet",
+        "d": "U8100"
+    },
+    {
+        "m": "T-Mobile Pulse",
+        "k": "U8100",
+        "d": "U8100"
+    },
+    {
+        "m": "T-Mobile Pulse",
+        "k": "Videocon_V7400",
+        "d": "U8100"
+    },
+    {
+        "m": "T1 10",
+        "k": "T1-A21L",
+        "d": "hwt1a21l"
+    },
+    {
+        "m": "T1 10",
+        "k": "T1-A21W",
+        "d": "hwt1a21l"
+    },
+    {
+        "m": "T1 10",
+        "k": "T1-A21w",
+        "d": "hwt1a21l"
+    },
+    {
+        "m": "T1 10",
+        "k": "T1-A22L",
+        "d": "hwt1a21l"
+    },
+    {
+        "m": "T1 10",
+        "k": "T1-A23L",
+        "d": "hwt1a21l"
+    },
+    {
+        "m": "T101",
+        "k": "T-101",
+        "d": "hwt101"
+    },
+    {
+        "m": "T102",
+        "k": "QH-10",
+        "d": "hwt102"
+    },
+    {
+        "m": "T802",
+        "k": "MT-803G",
+        "d": "hwt802"
+    },
+    {
+        "m": "T8808D",
+        "k": "HUAWEI T8808D",
+        "d": "hwT8808D"
+    },
+    {
+        "m": "TANGO",
+        "k": "HUAWEI TAG-AL00",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "TANGO",
+        "k": "HUAWEI TAG-CL00",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "TANGO",
+        "k": "HUAWEI TAG-TL00",
+        "d": "HWTAG-L6753"
+    },
+    {
+        "m": "U8120",
+        "k": "Vodafone 845",
+        "d": "U8120"
+    },
+    {
+        "m": "U8220",
+        "k": "Pulse",
+        "d": "U8220"
+    },
+    {
+        "m": "U8220",
+        "k": "U8220",
+        "d": "U8220"
+    },
+    {
+        "m": "U8220",
+        "k": "U8220PLUS",
+        "d": "U8220"
+    },
+    {
+        "m": "U8230",
+        "k": "U8230",
+        "d": "U8230"
+    },
+    {
+        "m": "U8652",
+        "k": "Huawei-U8652",
+        "d": "hwu8652"
+    },
+    {
+        "m": "U8652",
+        "k": "U8652",
+        "d": "hwu8652"
+    },
+    {
+        "m": "U8687",
+        "k": "Huawei-U8687",
+        "d": "hwu8687"
+    },
+    {
+        "m": "U8812D",
+        "k": "U8812D",
+        "d": "hwu8812D"
+    },
+    {
+        "m": "U8832D",
+        "k": "U8832D",
+        "d": "hwu8832D"
+    },
+    {
+        "m": "U8836D",
+        "k": "U8836D",
+        "d": "hwu8836D"
+    },
+    {
+        "m": "U8850",
+        "k": "HUAWEI-U8850",
+        "d": "hwu8850"
+    },
+    {
+        "m": "U9000",
+        "k": "HUAWEI-U9000",
+        "d": "hwu9000"
+    },
+    {
+        "m": "UNION",
+        "k": "Y538",
+        "d": "hwY538"
+    },
+    {
+        "m": "V858",
+        "k": "Huawei 858",
+        "d": "hwu8160"
+    },
+    {
+        "m": "V858",
+        "k": "MTC 950",
+        "d": "hwu8160"
+    },
+    {
+        "m": "V858",
+        "k": "MTC Mini",
+        "d": "hwu8160"
+    },
+    {
+        "m": "V858",
+        "k": "Vodafone 858",
+        "d": "hwu8160"
+    },
+    {
+        "m": "Y210",
+        "k": "Orinoquia Auyantepui Y210",
+        "d": "oay210"
+    },
+    {
+        "m": "Y220",
+        "k": "Y220-U00",
+        "d": "HWY220-U"
+    },
+    {
+        "m": "Y220",
+        "k": "Y220-U05",
+        "d": "HWY220-U"
+    },
+    {
+        "m": "Y220",
+        "k": "Y220-U17",
+        "d": "HWY220-U"
+    },
+    {
+        "m": "Y220-T10",
+        "k": "HUAWEI Y220-T10",
+        "d": "hwy220-t10"
+    },
+    {
+        "m": "Y220-U10",
+        "k": "Y220-U10",
+        "d": "HWY220-U"
+    },
+    {
+        "m": "Y220T",
+        "k": "HUAWEI Y 220T",
+        "d": "hwy220t"
+    },
+    {
+        "m": "Y221-U03",
+        "k": "HUAWEI Y221-U03",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y221-U03",
+        "k": "ORINOQUIA Auyantepui+Y221-U03",
+        "d": "QAY221-U"
+    },
+    {
+        "m": "Y221-U12",
+        "k": "HUAWEI Y221-U12",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y221-U22",
+        "k": "HUAWEI Y221-U22",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y221-U33",
+        "k": "HUAWEI Y221-U33",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y221-U43",
+        "k": "HUAWEI Y221-U43",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y221-U53",
+        "k": "HUAWEI Y221-U53",
+        "d": "HWY221-U"
+    },
+    {
+        "m": "Y300",
+        "k": "HUAWEI Ascend Y300",
+        "d": "hwY300-0100"
+    },
+    {
+        "m": "Y300",
+        "k": "HUAWEI Y300-0100",
+        "d": "hwY300-0100"
+    },
+    {
+        "m": "Y300",
+        "k": "HUAWEI Y300-0151",
+        "d": "hwY300-0151"
+    },
+    {
+        "m": "Y300",
+        "k": "Pelephone-Y300-",
+        "d": "hwY300-0151"
+    },
+    {
+        "m": "Y300-0000",
+        "k": "HUAWEI Y300-0000",
+        "d": "hwY300-0000"
+    },
+    {
+        "m": "Y301A1",
+        "k": "Huawei Y301A1",
+        "d": "hwY301A1"
+    },
+    {
+        "m": "Y301A2",
+        "k": "Huawei Y301A2",
+        "d": "hwY301A2"
+    },
+    {
+        "m": "Y310-5000",
+        "k": "HUAWEI Y310-5000",
+        "d": "hwy310-5000"
+    },
+    {
+        "m": "Y310-T10",
+        "k": "HUAWEI Y310-T10",
+        "d": "hwy310-t10"
+    },
+    {
+        "m": "Y320",
+        "k": "HUAWEI Y320-C00",
+        "d": "hwy320-c00"
+    },
+    {
+        "m": "Y320-T00",
+        "k": "HUAWEI Y320-T00",
+        "d": "HWY320-T00"
+    },
+    {
+        "m": "Y320-U01",
+        "k": "HUAWEI Y320-U01",
+        "d": "HWY320"
+    },
+    {
+        "m": "Y320-U01",
+        "k": "Y320-U01",
+        "d": "HWY320"
+    },
+    {
+        "m": "Y320-U10",
+        "k": "HUAWEI Y320-U10",
+        "d": "HWY320-U"
+    },
+    {
+        "m": "Y320-U151",
+        "k": "HUAWEI Y320-U151",
+        "d": "HWY320-U"
+    },
+    {
+        "m": "Y320-U30",
+        "k": "HUAWEI Y320-U30",
+        "d": "HWY320-U"
+    },
+    {
+        "m": "Y320-U351",
+        "k": "HUAWEI Y320-U351",
+        "d": "HWY320-U"
+    },
+    {
+        "m": "Y321",
+        "k": "HUAWEI Y321-U051",
+        "d": "HWY321-U"
+    },
+    {
+        "m": "Y321",
+        "k": "HUAWEI Y321-C00",
+        "d": "hwy321-c00"
+    },
+    {
+        "m": "Y325-T00",
+        "k": "HUAWEI Y325-T00",
+        "d": "HWY325-T"
+    },
+    {
+        "m": "Y330",
+        "k": "HUAWEI Y330-U05",
+        "d": "hwY330-U05"
+    },
+    {
+        "m": "Y330",
+        "k": "HUAWEI Y330-U21",
+        "d": "hwY330-U21"
+    },
+    {
+        "m": "Y330-C00",
+        "k": "HUAWEI Y330-C00",
+        "d": "hwY330-C00"
+    },
+    {
+        "m": "Y330-U01",
+        "k": "HUAWEI Y330-U01",
+        "d": "hwY330-U01"
+    },
+    {
+        "m": "Y330-U01",
+        "k": "Luno",
+        "d": "hwY330-U01"
+    },
+    {
+        "m": "Y330-U07",
+        "k": "HUAWEI Y330-U07",
+        "d": "hwY330-U07"
+    },
+    {
+        "m": "Y330-U08",
+        "k": "HUAWEI Y330-U08",
+        "d": "hwY330-U08"
+    },
+    {
+        "m": "Y330-U11",
+        "k": "HUAWEI Y330-U11",
+        "d": "hwY330-U11"
+    },
+    {
+        "m": "Y330-U11",
+        "k": "V8510",
+        "d": "hwY330-U11"
+    },
+    {
+        "m": "Y330-U15",
+        "k": "HUAWEI Y330-U15",
+        "d": "hwY330-U15"
+    },
+    {
+        "m": "Y330-U17",
+        "k": "HUAWEI Y330-U17",
+        "d": "hwY330-U17"
+    },
+    {
+        "m": "Y336-A1",
+        "k": "HUAWEI Y336-A1",
+        "d": "hwY336-A1"
+    },
+    {
+        "m": "Y336-U02",
+        "k": "HUAWEI Y336-U02",
+        "d": "HWY336-U"
+    },
+    {
+        "m": "Y336-U12",
+        "k": "HUAWEI Y336-U12",
+        "d": "HWY336-U"
+    },
+    {
+        "m": "Y340-U081",
+        "k": "Y340-U081",
+        "d": "hwY340-U081"
+    },
+    {
+        "m": "Y360-U03",
+        "k": "HUAWEI Y360-U03",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U103",
+        "k": "HUAWEI Y360-U103",
+        "d": "HWY360-U6572"
+    },
+    {
+        "m": "Y360-U12",
+        "k": "HUAWEI Y360-U12",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U23",
+        "k": "HUAWEI Y360-U23",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U31",
+        "k": "HUAWEI Y360-U31",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U42",
+        "k": "HUAWEI Y360-U42",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U61",
+        "k": "HUAWEI Y360-U61",
+        "d": "HWY360-U"
+    },
+    {
+        "m": "Y360-U72",
+        "k": "HUAWEI Y360-U72",
+        "d": "HWY360-U6572"
+    },
+    {
+        "m": "Y360-U82",
+        "k": "HUAWEI Y360-U82",
+        "d": "HWY360-U6572"
+    },
+    {
+        "m": "Y360-U93",
+        "k": "Delta Y360-U93",
+        "d": "HWY360-U6572"
+    },
+    {
+        "m": "Y360-U93",
+        "k": "HUAWEI Y360-U93",
+        "d": "HWY360-U6572"
+    },
+    {
+        "m": "Y3II",
+        "k": "HUAWEI LUA-L01",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "Y3II",
+        "k": "HUAWEI LUA-L02",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "Y3II",
+        "k": "HUAWEI LUA-L21",
+        "d": "HWLUA-L6735"
+    },
+    {
+        "m": "Y3II",
+        "k": "HUAWEI LUA-U02",
+        "d": "HWLUA-U6582"
+    },
+    {
+        "m": "Y3II",
+        "k": "HUAWEI LUA-U22",
+        "d": "HWLUA-U6582"
+    },
+    {
+        "m": "Y3III",
+        "k": "CRO-U00",
+        "d": "HWCRO-U6580M"
+    },
+    {
+        "m": "Y3III",
+        "k": "CRO-U23",
+        "d": "HWCRO-U6580M"
+    },
+    {
+        "m": "Y3III",
+        "k": "HUAWEI CRO-U00",
+        "d": "HWCRO-U6580M"
+    },
+    {
+        "m": "Y3III",
+        "k": "HUAWEI CRO-U23",
+        "d": "HWCRO-U6580M"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-AL00",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-L02",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-L03",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-L13",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-L22",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-L23",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-TL00",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y5 2017",
+        "k": "MYA-U29",
+        "d": "HWMYA-U6580"
+    },
+    {
+        "m": "Y500-T00",
+        "k": "HUAWEI Y500-T00",
+        "d": "HWY500-T00"
+    },
+    {
+        "m": "Y511-T00",
+        "k": "HUAWEI Y511-T00",
+        "d": "HWY511-T"
+    },
+    {
+        "m": "Y511-T00",
+        "k": "Y511-T00",
+        "d": "HWY511-T"
+    },
+    {
+        "m": "Y511-U00",
+        "k": "Y511-U00",
+        "d": "HWY511-U"
+    },
+    {
+        "m": "Y511-U10",
+        "k": "HUAWEI Y511-U10",
+        "d": "HWY511-U"
+    },
+    {
+        "m": "Y511-U251",
+        "k": "HUAWEI Y511-U251",
+        "d": "HWY511-U"
+    },
+    {
+        "m": "Y511-U30",
+        "k": "HUAWEI Y511-U30",
+        "d": "HWY511-U"
+    },
+    {
+        "m": "Y511-U30",
+        "k": "VIETTEL V8506",
+        "d": "HWY511-U"
+    },
+    {
+        "m": "Y516-",
+        "k": "HUAWEI Y516-T00",
+        "d": "HWY516-T"
+    },
+    {
+        "m": "Y518-T00",
+        "k": "HUAWEI Y518-T00",
+        "d": "HWY518-T"
+    },
+    {
+        "m": "Y520-U03",
+        "k": "HUAWEI Y520-U03",
+        "d": "HWY520-U"
+    },
+    {
+        "m": "Y520-U12",
+        "k": "HUAWEI Y520-U12",
+        "d": "HWY520-U"
+    },
+    {
+        "m": "Y520-U22",
+        "k": "HUAWEI Y520-U22",
+        "d": "HWY520-U"
+    },
+    {
+        "m": "Y520-U33",
+        "k": "HUAWEI Y520-U33",
+        "d": "HWY520-U"
+    },
+    {
+        "m": "Y523-L076",
+        "k": "HUAWEI Y523-L076",
+        "d": "HWY523"
+    },
+    {
+        "m": "Y523-L176",
+        "k": "HUAWEI Y523-L176",
+        "d": "HWY523"
+    },
+    {
+        "m": "Y530",
+        "k": "HUAWEI Y530-U00",
+        "d": "hwY530-U00"
+    },
+    {
+        "m": "Y530-U051",
+        "k": "HUAWEI Y530",
+        "d": "hwY530-U051"
+    },
+    {
+        "m": "Y530-U051",
+        "k": "HUAWEI Y530-U051",
+        "d": "hwY530-U051"
+    },
+    {
+        "m": "Y535",
+        "k": "HUAWEI Y535-C00",
+        "d": "HWY535-C00"
+    },
+    {
+        "m": "Y535D-C00",
+        "k": "HUAWEI Y535D-C00",
+        "d": "HWY535D-C00"
+    },
+    {
+        "m": "Y536-A1",
+        "k": "HUAWEI Y536A1",
+        "d": "hwY536A1"
+    },
+    {
+        "m": "Y540-U01",
+        "k": "HUAWEI Y540-U01",
+        "d": "HWY540-U"
+    },
+    {
+        "m": "Y541-U02",
+        "k": "HUAWEI Y541-U02",
+        "d": "HWY541-U"
+    },
+    {
+        "m": "Y541-U02",
+        "k": "Y541-U02",
+        "d": "HWY541-U"
+    },
+    {
+        "m": "Y545-U05",
+        "k": "Y545-U05",
+        "d": "hwY545-U05"
+    },
+    {
+        "m": "Y550-L01",
+        "k": "HUAWEI Y550-L01",
+        "d": "hwY550-L01"
+    },
+    {
+        "m": "Y550-L02",
+        "k": "HUAWEI Y550-L02",
+        "d": "hwY550-L02"
+    },
+    {
+        "m": "Y550-L02",
+        "k": "Y550-L02",
+        "d": "hwY550-L02"
+    },
+    {
+        "m": "Y550-L03",
+        "k": "HUAWEI Y550",
+        "d": "hwY550-L03"
+    },
+    {
+        "m": "Y550-L03",
+        "k": "HUAWEI Y550-L03",
+        "d": "hwY550-L03"
+    },
+    {
+        "m": "Y550-L03",
+        "k": "Personal Huawei Y550",
+        "d": "hwY550-L03"
+    },
+    {
+        "m": "Y550-L03",
+        "k": "Y550-L03",
+        "d": "hwY550-L03"
+    },
+    {
+        "m": "Y560-CL00",
+        "k": "HUAWEI Y560-CL00",
+        "d": "HWY560-CL"
+    },
+    {
+        "m": "Y560-L01",
+        "k": "HUAWEI Y560-L01",
+        "d": "HWY560-L"
+    },
+    {
+        "m": "Y560-L03",
+        "k": "HUAWEI Y560-L03",
+        "d": "HWY560-L"
+    },
+    {
+        "m": "Y560-U02",
+        "k": "HUAWEI Y560-U02",
+        "d": "HWY560-U"
+    },
+    {
+        "m": "Y560-U12",
+        "k": "HUAWEI Y560-U12",
+        "d": "HWY560-U"
+    },
+    {
+        "m": "Y560-U23",
+        "k": "HUAWEI Y560-U23",
+        "d": "HWY560-U"
+    },
+    {
+        "m": "Y5II",
+        "k": "CUN-L22",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L01",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L02",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L03",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L21",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L22",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L23",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-L33",
+        "d": "HWCUN-L6735"
+    },
+    {
+        "m": "Y5II",
+        "k": "HUAWEI CUN-U29",
+        "d": "HWCUN-U6582"
+    },
+    {
+        "m": "Y6 2017",
+        "k": "MYA-L41",
+        "d": "HWMYA-L6737"
+    },
+    {
+        "m": "Y6 Elite",
+        "k": "HUAWEI LYO-L02",
+        "d": "HWLYO-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-AL00",
+        "d": "HWTIT-AL00"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-AL00",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-CL10",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-L01",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-TL00",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "TIT-AL00",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "TIT-L01",
+        "d": "HWTIT-L6735"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-CL00",
+        "d": "HWTIT-L8916"
+    },
+    {
+        "m": "Y6 Pro",
+        "k": "HUAWEI TIT-U02",
+        "d": "HWTIT-U6582"
+    },
+    {
+        "m": "Y600",
+        "k": "HUAWEI Y600-U00",
+        "d": "HWY600-U"
+    },
+    {
+        "m": "Y600",
+        "k": "HUAWEI Y600-U151",
+        "d": "HWY600-U"
+    },
+    {
+        "m": "Y600",
+        "k": "HUAWEI Y600-U20",
+        "d": "HWY600-U"
+    },
+    {
+        "m": "Y600-U351",
+        "k": "HUAWEI Y600-U351",
+        "d": "HWY600-U"
+    },
+    {
+        "m": "Y600-U40",
+        "k": "HUAWEI Y600-U40",
+        "d": "HWY600-U"
+    },
+    {
+        "m": "Y600D-C00",
+        "k": "HUAWEI Y600D-C00",
+        "d": "HWY600D-C00"
+    },
+    {
+        "m": "Y610",
+        "k": "HUAWEI Y610-U00",
+        "d": "HWY610-U"
+    },
+    {
+        "m": "Y618",
+        "k": "HUAWEI Y618-T00",
+        "d": "HWY618-T"
+    },
+    {
+        "m": "Y625-U03",
+        "k": "Kavak Y625-U03",
+        "d": "KVY625-U"
+    },
+    {
+        "m": "Y625-U13",
+        "k": "HUAWEI Y625-U13",
+        "d": "HWY625-U"
+    },
+    {
+        "m": "Y625-U21",
+        "k": "HUAWEI Y625-U21",
+        "d": "HWY625-U"
+    },
+    {
+        "m": "Y625-U32",
+        "k": "HUAWEI Y625-U32",
+        "d": "HWY625-U"
+    },
+    {
+        "m": "Y625-U43",
+        "k": "HUAWEI Y625-U43",
+        "d": "HWY625-U"
+    },
+    {
+        "m": "Y625-U51",
+        "k": "HUAWEI Y625-U51",
+        "d": "HWY625-U"
+    },
+    {
+        "m": "Y635-CL00",
+        "k": "HUAWEI Y635-CL00",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L01",
+        "k": "Y635-L01",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L02",
+        "k": "HUAWEI Y635-L02",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L02",
+        "k": "Y635-L02",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L03",
+        "k": "HUAWEI Y635-L03",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L03",
+        "k": "Y635-L03",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-L21",
+        "k": "Y635-L21",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-TL00",
+        "k": "HUAWEI Y635-TL00",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y635-TL00",
+        "k": "Y635-TL00",
+        "d": "hwY635"
+    },
+    {
+        "m": "Y6II",
+        "k": "CAM-L03",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "CAM-L21",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "CAM-L23",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "CAM-U22",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "HUAWEI CAM-L03",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "HUAWEI CAM-L21",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "HUAWEI CAM-L23",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "HUAWEI CAM-U22",
+        "d": "HWCAM-H"
+    },
+    {
+        "m": "Y6II",
+        "k": "CAM-L32",
+        "d": "HWCAM-Q"
+    },
+    {
+        "m": "Y7 Pro 2019",
+        "k": "DUB-AL20",
+        "d": "HWDUB-Q"
+    },
+    {
+        "m": "Youth",
+        "k": "Orinoquia Gran Roraima S7-702u",
+        "d": "hws7701u"
+    },
+    {
+        "m": "ascend-5w",
+        "k": "H1623",
+        "d": "HWH1621-Q"
+    },
+    {
+        "m": "eH811",
+        "k": "eH811",
+        "d": "hweH811"
+    },
+    {
+        "m": "honor 10 Lite",
+        "k": "HRY-LX1",
+        "d": "HWHRY-H"
+    },
+    {
+        "m": "honor 10 Lite",
+        "k": "HRY-LX1MEB",
+        "d": "HWHRY-H"
+    },
+    {
+        "m": "honor 10 Lite",
+        "k": "HRY-LX2",
+        "d": "HWHRY-H"
+    },
+    {
+        "m": "honor 10 Lite",
+        "k": "HRY-AL00",
+        "d": "HWHRY-HF"
+    },
+    {
+        "m": "honor 5X",
+        "k": "KIW-L22",
+        "d": "HNKIW-Q"
+    },
+    {
+        "m": "honor 5X",
+        "k": "KIW-L23",
+        "d": "HNKIW-Q"
+    },
+    {
+        "m": "honor 5X",
+        "k": "KIW-L24",
+        "d": "HNKIW-Q"
+    },
+    {
+        "m": "honor 6A Pro",
+        "k": "DLI-L42",
+        "d": "HWDLI-Q"
+    },
+    {
+        "m": "honor 6C",
+        "k": "DIG-L21HN",
+        "d": "HWDIG-L8940"
+    },
+    {
+        "m": "honor 6C Pro",
+        "k": "JMM-L22",
+        "d": "HWJMM"
+    },
+    {
+        "m": "honor 6x",
+        "k": "BLN-L21",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "honor 6x",
+        "k": "BLN-L22",
+        "d": "HWBLN-H"
+    },
+    {
+        "m": "honor 8C",
+        "k": "BKK-AL10",
+        "d": "HWBKK-Q"
+    },
+    {
+        "m": "honor 8C",
+        "k": "BKK-L22",
+        "d": "HWBKK-Q"
+    },
+    {
+        "m": "honor 8C",
+        "k": "BKK-LX2",
+        "d": "HWBKK-Q"
+    },
+    {
+        "m": "huawei nova 2",
+        "k": "HWV31",
+        "d": "HWPIC"
+    },
+    {
+        "m": "hw204HW",
+        "k": "204HW",
+        "d": "hw204HW"
+    },
+    {
+        "m": "m881",
+        "k": "HUAWEI M881",
+        "d": "hwm881"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-AL10",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L01",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L02",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L03",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L11",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L12",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAN-L13",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAZ-AL10",
+        "d": "HWCAN"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAZ-AL00",
+        "d": "HWCAZ"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAZ-AL10",
+        "d": "HWCAZ"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAZ-TL10",
+        "d": "HWCAZ"
+    },
+    {
+        "m": "nova",
+        "k": "HUAWEI CAZ-TL20",
+        "d": "HWCAZ"
+    },
+    {
+        "m": "nova 2",
+        "k": "PIC-AL00",
+        "d": "HWPIC"
+    },
+    {
+        "m": "nova 2",
+        "k": "PIC-TL00",
+        "d": "HWPIC"
+    },
+    {
+        "m": "nova 2 Plus",
+        "k": "BAC-AL00",
+        "d": "HWBAC"
+    },
+    {
+        "m": "nova 2 Plus",
+        "k": "BAC-L01",
+        "d": "HWBAC"
+    },
+    {
+        "m": "nova 2 Plus",
+        "k": "BAC-L03",
+        "d": "HWBAC"
+    },
+    {
+        "m": "nova 2 Plus",
+        "k": "BAC-L23",
+        "d": "HWBAC"
+    },
+    {
+        "m": "nova 2 Plus",
+        "k": "BAC-TL00",
+        "d": "HWBAC"
+    },
+    {
+        "m": "nova 2i",
+        "k": "RNE-L02",
+        "d": "HWRNE"
+    },
+    {
+        "m": "nova 2i",
+        "k": "RNE-L22",
+        "d": "HWRNE"
+    },
+    {
+        "m": "nova 2s",
+        "k": "HWI-AL00",
+        "d": "HWHWI"
+    },
+    {
+        "m": "nova 2s",
+        "k": "HWI-TL00",
+        "d": "HWHWI"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-AL00",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-L21",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-L29",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-LX1",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-LX1M",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-LX9",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-TL00",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3",
+        "k": "PAR-TL20",
+        "d": "HWPAR"
+    },
+    {
+        "m": "nova 3e",
+        "k": "ANE-AL00",
+        "d": "HWANE"
+    },
+    {
+        "m": "nova 3e",
+        "k": "ANE-TL00",
+        "d": "HWANE"
+    },
+    {
+        "m": "nova 3i",
+        "k": "INE-AL00",
+        "d": "HWINE"
+    },
+    {
+        "m": "nova 3i",
+        "k": "INE-LX1r",
+        "d": "HWINE"
+    },
+    {
+        "m": "nova 3i",
+        "k": "INE-LX2",
+        "d": "HWINE"
+    },
+    {
+        "m": "nova 3i",
+        "k": "INE-TL00",
+        "d": "HWINE"
+    },
+    {
+        "m": "nova 4",
+        "k": "VCE-AL00",
+        "d": "HWVCE"
+    },
+    {
+        "m": "nova 4",
+        "k": "VCE-L22",
+        "d": "HWVCE"
+    },
+    {
+        "m": "nova 4",
+        "k": "VCE-TL00",
+        "d": "HWVCE"
+    },
+    {
+        "m": "nova 4e",
+        "k": "MAR-AL00",
+        "d": "HWMAR"
+    },
+    {
+        "m": "nova 4e",
+        "k": "MAR-TL00",
+        "d": "HWMAR"
+    },
+    {
+        "m": "nova lite",
+        "k": "PRA-LX2",
+        "d": "HWPRA-H"
+    },
+    {
+        "m": "nova lite",
+        "k": "PRA-LX3",
+        "d": "HWPRA-H"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L01",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L02",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L03",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L11",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L12",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "HUAWEI MLA-L13",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L01",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L02",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L03",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L11",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L12",
+        "d": "HWMLA"
+    },
+    {
+        "m": "nova plus",
+        "k": "MLA-L13",
+        "d": "HWMLA"
+    },
+    {
+        "m": "t1_8p0",
+        "k": "S8-701u",
+        "d": "hws8701"
+    },
+    {
+        "m": "t1_8p0",
+        "k": "S8-701w",
+        "d": "hws8701"
+    },
+    {
+        "m": "t1_8p0lte",
+        "k": "Honor T1 8.0",
+        "d": "hwt1821l"
+    },
+    {
+        "m": "t1_8p0lte",
+        "k": "S8-821w",
+        "d": "hwt1821l"
+    },
+    {
+        "m": "t1_8p0lte",
+        "k": "T1-821w",
+        "d": "hwt1821l"
+    },
+    {
+        "m": "t1_8p0lte",
+        "k": "T1-823L",
+        "d": "hwt1821l"
+    }
+]

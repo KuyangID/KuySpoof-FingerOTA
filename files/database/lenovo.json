@@ -1,0 +1,1772 @@
+[
+    {
+        "m": "A1000",
+        "k": "Lenovo A1000",
+        "d": "A1000"
+    },
+    {
+        "m": "A1000m",
+        "k": "Lenovo A1000m",
+        "d": "scx35_sp7731gea_taichi"
+    },
+    {
+        "m": "A1010",
+        "k": "Lenovo A1010a20",
+        "d": "A1010a20"
+    },
+    {
+        "m": "A1900",
+        "k": "Lenovo A1900",
+        "d": "A1900"
+    },
+    {
+        "m": "A2010-a",
+        "k": "Lenovo A2010-a",
+        "d": "A2010-a"
+    },
+    {
+        "m": "A2010l36",
+        "k": "Lenovo A2010l36",
+        "d": "A2010l36"
+    },
+    {
+        "m": "A2016a40",
+        "k": "Lenovo A2016a40",
+        "d": "A2016a40"
+    },
+    {
+        "m": "A2016b30",
+        "k": "Lenovo A2016b30",
+        "d": "A2016b30"
+    },
+    {
+        "m": "A2016b31",
+        "k": "Lenovo A2016b31",
+        "d": "A2016b31"
+    },
+    {
+        "m": "A2020a40",
+        "k": "Lenovo A2020a40",
+        "d": "angus3A4"
+    },
+    {
+        "m": "A2020a40",
+        "k": "Lenovo A2020a40",
+        "d": "angus3A41"
+    },
+    {
+        "m": "A208t",
+        "k": "Lenovo A208t",
+        "d": "A208t"
+    },
+    {
+        "m": "A2105",
+        "k": "Lenovo_A2105",
+        "d": "Lenovo_A2105"
+    },
+    {
+        "m": "A2107A",
+        "k": "A2107A-H",
+        "d": "A2107A-H"
+    },
+    {
+        "m": "A218t",
+        "k": "Lenovo A218t",
+        "d": "A218t"
+    },
+    {
+        "m": "A228t",
+        "k": "Lenovo A228t",
+        "d": "A228t"
+    },
+    {
+        "m": "A238t",
+        "k": "Lenovo A238t",
+        "d": "A238t"
+    },
+    {
+        "m": "A2580",
+        "k": "Lenovo A2580",
+        "d": "A2580"
+    },
+    {
+        "m": "A269",
+        "k": "Lenovo A269",
+        "d": "A269"
+    },
+    {
+        "m": "A269i",
+        "k": "Lenovo A269i",
+        "d": "A269i"
+    },
+    {
+        "m": "A278t",
+        "k": "Lenovo A278t",
+        "d": "A278t"
+    },
+    {
+        "m": "A2800",
+        "k": "Lenovo A2800-d",
+        "d": "A2800-d"
+    },
+    {
+        "m": "A2860",
+        "k": "Lenovo A2860",
+        "d": "A2860"
+    },
+    {
+        "m": "A3000",
+        "k": "Lenovo A3000-H",
+        "d": "A3000"
+    },
+    {
+        "m": "A300t",
+        "k": "Lenovo A300t",
+        "d": "A300t"
+    },
+    {
+        "m": "A301LV",
+        "k": "A301LV",
+        "d": "A301LV"
+    },
+    {
+        "m": "A305E",
+        "k": "LNV-Lenovo A305e",
+        "d": "A305e"
+    },
+    {
+        "m": "A305E",
+        "k": "Lenovo A305e",
+        "d": "A305e"
+    },
+    {
+        "m": "A308t",
+        "k": "Lenovo A308t",
+        "d": "A308t"
+    },
+    {
+        "m": "A316",
+        "k": "Lenovo A316",
+        "d": "A316"
+    },
+    {
+        "m": "A316i",
+        "k": "Lenovo A316i",
+        "d": "A316i"
+    },
+    {
+        "m": "A318t",
+        "k": "Lenovo A318t",
+        "d": "A318t"
+    },
+    {
+        "m": "A319",
+        "k": "Lenovo A319",
+        "d": "A319"
+    },
+    {
+        "m": "A31910t30",
+        "k": "Lenovo A3910t30",
+        "d": "angus3T3"
+    },
+    {
+        "m": "A320t",
+        "k": "Lenovo A320t",
+        "d": "A320t"
+    },
+    {
+        "m": "A328",
+        "k": "Lenovo A328",
+        "d": "A328"
+    },
+    {
+        "m": "A328t",
+        "k": "Lenovo A328t",
+        "d": "A328t"
+    },
+    {
+        "m": "A3300",
+        "k": "LenovoA3300-H",
+        "d": "A3300-H"
+    },
+    {
+        "m": "A3300",
+        "k": "Lenovo A3300-T",
+        "d": "A3300-T"
+    },
+    {
+        "m": "A3300-GV",
+        "k": "LenovoA3300-GV",
+        "d": "A3300-GV"
+    },
+    {
+        "m": "A3300-HV",
+        "k": "Lenovo A3300-HV",
+        "d": "A3300-HV"
+    },
+    {
+        "m": "A330e",
+        "k": "Lenovo A330e",
+        "d": "A330e"
+    },
+    {
+        "m": "A338t",
+        "k": "Lenovo A338t",
+        "d": "A338t"
+    },
+    {
+        "m": "A3500",
+        "k": "Lenovo A3500",
+        "d": "A3500"
+    },
+    {
+        "m": "A3500",
+        "k": "Lenovo A3500-HV",
+        "d": "A3500HV"
+    },
+    {
+        "m": "A3500-F",
+        "k": "Lenovo A3500-F",
+        "d": "A3500F"
+    },
+    {
+        "m": "A3500-FL",
+        "k": "Lenovo A3500-FL",
+        "d": "A3500FL"
+    },
+    {
+        "m": "A3500-H",
+        "k": "Lenovo A3500-H",
+        "d": "A3500H"
+    },
+    {
+        "m": "A355e",
+        "k": "Lenovo A355e",
+        "d": "A355e"
+    },
+    {
+        "m": "A358t",
+        "k": "Lenovo A358t",
+        "d": "A358t"
+    },
+    {
+        "m": "A3600-D",
+        "k": "Lenovo A3600-d",
+        "d": "A3600-d"
+    },
+    {
+        "m": "A3600u",
+        "k": "Lenovo A3600u",
+        "d": "A3600u"
+    },
+    {
+        "m": "A360e",
+        "k": "Lenovo A360e",
+        "d": "A360e"
+    },
+    {
+        "m": "A360t",
+        "k": "Lenovo A360t",
+        "d": "A360t"
+    },
+    {
+        "m": "A368t",
+        "k": "Lenovo A368t",
+        "d": "A368t"
+    },
+    {
+        "m": "A369",
+        "k": "Lenovo A369",
+        "d": "A369"
+    },
+    {
+        "m": "A369i",
+        "k": "Lenovo A369i",
+        "d": "A369i"
+    },
+    {
+        "m": "A370e",
+        "k": "LNV-Lenovo A370e",
+        "d": "A370e"
+    },
+    {
+        "m": "A375e",
+        "k": "LNV-Lenovo A375e",
+        "d": "A375e"
+    },
+    {
+        "m": "A376",
+        "k": "Lenovo A376",
+        "d": "A376"
+    },
+    {
+        "m": "A378t",
+        "k": "Lenovo A378t",
+        "d": "A378t"
+    },
+    {
+        "m": "A3800-D",
+        "k": "Lenovo A3800-d",
+        "d": "A3800-d"
+    },
+    {
+        "m": "A380e",
+        "k": "LNV-Lenovo A380e",
+        "d": "A380e"
+    },
+    {
+        "m": "A380t",
+        "k": "Lenovo A380t",
+        "d": "A380t"
+    },
+    {
+        "m": "A385e",
+        "k": "LNV-Lenovo A385e",
+        "d": "A385e"
+    },
+    {
+        "m": "A3860",
+        "k": "Lenovo A3580",
+        "d": "A3580"
+    },
+    {
+        "m": "A3860",
+        "k": "Lenovo A3860",
+        "d": "A3860"
+    },
+    {
+        "m": "A388t",
+        "k": "Lenovo A388t",
+        "d": "A388t"
+    },
+    {
+        "m": "A390",
+        "k": "Lenovo A390",
+        "d": "A390"
+    },
+    {
+        "m": "A390",
+        "k": "Lenovo A390_ROW",
+        "d": "A390"
+    },
+    {
+        "m": "A3900",
+        "k": "Lenovo A3900",
+        "d": "pxa1L88H2"
+    },
+    {
+        "m": "A390t",
+        "k": "Lenovo A390t",
+        "d": "A390t"
+    },
+    {
+        "m": "A395e",
+        "k": "LNV-Lenovo A395e",
+        "d": "A395e"
+    },
+    {
+        "m": "A396",
+        "k": "Lenovo A396",
+        "d": "A396"
+    },
+    {
+        "m": "A396",
+        "k": "Lenovo A396_TY",
+        "d": "A396_TY"
+    },
+    {
+        "m": "A398t",
+        "k": "Lenovo A398t",
+        "d": "A398t"
+    },
+    {
+        "m": "A398t+",
+        "k": "Lenovo A398t+",
+        "d": "A398tp"
+    },
+    {
+        "m": "A399",
+        "k": "Lenovo A399",
+        "d": "Aiken"
+    },
+    {
+        "m": "A5000",
+        "k": "Lenovo A5000",
+        "d": "A5000"
+    },
+    {
+        "m": "A505e",
+        "k": "LNV-Lenovo A505e",
+        "d": "A505e"
+    },
+    {
+        "m": "A516",
+        "k": "Lenovo A516",
+        "d": "A516"
+    },
+    {
+        "m": "A516",
+        "k": "Lenovo A516",
+        "d": "A516_ROW"
+    },
+    {
+        "m": "A526",
+        "k": "Lenovo A526",
+        "d": "A526"
+    },
+    {
+        "m": "A529",
+        "k": "Lenovo A529",
+        "d": "A529"
+    },
+    {
+        "m": "A536",
+        "k": "Lenovo A536",
+        "d": "A536"
+    },
+    {
+        "m": "A5500",
+        "k": "Lenovo A5500",
+        "d": "A5500"
+    },
+    {
+        "m": "A5500-F",
+        "k": "Lenovo A5500-F",
+        "d": "A5500-F"
+    },
+    {
+        "m": "A5500-H",
+        "k": "Lenovo A5500-H",
+        "d": "A5500-H"
+    },
+    {
+        "m": "A5500-HV",
+        "k": "Lenovo A5500-HV",
+        "d": "A5500-HV"
+    },
+    {
+        "m": "A560",
+        "k": "Lenovo A560",
+        "d": "A560_msm8212"
+    },
+    {
+        "m": "A560",
+        "k": "LNV-Lenovo A560",
+        "d": "A560_msm8610"
+    },
+    {
+        "m": "A5800-D",
+        "k": "Lenovo A5800-D",
+        "d": "A5800-D"
+    },
+    {
+        "m": "A588t",
+        "k": "LenovoA588t",
+        "d": "LenovoA588t"
+    },
+    {
+        "m": "A6000",
+        "k": "Lenovo A6000",
+        "d": "Kraft-A6000"
+    },
+    {
+        "m": "A6000-l",
+        "k": "Lenovo A6000-l",
+        "d": "Kraft-A6000-l"
+    },
+    {
+        "m": "A6010",
+        "k": "Lenovo A6010",
+        "d": "A6010"
+    },
+    {
+        "m": "A606",
+        "k": "Lenovo A606",
+        "d": "A606"
+    },
+    {
+        "m": "A616",
+        "k": "Lenovo A616",
+        "d": "A616"
+    },
+    {
+        "m": "A628t",
+        "k": "Lenovo A628t",
+        "d": "A628t"
+    },
+    {
+        "m": "A630",
+        "k": "LNV-Lenovo A630e",
+        "d": "A630e"
+    },
+    {
+        "m": "A656",
+        "k": "Lenovo A656",
+        "d": "A656"
+    },
+    {
+        "m": "A658T",
+        "k": "Lenovo A658t",
+        "d": "A658t"
+    },
+    {
+        "m": "A6600",
+        "k": "Lenovo A6600d40",
+        "d": "A6600d40"
+    },
+    {
+        "m": "A6600 Plus",
+        "k": "Lenovo A6600a40",
+        "d": "A6600a40"
+    },
+    {
+        "m": "A670t",
+        "k": "Lenovo A670t",
+        "d": "A670t"
+    },
+    {
+        "m": "A678t",
+        "k": "Lenovo A678t",
+        "d": "A678t"
+    },
+    {
+        "m": "A680",
+        "k": "Lenovo A680",
+        "d": "A680"
+    },
+    {
+        "m": "A680",
+        "k": "Lenovo A680_ROW",
+        "d": "A680"
+    },
+    {
+        "m": "A6800",
+        "k": "Lenovo A6800",
+        "d": "A6800"
+    },
+    {
+        "m": "A688t",
+        "k": "Lenovo A688t",
+        "d": "A688t"
+    },
+    {
+        "m": "A690e",
+        "k": "LNV-Lenovo A690e",
+        "d": "A690e"
+    },
+    {
+        "m": "A7-60HC",
+        "k": "Lenovo A7-60HC",
+        "d": "A760HC"
+    },
+    {
+        "m": "A7000",
+        "k": "Lenovo A7000-a",
+        "d": "A7000-a"
+    },
+    {
+        "m": "A7000 Plus",
+        "k": "Lenovo A7000-a",
+        "d": "A7000plus"
+    },
+    {
+        "m": "A706",
+        "k": "Lenovo A706",
+        "d": "armani"
+    },
+    {
+        "m": "A706_ROW",
+        "k": "Lenovo A706_ROW",
+        "d": "armani_row"
+    },
+    {
+        "m": "A720e",
+        "k": "Lenovo A720e",
+        "d": "andorrap"
+    },
+    {
+        "m": "A750e",
+        "k": "Lenovo A750e",
+        "d": "athenae"
+    },
+    {
+        "m": "A760",
+        "k": "Lenovo A760",
+        "d": "audi"
+    },
+    {
+        "m": "A7600",
+        "k": "Lenovo A7600",
+        "d": "A7600"
+    },
+    {
+        "m": "A7600",
+        "k": "Lenovo A7600-m",
+        "d": "aiocmcc_ttp"
+    },
+    {
+        "m": "A7600",
+        "k": "Lenovo A7600",
+        "d": "aiocu_wtfp"
+    },
+    {
+        "m": "A7600-F",
+        "k": "Lenovo A7600-F",
+        "d": "A7600-F"
+    },
+    {
+        "m": "A7600-H",
+        "k": "Lenovo A7600-H",
+        "d": "A7600-H"
+    },
+    {
+        "m": "A7600-HV",
+        "k": "Lenovo A7600-HV",
+        "d": "A7600-HV"
+    },
+    {
+        "m": "A766",
+        "k": "Lenovo A766",
+        "d": "A766"
+    },
+    {
+        "m": "A768t",
+        "k": "Lenovo A768t",
+        "d": "airplayt"
+    },
+    {
+        "m": "A7700",
+        "k": "A7700",
+        "d": "A7700"
+    },
+    {
+        "m": "A7700",
+        "k": "Lenovo A7700",
+        "d": "A7700"
+    },
+    {
+        "m": "A770e",
+        "k": "Lenovo A770e",
+        "d": "athenaep"
+    },
+    {
+        "m": "A780e",
+        "k": "LNV-Lenovo A780e",
+        "d": "A780e"
+    },
+    {
+        "m": "A785e",
+        "k": "LNV-Lenovo A785e",
+        "d": "A785e"
+    },
+    {
+        "m": "A788t",
+        "k": "Lenovo A788t",
+        "d": "A788t"
+    },
+    {
+        "m": "A8-50",
+        "k": "Lenovo 2 A8-50LC",
+        "d": "A8-50LC"
+    },
+    {
+        "m": "A805e",
+        "k": "Lenovo A805e",
+        "d": "airplayep"
+    },
+    {
+        "m": "A806",
+        "k": "Lenovo A806",
+        "d": "A806"
+    },
+    {
+        "m": "A808t",
+        "k": "Lenovo A808t",
+        "d": "A808t"
+    },
+    {
+        "m": "A808t-i",
+        "k": "Lenovo A808t-i",
+        "d": "A808t-i"
+    },
+    {
+        "m": "A816",
+        "k": "Lenovo A5100",
+        "d": "airplayw"
+    },
+    {
+        "m": "A816",
+        "k": "Lenovo A816",
+        "d": "airplayw"
+    },
+    {
+        "m": "A820",
+        "k": "Lenovo A820",
+        "d": "A820"
+    },
+    {
+        "m": "A820e",
+        "k": "Lenovo A820e",
+        "d": "andorra"
+    },
+    {
+        "m": "A820t",
+        "k": "Lenovo A820t",
+        "d": "A820t"
+    },
+    {
+        "m": "A828",
+        "k": "Lenovo A858",
+        "d": "A858"
+    },
+    {
+        "m": "A828t",
+        "k": "Lenovo A828t",
+        "d": "A828t"
+    },
+    {
+        "m": "A830",
+        "k": "Lenovo A830",
+        "d": "A830"
+    },
+    {
+        "m": "A850",
+        "k": "Lenovo A850",
+        "d": "A850"
+    },
+    {
+        "m": "A850",
+        "k": "Lenovo A850",
+        "d": "A850_ROW"
+    },
+    {
+        "m": "A850+",
+        "k": "Lenovo A850+",
+        "d": "A850p"
+    },
+    {
+        "m": "A858t",
+        "k": "Lenovo A858t",
+        "d": "A858t"
+    },
+    {
+        "m": "A859",
+        "k": "Lenovo A859",
+        "d": "A859_ROW"
+    },
+    {
+        "m": "A860e",
+        "k": "Lenovo A860e",
+        "d": "artini"
+    },
+    {
+        "m": "A889",
+        "k": "Lenovo A889",
+        "d": "A889"
+    },
+    {
+        "m": "A890e",
+        "k": "Lenovo A890e",
+        "d": "airbuse"
+    },
+    {
+        "m": "A916",
+        "k": "Lenovo A916",
+        "d": "A916"
+    },
+    {
+        "m": "A936",
+        "k": "Lenovo A936",
+        "d": "A936"
+    },
+    {
+        "m": "A938t",
+        "k": "Lenovo A938t",
+        "d": "A938t"
+    },
+    {
+        "m": "B6000-F",
+        "k": "Lenovo B6000-F",
+        "d": "B6000"
+    },
+    {
+        "m": "B6000-H",
+        "k": "Lenovo B6000-H",
+        "d": "B6000"
+    },
+    {
+        "m": "B6000-HV",
+        "k": "Lenovo B6000-HV",
+        "d": "B6000"
+    },
+    {
+        "m": "B8000-F",
+        "k": "Lenovo B8000-F",
+        "d": "B8000"
+    },
+    {
+        "m": "B8000-H",
+        "k": "Lenovo B8000-H",
+        "d": "B8000"
+    },
+    {
+        "m": "B8080",
+        "k": "Lenovo B8080-F",
+        "d": "B8080"
+    },
+    {
+        "m": "B8080-H",
+        "k": "Lenovo B8080-H",
+        "d": "B8080"
+    },
+    {
+        "m": "B8080-HV",
+        "k": "Lenovo B8080-HV",
+        "d": "B8080"
+    },
+    {
+        "m": "E4002",
+        "k": "MEDION E4002",
+        "d": "E4002"
+    },
+    {
+        "m": "K10e70",
+        "k": "Lenovo K10e70",
+        "d": "K10e70"
+    },
+    {
+        "m": "K3 Note",
+        "k": "Lenovo K50a40",
+        "d": "K50a40"
+    },
+    {
+        "m": "K3 Note",
+        "k": "Lenovo K50-t3s",
+        "d": "aio_3m_otfp_m"
+    },
+    {
+        "m": "K3 Note",
+        "k": "Lenovo K50-T5",
+        "d": "aio_otfp"
+    },
+    {
+        "m": "K3 Note",
+        "k": "Lenovo K50-t5",
+        "d": "aio_otfp"
+    },
+    {
+        "m": "K30-E",
+        "k": "Lenovo K30-E",
+        "d": "Kraft-E"
+    },
+    {
+        "m": "K30-T",
+        "k": "Lenovo K30-T",
+        "d": "Kraft-T"
+    },
+    {
+        "m": "K30-TM",
+        "k": "Lenovo K30-TM",
+        "d": "Kraft-TM"
+    },
+    {
+        "m": "K30-W",
+        "k": "Lenovo K30-W",
+        "d": "Kraft-W"
+    },
+    {
+        "m": "K32",
+        "k": "Lenovo K32c36",
+        "d": "K32c36"
+    },
+    {
+        "m": "K32c30",
+        "k": "Lenovo K32c30",
+        "d": "K32c30"
+    },
+    {
+        "m": "K350t",
+        "k": "K350t",
+        "d": "K350t"
+    },
+    {
+        "m": "K5 Note",
+        "k": "Lenovo A7020a40",
+        "d": "A7020a40"
+    },
+    {
+        "m": "K5 Note",
+        "k": "Lenovo A7020a48",
+        "d": "A7020a48"
+    },
+    {
+        "m": "K5 Note",
+        "k": "Lenovo L38012",
+        "d": "austin2018"
+    },
+    {
+        "m": "K5 Note",
+        "k": "Lenovo K52e78",
+        "d": "k52_e78"
+    },
+    {
+        "m": "K5 Note",
+        "k": "Lenovo K52t58",
+        "d": "k52_t58"
+    },
+    {
+        "m": "K5 Plus",
+        "k": "Lenovo A6020a46",
+        "d": "A6020a46"
+    },
+    {
+        "m": "K5 S",
+        "k": "Lenovo L38031",
+        "d": "K5S"
+    },
+    {
+        "m": "K50",
+        "k": "Lenovo K50-t5",
+        "d": "K50-t5"
+    },
+    {
+        "m": "K50",
+        "k": "Lenovo K50-t3s",
+        "d": "aio_3m_otfp"
+    },
+    {
+        "m": "K50-T5",
+        "k": "Lenovo K50-t5",
+        "d": "aio_otfp_m"
+    },
+    {
+        "m": "K520",
+        "k": "Lenovo K520",
+        "d": "seoul"
+    },
+    {
+        "m": "K520",
+        "k": "Lenovo S680",
+        "d": "seoul"
+    },
+    {
+        "m": "K52t38",
+        "k": "Lenovo K52t38",
+        "d": "k52_t38"
+    },
+    {
+        "m": "K52t38",
+        "k": "Lenovo k52t38",
+        "d": "k52_t38"
+    },
+    {
+        "m": "K5X",
+        "k": "Lenovo L38041",
+        "d": "kunlun"
+    },
+    {
+        "m": "K800",
+        "k": "Lenovo K800",
+        "d": "K800"
+    },
+    {
+        "m": "K80M",
+        "k": "Lenovo K80M",
+        "d": "K80M"
+    },
+    {
+        "m": "K860",
+        "k": "Lenovo K860",
+        "d": "stuttgart"
+    },
+    {
+        "m": "K860i",
+        "k": "Lenovo K860i",
+        "d": "K860i"
+    },
+    {
+        "m": "K900",
+        "k": "Lenovo K900",
+        "d": "K900"
+    },
+    {
+        "m": "K900",
+        "k": "Lenovo K900_ROW",
+        "d": "K900_ROW"
+    },
+    {
+        "m": "K910",
+        "k": "Lenovo K910",
+        "d": "kiton"
+    },
+    {
+        "m": "K910",
+        "k": "Lenovo K910",
+        "d": "kitonw"
+    },
+    {
+        "m": "K910L",
+        "k": "Lenovo K910L",
+        "d": "K910L"
+    },
+    {
+        "m": "K910e",
+        "k": "LNV-Lenovo K910e",
+        "d": "kitone"
+    },
+    {
+        "m": "K910e",
+        "k": "Lenovo K910e",
+        "d": "kitone"
+    },
+    {
+        "m": "K920",
+        "k": "Lenovo K920",
+        "d": "kingdom_row"
+    },
+    {
+        "m": "K920",
+        "k": "Lenovo K920",
+        "d": "kingdomt"
+    },
+    {
+        "m": "L38011",
+        "k": "Lenovo L38011",
+        "d": "k5"
+    },
+    {
+        "m": "L38021",
+        "k": "Lenovo L38021",
+        "d": "k5_cmcc"
+    },
+    {
+        "m": "L38082",
+        "k": "Lenovo L38082",
+        "d": "L38082"
+    },
+    {
+        "m": "Legion Y70",
+        "k": "Lenovo L71091",
+        "d": "halo"
+    },
+    {
+        "m": "Lenovo",
+        "k": "Lenovo A708t",
+        "d": "A708t"
+    },
+    {
+        "m": "Lenovo",
+        "k": "Lenovo A880",
+        "d": "A880"
+    },
+    {
+        "m": "Lenovo",
+        "k": "Lenovo PB1-770P",
+        "d": "PB1-770P"
+    },
+    {
+        "m": "Lenovo A3300",
+        "k": "LenovoA3300-HV",
+        "d": "A3300-HV"
+    },
+    {
+        "m": "Lenovo A5",
+        "k": "L18011",
+        "d": "L18011"
+    },
+    {
+        "m": "Lenovo A5",
+        "k": "Lenovo L18021",
+        "d": "L18021"
+    },
+    {
+        "m": "Lenovo A5s",
+        "k": "Lenovo L18081",
+        "d": "A5s"
+    },
+    {
+        "m": "Lenovo A6 Note",
+        "k": "Lenovo L19041",
+        "d": "Lenovo_A6_Note"
+    },
+    {
+        "m": "Lenovo A8",
+        "k": "L10041",
+        "d": "AK57"
+    },
+    {
+        "m": "Lenovo A8",
+        "k": "Lenovo L10041",
+        "d": "AK57"
+    },
+    {
+        "m": "Lenovo K11",
+        "k": "Lenovo L38083",
+        "d": "L38083"
+    },
+    {
+        "m": "Lenovo K12 Note",
+        "k": "Lenovo K12 Note",
+        "d": "guamp"
+    },
+    {
+        "m": "Lenovo K13 Note",
+        "k": "Lenovo K12 Note",
+        "d": "capri"
+    },
+    {
+        "m": "Lenovo K13 Note",
+        "k": "Lenovo K13 Note",
+        "d": "capri"
+    },
+    {
+        "m": "Lenovo K13 Pro",
+        "k": "Lenovo K12 Note",
+        "d": "caprip"
+    },
+    {
+        "m": "Lenovo K13 Pro",
+        "k": "Lenovo K13 Pro",
+        "d": "caprip"
+    },
+    {
+        "m": "Lenovo K8",
+        "k": "Lenovo K",
+        "d": "brady_f"
+    },
+    {
+        "m": "Lenovo K8",
+        "k": "Lenovo K8",
+        "d": "brady_f"
+    },
+    {
+        "m": "Lenovo K8 Note",
+        "k": "Lenovo K8 Note",
+        "d": "manning"
+    },
+    {
+        "m": "Lenovo K8 Plus",
+        "k": "Lenovo K",
+        "d": "marino_f"
+    },
+    {
+        "m": "Lenovo K8 Plus",
+        "k": "Lenovo K8 Plus",
+        "d": "marino_f"
+    },
+    {
+        "m": "Lenovo K9",
+        "k": "Lenovo L38043",
+        "d": "K9"
+    },
+    {
+        "m": "Lenovo Mirage Solo",
+        "k": "VR-1541F",
+        "d": "vega"
+    },
+    {
+        "m": "Lenovo N300",
+        "k": "Lenovo N300",
+        "d": "Lindos2"
+    },
+    {
+        "m": "Lenovo PHAB2",
+        "k": "Lenovo PB2-650M",
+        "d": "PB2"
+    },
+    {
+        "m": "Lenovo PHAB2",
+        "k": "Lenovo PB2-650N",
+        "d": "PB2"
+    },
+    {
+        "m": "Lenovo PHAB2",
+        "k": "Lenovo PB2-650Y",
+        "d": "PB2"
+    },
+    {
+        "m": "Lenovo PHAB2 Plus",
+        "k": "Lenovo PB2-670M",
+        "d": "PB2-670M"
+    },
+    {
+        "m": "Lenovo PHAB2 Plus",
+        "k": "Lenovo PB2-670N",
+        "d": "PB2-670N"
+    },
+    {
+        "m": "Lenovo PHAB2 Plus",
+        "k": "Lenovo PB2-670Y",
+        "d": "PB2-670Y"
+    },
+    {
+        "m": "Lenovo PHAB2 Pro",
+        "k": "Lenovo PB2-690M",
+        "d": "PB2PRO"
+    },
+    {
+        "m": "Lenovo PHAB2 Pro",
+        "k": "Lenovo PB2-690N",
+        "d": "PB2PRO"
+    },
+    {
+        "m": "Lenovo PHAB2 Pro",
+        "k": "Lenovo PB2-690Y",
+        "d": "PB2PRO"
+    },
+    {
+        "m": "Lenovo S5 Pro",
+        "k": "Lenovo L58041",
+        "d": "sprout"
+    },
+    {
+        "m": "Lenovo S820",
+        "k": "Lenovo S820",
+        "d": "S820"
+    },
+    {
+        "m": "Lenovo TB-8304F1",
+        "k": "Lenovo TB-8304F1",
+        "d": "TB-8304F1"
+    },
+    {
+        "m": "Lenovo X2-CU",
+        "k": "Lenovo X2-CU",
+        "d": "X2-CU"
+    },
+    {
+        "m": "Lenovo Z2 Plus",
+        "k": "ZUK Z2132",
+        "d": "z2_plus_hw"
+    },
+    {
+        "m": "Lenovo Z5 Pro",
+        "k": "Lenovo L78032",
+        "d": "heart"
+    },
+    {
+        "m": "Lenovo Z6 Pro 5G",
+        "k": "Lenovo L79041",
+        "d": "cream"
+    },
+    {
+        "m": "Lenovo-9",
+        "k": "Lenovo L78031",
+        "d": "zap"
+    },
+    {
+        "m": "LenovoTB-X607Z_EEA",
+        "k": "Lenovo TB-X607Z",
+        "d": "TB-X607Z"
+    },
+    {
+        "m": "Lenovo_K320t",
+        "k": "Lenovo K320t",
+        "d": "Lenovo_K320t"
+    },
+    {
+        "m": "Lenvo S960",
+        "k": "Lenovo S960",
+        "d": "S960_ROW"
+    },
+    {
+        "m": "NEC  PC-TE507FAW",
+        "k": "PC-TE507FAW",
+        "d": "TE507FAW"
+    },
+    {
+        "m": "NEC PC-TS508FAM",
+        "k": "NEC PC-TS508FAM",
+        "d": "PC-TS508FAM"
+    },
+    {
+        "m": "NEC PC-TS508FAM",
+        "k": "PC-TS508FAM",
+        "d": "PC-TS508FAM"
+    },
+    {
+        "m": "P70",
+        "k": "Lenovo P70-A",
+        "d": "P70-A"
+    },
+    {
+        "m": "P70",
+        "k": "Lenovo P70-t",
+        "d": "P70-t"
+    },
+    {
+        "m": "P780",
+        "k": "Lenovo P780",
+        "d": "P780"
+    },
+    {
+        "m": "P780",
+        "k": "Lenovo P780",
+        "d": "P780_ROW"
+    },
+    {
+        "m": "P780",
+        "k": "Lenovo P780_ROW",
+        "d": "P780_ROW"
+    },
+    {
+        "m": "P90",
+        "k": "Lenovo P90",
+        "d": "P90"
+    },
+    {
+        "m": "PB1-750M",
+        "k": "Lenovo PB1-750M",
+        "d": "PB1-750M"
+    },
+    {
+        "m": "PB1-770M",
+        "k": "Lenovo PB1-770M",
+        "d": "PB1-770M"
+    },
+    {
+        "m": "PB1-770N",
+        "k": "Lenovo PB1-770N",
+        "d": "PB1-770N"
+    },
+    {
+        "m": "PB2 plus",
+        "k": "Lenovo PB2-670M1",
+        "d": "PB2-670M1"
+    },
+    {
+        "m": "S1La40",
+        "k": "Lenovo S1La40",
+        "d": "S1La40"
+    },
+    {
+        "m": "S5000",
+        "k": "Lenovo S5000-F",
+        "d": "S5000"
+    },
+    {
+        "m": "S5000",
+        "k": "Lenovo S5000-H",
+        "d": "S5000"
+    },
+    {
+        "m": "S580",
+        "k": "Lenovo S580",
+        "d": "S580"
+    },
+    {
+        "m": "S60",
+        "k": "Lenovo S60-a",
+        "d": "sisleylr"
+    },
+    {
+        "m": "S60",
+        "k": "Lenovo S60-t",
+        "d": "sisleylt"
+    },
+    {
+        "m": "S60",
+        "k": "Lenovo S60-w",
+        "d": "sisleylw"
+    },
+    {
+        "m": "S6000L",
+        "k": "Lenovo S6000L-F",
+        "d": "S6000L"
+    },
+    {
+        "m": "S650",
+        "k": "Lenovo S650",
+        "d": "S650"
+    },
+    {
+        "m": "S650_ROW",
+        "k": "Lenovo S650",
+        "d": "S650_ROW"
+    },
+    {
+        "m": "S658t",
+        "k": "Lenovo S658t",
+        "d": "S658t"
+    },
+    {
+        "m": "S660",
+        "k": "Lenovo S660",
+        "d": "S660"
+    },
+    {
+        "m": "S668t",
+        "k": "Lenovo S668t",
+        "d": "S668t"
+    },
+    {
+        "m": "S686",
+        "k": "Lenovo S686",
+        "d": "Alaska"
+    },
+    {
+        "m": "S720",
+        "k": "Lenovo S720",
+        "d": "S720"
+    },
+    {
+        "m": "S750",
+        "k": "Lenovo S750",
+        "d": "S750"
+    },
+    {
+        "m": "S810t",
+        "k": "Lenovo S810t",
+        "d": "shellt"
+    },
+    {
+        "m": "S820",
+        "k": "Lenovo S820",
+        "d": "S820_AMX_ROW"
+    },
+    {
+        "m": "S820",
+        "k": "Lenovo S820",
+        "d": "S820_ROW"
+    },
+    {
+        "m": "S820",
+        "k": "Lenovo S820_ROW",
+        "d": "S820_ROW"
+    },
+    {
+        "m": "S820e",
+        "k": "Lenovo S820e",
+        "d": "applee"
+    },
+    {
+        "m": "S850",
+        "k": "Lenovo S850",
+        "d": "S850"
+    },
+    {
+        "m": "S850e",
+        "k": "Lenovo S850e",
+        "d": "sichuan"
+    },
+    {
+        "m": "S850t",
+        "k": "Lenovo S850t",
+        "d": "S850t"
+    },
+    {
+        "m": "S856",
+        "k": "Lenovo S856",
+        "d": "shellamx"
+    },
+    {
+        "m": "S856",
+        "k": "Lenovo S856",
+        "d": "shellr"
+    },
+    {
+        "m": "S856",
+        "k": "Lenovo S856",
+        "d": "shellr_s"
+    },
+    {
+        "m": "S856",
+        "k": "Lenovo S856",
+        "d": "shellw"
+    },
+    {
+        "m": "S858t",
+        "k": "Lenovo S858t",
+        "d": "Selected"
+    },
+    {
+        "m": "S860",
+        "k": "Lenovo S860",
+        "d": "S860"
+    },
+    {
+        "m": "S860e",
+        "k": "Lenovo S860e",
+        "d": "shelle"
+    },
+    {
+        "m": "S868",
+        "k": "Lenovo S868t",
+        "d": "S868t"
+    },
+    {
+        "m": "S870e",
+        "k": "LNV-Lenovo S870e",
+        "d": "S870e"
+    },
+    {
+        "m": "S870e",
+        "k": "Lenovo S870e",
+        "d": "S870e"
+    },
+    {
+        "m": "S898t",
+        "k": "Lenovo S898t",
+        "d": "S898t"
+    },
+    {
+        "m": "S898t+",
+        "k": "Lenovo S898t+",
+        "d": "S898tp"
+    },
+    {
+        "m": "S90",
+        "k": "Lenovo S90-e",
+        "d": "sisleye"
+    },
+    {
+        "m": "S90-A",
+        "k": "Lenovo S90-A",
+        "d": "sisleyr"
+    },
+    {
+        "m": "S90-L",
+        "k": "Lenovo S90-L",
+        "d": "sisleyr_amx"
+    },
+    {
+        "m": "S90-T",
+        "k": "Lenovo S90-t",
+        "d": "sisleyt"
+    },
+    {
+        "m": "S90-U",
+        "k": "Lenovo S90-u",
+        "d": "sisleyw"
+    },
+    {
+        "m": "S920",
+        "k": "Lenovo S920",
+        "d": "S920"
+    },
+    {
+        "m": "S930",
+        "k": "Lenovo S930",
+        "d": "S930"
+    },
+    {
+        "m": "S930_ROW",
+        "k": "Lenovo S930",
+        "d": "S930_ROW"
+    },
+    {
+        "m": "S938t",
+        "k": "Lenovo S938t",
+        "d": "S938t"
+    },
+    {
+        "m": "S939",
+        "k": "Lenovo S939",
+        "d": "S939"
+    },
+    {
+        "m": "S960",
+        "k": "Lenovo S960",
+        "d": "S960"
+    },
+    {
+        "m": "S960",
+        "k": "Lenovo S960",
+        "d": "S960_AMX_ROW"
+    },
+    {
+        "m": "S968t",
+        "k": "Lenovo S968t",
+        "d": "S968t"
+    },
+    {
+        "m": "Softbank 501LV",
+        "k": "501LV",
+        "d": "501LV"
+    },
+    {
+        "m": "TB3-601LV",
+        "k": "601LV",
+        "d": "601LV"
+    },
+    {
+        "m": "TB3-602LV",
+        "k": "602LV",
+        "d": "602LV"
+    },
+    {
+        "m": "TB3-X70I",
+        "k": "Lenovo TB3-X70I",
+        "d": "TB3-X70I"
+    },
+    {
+        "m": "TB360ZJ",
+        "k": "TB360ZJ",
+        "d": "TB360ZJ"
+    },
+    {
+        "m": "TB360ZU",
+        "k": "TB360ZU",
+        "d": "TB360ZU"
+    },
+    {
+        "m": "TBD",
+        "k": "Lenovo L38111",
+        "d": "kunlun2"
+    },
+    {
+        "m": "ThinkVision28",
+        "k": "ThinkVision28",
+        "d": "ThinkVision28"
+    },
+    {
+        "m": "VIBE K10",
+        "k": "Lenovo K10a40",
+        "d": "K10a40"
+    },
+    {
+        "m": "VIBE K6",
+        "k": "Lenovo K33a48",
+        "d": "K33a48"
+    },
+    {
+        "m": "VIBE K6",
+        "k": "Lenovo K33b36",
+        "d": "K33b36"
+    },
+    {
+        "m": "VIBE K6",
+        "k": "Lenovo K33b37",
+        "d": "K33b37"
+    },
+    {
+        "m": "VIBE K6 Note",
+        "k": "Lenovo K53a48",
+        "d": "K53a48"
+    },
+    {
+        "m": "VIBE K6 Note",
+        "k": "Lenovo K53b36",
+        "d": "K53b36"
+    },
+    {
+        "m": "VIBE K6 Note",
+        "k": "Lenovo K53b37",
+        "d": "K53b37"
+    },
+    {
+        "m": "VIBE K6 Power",
+        "k": "Lenovo K33a42",
+        "d": "K33a42"
+    },
+    {
+        "m": "VIBE X3 Lite",
+        "k": "Lenovo A7010a48",
+        "d": "A7010a48"
+    },
+    {
+        "m": "VIBE X3 Lite",
+        "k": "Lenovo K51c78",
+        "d": "k5fp"
+    },
+    {
+        "m": "VIBE X3 Lite",
+        "k": "Lenovo K51c78",
+        "d": "k5fp_m"
+    },
+    {
+        "m": "VR-S3",
+        "k": "VR-S3",
+        "d": "VRS3"
+    },
+    {
+        "m": "X2 Pro",
+        "k": "Lenovo X2Pt5",
+        "d": "s7"
+    },
+    {
+        "m": "X2 Pro",
+        "k": "VIBE X2Pt5",
+        "d": "s7"
+    },
+    {
+        "m": "X2-TO",
+        "k": "Lenovo X2-TO",
+        "d": "X2-TO"
+    },
+    {
+        "m": "X2-TR",
+        "k": "Lenovo X2-TR",
+        "d": "X2-TR"
+    },
+    {
+        "m": "X3a40",
+        "k": "Lenovo X3a40",
+        "d": "x3_row"
+    },
+    {
+        "m": "X3c50",
+        "k": "Lenovo X3c50",
+        "d": "X3c50"
+    },
+    {
+        "m": "X3c70",
+        "k": "Lenovo X3c70",
+        "d": "X3c70"
+    },
+    {
+        "m": "YOGA A12",
+        "k": "Lenovo YB-Q501F",
+        "d": "YOGA-A12"
+    },
+    {
+        "m": "YOGA A12",
+        "k": "Lenovo YB-Q501L",
+        "d": "YOGA-A12"
+    },
+    {
+        "m": "YOGA BOOK",
+        "k": "Lenovo YB1-X90F",
+        "d": "yeti"
+    },
+    {
+        "m": "YOGA BOOK",
+        "k": "Lenovo YB1-X90L",
+        "d": "yeti"
+    },
+    {
+        "m": "Z2w",
+        "k": "Lenovo Z2w",
+        "d": "z2w"
+    },
+    {
+        "m": "Z5s",
+        "k": "Lenovo L78071",
+        "d": "jd2019"
+    },
+    {
+        "m": "Z6 Pro",
+        "k": "Lenovo L78051",
+        "d": "zippo"
+    },
+    {
+        "m": "Z90",
+        "k": "Lenovo Z90",
+        "d": "zoom_fdd"
+    },
+    {
+        "m": "Z90",
+        "k": "Lenovo Z90-7",
+        "d": "zoom_fdd"
+    },
+    {
+        "m": "Z90",
+        "k": "Lenovo Z90-3",
+        "d": "zoom_tdd"
+    },
+    {
+        "m": "Z90a40",
+        "k": "Lenovo Z90a40",
+        "d": "zoom_row"
+    }
+]

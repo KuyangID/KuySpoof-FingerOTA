@@ -1,0 +1,6982 @@
+[
+    {
+        "m": "009Z",
+        "k": "009Z",
+        "d": "bladeplus"
+    },
+    {
+        "m": "009Z",
+        "k": "ZTE V882",
+        "d": "bladeplus"
+    },
+    {
+        "m": "009Z",
+        "k": "ZTE V886J",
+        "d": "bladeplus"
+    },
+    {
+        "m": "402ZT",
+        "k": "402ZT",
+        "d": "ZTE-402ZT"
+    },
+    {
+        "m": "5G UG Phone U23",
+        "k": "5G UG Phone U23",
+        "d": "P720F02"
+    },
+    {
+        "m": "5G UG Phone U23",
+        "k": "ZTE 7160N",
+        "d": "P720F02"
+    },
+    {
+        "m": "5G UG Phone U25",
+        "k": "5G UG Phone U25",
+        "d": "P720F09_U"
+    },
+    {
+        "m": "5G UG Phone U26",
+        "k": "5G UG Phone U26",
+        "d": "P720F11UG"
+    },
+    {
+        "m": "901ZT",
+        "k": "901ZT",
+        "d": "P450A01"
+    },
+    {
+        "m": "902ZT",
+        "k": "902ZT",
+        "d": "Z8851S"
+    },
+    {
+        "m": "A001ZT",
+        "k": "A001ZT",
+        "d": "Z6202S"
+    },
+    {
+        "m": "A003ZT",
+        "k": "A003ZT",
+        "d": "Z6650S"
+    },
+    {
+        "m": "A1 Alpha",
+        "k": "A1 Alpha",
+        "d": "P963F01D"
+    },
+    {
+        "m": "A103ZT",
+        "k": "A103ZT",
+        "d": "Z6571S"
+    },
+    {
+        "m": "A1P",
+        "k": "A1P",
+        "d": "ailsa"
+    },
+    {
+        "m": "A1R",
+        "k": "A1",
+        "d": "billy"
+    },
+    {
+        "m": "A1R",
+        "k": "A1R",
+        "d": "billy"
+    },
+    {
+        "m": "A2015",
+        "k": "ZTE A2015",
+        "d": "msm8994"
+    },
+    {
+        "m": "A2016",
+        "k": "ZTE A2016",
+        "d": "msm8994"
+    },
+    {
+        "m": "A2017",
+        "k": "ZTE A2017",
+        "d": "ailsa_ii"
+    },
+    {
+        "m": "A2017G",
+        "k": "ZTE A2017G",
+        "d": "ailsa_ii"
+    },
+    {
+        "m": "A2017U",
+        "k": "ZTE A2017U",
+        "d": "ailsa_ii"
+    },
+    {
+        "m": "A2018",
+        "k": "ZTE A2018",
+        "d": "candice"
+    },
+    {
+        "m": "A202ZT",
+        "k": "A202ZT",
+        "d": "Z6575S"
+    },
+    {
+        "m": "A302ZT",
+        "k": "A302ZT",
+        "d": "Z6561S"
+    },
+    {
+        "m": "A303ZT",
+        "k": "A303ZT",
+        "d": "Z6576S"
+    },
+    {
+        "m": "A402ZT",
+        "k": "A402ZT",
+        "d": "Z5501S"
+    },
+    {
+        "m": "A403ZT",
+        "k": "A403ZT",
+        "d": "Z6701S"
+    },
+    {
+        "m": "A404ZT",
+        "k": "A404ZT",
+        "d": "Z8900S"
+    },
+    {
+        "m": "A404ZT",
+        "k": "NX732J",
+        "d": "Z8900S"
+    },
+    {
+        "m": "A504ZT",
+        "k": "A504ZT",
+        "d": "Z6301S"
+    },
+    {
+        "m": "A505ZT",
+        "k": "A505ZT",
+        "d": "Z8700S"
+    },
+    {
+        "m": "A506ZT",
+        "k": "A506ZT",
+        "d": "Z6302S"
+    },
+    {
+        "m": "A880",
+        "k": "ZTE A880",
+        "d": "ZTE-A880"
+    },
+    {
+        "m": "AV-ATB100",
+        "k": "AV-ATB100",
+        "d": "B800S2_V1"
+    },
+    {
+        "m": "AXON 7 mini",
+        "k": "AXON 7 mini",
+        "d": "msm8952_64"
+    },
+    {
+        "m": "Amazing A1",
+        "k": "Amazing A1",
+        "d": "roamer2"
+    },
+    {
+        "m": "Amazing A30",
+        "k": "Amazing A30",
+        "d": "P809F20"
+    },
+    {
+        "m": "Amazing A50",
+        "k": "Amazing A50",
+        "d": "P637F02"
+    },
+    {
+        "m": "Amazing P6",
+        "k": "Amazing P6",
+        "d": "msm8226"
+    },
+    {
+        "m": "Amazing X2",
+        "k": "Amazing X2",
+        "d": "msm8226"
+    },
+    {
+        "m": "Amazing X5s",
+        "k": "Amazing X5s",
+        "d": "ZTE_T620"
+    },
+    {
+        "m": "Amazing X6",
+        "k": "Amazing X6",
+        "d": "P839F30"
+    },
+    {
+        "m": "Amazing X7",
+        "k": "Amazing X7",
+        "d": "P839V56"
+    },
+    {
+        "m": "Amazing p5_Lite",
+        "k": "Amazing p5_Lite",
+        "d": "V77"
+    },
+    {
+        "m": "Amazing_X3s",
+        "k": "Amazing_X3s",
+        "d": "Amazing_X3s"
+    },
+    {
+        "m": "Amazing_X3s_16G",
+        "k": "Amazing_X3s_16G",
+        "d": "Amazing_X3s"
+    },
+    {
+        "m": "Android edition by sfr STARADDICT",
+        "k": "Android edition by sfr STARADDICT",
+        "d": "skate"
+    },
+    {
+        "m": "Andromax G46D1Z",
+        "k": "Andromax G46D1Z",
+        "d": "Andromax_G46D1Z"
+    },
+    {
+        "m": "Avea inTouch 2",
+        "k": "Avea inTouch 2",
+        "d": "atlas40"
+    },
+    {
+        "m": "Avea inTouch 4",
+        "k": "Avea inTouch 4",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Avea inTouch 4",
+        "k": "ZTE Blade V220",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Avid Slate",
+        "k": "K82",
+        "d": "K82"
+    },
+    {
+        "m": "Axon 10 Pro 5G",
+        "k": "ZTE A2020N2 Pro",
+        "d": "P855A21"
+    },
+    {
+        "m": "B2015",
+        "k": "ZTE B2015",
+        "d": "msm8916_64"
+    },
+    {
+        "m": "B2016",
+        "k": "ZTE B2016",
+        "d": "msm8916_64"
+    },
+    {
+        "m": "B2017G",
+        "k": "ZTE B2017G",
+        "d": "msm8952_64"
+    },
+    {
+        "m": "B2017G",
+        "k": "ZTE B2017G",
+        "d": "tulip"
+    },
+    {
+        "m": "B2017G",
+        "k": "ZTE B2017G",
+        "d": "verdandi"
+    },
+    {
+        "m": "B760E",
+        "k": "B760E",
+        "d": "ztemt85_bx_kk"
+    },
+    {
+        "m": "B760E",
+        "k": "B760H",
+        "d": "ztemt85_bx_kk"
+    },
+    {
+        "m": "B790",
+        "k": "ZTE B790",
+        "d": "roamer2"
+    },
+    {
+        "m": "B880",
+        "k": "ZTE B880",
+        "d": "P635N30"
+    },
+    {
+        "m": "B880",
+        "k": "ZTE B880",
+        "d": "S_P635N30"
+    },
+    {
+        "m": "BA510",
+        "k": "ZTE BA510",
+        "d": "P635T39"
+    },
+    {
+        "m": "BA520",
+        "k": "ZTE BA520",
+        "d": "P637T10"
+    },
+    {
+        "m": "BA601",
+        "k": "ZTE BA601",
+        "d": "ZTE_BA601"
+    },
+    {
+        "m": "BA602",
+        "k": "ZTE BA602",
+        "d": "P637S02"
+    },
+    {
+        "m": "BA602T",
+        "k": "ZTE BA602T",
+        "d": "P637T02"
+    },
+    {
+        "m": "BA603",
+        "k": "ZTE BA603",
+        "d": "P809S10"
+    },
+    {
+        "m": "BA610C",
+        "k": "ZTE BA610C",
+        "d": "P635N36"
+    },
+    {
+        "m": "BA610T",
+        "k": "ZTE BA610T",
+        "d": "P635T36"
+    },
+    {
+        "m": "BA610T",
+        "k": "ZTE BA610T",
+        "d": "V_P635T36"
+    },
+    {
+        "m": "BA611C",
+        "k": "ZTE BA611C",
+        "d": "P635N40"
+    },
+    {
+        "m": "BA611T",
+        "k": "ZTE BA611T",
+        "d": "P635T40"
+    },
+    {
+        "m": "BA611T",
+        "k": "ZTE BA611T",
+        "d": "V_P635T40"
+    },
+    {
+        "m": "BA910",
+        "k": "ZTE BA910",
+        "d": "P653N31"
+    },
+    {
+        "m": "BA910",
+        "k": "ZTE BA910",
+        "d": "V_P653N31"
+    },
+    {
+        "m": "BA910T",
+        "k": "ZTE BA910T",
+        "d": "T_P653N31"
+    },
+    {
+        "m": "BASE Lutea 2",
+        "k": "BASE Lutea 2",
+        "d": "skate"
+    },
+    {
+        "m": "BBC100-1",
+        "k": "BBC100-1",
+        "d": "BBC100_1"
+    },
+    {
+        "m": "BGH Joy X5",
+        "k": "BGH Joy X5",
+        "d": "ZTE_Blade_V580"
+    },
+    {
+        "m": "BLADE",
+        "k": "ZTE-BLADE",
+        "d": "blade"
+    },
+    {
+        "m": "BLADE A110",
+        "k": "BLADE A110",
+        "d": "ZTE_BLADE_A110"
+    },
+    {
+        "m": "BLADE A110",
+        "k": "ZTE BLADE A110",
+        "d": "ZTE_BLADE_A110"
+    },
+    {
+        "m": "BLADE A112",
+        "k": "ZTE BLADE A112",
+        "d": "P635A60"
+    },
+    {
+        "m": "BLADE A3",
+        "k": "BLADE A3",
+        "d": "P809F40"
+    },
+    {
+        "m": "BLADE A310",
+        "k": "Blade A310",
+        "d": "P809A50"
+    },
+    {
+        "m": "BLADE A310",
+        "k": "ZTE BLADE A310",
+        "d": "P809A50"
+    },
+    {
+        "m": "BLADE A320",
+        "k": "BLADE A320",
+        "d": "P809F20"
+    },
+    {
+        "m": "BLADE A320",
+        "k": "ZTE BLADE A320",
+        "d": "P809F20"
+    },
+    {
+        "m": "BLADE A506",
+        "k": "ZTE BLADE A506",
+        "d": "P809F52"
+    },
+    {
+        "m": "BLADE A510",
+        "k": "BLADE A510",
+        "d": "P635A50"
+    },
+    {
+        "m": "BLADE A510",
+        "k": "Blade A510",
+        "d": "P635A50"
+    },
+    {
+        "m": "BLADE A510",
+        "k": "ZTE BLADE A510",
+        "d": "P635A50"
+    },
+    {
+        "m": "BLADE A512",
+        "k": "ZTE BLADE A512",
+        "d": "P817E52"
+    },
+    {
+        "m": "BLADE A512",
+        "k": "ZTE Z10",
+        "d": "P817E52"
+    },
+    {
+        "m": "BLADE A520",
+        "k": "BLADE A520",
+        "d": "P637F10"
+    },
+    {
+        "m": "BLADE A520",
+        "k": "ZTE BLADE A520",
+        "d": "P637F10"
+    },
+    {
+        "m": "BLADE A521",
+        "k": "BLADE A521",
+        "d": "P809F10"
+    },
+    {
+        "m": "BLADE A521",
+        "k": "ZTE BLADE A521",
+        "d": "P809F10"
+    },
+    {
+        "m": "BLADE A530",
+        "k": "BLADE A530",
+        "d": "P639F10"
+    },
+    {
+        "m": "BLADE A530",
+        "k": "BLADE A530",
+        "d": "P639F10L"
+    },
+    {
+        "m": "BLADE A6",
+        "k": "BLADE A6",
+        "d": "P840F13"
+    },
+    {
+        "m": "BLADE A6 MAX",
+        "k": "BLADE A6 MAX",
+        "d": "P809F15"
+    },
+    {
+        "m": "BLADE A601",
+        "k": "ZTE BLADE A601",
+        "d": "ZTE_BLADE_A601"
+    },
+    {
+        "m": "BLADE A602",
+        "k": "BLADE A602",
+        "d": "P637F02"
+    },
+    {
+        "m": "BLADE A602",
+        "k": "ZTE BLADE A602",
+        "d": "P637F02"
+    },
+    {
+        "m": "BLADE A610",
+        "k": "BLADE A610",
+        "d": "ZTE_BLADE_A610"
+    },
+    {
+        "m": "BLADE A610",
+        "k": "ZTE BLADE A610",
+        "d": "ZTE_BLADE_A610"
+    },
+    {
+        "m": "BLADE A610C",
+        "k": "ZTE BLADE A610C",
+        "d": "P635F50"
+    },
+    {
+        "m": "BLADE A612",
+        "k": "ZTE BLADE A612",
+        "d": "P635F50"
+    },
+    {
+        "m": "BLADE A910",
+        "k": "BLADE A910",
+        "d": "P635A31"
+    },
+    {
+        "m": "BLADE A910",
+        "k": "ZTE BLADE A910",
+        "d": "P635A31"
+    },
+    {
+        "m": "BLADE B112",
+        "k": "ZTE BLADE B112",
+        "d": "P635A60"
+    },
+    {
+        "m": "BLADE III",
+        "k": "Skate Pro",
+        "d": "atlas40"
+    },
+    {
+        "m": "BLADE III",
+        "k": "ZTE BLADE III",
+        "d": "atlas40"
+    },
+    {
+        "m": "BLADE III",
+        "k": "ZTE Blade III",
+        "d": "atlas40"
+    },
+    {
+        "m": "BLADE III_IL",
+        "k": "BLADE III_IL",
+        "d": "atlas40"
+    },
+    {
+        "m": "BLADE L0510",
+        "k": "ZTE BLADE L0510",
+        "d": "P680A20"
+    },
+    {
+        "m": "BLADE L0510",
+        "k": "ZTE Blade L5 Plus",
+        "d": "P680A20"
+    },
+    {
+        "m": "BLADE L110",
+        "k": "Blade L110",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "BLADE L110",
+        "k": "ZTE BLADE L110",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "BLADE L111",
+        "k": "ZTE BLADE L111",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "BLADE L5 PLUS",
+        "k": "ZTE BLADE L5 PLUS",
+        "d": "P680A20"
+    },
+    {
+        "m": "BLADE L7",
+        "k": "BLADE L7",
+        "d": "P731F10"
+    },
+    {
+        "m": "BLADE L7",
+        "k": "ZTE BLADE L7",
+        "d": "P731F10"
+    },
+    {
+        "m": "BLADE L7A",
+        "k": "BLADE L7A",
+        "d": "P731F12"
+    },
+    {
+        "m": "BLADE V Ultra",
+        "k": "BLADE V Ultra",
+        "d": "P840T22"
+    },
+    {
+        "m": "BLADE V0710",
+        "k": "ZTE BLADE V0710",
+        "d": "ZTE_BLADE_V0710"
+    },
+    {
+        "m": "BLADE V0720",
+        "k": "ZTE BLADE V0720",
+        "d": "ZTE_BLADE_V0720"
+    },
+    {
+        "m": "BLADE V0730",
+        "k": "ZTE BLADE V0730",
+        "d": "ZTE_BLADE_V0730"
+    },
+    {
+        "m": "BLADE V0800",
+        "k": "ZTE BLADE V0800",
+        "d": "ZTE_BLADE_V0800"
+    },
+    {
+        "m": "BLADE V0820",
+        "k": "ZTE BLADE V0820",
+        "d": "ZTE_BLADE_V0820"
+    },
+    {
+        "m": "BLADE V0850",
+        "k": "ZTE BLADE V0850",
+        "d": "ZTE_BLADE_V0850"
+    },
+    {
+        "m": "BLADE V7",
+        "k": "BLADE V7",
+        "d": "P653A10"
+    },
+    {
+        "m": "BLADE V7",
+        "k": "ZTE BLADE V7",
+        "d": "P653A10"
+    },
+    {
+        "m": "BLADE V7 LITE",
+        "k": "ZTE BLADE V7 LITE",
+        "d": "ZTE_BLADE_V0720"
+    },
+    {
+        "m": "BLADE V7 PLUS",
+        "k": "ZTE BLADE V7 PLUS",
+        "d": "P653A11"
+    },
+    {
+        "m": "BLADE V8",
+        "k": "BLADE V8",
+        "d": "ZTE_BLADE_V0800"
+    },
+    {
+        "m": "BLADE V8 MINI",
+        "k": "BLADE V8 MINI",
+        "d": "ZTE_BLADE_V0850"
+    },
+    {
+        "m": "BLADE V8 MINI",
+        "k": "ZTE BLADE V8 MINI",
+        "d": "ZTE_BLADE_V0850"
+    },
+    {
+        "m": "BLADE V8 SE",
+        "k": "BLADE V8 SE",
+        "d": "ZTE_BLADE_V0820"
+    },
+    {
+        "m": "BLADE V8 mini",
+        "k": "BLADE V8 mini",
+        "d": "ZTE_BLADE_V0850"
+    },
+    {
+        "m": "BLADE V8Q",
+        "k": "BLADE V8Q",
+        "d": "P817F01"
+    },
+    {
+        "m": "BLADE V9",
+        "k": "BLADE V9",
+        "d": "P450L10"
+    },
+    {
+        "m": "BLADE V9 VITA",
+        "k": "BLADE V9 VITA",
+        "d": "P840F03"
+    },
+    {
+        "m": "BOLTON",
+        "k": "N9560",
+        "d": "bolton"
+    },
+    {
+        "m": "BV0701",
+        "k": "ZTE BV0701",
+        "d": "P653N11"
+    },
+    {
+        "m": "BV0701",
+        "k": "ZTE V0721",
+        "d": "P653N11"
+    },
+    {
+        "m": "BV0710",
+        "k": "ZTE BV0710",
+        "d": "P655A30"
+    },
+    {
+        "m": "BV0710T",
+        "k": "ZTE BV0710T",
+        "d": "P655A30"
+    },
+    {
+        "m": "BV0720",
+        "k": "ZTE BV0720",
+        "d": "P650A30"
+    },
+    {
+        "m": "BV0720T",
+        "k": "ZTE BV0720T",
+        "d": "P650A30"
+    },
+    {
+        "m": "BV0730",
+        "k": "ZTE BV0730",
+        "d": "P650A31"
+    },
+    {
+        "m": "BV0800",
+        "k": "ZTE BV0800",
+        "d": "P840S10"
+    },
+    {
+        "m": "BV0850",
+        "k": "ZTE BV0850",
+        "d": "P840S01"
+    },
+    {
+        "m": "Baker",
+        "k": "Baker",
+        "d": "ZTE-Baker"
+    },
+    {
+        "m": "Beeline E600",
+        "k": "Beeline E600",
+        "d": "roamer2"
+    },
+    {
+        "m": "Blade",
+        "k": "003Z",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Android Edition StarTrail",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "BASE lutea",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "BLADE_N880",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Beeline E400",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Kyivstar Spark",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "MF8604",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Movistar Prime",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "N880",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Netphone 701",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Optimus San Francisco",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Orange San Francisco",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "Orange Tactile internet 2",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "RTK V8",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "San Francisco",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "V8502",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "WayteQ Libra",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "XCD35",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE Libra",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE V880",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE-C N880S",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE-LIBRA",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE-Libra",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "ZTE-U V880",
+        "d": "blade"
+    },
+    {
+        "m": "Blade",
+        "k": "a5",
+        "d": "blade"
+    },
+    {
+        "m": "Blade A210",
+        "k": "ZTE BLADE A210",
+        "d": "ZTE_Blade_A210"
+    },
+    {
+        "m": "Blade A210",
+        "k": "ZTE Blade A210",
+        "d": "ZTE_Blade_A210"
+    },
+    {
+        "m": "Blade A3 2019",
+        "k": "Blade A3 2019",
+        "d": "Z3051T"
+    },
+    {
+        "m": "Blade A3 2019",
+        "k": "Blade A3 2019-T",
+        "d": "Z3051T"
+    },
+    {
+        "m": "Blade A3 Plus",
+        "k": "Blade A3 Plus",
+        "d": "Z3102T"
+    },
+    {
+        "m": "Blade A3 SE",
+        "k": "Blade A3 SE",
+        "d": "Z3101T"
+    },
+    {
+        "m": "Blade A30",
+        "k": "Blade A30",
+        "d": "Z3052T"
+    },
+    {
+        "m": "Blade A31",
+        "k": "Blade A31",
+        "d": "Z5351T"
+    },
+    {
+        "m": "Blade A315",
+        "k": "ZTE Blade A315",
+        "d": "ZTE_Blade_A315"
+    },
+    {
+        "m": "Blade A410",
+        "k": "Blade A410",
+        "d": "P635E40"
+    },
+    {
+        "m": "Blade A452",
+        "k": "NOS FIVE",
+        "d": "P635F33"
+    },
+    {
+        "m": "Blade A452",
+        "k": "ZTE Blade A452",
+        "d": "P635F33"
+    },
+    {
+        "m": "Blade A460",
+        "k": "A460-T",
+        "d": "P809A20"
+    },
+    {
+        "m": "Blade A460",
+        "k": "Blade A460",
+        "d": "P809A20"
+    },
+    {
+        "m": "Blade A460",
+        "k": "ZTE BLADE A460",
+        "d": "P809A20"
+    },
+    {
+        "m": "Blade A460",
+        "k": "ZTE Blade A460",
+        "d": "P809A20"
+    },
+    {
+        "m": "Blade A460",
+        "k": "ZTE T610",
+        "d": "P809A20"
+    },
+    {
+        "m": "Blade A462",
+        "k": "ZTE Blade A462",
+        "d": "P809A50"
+    },
+    {
+        "m": "Blade A465",
+        "k": "Blade A465",
+        "d": "ZTE_Blade_A465"
+    },
+    {
+        "m": "Blade A465",
+        "k": "ZTE Blade A465",
+        "d": "ZTE_Blade_A465"
+    },
+    {
+        "m": "Blade A470",
+        "k": "ZTE Blade A470",
+        "d": "P809A40"
+    },
+    {
+        "m": "Blade A475",
+        "k": "BGH JOY X2",
+        "d": "ZTE_Blade_A475"
+    },
+    {
+        "m": "Blade A475",
+        "k": "Blade A475",
+        "d": "ZTE_Blade_A475"
+    },
+    {
+        "m": "Blade A475",
+        "k": "ZTE Blade A475",
+        "d": "ZTE_Blade_A475"
+    },
+    {
+        "m": "Blade A475",
+        "k": "ZTE Blade L4 Pro",
+        "d": "ZTE_Blade_A475"
+    },
+    {
+        "m": "Blade A476",
+        "k": "BLADE E01",
+        "d": "ZTE_Blade_A476"
+    },
+    {
+        "m": "Blade A476",
+        "k": "ZTE Blade A476",
+        "d": "ZTE_Blade_A476"
+    },
+    {
+        "m": "Blade A5 2019-T",
+        "k": "Blade A5 2019-T",
+        "d": "Z5155T"
+    },
+    {
+        "m": "Blade A51",
+        "k": "Blade A51",
+        "d": "P963F60"
+    },
+    {
+        "m": "Blade A511",
+        "k": "Blade A511",
+        "d": "ZTE_Blade_A511"
+    },
+    {
+        "m": "Blade A511",
+        "k": "ZTE Blade A511",
+        "d": "ZTE_Blade_A511"
+    },
+    {
+        "m": "Blade A515",
+        "k": "ZTE Blade A515",
+        "d": "ZTE_Blade_A511"
+    },
+    {
+        "m": "Blade A52 Pro",
+        "k": "Blade A52 Pro",
+        "d": "Z5201T"
+    },
+    {
+        "m": "Blade A570",
+        "k": "ZTE Blade A570",
+        "d": "ZTE_T617"
+    },
+    {
+        "m": "Blade A7 2019-T",
+        "k": "Blade A7 2019-T",
+        "d": "Z6100T"
+    },
+    {
+        "m": "Blade A7S 2020-T",
+        "k": "Blade A7S 2020-T",
+        "d": "Z6350T"
+    },
+    {
+        "m": "Blade Apex",
+        "k": "Blade Apex",
+        "d": "coeus"
+    },
+    {
+        "m": "Blade Apex",
+        "k": "ZTE Blade Apex",
+        "d": "oceanus"
+    },
+    {
+        "m": "Blade Apex2",
+        "k": "Blade Apex2",
+        "d": "msm8226"
+    },
+    {
+        "m": "Blade Apex2",
+        "k": "ZTE Blade Apex2",
+        "d": "msm8226"
+    },
+    {
+        "m": "Blade Apex3",
+        "k": "ZTE Blade Apex3",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Blade C312",
+        "k": "ZTE Blade C312",
+        "d": "P715A20"
+    },
+    {
+        "m": "Blade C340",
+        "k": "ZTE Blade C340",
+        "d": "P172R12"
+    },
+    {
+        "m": "Blade C340",
+        "k": "ZTE T220",
+        "d": "P172R12"
+    },
+    {
+        "m": "Blade C340",
+        "k": "ZTE V812",
+        "d": "P172R12"
+    },
+    {
+        "m": "Blade C370",
+        "k": "NOS NOVU",
+        "d": "ZTE_Blade_C370"
+    },
+    {
+        "m": "Blade C370",
+        "k": "ZTE BLADE C370",
+        "d": "ZTE_Blade_C370"
+    },
+    {
+        "m": "Blade C370",
+        "k": "ZTE Blade C370",
+        "d": "ZTE_Blade_C370"
+    },
+    {
+        "m": "Blade D6 Lite 3G",
+        "k": "ZTE Blade D6 Lite 3G",
+        "d": "P658A10"
+    },
+    {
+        "m": "Blade D6 Lite 4G",
+        "k": "ZTE Blade D6 Lite 4G",
+        "d": "P635A30"
+    },
+    {
+        "m": "Blade Force",
+        "k": "N9517",
+        "d": "warp8"
+    },
+    {
+        "m": "Blade G",
+        "k": "ZTE Blade G",
+        "d": "ZTE-Blade-G"
+    },
+    {
+        "m": "Blade G LTE",
+        "k": "ZTE Blade G LTE",
+        "d": "coeus"
+    },
+    {
+        "m": "Blade G LTE",
+        "k": "Blade G LTE",
+        "d": "oceanus"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "Blade G Lux",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "DIGICEL DL800",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "Orange Tado",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "ZTE Blade G Lux",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "ZTE Kis3 max",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade G Lux",
+        "k": "ZTE V830W",
+        "d": "P172F10"
+    },
+    {
+        "m": "Blade HN",
+        "k": "ZTE Blade HN",
+        "d": "ZTE_Blade_HN"
+    },
+    {
+        "m": "Blade III",
+        "k": "Blade III",
+        "d": "atlas40"
+    },
+    {
+        "m": "Blade III Pro",
+        "k": "ZTE Blade III Pro",
+        "d": "Blade-III-Pro"
+    },
+    {
+        "m": "Blade L110",
+        "k": "ZTE Blade L110",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "Blade L2",
+        "k": "Blade L2",
+        "d": "P182A10"
+    },
+    {
+        "m": "Blade L2",
+        "k": "ZTE Blade L2",
+        "d": "P182A10"
+    },
+    {
+        "m": "Blade L2 Plus",
+        "k": "Blade L2 Plus",
+        "d": "ZTE_Blade_L2_PLUS"
+    },
+    {
+        "m": "Blade L3",
+        "k": "Blade L3",
+        "d": "P182A20"
+    },
+    {
+        "m": "Blade L3",
+        "k": "DIGICEL DL910",
+        "d": "P182A20"
+    },
+    {
+        "m": "Blade L3",
+        "k": "ZTE Blade L3",
+        "d": "P182A20"
+    },
+    {
+        "m": "Blade L3 Apex",
+        "k": "ZTE Blade L3 Apex",
+        "d": "ZTE_Blade_L3_Apex"
+    },
+    {
+        "m": "Blade L3 Lite",
+        "k": "Blade L3 Lite",
+        "d": "P172A50"
+    },
+    {
+        "m": "Blade L3 Lite",
+        "k": "ZTE Blade L3 Lite",
+        "d": "P172A50"
+    },
+    {
+        "m": "Blade L3 Plus",
+        "k": "Blade L3 Plus",
+        "d": "Blade_L3_Plus"
+    },
+    {
+        "m": "Blade L3 Plus",
+        "k": "ZTE Blade L3 Plus",
+        "d": "ZTE_Blade_L3_Plus"
+    },
+    {
+        "m": "Blade L315",
+        "k": "ZTE Blade L315",
+        "d": "ZTE_Blade_L315"
+    },
+    {
+        "m": "Blade L370",
+        "k": "ZTE Blade L370",
+        "d": "ZTE_Blade_C370"
+    },
+    {
+        "m": "Blade L5",
+        "k": "Blade L5",
+        "d": "P172A40"
+    },
+    {
+        "m": "Blade L5",
+        "k": "ZTE Blade L5",
+        "d": "P172A40"
+    },
+    {
+        "m": "Blade L5 Plus",
+        "k": "Blade L5 Plus",
+        "d": "P680A20"
+    },
+    {
+        "m": "Blade L6",
+        "k": "ZTE Blade L6",
+        "d": "P680A10"
+    },
+    {
+        "m": "Blade L6",
+        "k": "ZTE Blade V6 Lite",
+        "d": "P680A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "Beeline Pro",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "UZTE Blade Q Lux",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "ZTE Blade A430",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "ZTE Blade Q Lux",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "ZTE Blade Q Lux 3G",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "ZTE T311",
+        "d": "P632A10"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "Blade Q Lux",
+        "d": "P816A12"
+    },
+    {
+        "m": "Blade Q Lux",
+        "k": "ZTE Blade Q Lux",
+        "d": "P816A12"
+    },
+    {
+        "m": "Blade Q Mini",
+        "k": "ZTE Blade Q Mini",
+        "d": "P172G10_UK_VIRGIN"
+    },
+    {
+        "m": "Blade Q2",
+        "k": "Blade Q2",
+        "d": "P172A12"
+    },
+    {
+        "m": "Blade Q3",
+        "k": "ZTE Blade Q3",
+        "d": "P731A30"
+    },
+    {
+        "m": "Blade Q3",
+        "k": "ZTE T230",
+        "d": "P731A30"
+    },
+    {
+        "m": "Blade S",
+        "k": "Blade S",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S",
+        "k": "Blade S",
+        "d": "blade2"
+    },
+    {
+        "m": "Blade S Lite",
+        "k": "Blade S Lite",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6",
+        "k": "Blade S6",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6",
+        "k": "LS-5008",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6",
+        "k": "NOS SLIM",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6 Flex",
+        "k": "ZTE Blade S6 Flex",
+        "d": "P839T60"
+    },
+    {
+        "m": "Blade S6 Lite",
+        "k": "Blade S6 Lite",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6 Lite",
+        "k": "ZTE T912",
+        "d": "P839F30"
+    },
+    {
+        "m": "Blade S6 Plus",
+        "k": "Blade S6 Plus",
+        "d": "P839F50"
+    },
+    {
+        "m": "Blade V",
+        "k": "Vodafone Blade V",
+        "d": "ZTE-Blade-V"
+    },
+    {
+        "m": "Blade V",
+        "k": "ZTE Blade V",
+        "d": "ZTE-Blade-V"
+    },
+    {
+        "m": "Blade V+",
+        "k": "Blade V+",
+        "d": "P816A12"
+    },
+    {
+        "m": "Blade V2",
+        "k": "ZTE Blade V2",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Blade V580",
+        "k": "Blade V580",
+        "d": "ZTE_Blade_V580"
+    },
+    {
+        "m": "Blade V580",
+        "k": "Turk Telekom TT175",
+        "d": "ZTE_Blade_V580"
+    },
+    {
+        "m": "Blade V580",
+        "k": "ZTE Blade V580",
+        "d": "ZTE_Blade_V580"
+    },
+    {
+        "m": "Blade V6",
+        "k": "BGH Joy V6",
+        "d": "P635A20"
+    },
+    {
+        "m": "Blade V6",
+        "k": "Blade V6",
+        "d": "P635A20"
+    },
+    {
+        "m": "Blade V6",
+        "k": "ZTE Blade V6",
+        "d": "P635A20"
+    },
+    {
+        "m": "Blade V6",
+        "k": "ZTE T660",
+        "d": "P635A20"
+    },
+    {
+        "m": "Blade V6",
+        "k": "ZTE T663",
+        "d": "P635A20"
+    },
+    {
+        "m": "Blade V6 Max",
+        "k": "Blade V6 Max",
+        "d": "ZTE_BLADE_A610"
+    },
+    {
+        "m": "Blade V6 Plus",
+        "k": "Blade V6 Plus",
+        "d": "ZTE_BLADE_V0720"
+    },
+    {
+        "m": "Blade V6 Plus",
+        "k": "ZTE Blade V6 Plus",
+        "d": "ZTE_BLADE_V0720"
+    },
+    {
+        "m": "Blade V770",
+        "k": "ZTE Blade V770",
+        "d": "P852F52"
+    },
+    {
+        "m": "Blade VEC",
+        "k": "ZTE Blade VEC",
+        "d": "P692S20_Q82"
+    },
+    {
+        "m": "Blade Vec",
+        "k": "Blade Vec",
+        "d": "P692S20_Q82"
+    },
+    {
+        "m": "Blade Vec",
+        "k": "ZTE Blade Vec",
+        "d": "P692S20_Q82"
+    },
+    {
+        "m": "Blade Vec",
+        "k": "ZTE Geek 2",
+        "d": "P692S20_Q82"
+    },
+    {
+        "m": "Blade Vec 4G",
+        "k": "ZTE Blade Vec 4G",
+        "d": "msm8226"
+    },
+    {
+        "m": "Blade Vec Pro",
+        "k": "ZTE Blade Vec Pro",
+        "d": "P692S20_M92"
+    },
+    {
+        "m": "Blade X Max",
+        "k": "Z983",
+        "d": "stollen"
+    },
+    {
+        "m": "Blade X1 5G",
+        "k": "Z6750M",
+        "d": "Z6750"
+    },
+    {
+        "m": "Blade X2 Max",
+        "k": "Z6400C",
+        "d": "Z6400"
+    },
+    {
+        "m": "Bland A610",
+        "k": "ZTE Blade A610",
+        "d": "ZTE_BLADE_A610"
+    },
+    {
+        "m": "Bolton",
+        "k": "Z986DL",
+        "d": "florist"
+    },
+    {
+        "m": "Bouygues Telecom Bs 351",
+        "k": "Bouygues Telecom Bs 351",
+        "d": "nice"
+    },
+    {
+        "m": "Bouygues Telecom Bs 402",
+        "k": "A4C",
+        "d": "P172G10"
+    },
+    {
+        "m": "Bouygues Telecom Bs 402",
+        "k": "Amazing A4C",
+        "d": "P172G10"
+    },
+    {
+        "m": "Bouygues Telecom Bs 402",
+        "k": "Bouygues Telecom Bs 402",
+        "d": "P172G10"
+    },
+    {
+        "m": "Bouygues Telecom Bs 402",
+        "k": "ZTE Blade Q Mini",
+        "d": "P172G10"
+    },
+    {
+        "m": "C2016",
+        "k": "ZTE C2016",
+        "d": "orchid"
+    },
+    {
+        "m": "C2017",
+        "k": "ZTE C2017",
+        "d": "alice"
+    },
+    {
+        "m": "C310",
+        "k": "L8301",
+        "d": "P172D04"
+    },
+    {
+        "m": "C310",
+        "k": "Movitel M8410",
+        "d": "P172D04"
+    },
+    {
+        "m": "C310",
+        "k": "ZTE Blade C310",
+        "d": "P172D04"
+    },
+    {
+        "m": "C310",
+        "k": "ZTE C310",
+        "d": "P172D04"
+    },
+    {
+        "m": "C880",
+        "k": "ZTE C880",
+        "d": "P635N32"
+    },
+    {
+        "m": "C880A",
+        "k": "ZTE C880A",
+        "d": "P635B32"
+    },
+    {
+        "m": "C880D",
+        "k": "ZTE C880D",
+        "d": "P635D32"
+    },
+    {
+        "m": "C880S",
+        "k": "ZTE C880S",
+        "d": "P635N34"
+    },
+    {
+        "m": "C880S",
+        "k": "ZTE C880S",
+        "d": "S_P635N34"
+    },
+    {
+        "m": "C880S",
+        "k": "ZTE C880S",
+        "d": "T_P635N34"
+    },
+    {
+        "m": "C880S",
+        "k": "ZTE C880S",
+        "d": "V_P635N34"
+    },
+    {
+        "m": "C880U",
+        "k": "ZTE C880U",
+        "d": "P635V32"
+    },
+    {
+        "m": "CELL C EMPIRE E8",
+        "k": "CELL C EMPIRE E8",
+        "d": "P635F50"
+    },
+    {
+        "m": "Cepter Nivo V2",
+        "k": "Z2458",
+        "d": "P606F17"
+    },
+    {
+        "m": "Chapel",
+        "k": "Z831",
+        "d": "chapel"
+    },
+    {
+        "m": "China Mobile Forerunner X1",
+        "k": "CMCC M970",
+        "d": "P855A23"
+    },
+    {
+        "m": "ConeXis A1",
+        "k": "ConeXis A1",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "ConeXis X1",
+        "k": "ConeXis X1",
+        "d": "P809F52"
+    },
+    {
+        "m": "ConeXis X2",
+        "k": "ConeXis X2",
+        "d": "ZTE_BLADE_V0850"
+    },
+    {
+        "m": "Cosmote Xplore",
+        "k": "Cosmote Xplore",
+        "d": "Cosmote"
+    },
+    {
+        "m": "Cosmote Xplore",
+        "k": "Cosmote Xplore",
+        "d": "Cosmote-Xplore"
+    },
+    {
+        "m": "DL2 PLUS",
+        "k": "DL2 PLUS",
+        "d": "P637F02"
+    },
+    {
+        "m": "DL2 PLUS",
+        "k": "Digicel DL2 XL",
+        "d": "P637F02"
+    },
+    {
+        "m": "Dialog Q143L",
+        "k": "Dialog Q143L",
+        "d": "frosty"
+    },
+    {
+        "m": "Dive 30",
+        "k": "ZTE Blade A410",
+        "d": "P635E40"
+    },
+    {
+        "m": "Extreme E8",
+        "k": "Extreme E8",
+        "d": "P635A31"
+    },
+    {
+        "m": "FT142D",
+        "k": "FT142D",
+        "d": "msm8226"
+    },
+    {
+        "m": "Fanfare 2",
+        "k": "Z815",
+        "d": "sheen"
+    },
+    {
+        "m": "G601U",
+        "k": "ZTE G601U",
+        "d": "P172E02"
+    },
+    {
+        "m": "G717C",
+        "k": "ZTE G717C",
+        "d": "P692N30"
+    },
+    {
+        "m": "G718C",
+        "k": "ZTE G718C",
+        "d": "ZTE-G718C"
+    },
+    {
+        "m": "G719C",
+        "k": "ZTE G719C",
+        "d": "ZTE-G719C"
+    },
+    {
+        "m": "G720C",
+        "k": "ZTE G720C",
+        "d": "ZTE-G720C"
+    },
+    {
+        "m": "G720T",
+        "k": "ZTE G720T",
+        "d": "P839T30"
+    },
+    {
+        "m": "G720T",
+        "k": "ZTE G720T",
+        "d": "V_P839T30"
+    },
+    {
+        "m": "GEEK II 4G",
+        "k": "ZTE GEEK II 4G",
+        "d": "msm8226"
+    },
+    {
+        "m": "GEEK II Pro",
+        "k": "ZTE GEEK II Pro",
+        "d": "ztexasp92_wet_jb9"
+    },
+    {
+        "m": "GEEK II Pro",
+        "k": "ZTE M1001",
+        "d": "ztexasp92_wet_jb9"
+    },
+    {
+        "m": "Geek",
+        "k": "ZTE Geek",
+        "d": "redhookbay"
+    },
+    {
+        "m": "Geek 2 LTE",
+        "k": "ZTE Geek 2 LTE",
+        "d": "msm8226"
+    },
+    {
+        "m": "Geek 2 pro",
+        "k": "ZTE Geek 2 pro",
+        "d": "P692S20_M92"
+    },
+    {
+        "m": "Grand Era",
+        "k": "ZTE Grand Era",
+        "d": "enterprise_RU"
+    },
+    {
+        "m": "Grand Memo",
+        "k": "Grand Memo",
+        "d": "prindle"
+    },
+    {
+        "m": "Grand Memo LTE",
+        "k": "ZTE Grand Memo",
+        "d": "Grand-Memo"
+    },
+    {
+        "m": "Grand Memo LTE",
+        "k": "ZTE Grand Memo LTE",
+        "d": "Grand-Memo"
+    },
+    {
+        "m": "Grand S Flex",
+        "k": "Grand S Flex",
+        "d": "iris"
+    },
+    {
+        "m": "Grand S Flex",
+        "k": "ZTE Grand S Flex",
+        "d": "iris"
+    },
+    {
+        "m": "Grand S II",
+        "k": "ZTE Grand S II",
+        "d": "P541T50"
+    },
+    {
+        "m": "Grand S II",
+        "k": "ZTE S221",
+        "d": "P541T50"
+    },
+    {
+        "m": "Grand S II",
+        "k": "ZTE Grand S II",
+        "d": "P897A21"
+    },
+    {
+        "m": "Grand S II LTE",
+        "k": "ZTE Grand S II LTE",
+        "d": "msm8974"
+    },
+    {
+        "m": "Grand X",
+        "k": "Grand X",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X",
+        "k": "Grand X(M)",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X",
+        "k": "ZTE Grand X Classic",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X",
+        "k": "ZTE V970",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X",
+        "k": "ZTE V970M",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X",
+        "k": "ZTE-U V970M",
+        "d": "P175A20"
+    },
+    {
+        "m": "Grand X 2",
+        "k": "Amazing A7",
+        "d": "P682F06"
+    },
+    {
+        "m": "Grand X 2",
+        "k": "ZTE Grand X 2",
+        "d": "P682F06"
+    },
+    {
+        "m": "Grand X 2",
+        "k": "ZTE V968",
+        "d": "P682F06"
+    },
+    {
+        "m": "Grand X 2",
+        "k": "ZTE V969",
+        "d": "P682F06"
+    },
+    {
+        "m": "Grand X In",
+        "k": "Grand X In",
+        "d": "mfld_pr2"
+    },
+    {
+        "m": "Grand X In",
+        "k": "STARADDICT II Plus",
+        "d": "mfld_pr2"
+    },
+    {
+        "m": "Grand X In",
+        "k": "ZTE Grand X In",
+        "d": "mfld_pr2"
+    },
+    {
+        "m": "Grand X Max 2",
+        "k": "Z988",
+        "d": "jerry"
+    },
+    {
+        "m": "Grand X Pro",
+        "k": "Blade Super",
+        "d": "P177A20"
+    },
+    {
+        "m": "Grand X Pro",
+        "k": "Grand X Pro",
+        "d": "P177A20"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "Amazing A6",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "V8602",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "ZTE Grand X Quad Lite",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "ZTE Grand X2",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "ZTE Skate 2",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X Quad Lite",
+        "k": "ZTE V967S",
+        "d": "P188F07"
+    },
+    {
+        "m": "Grand X2 In",
+        "k": "Grand X2 In",
+        "d": "redhookbay"
+    },
+    {
+        "m": "Grand X2 In",
+        "k": "ZTE Grand X2 In",
+        "d": "redhookbay"
+    },
+    {
+        "m": "GrayJoy",
+        "k": "N9136",
+        "d": "grayjoy"
+    },
+    {
+        "m": "Helios X1",
+        "k": "Helios X1",
+        "d": "P809A01"
+    },
+    {
+        "m": "ISE-T100C",
+        "k": "ISE-T100C",
+        "d": "K96"
+    },
+    {
+        "m": "Infinity X^2 mini",
+        "k": "Infinity X^2 mini",
+        "d": "msm8226"
+    },
+    {
+        "m": "Jasper LTE",
+        "k": "Z718TL",
+        "d": "lemon"
+    },
+    {
+        "m": "K70",
+        "k": "K70",
+        "d": "K70"
+    },
+    {
+        "m": "K75",
+        "k": "K75",
+        "d": "crane-zte7"
+    },
+    {
+        "m": "K81",
+        "k": "K81",
+        "d": "helen"
+    },
+    {
+        "m": "K813",
+        "k": "ZTE-K813",
+        "d": "P809K50"
+    },
+    {
+        "m": "K83",
+        "k": "Amazing_P8",
+        "d": "K83"
+    },
+    {
+        "m": "K83",
+        "k": "K83",
+        "d": "K83"
+    },
+    {
+        "m": "K83V",
+        "k": "K83V",
+        "d": "K83"
+    },
+    {
+        "m": "K85",
+        "k": "K85",
+        "d": "K85"
+    },
+    {
+        "m": "K87CA",
+        "k": "K87CA",
+        "d": "K87"
+    },
+    {
+        "m": "K87CC",
+        "k": "K87CC",
+        "d": "K87"
+    },
+    {
+        "m": "K88",
+        "k": "K88",
+        "d": "jasmine"
+    },
+    {
+        "m": "K92",
+        "k": "K92",
+        "d": "primrose"
+    },
+    {
+        "m": "K95L",
+        "k": "K95L",
+        "d": "K95"
+    },
+    {
+        "m": "K97",
+        "k": "K97",
+        "d": "K97"
+    },
+    {
+        "m": "K97",
+        "k": "ZTE K97",
+        "d": "K97"
+    },
+    {
+        "m": "KIS",
+        "k": "KIS",
+        "d": "roamer2"
+    },
+    {
+        "m": "KIS PLUS",
+        "k": "KIS PLUS",
+        "d": "roamer2"
+    },
+    {
+        "m": "Karbonn_A1",
+        "k": "Karbonn_A1",
+        "d": "N721"
+    },
+    {
+        "m": "Kis 3",
+        "k": "ZTE Kis 3",
+        "d": "ZTE-P821E10"
+    },
+    {
+        "m": "Kis 3",
+        "k": "ZTE V811",
+        "d": "ZTE-P821E10"
+    },
+    {
+        "m": "Kis Lite",
+        "k": "ZTE Kis Lite",
+        "d": "roamer2"
+    },
+    {
+        "m": "Kis Pro",
+        "k": "Optimus Zali",
+        "d": "nice"
+    },
+    {
+        "m": "Kis Pro",
+        "k": "ZTE Kis Pro",
+        "d": "nice"
+    },
+    {
+        "m": "Kis Q",
+        "k": "ZTE Kis Q",
+        "d": "P172D02"
+    },
+    {
+        "m": "Kis T3",
+        "k": "Kis T3",
+        "d": "roamer2"
+    },
+    {
+        "m": "LEO M1",
+        "k": "V883M",
+        "d": "V883M"
+    },
+    {
+        "m": "LEO M1",
+        "k": "ZTE LEO M1",
+        "d": "V883M"
+    },
+    {
+        "m": "LEO S1",
+        "k": "V972M",
+        "d": "V972M"
+    },
+    {
+        "m": "LEO S1",
+        "k": "ZTE LEO S1",
+        "d": "V972M"
+    },
+    {
+        "m": "LEO S2",
+        "k": "ZTE LEO S2",
+        "d": "V982M_Z64"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "V765M",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "ZTE LEO Q1",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "ZTE V765M",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "ZTE_CLARO_Q1",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "ZTE_LEO_Q1",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LEO_Q1",
+        "k": "mobifone M9001",
+        "d": "hct72_wet_jb3"
+    },
+    {
+        "m": "LS-5503",
+        "k": "LS-5503",
+        "d": "P839F50"
+    },
+    {
+        "m": "LS-5503",
+        "k": "ZTE Blade S6 Plus",
+        "d": "P839F50"
+    },
+    {
+        "m": "Lannister",
+        "k": "Z863DL",
+        "d": "weeper"
+    },
+    {
+        "m": "Leopard MF800",
+        "k": "Leopard MF800",
+        "d": "roamer2"
+    },
+    {
+        "m": "Libero Flip",
+        "k": "A304ZT",
+        "d": "Z8888S"
+    },
+    {
+        "m": "Libero Flip",
+        "k": "XXXX",
+        "d": "Z8888S"
+    },
+    {
+        "m": "M8402",
+        "k": "M8402",
+        "d": "roamer2"
+    },
+    {
+        "m": "M901C",
+        "k": "ZTE M901C",
+        "d": "P692N60"
+    },
+    {
+        "m": "MEDION LIFE P4310",
+        "k": "MEDION LIFE P4310",
+        "d": "skate"
+    },
+    {
+        "m": "MF97A",
+        "k": "MF97A",
+        "d": "MF97A"
+    },
+    {
+        "m": "MF97B",
+        "k": "MF97B",
+        "d": "msm8974"
+    },
+    {
+        "m": "MF97B",
+        "k": "MF97B_ROGERS",
+        "d": "msm8974"
+    },
+    {
+        "m": "MF97B_T",
+        "k": "MF97B_T",
+        "d": "msm8974"
+    },
+    {
+        "m": "MF97E",
+        "k": "MF97E",
+        "d": "msm8974"
+    },
+    {
+        "m": "MF97G",
+        "k": "MF97G",
+        "d": "msm8974"
+    },
+    {
+        "m": "MF97W",
+        "k": "MF97W",
+        "d": "MF97W"
+    },
+    {
+        "m": "MO-01J",
+        "k": "MO-01J",
+        "d": "MO-01J"
+    },
+    {
+        "m": "MO-01K",
+        "k": "MO-01K",
+        "d": "MO-01K"
+    },
+    {
+        "m": "MS4A",
+        "k": "MS4A",
+        "d": "kiska"
+    },
+    {
+        "m": "MS4A",
+        "k": "MS4A",
+        "d": "roundtop"
+    },
+    {
+        "m": "Majesty Pro LTE",
+        "k": "Z798BL",
+        "d": "stark"
+    },
+    {
+        "m": "Momodesign MD Droid",
+        "k": "Momodesign MD Droid",
+        "d": "atlas40"
+    },
+    {
+        "m": "Movistar Express",
+        "k": "Movistar Express",
+        "d": "QB7211"
+    },
+    {
+        "m": "Movistar Motion",
+        "k": "Movistar Motion",
+        "d": "roamer2"
+    },
+    {
+        "m": "N5L",
+        "k": "ZTE N5L",
+        "d": "prmthus"
+    },
+    {
+        "m": "N5S",
+        "k": "ZTE N5S",
+        "d": "P189F10"
+    },
+    {
+        "m": "N720",
+        "k": "N720",
+        "d": "N720"
+    },
+    {
+        "m": "N720",
+        "k": "ZTE-U N720",
+        "d": "N720"
+    },
+    {
+        "m": "N720",
+        "k": "ZTE_U N720",
+        "d": "N720"
+    },
+    {
+        "m": "N762",
+        "k": "N762",
+        "d": "roamer"
+    },
+    {
+        "m": "N765_APT",
+        "k": "N765_APT",
+        "d": "N765"
+    },
+    {
+        "m": "N790",
+        "k": "N790",
+        "d": "deepblue"
+    },
+    {
+        "m": "N795",
+        "k": "ZTE N795",
+        "d": "deepblue"
+    },
+    {
+        "m": "N798",
+        "k": "ZTE N798",
+        "d": "atlas40"
+    },
+    {
+        "m": "N798+",
+        "k": "ZTE N798+",
+        "d": "ZTE_N798"
+    },
+    {
+        "m": "N798+",
+        "k": "ZTE N798+",
+        "d": "ZTE_N798P"
+    },
+    {
+        "m": "N799D",
+        "k": "N799D",
+        "d": "ZTE-N799D"
+    },
+    {
+        "m": "N799D",
+        "k": "ZTE N799D",
+        "d": "ZTE-N799D"
+    },
+    {
+        "m": "N800",
+        "k": "N800",
+        "d": "nex"
+    },
+    {
+        "m": "N8000_USA_Cricket",
+        "k": "N8000_USA_Cricket",
+        "d": "N8000"
+    },
+    {
+        "m": "N8000_USA_RS",
+        "k": "N8000_USA_RS",
+        "d": "N8000"
+    },
+    {
+        "m": "N8000_WHTE_CKT",
+        "k": "N8000_WHTE_CKT",
+        "d": "N8000"
+    },
+    {
+        "m": "N8010_APT",
+        "k": "N8010_APT",
+        "d": "N8010_APT"
+    },
+    {
+        "m": "N810",
+        "k": "N810",
+        "d": "fluid"
+    },
+    {
+        "m": "N817",
+        "k": "N817",
+        "d": "wellington"
+    },
+    {
+        "m": "N818",
+        "k": "N818",
+        "d": "ZTE-N818"
+    },
+    {
+        "m": "N818",
+        "k": "ZTE N818",
+        "d": "ZTE-N818"
+    },
+    {
+        "m": "N8300_Reliance",
+        "k": "N8300_Reliance",
+        "d": "N8300_Reliance"
+    },
+    {
+        "m": "N8303",
+        "k": "N8303",
+        "d": "roamer2"
+    },
+    {
+        "m": "N850",
+        "k": "N850",
+        "d": "sean"
+    },
+    {
+        "m": "N850L",
+        "k": "N850L",
+        "d": "seanplus"
+    },
+    {
+        "m": "N855D",
+        "k": "N855D",
+        "d": "hope"
+    },
+    {
+        "m": "N860",
+        "k": "N860",
+        "d": "arthur"
+    },
+    {
+        "m": "N860",
+        "k": "Warp",
+        "d": "arthur"
+    },
+    {
+        "m": "N861",
+        "k": "N861",
+        "d": "warp2"
+    },
+    {
+        "m": "N880E",
+        "k": "ZTE N880E",
+        "d": "atlas40"
+    },
+    {
+        "m": "N880G",
+        "k": "ZTE N880G",
+        "d": "ZTE-N880G"
+    },
+    {
+        "m": "N900",
+        "k": "ZTE N900",
+        "d": "ZTE-N900"
+    },
+    {
+        "m": "N900D",
+        "k": "ZTE N900D",
+        "d": "ZTE-N900D"
+    },
+    {
+        "m": "N909",
+        "k": "ZTE N909",
+        "d": "ZTE-N909"
+    },
+    {
+        "m": "N909D",
+        "k": "ZTE N909D",
+        "d": "ZTE-N909D"
+    },
+    {
+        "m": "N910",
+        "k": "ZTE-N910",
+        "d": "arthur4g"
+    },
+    {
+        "m": "N9100",
+        "k": "N9100",
+        "d": "hayes"
+    },
+    {
+        "m": "N9101",
+        "k": "N9101",
+        "d": "apollo"
+    },
+    {
+        "m": "N9120",
+        "k": "ZTE N9120",
+        "d": "elden"
+    },
+    {
+        "m": "N9130",
+        "k": "N9130",
+        "d": "speed"
+    },
+    {
+        "m": "N9132",
+        "k": "N9132",
+        "d": "cinco"
+    },
+    {
+        "m": "N9137",
+        "k": "N9137",
+        "d": "msm8909go"
+    },
+    {
+        "m": "N9180",
+        "k": "N9180",
+        "d": "N9180"
+    },
+    {
+        "m": "N918St",
+        "k": "N918St",
+        "d": "N918St"
+    },
+    {
+        "m": "N918St",
+        "k": "ZTE N918St",
+        "d": "N918St"
+    },
+    {
+        "m": "N919",
+        "k": "ZTE N919",
+        "d": "ZTE-N919"
+    },
+    {
+        "m": "N919D",
+        "k": "N919D",
+        "d": "ZTE-N919D"
+    },
+    {
+        "m": "N919D",
+        "k": "ZTE N919D",
+        "d": "ZTE-N919D"
+    },
+    {
+        "m": "N928Dt",
+        "k": "ZTE N928Dt",
+        "d": "N928Dt"
+    },
+    {
+        "m": "N940Sc",
+        "k": "N940Sc",
+        "d": "N940Sc"
+    },
+    {
+        "m": "N9500",
+        "k": "N9500",
+        "d": "gordon"
+    },
+    {
+        "m": "N9510",
+        "k": "N9510",
+        "d": "warplte"
+    },
+    {
+        "m": "N9511",
+        "k": "ZTE_N9511",
+        "d": "hera"
+    },
+    {
+        "m": "N9515",
+        "k": "N9515",
+        "d": "warp4"
+    },
+    {
+        "m": "N9516",
+        "k": "N9516",
+        "d": "eridani"
+    },
+    {
+        "m": "N9518",
+        "k": "N9518",
+        "d": "warp6"
+    },
+    {
+        "m": "N9520",
+        "k": "N9520",
+        "d": "stormer"
+    },
+    {
+        "m": "N9521",
+        "k": "N9521",
+        "d": "max"
+    },
+    {
+        "m": "N958St",
+        "k": "N958St",
+        "d": "N958St"
+    },
+    {
+        "m": "N9810",
+        "k": "N9810",
+        "d": "quantum"
+    },
+    {
+        "m": "N983",
+        "k": "ZTE N983",
+        "d": "P177F03"
+    },
+    {
+        "m": "N9835",
+        "k": "N9835",
+        "d": "chovar"
+    },
+    {
+        "m": "N9835",
+        "k": "ZTE N9835",
+        "d": "chovar"
+    },
+    {
+        "m": "N986",
+        "k": "N986",
+        "d": "P188F02"
+    },
+    {
+        "m": "N986",
+        "k": "ZTE N986",
+        "d": "P188F02"
+    },
+    {
+        "m": "N986D",
+        "k": "N986+",
+        "d": "P188F10"
+    },
+    {
+        "m": "N986D",
+        "k": "N986D",
+        "d": "P188F10"
+    },
+    {
+        "m": "NE501J",
+        "k": "NE501J",
+        "d": "NE501J"
+    },
+    {
+        "m": "NE501J",
+        "k": "V5",
+        "d": "NE501J"
+    },
+    {
+        "m": "NE501J",
+        "k": "ZTE_V5",
+        "d": "NE501J"
+    },
+    {
+        "m": "NOS NEVA 80",
+        "k": "NOS NEVA 80",
+        "d": "P852F52"
+    },
+    {
+        "m": "NOS NOVU II",
+        "k": "NOS NOVU II",
+        "d": "P680A20"
+    },
+    {
+        "m": "NOS NOVU III",
+        "k": "NOS NOVU III",
+        "d": "P637F10"
+    },
+    {
+        "m": "NP01J",
+        "k": "NP01J",
+        "d": "P898P02"
+    },
+    {
+        "m": "NP03J",
+        "k": "NP03J",
+        "d": "PQ83P01"
+    },
+    {
+        "m": "NP05J",
+        "k": "NP05J",
+        "d": "PQ84P01"
+    },
+    {
+        "m": "NT01",
+        "k": "NT01",
+        "d": "PQ83P02"
+    },
+    {
+        "m": "NX402",
+        "k": "NX402",
+        "d": "NX40X"
+    },
+    {
+        "m": "NX403A",
+        "k": "NX403A",
+        "d": "NX403A"
+    },
+    {
+        "m": "NX404H",
+        "k": "NX404H",
+        "d": "NX404H"
+    },
+    {
+        "m": "NX405H",
+        "k": "NX405H",
+        "d": "NX405H"
+    },
+    {
+        "m": "NX406E",
+        "k": "NX406E",
+        "d": "NX406E"
+    },
+    {
+        "m": "NX40X",
+        "k": "NX402",
+        "d": "NX402"
+    },
+    {
+        "m": "NX40X_APT",
+        "k": "NX40X",
+        "d": "NX40X"
+    },
+    {
+        "m": "NX40X_APT",
+        "k": "NX40X_APT",
+        "d": "NX40X"
+    },
+    {
+        "m": "NX501",
+        "k": "NX501",
+        "d": "NX501"
+    },
+    {
+        "m": "NX501_APT",
+        "k": "NX501_APT",
+        "d": "NX501"
+    },
+    {
+        "m": "NX503A_Z4",
+        "k": "NX503A_Z4",
+        "d": "NX503A_Z4"
+    },
+    {
+        "m": "NX503J",
+        "k": "NX503J",
+        "d": "NX503J"
+    },
+    {
+        "m": "NX505J",
+        "k": "NX505J",
+        "d": "NX505J"
+    },
+    {
+        "m": "NX506J",
+        "k": "NX506J",
+        "d": "NX506J"
+    },
+    {
+        "m": "NX507J",
+        "k": "NX507H",
+        "d": "NX507J"
+    },
+    {
+        "m": "NX507J",
+        "k": "NX507J",
+        "d": "NX507J"
+    },
+    {
+        "m": "NX508J",
+        "k": "NX508J",
+        "d": "NX508J"
+    },
+    {
+        "m": "NX510J",
+        "k": "NX510J",
+        "d": "NX510J"
+    },
+    {
+        "m": "NX511J",
+        "k": "NX511J",
+        "d": "NX511J"
+    },
+    {
+        "m": "NX511J_V3",
+        "k": "NX511J_V3",
+        "d": "NX511J_V3"
+    },
+    {
+        "m": "NX512J",
+        "k": "NX512J",
+        "d": "NX512J"
+    },
+    {
+        "m": "NX513J",
+        "k": "NX513J",
+        "d": "NX513J"
+    },
+    {
+        "m": "NX521J",
+        "k": "NX521J",
+        "d": "NX521J"
+    },
+    {
+        "m": "NX523J_V1",
+        "k": "NX523J_V1",
+        "d": "NX523J_V1"
+    },
+    {
+        "m": "NX527J_V1",
+        "k": "NX527J_V1",
+        "d": "NX527J_V1"
+    },
+    {
+        "m": "NX529J",
+        "k": "NX529J",
+        "d": "NX529J"
+    },
+    {
+        "m": "NX531J",
+        "k": "NX531J",
+        "d": "NX531J"
+    },
+    {
+        "m": "NX535J",
+        "k": "NX535J",
+        "d": "NX535J"
+    },
+    {
+        "m": "NX541J",
+        "k": "NX541J",
+        "d": "NX541J"
+    },
+    {
+        "m": "NX549J",
+        "k": "NX549J",
+        "d": "NX549J"
+    },
+    {
+        "m": "NX551J",
+        "k": "NX551J",
+        "d": "NX551J"
+    },
+    {
+        "m": "NX563J",
+        "k": "NX563J",
+        "d": "NX563J"
+    },
+    {
+        "m": "NX569J",
+        "k": "NX569J",
+        "d": "NX569J"
+    },
+    {
+        "m": "NX573J",
+        "k": "NX573J",
+        "d": "NX573J"
+    },
+    {
+        "m": "NX575J",
+        "k": "NX575J",
+        "d": "NX575J"
+    },
+    {
+        "m": "NX589J",
+        "k": "NX589J",
+        "d": "NX589J"
+    },
+    {
+        "m": "NX591J",
+        "k": "NX591J",
+        "d": "NX591J"
+    },
+    {
+        "m": "NX595J",
+        "k": "NX595J",
+        "d": "NX595J"
+    },
+    {
+        "m": "NX597J",
+        "k": "NX597J",
+        "d": "NX597J"
+    },
+    {
+        "m": "NX601J",
+        "k": "NX601J",
+        "d": "NX601J"
+    },
+    {
+        "m": "NX606J",
+        "k": "NX606J",
+        "d": "NX606J"
+    },
+    {
+        "m": "NX607J",
+        "k": "NX607J",
+        "d": "NX607J"
+    },
+    {
+        "m": "NX608J",
+        "k": "NX608J",
+        "d": "NX608J"
+    },
+    {
+        "m": "NX609J",
+        "k": "NX609J",
+        "d": "NX609J"
+    },
+    {
+        "m": "NX612J",
+        "k": "NX612J",
+        "d": "NX612J"
+    },
+    {
+        "m": "NX619J",
+        "k": "NX619J",
+        "d": "NX619J"
+    },
+    {
+        "m": "NX619J",
+        "k": "NX619J",
+        "d": "NX619J-EEA"
+    },
+    {
+        "m": "NX627J",
+        "k": "NX627J",
+        "d": "NX627J"
+    },
+    {
+        "m": "NX627J",
+        "k": "NX627J",
+        "d": "NX627J-EEA"
+    },
+    {
+        "m": "NX629J",
+        "k": "NX629J",
+        "d": "NX629J"
+    },
+    {
+        "m": "NX629J",
+        "k": "NX629J",
+        "d": "NX629J-EEA"
+    },
+    {
+        "m": "NX659J",
+        "k": "NX659J",
+        "d": "NX659J-RU"
+    },
+    {
+        "m": "NX659J",
+        "k": "NX659J",
+        "d": "NX659J-UN"
+    },
+    {
+        "m": "NX666J",
+        "k": "NX666J",
+        "d": "NX666J"
+    },
+    {
+        "m": "NX669J",
+        "k": "NX669J",
+        "d": "NX669J"
+    },
+    {
+        "m": "NX669J",
+        "k": "NX669J",
+        "d": "NX669J-EEA"
+    },
+    {
+        "m": "NX669J",
+        "k": "NX669J",
+        "d": "NX669J-UN"
+    },
+    {
+        "m": "NX679J",
+        "k": "NX679J",
+        "d": "NX679J"
+    },
+    {
+        "m": "NX679J",
+        "k": "NX679J",
+        "d": "NX679J-EEA"
+    },
+    {
+        "m": "NX679J",
+        "k": "NX679J",
+        "d": "NX679J-UN"
+    },
+    {
+        "m": "NX679S",
+        "k": "NX679S",
+        "d": "NX679S"
+    },
+    {
+        "m": "NX702J",
+        "k": "NX702J",
+        "d": "P898A21"
+    },
+    {
+        "m": "NX703J",
+        "k": "NX703J",
+        "d": "P870A22"
+    },
+    {
+        "m": "NX709J",
+        "k": "NX709J",
+        "d": "NX709J"
+    },
+    {
+        "m": "NX709S",
+        "k": "NX709S",
+        "d": "NX709S"
+    },
+    {
+        "m": "NX709S",
+        "k": "NX709S",
+        "d": "NX709S-EEA"
+    },
+    {
+        "m": "NX709S",
+        "k": "NX709S",
+        "d": "NX709S-UN"
+    },
+    {
+        "m": "NX711J",
+        "k": "NX711J",
+        "d": "PQ82A01"
+    },
+    {
+        "m": "NX729J",
+        "k": "NX729J",
+        "d": "NX729J"
+    },
+    {
+        "m": "NX729J",
+        "k": "NX729J",
+        "d": "NX729J-EEA"
+    },
+    {
+        "m": "NX729J",
+        "k": "NX729J",
+        "d": "NX729J-UN"
+    },
+    {
+        "m": "NX907J",
+        "k": "NX907J",
+        "d": "NX907J"
+    },
+    {
+        "m": "Nubia 4010",
+        "k": "Nubia 4010",
+        "d": "P963F60"
+    },
+    {
+        "m": "Nubia 6010",
+        "k": "Nubia 6010",
+        "d": "P963F07"
+    },
+    {
+        "m": "Nubia 8011",
+        "k": "Nubia 8011",
+        "d": "P963F05"
+    },
+    {
+        "m": "Nubia 8031",
+        "k": "Nubia 8031",
+        "d": "P963F06"
+    },
+    {
+        "m": "Nubia N11",
+        "k": "Nubia N11",
+        "d": "P731F50"
+    },
+    {
+        "m": "Nubia N40",
+        "k": "Nubia N40",
+        "d": "P963F50_A"
+    },
+    {
+        "m": "Nubia N40",
+        "k": "ZTE Blade A51 Lite",
+        "d": "P963F50_A"
+    },
+    {
+        "m": "OWN FUN 5",
+        "k": "OWN FUN 5(4G)",
+        "d": "VFD511"
+    },
+    {
+        "m": "OWN FUN 5",
+        "k": "ZTE BLADE A321",
+        "d": "VFD511"
+    },
+    {
+        "m": "OWN One Plus",
+        "k": "OWN One Plus",
+        "d": "ZTE_Blade_V580"
+    },
+    {
+        "m": "Optimus Barcelona",
+        "k": "Optimus Barcelona",
+        "d": "blade2"
+    },
+    {
+        "m": "Optus X Max",
+        "k": "Blade A72s",
+        "d": "P606F05"
+    },
+    {
+        "m": "Optus X Pro 5G",
+        "k": "A73 Pro 5G",
+        "d": "P720F02"
+    },
+    {
+        "m": "Optus X Tap 3",
+        "k": "P660",
+        "d": "P606F10"
+    },
+    {
+        "m": "Optus X-Plus",
+        "k": "P602",
+        "d": "Z3511O"
+    },
+    {
+        "m": "Optus X-Pro 2 5G",
+        "k": "P9 Pro 5G",
+        "d": "Z7306O"
+    },
+    {
+        "m": "Optus X-Total",
+        "k": "P656",
+        "d": "P963F65"
+    },
+    {
+        "m": "Orange Hi 4G",
+        "k": "Orange Hi 4G",
+        "d": "Orange_Hi_4G"
+    },
+    {
+        "m": "Orange Hi 4G",
+        "k": "Orange Hi 4G",
+        "d": "msm8226"
+    },
+    {
+        "m": "Orange Neva jet",
+        "k": "Orange Neva jet",
+        "d": "Neva_jet"
+    },
+    {
+        "m": "Orange Novi",
+        "k": "Orange Novi",
+        "d": "oceanus"
+    },
+    {
+        "m": "Orange Reyo",
+        "k": "Avea inTouch 3 Large",
+        "d": "P172D10"
+    },
+    {
+        "m": "Orange Reyo",
+        "k": "Blade Q Maxi",
+        "d": "P172D10"
+    },
+    {
+        "m": "Orange Reyo",
+        "k": "Orange Reyo",
+        "d": "P172D10"
+    },
+    {
+        "m": "Orange Reyo",
+        "k": "ZTE Blade Q Maxi",
+        "d": "P172D10"
+    },
+    {
+        "m": "Orange Rono",
+        "k": "Orange Rono",
+        "d": "Vec4G"
+    },
+    {
+        "m": "Orange Rono",
+        "k": "Orange Rono",
+        "d": "msm8226"
+    },
+    {
+        "m": "Orange Zali",
+        "k": "Orange Zali",
+        "d": "nice"
+    },
+    {
+        "m": "Own One",
+        "k": "Own One",
+        "d": "P635A20"
+    },
+    {
+        "m": "P501",
+        "k": "P501",
+        "d": "Z3052O"
+    },
+    {
+        "m": "P503",
+        "k": "P503",
+        "d": "Z3101T"
+    },
+    {
+        "m": "P505",
+        "k": "P505",
+        "d": "Z3103O"
+    },
+    {
+        "m": "P545",
+        "k": "P545",
+        "d": "P545"
+    },
+    {
+        "m": "P600",
+        "k": "P600",
+        "d": "P963F80"
+    },
+    {
+        "m": "P601",
+        "k": "P601",
+        "d": "P963F80"
+    },
+    {
+        "m": "P609",
+        "k": "P609",
+        "d": "P609"
+    },
+    {
+        "m": "P650 2021",
+        "k": "P650 2021",
+        "d": "P963F60"
+    },
+    {
+        "m": "P650 Pro",
+        "k": "P650 Pro",
+        "d": "Z6351O"
+    },
+    {
+        "m": "P651 2021",
+        "k": "P651 2021",
+        "d": "Z6355O"
+    },
+    {
+        "m": "P652",
+        "k": "P652",
+        "d": "P963F61"
+    },
+    {
+        "m": "P652 Pro",
+        "k": "P652 Pro",
+        "d": "Z6356O"
+    },
+    {
+        "m": "P7 Pro 5G",
+        "k": "P7 Pro 5G",
+        "d": "Z7602O"
+    },
+    {
+        "m": "PANZTE-0001",
+        "k": "PANZTE-0001",
+        "d": "HIME_B866V2FAS"
+    },
+    {
+        "m": "P_C880S",
+        "k": "ZTE P_C880S",
+        "d": "P_P635N34"
+    },
+    {
+        "m": "Preo Teknosa P1",
+        "k": "Preo Teknosa P1",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Q101T",
+        "k": "ZTE Q101T",
+        "d": "P810T10"
+    },
+    {
+        "m": "Q201T",
+        "k": "ZTE Q201T",
+        "d": "P172T24"
+    },
+    {
+        "m": "Q2S-C",
+        "k": "ZTE Q2S-C",
+        "d": "P826N50"
+    },
+    {
+        "m": "Q2S-T",
+        "k": "ZTE Q2S-T",
+        "d": "P826T50"
+    },
+    {
+        "m": "Q301C",
+        "k": "ZTE Q301C",
+        "d": "APT_TW_P810N30"
+    },
+    {
+        "m": "Q301C",
+        "k": "ZTE Q301C",
+        "d": "P810N30"
+    },
+    {
+        "m": "Q301T",
+        "k": "ZTE Q301T",
+        "d": "P172T33"
+    },
+    {
+        "m": "Q302C",
+        "k": "ZTE Q302C",
+        "d": "P809N20"
+    },
+    {
+        "m": "Q5-C",
+        "k": "ZTE Q5-C",
+        "d": "P816N34"
+    },
+    {
+        "m": "Q5-T",
+        "k": "ZTE Q5-T",
+        "d": "CU_P816T32"
+    },
+    {
+        "m": "Q5-T",
+        "k": "ZTE Q5-T",
+        "d": "P816T32"
+    },
+    {
+        "m": "Q501T",
+        "k": "ZTE Q501T",
+        "d": "P172T31"
+    },
+    {
+        "m": "Q501U",
+        "k": "ZTE Q501U",
+        "d": "P172F04"
+    },
+    {
+        "m": "Q503U",
+        "k": "ZTE Q503U",
+        "d": "P682V53"
+    },
+    {
+        "m": "Q505T",
+        "k": "ZTE Q505T",
+        "d": "P826T20"
+    },
+    {
+        "m": "Q507T",
+        "k": "ZTE Q507T",
+        "d": "P682T20"
+    },
+    {
+        "m": "Q508U",
+        "k": "ZTE Q508U",
+        "d": "P816V50"
+    },
+    {
+        "m": "Q509T",
+        "k": "Amazing X5",
+        "d": "P632T31"
+    },
+    {
+        "m": "Q509T",
+        "k": "ZTE Blade A450",
+        "d": "P632T31"
+    },
+    {
+        "m": "Q509T",
+        "k": "ZTE Blade V2 Lite",
+        "d": "P632T31"
+    },
+    {
+        "m": "Q509T",
+        "k": "ZTE Q509T",
+        "d": "P632T31"
+    },
+    {
+        "m": "Q519T",
+        "k": "ZTE Q519T",
+        "d": "ZTE_Q519T"
+    },
+    {
+        "m": "Q529C",
+        "k": "ZTE Q529C",
+        "d": "P635N33"
+    },
+    {
+        "m": "Q529C",
+        "k": "ZTE Q529C",
+        "d": "V_P635N33"
+    },
+    {
+        "m": "Q529E",
+        "k": "ZTE Q529E",
+        "d": "P635T35"
+    },
+    {
+        "m": "Q529T",
+        "k": "ZTE Q529T",
+        "d": "P635T33"
+    },
+    {
+        "m": "Q7-C",
+        "k": "ZTE Q7-C",
+        "d": "P839N50"
+    },
+    {
+        "m": "Q701C",
+        "k": "ZTE Q701C",
+        "d": "ZTE-Q701C"
+    },
+    {
+        "m": "Q705U",
+        "k": "ZTE Q705U",
+        "d": "P682V60"
+    },
+    {
+        "m": "Q801C",
+        "k": "ZTE Q801C",
+        "d": "ZTE-Q801C"
+    },
+    {
+        "m": "Q801L",
+        "k": "ZTE Q801L",
+        "d": "ZTE-Q801L"
+    },
+    {
+        "m": "Q801T",
+        "k": "ZTE Q801T",
+        "d": "P181L30"
+    },
+    {
+        "m": "Q801U",
+        "k": "ZTE Q801U",
+        "d": "P826V30"
+    },
+    {
+        "m": "Q802C",
+        "k": "ZTE Q802C",
+        "d": "ZTE-Q802C"
+    },
+    {
+        "m": "Q802D",
+        "k": "ZTE Q802D",
+        "d": "ZTE-Q802D"
+    },
+    {
+        "m": "Q802T",
+        "k": "ZTE Q802T",
+        "d": "P826T30"
+    },
+    {
+        "m": "Q805T",
+        "k": "ZTE Q805T",
+        "d": "P120T55"
+    },
+    {
+        "m": "Q806T",
+        "k": "ZTE Q806T",
+        "d": "V_P635T30"
+    },
+    {
+        "m": "Quartz",
+        "k": "Quartz",
+        "d": "platy"
+    },
+    {
+        "m": "Quartz",
+        "k": "ZW10",
+        "d": "platy"
+    },
+    {
+        "m": "R83",
+        "k": "ZTE R83",
+        "d": "demeter"
+    },
+    {
+        "m": "RACER III mini",
+        "k": "RACER III mini",
+        "d": "roamer2"
+    },
+    {
+        "m": "RED MAGIC 5G",
+        "k": "NX659J",
+        "d": "NX659J"
+    },
+    {
+        "m": "REDMAGIC 10 Pro",
+        "k": "NX789J",
+        "d": "NX789J"
+    },
+    {
+        "m": "REDMAGIC 7",
+        "k": "NX709J",
+        "d": "NX709J-EEA"
+    },
+    {
+        "m": "REDMAGIC 7Pro",
+        "k": "NX709J",
+        "d": "NX709J-UN"
+    },
+    {
+        "m": "REDMAGIC 9",
+        "k": "NX769J",
+        "d": "NX769J"
+    },
+    {
+        "m": "Racer",
+        "k": "MTC 916",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "MTS-SP100",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "Movistar Link",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "RTK D1",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "Racer",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "TaiWan Mobile T2",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "V8402",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "Vip Droid",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "XCD 28",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE X850",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-C N600",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-C N600+",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-LINK",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-RACER",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-U V852",
+        "d": "mooncake"
+    },
+    {
+        "m": "Racer",
+        "k": "ZTE-U X850",
+        "d": "mooncake"
+    },
+    {
+        "m": "Red Magic 5G",
+        "k": "NX659J",
+        "d": "NX659J-EEA"
+    },
+    {
+        "m": "Red Magic 5G lite",
+        "k": "NX651J",
+        "d": "NX651J-EEA"
+    },
+    {
+        "m": "Rook from EE",
+        "k": "Rook from EE",
+        "d": "P635E40"
+    },
+    {
+        "m": "Russia",
+        "k": "ZTE 8045RU",
+        "d": "P606F02"
+    },
+    {
+        "m": "S118",
+        "k": "Grand S Lite",
+        "d": "P189S10"
+    },
+    {
+        "m": "S118",
+        "k": "ZTE S118",
+        "d": "P189S10"
+    },
+    {
+        "m": "S2004",
+        "k": "ZTE S2004",
+        "d": "msm8974"
+    },
+    {
+        "m": "S2005",
+        "k": "ZTE S2005",
+        "d": "msm8974"
+    },
+    {
+        "m": "S2007",
+        "k": "ZTE S2007",
+        "d": "msm8974"
+    },
+    {
+        "m": "S2010",
+        "k": "ZTE S2010",
+        "d": "P653S10"
+    },
+    {
+        "m": "S2010",
+        "k": "ZTE S2010",
+        "d": "P_P653S10"
+    },
+    {
+        "m": "S2010",
+        "k": "ZTE S2010",
+        "d": "V_P653S10"
+    },
+    {
+        "m": "S2010",
+        "k": "ZTE S2010",
+        "d": "ZTE_S2010"
+    },
+    {
+        "m": "S2014",
+        "k": "ZTE S2014",
+        "d": "ZTE-S2014"
+    },
+    {
+        "m": "S2015",
+        "k": "ZTE S2015",
+        "d": "ZTE-S2015"
+    },
+    {
+        "m": "S8Q",
+        "k": "S8Q",
+        "d": "MT8123"
+    },
+    {
+        "m": "SKATE",
+        "k": "ZTE-SKATE",
+        "d": "skate"
+    },
+    {
+        "m": "STAR",
+        "k": "ZTE GEEK II Pro 4G",
+        "d": "msm8226"
+    },
+    {
+        "m": "STAR",
+        "k": "ZTE S2002",
+        "d": "msm8226"
+    },
+    {
+        "m": "STAR",
+        "k": "ZTE STAR",
+        "d": "msm8226"
+    },
+    {
+        "m": "STAR",
+        "k": "ZTE Star 1",
+        "d": "msm8226"
+    },
+    {
+        "m": "STARNAUTE II",
+        "k": "STARNAUTE II",
+        "d": "V6600"
+    },
+    {
+        "m": "STARTRAIL 4",
+        "k": "Avea inTouch 3",
+        "d": "P172E10"
+    },
+    {
+        "m": "STARTRAIL 4",
+        "k": "STARTRAIL 4",
+        "d": "P172E10"
+    },
+    {
+        "m": "STARTRAIL 4",
+        "k": "ZTE Blade Q",
+        "d": "P172E10"
+    },
+    {
+        "m": "STARXTREM",
+        "k": "STARXTREM",
+        "d": "prindle"
+    },
+    {
+        "m": "STARXTREM 4",
+        "k": "STARXTREM 4",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "Sapphire 3G",
+        "k": "N818S",
+        "d": "sapphire"
+    },
+    {
+        "m": "Sirius",
+        "k": "Z610DL",
+        "d": "msm8937"
+    },
+    {
+        "m": "Skate",
+        "k": "ZTE Skate",
+        "d": "skate"
+    },
+    {
+        "m": "SoshPhone 3",
+        "k": "SoshPhone 3",
+        "d": "SoshPhone_3"
+    },
+    {
+        "m": "Soshphone 4G",
+        "k": "Soshphone 4G",
+        "d": "Vec4G"
+    },
+    {
+        "m": "Soshphone 4G",
+        "k": "Soshphone 4G",
+        "d": "msm8226"
+    },
+    {
+        "m": "Spro 2",
+        "k": "502ZT",
+        "d": "msm8974"
+    },
+    {
+        "m": "Spro 2",
+        "k": "MF97V",
+        "d": "msm8974"
+    },
+    {
+        "m": "Spro 2",
+        "k": "Spro 2",
+        "d": "msm8974"
+    },
+    {
+        "m": "Spro 2",
+        "k": "Spro 2 LTE",
+        "d": "msm8974"
+    },
+    {
+        "m": "Spro 2",
+        "k": "ZKB2A",
+        "d": "msm8974"
+    },
+    {
+        "m": "Spro2",
+        "k": "Spro2",
+        "d": "msm8974"
+    },
+    {
+        "m": "Stack",
+        "k": "Z799VL",
+        "d": "martell"
+    },
+    {
+        "m": "Switch X1",
+        "k": "ZTE Switch X1",
+        "d": "deepblue"
+    },
+    {
+        "m": "Switch X1",
+        "k": "ZTE V796",
+        "d": "deepblue"
+    },
+    {
+        "m": "T-Mobile Vivacity",
+        "k": "T-Mobile Vivacity",
+        "d": "blade2"
+    },
+    {
+        "m": "T12",
+        "k": "ZTE T12",
+        "d": "P173A30T"
+    },
+    {
+        "m": "T221",
+        "k": "Blade C341",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "DIGICEL DL755",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "KIS C341",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE Blade A5",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE Blade AF5",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE Blade C341",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE Blade C342",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE T221",
+        "d": "P731A20"
+    },
+    {
+        "m": "T221",
+        "k": "ZTE T230",
+        "d": "P731A20"
+    },
+    {
+        "m": "T28",
+        "k": "ZTE T28",
+        "d": "bluetick"
+    },
+    {
+        "m": "T28",
+        "k": "ZTE T28 Prepaid",
+        "d": "bluetick"
+    },
+    {
+        "m": "T325",
+        "k": "ZTE T325",
+        "d": "ZTE_T325"
+    },
+    {
+        "m": "T520",
+        "k": "ZTE T520",
+        "d": "P172A40"
+    },
+    {
+        "m": "T57",
+        "k": "T57",
+        "d": "P809A01"
+    },
+    {
+        "m": "T57",
+        "k": "ZTE T57",
+        "d": "P809A01"
+    },
+    {
+        "m": "T60",
+        "k": "ZTE T60",
+        "d": "turies"
+    },
+    {
+        "m": "T617",
+        "k": "ZTE T617",
+        "d": "ZTE_T617"
+    },
+    {
+        "m": "T620",
+        "k": "ZTE T620",
+        "d": "ZTE_T620"
+    },
+    {
+        "m": "T630",
+        "k": "ZTE T630",
+        "d": "P635T30"
+    },
+    {
+        "m": "T760",
+        "k": "ZTE T760",
+        "d": "P173A10T"
+    },
+    {
+        "m": "T77",
+        "k": "T77",
+        "d": "T77"
+    },
+    {
+        "m": "T790",
+        "k": "ZTE T790",
+        "d": "roamer2"
+    },
+    {
+        "m": "T792",
+        "k": "ZTE B792",
+        "d": "ZTE-T792"
+    },
+    {
+        "m": "T792",
+        "k": "ZTE T792",
+        "d": "ZTE-T792"
+    },
+    {
+        "m": "T80",
+        "k": "ZTE T80",
+        "d": "msm8226"
+    },
+    {
+        "m": "T81",
+        "k": "ZTE T81",
+        "d": "iliamna"
+    },
+    {
+        "m": "T82",
+        "k": "ZTE T82",
+        "d": "frosty"
+    },
+    {
+        "m": "T83",
+        "k": "ZTE T83",
+        "d": "demeter"
+    },
+    {
+        "m": "T84",
+        "k": "ZTE R84",
+        "d": "P816A20"
+    },
+    {
+        "m": "T84",
+        "k": "ZTE T84",
+        "d": "P816A20"
+    },
+    {
+        "m": "T85",
+        "k": "T85",
+        "d": "P840F20"
+    },
+    {
+        "m": "T86",
+        "k": "Amazing X1",
+        "d": "msm8226"
+    },
+    {
+        "m": "T86",
+        "k": "ZTE T86",
+        "d": "msm8226"
+    },
+    {
+        "m": "T88",
+        "k": "ZTE T88",
+        "d": "msm8226"
+    },
+    {
+        "m": "T911",
+        "k": "ZTE T911",
+        "d": "P839F30"
+    },
+    {
+        "m": "T920",
+        "k": "ZTE T920",
+        "d": "ZTE_T920"
+    },
+    {
+        "m": "T98",
+        "k": "T98",
+        "d": "primrose"
+    },
+    {
+        "m": "TE BLADE B125",
+        "k": "ZTE BLADE B125",
+        "d": "P809F01"
+    },
+    {
+        "m": "THAZ-65",
+        "k": "Aaztec-IFP-Series",
+        "d": "mensa_an64"
+    },
+    {
+        "m": "TQ150",
+        "k": "TQ150",
+        "d": "QB7211"
+    },
+    {
+        "m": "TURKCELL T40",
+        "k": "TURKCELL T40",
+        "d": "TURKCELL-T40"
+    },
+    {
+        "m": "TURKCELL T50",
+        "k": "TURKCELL T50",
+        "d": "msm8226"
+    },
+    {
+        "m": "TURKCELL T50",
+        "k": "TURKCELL TURBO T50",
+        "d": "msm8226"
+    },
+    {
+        "m": "TURKCELL T60",
+        "k": "TURKCELL T60",
+        "d": "P839T60"
+    },
+    {
+        "m": "TURKCELL T60",
+        "k": "TURKCELL T60",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "TURKCELL T70",
+        "k": "TURKCELL T70",
+        "d": "P809T70"
+    },
+    {
+        "m": "TURKCELL T80",
+        "k": "TURKCELL T80",
+        "d": "P840F14"
+    },
+    {
+        "m": "Telenor Touch Plus",
+        "k": "Telenor Touch Plus",
+        "d": "blade2"
+    },
+    {
+        "m": "Telstra T-Elite 2 5G",
+        "k": "Blade A9 Pro 5G",
+        "d": "Z7303T"
+    },
+    {
+        "m": "Telstra T-Elite 5G",
+        "k": "A75 Pro 5G",
+        "d": "P720F09"
+    },
+    {
+        "m": "Telstra T-Pro 2 5G",
+        "k": "Blade A76 5G",
+        "d": "P780F03"
+    },
+    {
+        "m": "Telstra Tough Max 3",
+        "k": "T86",
+        "d": "T86"
+    },
+    {
+        "m": "Tempo",
+        "k": "N9131",
+        "d": "xray45"
+    },
+    {
+        "m": "Turkcell Maxi Plus 5",
+        "k": "Turkcell Maxi Plus 5",
+        "d": "nice"
+    },
+    {
+        "m": "U N721",
+        "k": "ZTE-U N721",
+        "d": "N721"
+    },
+    {
+        "m": "U V760",
+        "k": "Telenor Touch Mini",
+        "d": "ztenj73_gb"
+    },
+    {
+        "m": "U V760",
+        "k": "ZTE-U V760",
+        "d": "ztenj73_gb"
+    },
+    {
+        "m": "U V760",
+        "k": "ZTE-U V856",
+        "d": "ztenj73_gb"
+    },
+    {
+        "m": "U V760",
+        "k": "ZTE-U V857",
+        "d": "ztenj73_gb"
+    },
+    {
+        "m": "U V760",
+        "k": "moii E598",
+        "d": "ztenj73_gb"
+    },
+    {
+        "m": "U5S",
+        "k": "ZTE U5S",
+        "d": "P188T51"
+    },
+    {
+        "m": "U809",
+        "k": "ZTE U809",
+        "d": "P172T11"
+    },
+    {
+        "m": "U816",
+        "k": "ZTE U816",
+        "d": "P988T20"
+    },
+    {
+        "m": "U817",
+        "k": "ZTE U817",
+        "d": "P117A20"
+    },
+    {
+        "m": "U818",
+        "k": "ZTE U818",
+        "d": "P172T21"
+    },
+    {
+        "m": "U879",
+        "k": "ZTE U879",
+        "d": "P172T30"
+    },
+    {
+        "m": "U880",
+        "k": "ZTE-T U880",
+        "d": "U880"
+    },
+    {
+        "m": "U889",
+        "k": "ZTE U889",
+        "d": "P183T30"
+    },
+    {
+        "m": "U9180",
+        "k": "U9180",
+        "d": "U9180"
+    },
+    {
+        "m": "U9180",
+        "k": "ZTE U9180",
+        "d": "U9180"
+    },
+    {
+        "m": "U968",
+        "k": "ZTE U968",
+        "d": "P682T51"
+    },
+    {
+        "m": "U969",
+        "k": "ZTE U969",
+        "d": "P682T50"
+    },
+    {
+        "m": "U9815",
+        "k": "ZTE U9815",
+        "d": "P945T20"
+    },
+    {
+        "m": "U988S",
+        "k": "ZTE U988S",
+        "d": "pluto"
+    },
+    {
+        "m": "UZTE V790",
+        "k": "UZTE V790",
+        "d": "roamer2"
+    },
+    {
+        "m": "UZTE V817",
+        "k": "UZTE V817",
+        "d": "ZTE-V956"
+    },
+    {
+        "m": "Uhura",
+        "k": "Z968",
+        "d": "noah"
+    },
+    {
+        "m": "Ultym 5.2",
+        "k": "Ultym 5.2",
+        "d": "msm8916_32"
+    },
+    {
+        "m": "V55",
+        "k": "V55",
+        "d": "V55"
+    },
+    {
+        "m": "V5S",
+        "k": "ZTE Grand Memo lite",
+        "d": "P189F13"
+    },
+    {
+        "m": "V5S",
+        "k": "ZTE V5S",
+        "d": "P189F13"
+    },
+    {
+        "m": "V6500",
+        "k": "ZTE-V6500",
+        "d": "V6500"
+    },
+    {
+        "m": "V70",
+        "k": "ZTE V70",
+        "d": "ZTE-V70"
+    },
+    {
+        "m": "V7073",
+        "k": "ZTE V7073",
+        "d": "V7073"
+    },
+    {
+        "m": "V72",
+        "k": "MT7A",
+        "d": "V72"
+    },
+    {
+        "m": "V72",
+        "k": "ZTE V72",
+        "d": "V72"
+    },
+    {
+        "m": "V72C",
+        "k": "V72C",
+        "d": "v72c"
+    },
+    {
+        "m": "V72M",
+        "k": "V72M",
+        "d": "eos"
+    },
+    {
+        "m": "V768",
+        "k": "ZTE V768",
+        "d": "V768"
+    },
+    {
+        "m": "V769M",
+        "k": "V769M",
+        "d": "V769M"
+    },
+    {
+        "m": "V769M",
+        "k": "ZTE LEO Q2",
+        "d": "V769M"
+    },
+    {
+        "m": "V769M",
+        "k": "ZTE V769M",
+        "d": "V769M"
+    },
+    {
+        "m": "V779M",
+        "k": "ZTE V779M",
+        "d": "ZTEV779M"
+    },
+    {
+        "m": "V790",
+        "k": "ZTE V790",
+        "d": "roamer2"
+    },
+    {
+        "m": "V791",
+        "k": "V791",
+        "d": "P175A40"
+    },
+    {
+        "m": "V791",
+        "k": "ZTE V791",
+        "d": "P175A40"
+    },
+    {
+        "m": "V792C",
+        "k": "ZTE V792C",
+        "d": "P810D01"
+    },
+    {
+        "m": "V793",
+        "k": "Amazing A3",
+        "d": "P175A60"
+    },
+    {
+        "m": "V793",
+        "k": "Cellcom 4G",
+        "d": "P175A60"
+    },
+    {
+        "m": "V793",
+        "k": "M9000",
+        "d": "P175A60"
+    },
+    {
+        "m": "V793",
+        "k": "Telcel T20",
+        "d": "P175A60"
+    },
+    {
+        "m": "V793",
+        "k": "ZTE KIS Flex",
+        "d": "P175A60"
+    },
+    {
+        "m": "V793",
+        "k": "ZTE V793",
+        "d": "P175A60"
+    },
+    {
+        "m": "V795",
+        "k": "V795(A3S)",
+        "d": "P172D01"
+    },
+    {
+        "m": "V795",
+        "k": "ZTE B795",
+        "d": "P172D01"
+    },
+    {
+        "m": "V795",
+        "k": "ZTE KIS II",
+        "d": "P172D01"
+    },
+    {
+        "m": "V795",
+        "k": "ZTE KIS II PRO",
+        "d": "P172D01"
+    },
+    {
+        "m": "V795",
+        "k": "ZTE Kis II",
+        "d": "P172D01"
+    },
+    {
+        "m": "V795",
+        "k": "ZTE V795",
+        "d": "P172D01"
+    },
+    {
+        "m": "V797",
+        "k": "VIETTEL V8411",
+        "d": "P172D03"
+    },
+    {
+        "m": "V797",
+        "k": "ZTE V797",
+        "d": "P172D03"
+    },
+    {
+        "m": "V8000_USA_Cricket",
+        "k": "V8000_USA_Cricket",
+        "d": "V8000"
+    },
+    {
+        "m": "V807",
+        "k": "Amazing A4",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "Beeline E700",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "Leopard MF900",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "UZTE V807",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "V8501",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "ZTE BLADE C",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "ZTE V807",
+        "d": "P177E01"
+    },
+    {
+        "m": "V807",
+        "k": "ZTE V889S",
+        "d": "P177E01"
+    },
+    {
+        "m": "V808",
+        "k": "UZTE V808",
+        "d": "P172E01"
+    },
+    {
+        "m": "V808",
+        "k": "ZTE V808",
+        "d": "P172E01"
+    },
+    {
+        "m": "V809",
+        "k": "ZTE Blade C2",
+        "d": "P172A10"
+    },
+    {
+        "m": "V809",
+        "k": "ZTE T809",
+        "d": "P172A10"
+    },
+    {
+        "m": "V809",
+        "k": "ZTE V809",
+        "d": "P172A10"
+    },
+    {
+        "m": "V811",
+        "k": "ZTE V811",
+        "d": "ZTE-V811"
+    },
+    {
+        "m": "V8110",
+        "k": "V8110",
+        "d": "V8110"
+    },
+    {
+        "m": "V811C",
+        "k": "ZTE V811C",
+        "d": "P810E01"
+    },
+    {
+        "m": "V811W",
+        "k": "ZTE V811",
+        "d": "P821E10"
+    },
+    {
+        "m": "V811W",
+        "k": "ZTE V811W",
+        "d": "P821E10"
+    },
+    {
+        "m": "V813W",
+        "k": "ZTE Blade C2 Plus",
+        "d": "P172B20"
+    },
+    {
+        "m": "V813W",
+        "k": "ZTE V813W",
+        "d": "P172B20"
+    },
+    {
+        "m": "V815W",
+        "k": "Amazing A4S",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "B8405",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "KIS II Max",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "UZTE GRAND V7",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE B815",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE B816",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Blade Buzz",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Blade C320",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Blade Q1",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Kis II Max",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Kis II Max Plus",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Kis II Max plus",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE Maxx",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE T815",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE T816",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE V815W",
+        "d": "P172R10"
+    },
+    {
+        "m": "V815W",
+        "k": "ZTE V816W",
+        "d": "P172R10"
+    },
+    {
+        "m": "V817",
+        "k": "V817",
+        "d": "ZTE-V817"
+    },
+    {
+        "m": "V817",
+        "k": "ZTE V817",
+        "d": "ZTE-V817"
+    },
+    {
+        "m": "V817",
+        "k": "ZTE V817",
+        "d": "ZTE-V956"
+    },
+    {
+        "m": "V818",
+        "k": "ZTE Blade 2",
+        "d": "P172F01"
+    },
+    {
+        "m": "V818",
+        "k": "ZTE V818",
+        "d": "P172F01"
+    },
+    {
+        "m": "V8200plus",
+        "k": "V8200plus",
+        "d": "V8200plus"
+    },
+    {
+        "m": "V8285",
+        "k": "V8285",
+        "d": "MT8382"
+    },
+    {
+        "m": "V829",
+        "k": "Blade G Pro",
+        "d": "P172A30"
+    },
+    {
+        "m": "V829",
+        "k": "V8507",
+        "d": "P172A30"
+    },
+    {
+        "m": "V829",
+        "k": "ZTE Blade G Plus",
+        "d": "P172A30"
+    },
+    {
+        "m": "V829",
+        "k": "ZTE Blade G Pro",
+        "d": "P172A30"
+    },
+    {
+        "m": "V829",
+        "k": "ZTE V829",
+        "d": "P172A30"
+    },
+    {
+        "m": "V831W",
+        "k": "Amazing A5S",
+        "d": "P731A10"
+    },
+    {
+        "m": "V831W",
+        "k": "UZTE Blade Q Pro",
+        "d": "P731A10"
+    },
+    {
+        "m": "V831W",
+        "k": "ZTE T320",
+        "d": "P731A10"
+    },
+    {
+        "m": "V831W",
+        "k": "ZTE V831W",
+        "d": "P731A10"
+    },
+    {
+        "m": "V8403",
+        "k": "V8403",
+        "d": "roamer2"
+    },
+    {
+        "m": "V8514",
+        "k": "V8514",
+        "d": "P821E10"
+    },
+    {
+        "m": "V856",
+        "k": "ZTE-V856",
+        "d": "zte_v856"
+    },
+    {
+        "m": "V865M",
+        "k": "V865M",
+        "d": "hct77_ics2"
+    },
+    {
+        "m": "V865M",
+        "k": "V865M",
+        "d": "hct77_jb"
+    },
+    {
+        "m": "V879",
+        "k": "ZTE V879",
+        "d": "P172F02"
+    },
+    {
+        "m": "V880E",
+        "k": "ZTE V880E",
+        "d": "atlas40"
+    },
+    {
+        "m": "V880G",
+        "k": "ZTE V880G",
+        "d": "ZTE-V880G"
+    },
+    {
+        "m": "V887",
+        "k": "ZTE Blade L",
+        "d": "P177A10"
+    },
+    {
+        "m": "V887",
+        "k": "ZTE V887",
+        "d": "P177A10"
+    },
+    {
+        "m": "V889D",
+        "k": "ZTE V889D",
+        "d": "atlas40"
+    },
+    {
+        "m": "V889M",
+        "k": "UZTE V889M",
+        "d": "P175A10"
+    },
+    {
+        "m": "V889M",
+        "k": "ZTE V889M",
+        "d": "P175A10"
+    },
+    {
+        "m": "V891",
+        "k": "ZTE V891",
+        "d": "P986E01"
+    },
+    {
+        "m": "V9180",
+        "k": "V9180",
+        "d": "V9180"
+    },
+    {
+        "m": "V956",
+        "k": "ZTE V956",
+        "d": "ZTE-V956"
+    },
+    {
+        "m": "V965",
+        "k": "ZTE Blade G2",
+        "d": "P188F03"
+    },
+    {
+        "m": "V965",
+        "k": "ZTE R880H",
+        "d": "P188F03"
+    },
+    {
+        "m": "V965",
+        "k": "ZTE V880H",
+        "d": "P188F03"
+    },
+    {
+        "m": "V965",
+        "k": "ZTE V965",
+        "d": "P188F03"
+    },
+    {
+        "m": "V969",
+        "k": "ZTE V969",
+        "d": "P682F01"
+    },
+    {
+        "m": "V96A",
+        "k": "V96A",
+        "d": "V96A"
+    },
+    {
+        "m": "V970",
+        "k": "UZTE V970",
+        "d": "whistler"
+    },
+    {
+        "m": "V970",
+        "k": "ZTE V970",
+        "d": "whistler"
+    },
+    {
+        "m": "V975",
+        "k": "V975",
+        "d": "redhookbay"
+    },
+    {
+        "m": "V975",
+        "k": "ZTE V975",
+        "d": "redhookbay"
+    },
+    {
+        "m": "V9800",
+        "k": "ZTE V9800",
+        "d": "kiska"
+    },
+    {
+        "m": "V9820",
+        "k": "ZTE V9820",
+        "d": "ZTE-V9820"
+    },
+    {
+        "m": "V983",
+        "k": "ZTE V983",
+        "d": "P177A30"
+    },
+    {
+        "m": "V987",
+        "k": "UZTE GRAND X Quad",
+        "d": "P188F04"
+    },
+    {
+        "m": "V987",
+        "k": "ZTE Grand X",
+        "d": "P188F04"
+    },
+    {
+        "m": "V987",
+        "k": "ZTE V987",
+        "d": "P188F04"
+    },
+    {
+        "m": "V993W",
+        "k": "ZTE V993W",
+        "d": "ZTE_V993W"
+    },
+    {
+        "m": "V9A",
+        "k": "V9A",
+        "d": "v9plus"
+    },
+    {
+        "m": "V9A",
+        "k": "ZTE V9A",
+        "d": "v9plus"
+    },
+    {
+        "m": "V9S",
+        "k": "V9S",
+        "d": "V9S"
+    },
+    {
+        "m": "VERGATARIO 5",
+        "k": "VERGATARIO 5",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "VERGATARIO5PLUS",
+        "k": "VERGATARIO5PLUS",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "VFD 520",
+        "k": "VFD 520",
+        "d": "VFD520"
+    },
+    {
+        "m": "Verve Connect",
+        "k": "Z6103",
+        "d": "Z6201"
+    },
+    {
+        "m": "Vesta",
+        "k": "Z965",
+        "d": "proline"
+    },
+    {
+        "m": "Vip Racer III",
+        "k": "Vip Racer III",
+        "d": "atlas40"
+    },
+    {
+        "m": "Warp 7",
+        "k": "N9519",
+        "d": "beam"
+    },
+    {
+        "m": "X500",
+        "k": "X500",
+        "d": "X500"
+    },
+    {
+        "m": "X500",
+        "k": "ZTE-X500",
+        "d": "X500"
+    },
+    {
+        "m": "X501_USA_Cricket",
+        "k": "X501_USA_Cricket",
+        "d": "X501"
+    },
+    {
+        "m": "X501_USA_Cricket",
+        "k": "X501_USA_RS",
+        "d": "X501"
+    },
+    {
+        "m": "X501_USA_OM",
+        "k": "X501_USA_OM",
+        "d": "X501"
+    },
+    {
+        "m": "X9180",
+        "k": "X9180",
+        "d": "X9180"
+    },
+    {
+        "m": "Z-01K",
+        "k": "Z-01K",
+        "d": "Z-01K"
+    },
+    {
+        "m": "Z2020N3",
+        "k": "A2020N3",
+        "d": "Z8850K"
+    },
+    {
+        "m": "Z2339K",
+        "k": "Z2339K",
+        "d": "Z2339"
+    },
+    {
+        "m": "Z2351N",
+        "k": "Z2351N",
+        "d": "P720F08"
+    },
+    {
+        "m": "Z2359",
+        "k": "Z2359",
+        "d": "P606F13"
+    },
+    {
+        "m": "Z2450",
+        "k": "Z2450",
+        "d": "P963F65"
+    },
+    {
+        "m": "Z2453",
+        "k": "Z2453",
+        "d": "P963F95"
+    },
+    {
+        "m": "Z2453",
+        "k": "Z2453",
+        "d": "P963F95_A"
+    },
+    {
+        "m": "Z2459",
+        "k": "Z2459",
+        "d": "P616F05"
+    },
+    {
+        "m": "Z2465N",
+        "k": "Z2465N",
+        "d": "P820F05"
+    },
+    {
+        "m": "Z2472",
+        "k": "Z2472",
+        "d": "P606F20"
+    },
+    {
+        "m": "Z2472",
+        "k": "Z2472",
+        "d": "P606F20_A"
+    },
+    {
+        "m": "Z2570N",
+        "k": "Z2570N",
+        "d": "P688F02"
+    },
+    {
+        "m": "Z2575",
+        "k": "Z2575",
+        "d": "P620F02"
+    },
+    {
+        "m": "Z2576",
+        "k": "Z2576",
+        "d": "P620F01"
+    },
+    {
+        "m": "Z2577",
+        "k": "Z2577",
+        "d": "P615F02"
+    },
+    {
+        "m": "Z3153V",
+        "k": "Z3153V",
+        "d": "Z3153"
+    },
+    {
+        "m": "Z3351S",
+        "k": "Z3351S",
+        "d": "Z3351"
+    },
+    {
+        "m": "Z3352CA",
+        "k": "Z3352CA",
+        "d": "Z3352CA"
+    },
+    {
+        "m": "Z3353CA",
+        "k": "Z3353CA",
+        "d": "Z3353"
+    },
+    {
+        "m": "Z353VL",
+        "k": "Z353VL",
+        "d": "oldman"
+    },
+    {
+        "m": "Z5031O",
+        "k": "Z5031O",
+        "d": "Z5031O"
+    },
+    {
+        "m": "Z5151V",
+        "k": "Z5151V",
+        "d": "Z5151"
+    },
+    {
+        "m": "Z5156CC",
+        "k": "Z5156CC",
+        "d": "Z5156U"
+    },
+    {
+        "m": "Z5158",
+        "k": "Z5158",
+        "d": "Z5158"
+    },
+    {
+        "m": "Z557BL",
+        "k": "Z557BL",
+        "d": "Z557"
+    },
+    {
+        "m": "Z557BL",
+        "k": "Z557BL",
+        "d": "lewis"
+    },
+    {
+        "m": "Z557BL",
+        "k": "Z557BL",
+        "d": "msm8909"
+    },
+    {
+        "m": "Z559DL",
+        "k": "Z559DL",
+        "d": "Z559DL"
+    },
+    {
+        "m": "Z6201V",
+        "k": "Z6201V",
+        "d": "Z6201"
+    },
+    {
+        "m": "Z6250CC",
+        "k": "Z6250CC",
+        "d": "Z6250"
+    },
+    {
+        "m": "Z6251",
+        "k": "Z6251",
+        "d": "Z6251"
+    },
+    {
+        "m": "Z6251V",
+        "k": "Z6251V",
+        "d": "Z6251"
+    },
+    {
+        "m": "Z6252CA",
+        "k": "Z6252CA",
+        "d": "Z6252"
+    },
+    {
+        "m": "Z6356T",
+        "k": "Z6356T",
+        "d": "Z6356T"
+    },
+    {
+        "m": "Z6410",
+        "k": "Z6410S",
+        "d": "Z6410"
+    },
+    {
+        "m": "Z6530M",
+        "k": "Z6530M",
+        "d": "Z6530"
+    },
+    {
+        "m": "Z6530V",
+        "k": "Z6530V",
+        "d": "Z6530"
+    },
+    {
+        "m": "Z6561J",
+        "k": "Z6561J",
+        "d": "Z6561S"
+    },
+    {
+        "m": "Z660G",
+        "k": "Z660G",
+        "d": "nice"
+    },
+    {
+        "m": "Z6621O",
+        "k": "Z6621O",
+        "d": "Z6621O"
+    },
+    {
+        "m": "Z665C",
+        "k": "Z665C",
+        "d": "seanplus"
+    },
+    {
+        "m": "Z667",
+        "k": "Z667",
+        "d": "demi"
+    },
+    {
+        "m": "Z667G",
+        "k": "Z667G",
+        "d": "demi"
+    },
+    {
+        "m": "Z667T",
+        "k": "Z667T",
+        "d": "bonnie"
+    },
+    {
+        "m": "Z669",
+        "k": "Z669",
+        "d": "demi"
+    },
+    {
+        "m": "Z716BL",
+        "k": "Z716BL",
+        "d": "baffin"
+    },
+    {
+        "m": "Z717VL",
+        "k": "Z717VL",
+        "d": "lavender"
+    },
+    {
+        "m": "Z730",
+        "k": "Z730",
+        "d": "ada"
+    },
+    {
+        "m": "Z740",
+        "k": "Z740",
+        "d": "metis"
+    },
+    {
+        "m": "Z740G",
+        "k": "Z740G",
+        "d": "metis"
+    },
+    {
+        "m": "Z750C",
+        "k": "Z750C",
+        "d": "Z750C"
+    },
+    {
+        "m": "Z752C",
+        "k": "Z752C",
+        "d": "eros"
+    },
+    {
+        "m": "Z753G",
+        "k": "Z753G",
+        "d": "faerie"
+    },
+    {
+        "m": "Z7540",
+        "k": "Z7540",
+        "d": "Z7540"
+    },
+    {
+        "m": "Z755",
+        "k": "Z755",
+        "d": "iris"
+    },
+    {
+        "m": "Z768G",
+        "k": "Z768G",
+        "d": "Z768G"
+    },
+    {
+        "m": "Z777",
+        "k": "Z777",
+        "d": "betty"
+    },
+    {
+        "m": "Z787",
+        "k": "Z787",
+        "d": "apus"
+    },
+    {
+        "m": "Z791G",
+        "k": "Z791G",
+        "d": "giant"
+    },
+    {
+        "m": "Z792",
+        "k": "Z792",
+        "d": "giant"
+    },
+    {
+        "m": "Z793C",
+        "k": "Z793C",
+        "d": "hera"
+    },
+    {
+        "m": "Z795G",
+        "k": "Z795G",
+        "d": "ZTE-Z795G"
+    },
+    {
+        "m": "Z796C",
+        "k": "Z796C",
+        "d": "Z796C"
+    },
+    {
+        "m": "Z812",
+        "k": "Z812",
+        "d": "xuantan"
+    },
+    {
+        "m": "Z813",
+        "k": "Z813",
+        "d": "xuantan"
+    },
+    {
+        "m": "Z818L",
+        "k": "Z818L",
+        "d": "sunny"
+    },
+    {
+        "m": "Z819L",
+        "k": "Z819L",
+        "d": "sungod"
+    },
+    {
+        "m": "Z820",
+        "k": "Z820",
+        "d": "P675T07"
+    },
+    {
+        "m": "Z826",
+        "k": "Z826",
+        "d": "herculis"
+    },
+    {
+        "m": "Z828",
+        "k": "Z828",
+        "d": "achill"
+    },
+    {
+        "m": "Z828",
+        "k": "Z828TL",
+        "d": "achill"
+    },
+    {
+        "m": "Z830",
+        "k": "Z830",
+        "d": "gruis"
+    },
+    {
+        "m": "Z832",
+        "k": "Z832",
+        "d": "mimir"
+    },
+    {
+        "m": "Z833",
+        "k": "Z833",
+        "d": "camellia"
+    },
+    {
+        "m": "Z835",
+        "k": "Z835",
+        "d": "draco"
+    },
+    {
+        "m": "Z836BL",
+        "k": "Z836BL",
+        "d": "guardian"
+    },
+    {
+        "m": "Z836F",
+        "k": "Z836F",
+        "d": "guardian"
+    },
+    {
+        "m": "Z837VL",
+        "k": "Z837VL",
+        "d": "breaker"
+    },
+    {
+        "m": "Z839",
+        "k": "Z839",
+        "d": "sweet"
+    },
+    {
+        "m": "Z839V",
+        "k": "Z839V",
+        "d": "sweet"
+    },
+    {
+        "m": "Z850",
+        "k": "Z850",
+        "d": "sif"
+    },
+    {
+        "m": "Z851M",
+        "k": "Z851M",
+        "d": "jeff"
+    },
+    {
+        "m": "Z861BL",
+        "k": "Z861BL",
+        "d": "benz"
+    },
+    {
+        "m": "Z862VL",
+        "k": "Z862VL",
+        "d": "captain"
+    },
+    {
+        "m": "Z899VL",
+        "k": "Z899VL",
+        "d": "msm8909"
+    },
+    {
+        "m": "Z916BL",
+        "k": "Z916BL",
+        "d": "red"
+    },
+    {
+        "m": "Z917VL",
+        "k": "Z917VL",
+        "d": "fortune"
+    },
+    {
+        "m": "Z930L",
+        "k": "Z930L",
+        "d": "coeus"
+    },
+    {
+        "m": "Z932L",
+        "k": "Z932L",
+        "d": "warplte"
+    },
+    {
+        "m": "Z932L",
+        "k": "ZTE Z932L",
+        "d": "warplte"
+    },
+    {
+        "m": "Z933",
+        "k": "Z933",
+        "d": "glaucus"
+    },
+    {
+        "m": "Z936L",
+        "k": "Z936L",
+        "d": "gift"
+    },
+    {
+        "m": "Z955L",
+        "k": "Z955A",
+        "d": "leo"
+    },
+    {
+        "m": "Z955L",
+        "k": "Z955L",
+        "d": "leo"
+    },
+    {
+        "m": "Z956",
+        "k": "Z956",
+        "d": "financier"
+    },
+    {
+        "m": "Z957",
+        "k": "Z957",
+        "d": "financier"
+    },
+    {
+        "m": "Z958",
+        "k": "Z958",
+        "d": "lol"
+    },
+    {
+        "m": "Z959",
+        "k": "Z959",
+        "d": "abby"
+    },
+    {
+        "m": "Z962BL",
+        "k": "Z962BL",
+        "d": "tom"
+    },
+    {
+        "m": "Z963U",
+        "k": "Z963U",
+        "d": "lily"
+    },
+    {
+        "m": "Z963VL",
+        "k": "Z963VL",
+        "d": "nancy"
+    },
+    {
+        "m": "Z970",
+        "k": "Z970",
+        "d": "draconis"
+    },
+    {
+        "m": "Z971",
+        "k": "Z971",
+        "d": "peony"
+    },
+    {
+        "m": "Z980L",
+        "k": "Z980L",
+        "d": "cygni"
+    },
+    {
+        "m": "Z981",
+        "k": "Z981",
+        "d": "urd"
+    },
+    {
+        "m": "Z986U",
+        "k": "Z986U",
+        "d": "cynthia"
+    },
+    {
+        "m": "Z987",
+        "k": "Z987",
+        "d": "cygni"
+    },
+    {
+        "m": "Z990",
+        "k": "ZTE-Z990",
+        "d": "roamer"
+    },
+    {
+        "m": "Z990G",
+        "k": "ZTE-Z990G",
+        "d": "roamer"
+    },
+    {
+        "m": "Z992",
+        "k": "Z992",
+        "d": "aviva"
+    },
+    {
+        "m": "Z993",
+        "k": "Z993",
+        "d": "aviva"
+    },
+    {
+        "m": "Z995",
+        "k": "Z995",
+        "d": "becky"
+    },
+    {
+        "m": "Z998",
+        "k": "Z998",
+        "d": "coeus"
+    },
+    {
+        "m": "Z999",
+        "k": "Z999",
+        "d": "fujisan"
+    },
+    {
+        "m": "ZR01",
+        "k": "ZR01",
+        "d": "Z7750R"
+    },
+    {
+        "m": "ZTE  S30 Pro 5G",
+        "k": "ZTE A2122H",
+        "d": "P768A02"
+    },
+    {
+        "m": "ZTE 1010L",
+        "k": "ZTE 1010L",
+        "d": "P963F61_A"
+    },
+    {
+        "m": "ZTE 2050",
+        "k": "ZTE 2050",
+        "d": "P671F50"
+    },
+    {
+        "m": "ZTE 2050",
+        "k": "ZTE 2050",
+        "d": "P671F50_D"
+    },
+    {
+        "m": "ZTE 2050",
+        "k": "ZTE 2050",
+        "d": "P671S50"
+    },
+    {
+        "m": "ZTE 2050RU",
+        "k": "ZTE 2050RU",
+        "d": "P671F50_D"
+    },
+    {
+        "m": "ZTE 7060",
+        "k": "ZTE 7060",
+        "d": "P606F07"
+    },
+    {
+        "m": "ZTE 7530N",
+        "k": "ZTE 7530N",
+        "d": "P633S07"
+    },
+    {
+        "m": "ZTE 7531N",
+        "k": "ZTE 7531N",
+        "d": "P720S07"
+    },
+    {
+        "m": "ZTE 7532N",
+        "k": "ZTE 7532N",
+        "d": "P633S08"
+    },
+    {
+        "m": "ZTE 7540N",
+        "k": "ZTE 7540N",
+        "d": "P633F08"
+    },
+    {
+        "m": "ZTE 8010",
+        "k": "ZTE 8010",
+        "d": "P963F05"
+    },
+    {
+        "m": "ZTE 8010",
+        "k": "ZTE 8010",
+        "d": "P963S05"
+    },
+    {
+        "m": "ZTE 8010RU",
+        "k": "ZTE 8010RU",
+        "d": "P963F05"
+    },
+    {
+        "m": "ZTE 8012N",
+        "k": "ZTE 8012N",
+        "d": "P653S06"
+    },
+    {
+        "m": "ZTE 8030",
+        "k": "ZTE 9050N",
+        "d": "P720F05"
+    },
+    {
+        "m": "ZTE 8030",
+        "k": "ZTE 8030",
+        "d": "P963F06"
+    },
+    {
+        "m": "ZTE 8030",
+        "k": "ZTE 8031",
+        "d": "P963F06"
+    },
+    {
+        "m": "ZTE 8030N",
+        "k": "ZTE 8030N",
+        "d": "P633S01"
+    },
+    {
+        "m": "ZTE 8030RU",
+        "k": "ZTE 8030RU",
+        "d": "P963F06"
+    },
+    {
+        "m": "ZTE 8031",
+        "k": "ZTE 8031",
+        "d": "P963F06_A"
+    },
+    {
+        "m": "ZTE 8040N",
+        "k": "ZTE 8040N",
+        "d": "P633S05"
+    },
+    {
+        "m": "ZTE 8045",
+        "k": "ZTE 8045",
+        "d": "P606F02"
+    },
+    {
+        "m": "ZTE 8046",
+        "k": "ZTE 8046",
+        "d": "P616F01"
+    },
+    {
+        "m": "ZTE 8050",
+        "k": "ZTE 8050",
+        "d": "P606F08"
+    },
+    {
+        "m": "ZTE 8140N",
+        "k": "ZTE 8140N",
+        "d": "P633F10"
+    },
+    {
+        "m": "ZTE 9030",
+        "k": "ZTE 9030",
+        "d": "P618F05"
+    },
+    {
+        "m": "ZTE 9030N",
+        "k": "ZTE 9030N",
+        "d": "P653S07"
+    },
+    {
+        "m": "ZTE 9030RU",
+        "k": "ZTE 9030RU",
+        "d": "P618F05"
+    },
+    {
+        "m": "ZTE 9040N",
+        "k": "ZTE 9040N",
+        "d": "P653S11"
+    },
+    {
+        "m": "ZTE 9041N",
+        "k": "ZTE 9041N",
+        "d": "P633S21"
+    },
+    {
+        "m": "ZTE 9042N",
+        "k": "ZTE 9042N",
+        "d": "P633S31"
+    },
+    {
+        "m": "ZTE 9045",
+        "k": "ZTE 9045",
+        "d": "P618F06"
+    },
+    {
+        "m": "ZTE 9045RU",
+        "k": "ZTE 9045RU",
+        "d": "P618F06"
+    },
+    {
+        "m": "ZTE 9046",
+        "k": "ZTE 9046",
+        "d": "P618F07"
+    },
+    {
+        "m": "ZTE 9047",
+        "k": "ZTE 9047",
+        "d": "P618F08"
+    },
+    {
+        "m": "ZTE 9100N",
+        "k": "ZTE 9100N",
+        "d": "P633F05"
+    },
+    {
+        "m": "ZTE A0616",
+        "k": "ZTE A0616",
+        "d": "P637S15"
+    },
+    {
+        "m": "ZTE A0620",
+        "k": "ZTE A0620",
+        "d": "P840S13"
+    },
+    {
+        "m": "ZTE A0622",
+        "k": "ZTE A0622",
+        "d": "P817S13"
+    },
+    {
+        "m": "ZTE A0722",
+        "k": "ZTE A0722",
+        "d": "P840S18"
+    },
+    {
+        "m": "ZTE A20 5G",
+        "k": "ZTE A2121",
+        "d": "P725A02"
+    },
+    {
+        "m": "ZTE A2017",
+        "k": "ZTE A2017",
+        "d": "msm8996"
+    },
+    {
+        "m": "ZTE A2019 Pro",
+        "k": "ZTE A2019 Pro",
+        "d": "P845A02"
+    },
+    {
+        "m": "ZTE A2019G Pro",
+        "k": "ZTE A2019G Pro",
+        "d": "P845A01"
+    },
+    {
+        "m": "ZTE A2020N2 Pro",
+        "k": "ZTE A2020N3 Pro",
+        "d": "P855A21"
+    },
+    {
+        "m": "ZTE A2022L",
+        "k": "ZTE A2022L",
+        "d": "P618A11"
+    },
+    {
+        "m": "ZTE A2022PG",
+        "k": "ZTE A2022PG",
+        "d": "P875A11"
+    },
+    {
+        "m": "ZTE A2023",
+        "k": "ZTE A2023",
+        "d": "P870A21"
+    },
+    {
+        "m": "ZTE A2023G",
+        "k": "ZTE A2023G",
+        "d": "P870F21"
+    },
+    {
+        "m": "ZTE A2023P",
+        "k": "ZTE A2023P",
+        "d": "P898A01"
+    },
+    {
+        "m": "ZTE A2023PG",
+        "k": "ZTE A2023PG",
+        "d": "P898F01"
+    },
+    {
+        "m": "ZTE A2121E",
+        "k": "ZTE A2121E",
+        "d": "P618A01"
+    },
+    {
+        "m": "ZTE A2121L",
+        "k": "ZTE A2121L",
+        "d": "P618A03"
+    },
+    {
+        "m": "ZTE A2322",
+        "k": "ZTE A2322",
+        "d": "P870A01"
+    },
+    {
+        "m": "ZTE A2322G",
+        "k": "ZTE A2322G",
+        "d": "P870A02"
+    },
+    {
+        "m": "ZTE A31 Lite",
+        "k": "ZTE A31 Lite",
+        "d": "Z3052O"
+    },
+    {
+        "m": "ZTE A51",
+        "k": "ZTE A51",
+        "d": "P963F60"
+    },
+    {
+        "m": "ZTE A520S",
+        "k": "ZTE A520S",
+        "d": "P809S10"
+    },
+    {
+        "m": "ZTE A53",
+        "k": "ZTE A53",
+        "d": "P963F62"
+    },
+    {
+        "m": "ZTE A530",
+        "k": "ZTE A530",
+        "d": "P639T10"
+    },
+    {
+        "m": "ZTE A55",
+        "k": "ZTE A55",
+        "d": "P963F65"
+    },
+    {
+        "m": "ZTE A606",
+        "k": "ZTE A606",
+        "d": "P639S10"
+    },
+    {
+        "m": "ZTE A7000",
+        "k": "ZTE A7000",
+        "d": "P671S02"
+    },
+    {
+        "m": "ZTE A7010",
+        "k": "ZTE A7010",
+        "d": "P662S02"
+    },
+    {
+        "m": "ZTE A7020",
+        "k": "ZTE A7020",
+        "d": "P963F03"
+    },
+    {
+        "m": "ZTE A7030",
+        "k": "ZTE A7030",
+        "d": "P963F07"
+    },
+    {
+        "m": "ZTE A7030RU",
+        "k": "ZTE A7030RU",
+        "d": "P963F07"
+    },
+    {
+        "m": "ZTE A7040",
+        "k": "ZTE A7040",
+        "d": "P606F01"
+    },
+    {
+        "m": "ZTE A7050",
+        "k": "ZTE A7050",
+        "d": "P606F05"
+    },
+    {
+        "m": "ZTE A71 5G",
+        "k": "ZTE A71 5G",
+        "d": "Z6556O"
+    },
+    {
+        "m": "ZTE AVID 4",
+        "k": "Z855",
+        "d": "calbee"
+    },
+    {
+        "m": "ZTE Avid 579",
+        "k": "Z5156CC",
+        "d": "Z5156"
+    },
+    {
+        "m": "ZTE Axon 10 Pro",
+        "k": "ZTE A2020G Pro",
+        "d": "P855A01"
+    },
+    {
+        "m": "ZTE Axon 10 Pro",
+        "k": "ZTE A2020RU Pro",
+        "d": "P855A01"
+    },
+    {
+        "m": "ZTE Axon 10 Pro",
+        "k": "ZTE A2020 Pro",
+        "d": "P855A02"
+    },
+    {
+        "m": "ZTE Axon 10 Pro",
+        "k": "ZTE Axon 10 Pro",
+        "d": "P855A03"
+    },
+    {
+        "m": "ZTE Axon 10 Pro",
+        "k": "ZTE A2020U Pro",
+        "d": "P855A03_NA"
+    },
+    {
+        "m": "ZTE Axon 10s Pro 5G",
+        "k": "ZTE A2020 SP",
+        "d": "P865A02"
+    },
+    {
+        "m": "ZTE Axon 11",
+        "k": "ZTE A2021L",
+        "d": "P671A11"
+    },
+    {
+        "m": "ZTE Axon 11",
+        "k": "ZTE A2021E",
+        "d": "P671A13"
+    },
+    {
+        "m": "ZTE Axon 11 5G",
+        "k": "ZTE A2021G",
+        "d": "P725A11"
+    },
+    {
+        "m": "ZTE Axon 11 5G",
+        "k": "ZTE A2021",
+        "d": "P725A12"
+    },
+    {
+        "m": "ZTE Axon 11 5G",
+        "k": "ZTE A2021H",
+        "d": "P725A12"
+    },
+    {
+        "m": "ZTE Axon 11 SE 5G",
+        "k": "ZTE 9000N",
+        "d": "P683S10"
+    },
+    {
+        "m": "ZTE Axon 20 5G",
+        "k": "ZTE A2121G",
+        "d": "P725A02"
+    },
+    {
+        "m": "ZTE Axon 30 Pro 5G",
+        "k": "ZTE A2022P",
+        "d": "P875A12"
+    },
+    {
+        "m": "ZTE Axon 60",
+        "k": "Z2356",
+        "d": "P616F02"
+    },
+    {
+        "m": "ZTE Axon 60 Lite",
+        "k": "Z2350",
+        "d": "P606F10"
+    },
+    {
+        "m": "ZTE B2017",
+        "k": "ZTE B2017",
+        "d": "msm8952_64"
+    },
+    {
+        "m": "ZTE BLADE A0605",
+        "k": "ZTE BLADE A0605",
+        "d": "P809F15"
+    },
+    {
+        "m": "ZTE BLADE A0605",
+        "k": "ZTE BLADE A6 MAX",
+        "d": "P809F15"
+    },
+    {
+        "m": "ZTE BLADE A0620",
+        "k": "ZTE BLADE A0620",
+        "d": "P840F12"
+    },
+    {
+        "m": "ZTE BLADE A0621",
+        "k": "ZTE BLADE A0621",
+        "d": "P840F13"
+    },
+    {
+        "m": "ZTE BLADE A0622",
+        "k": "ZTE BLADE A0622",
+        "d": "P809F12"
+    },
+    {
+        "m": "ZTE BLADE A125",
+        "k": "ZTE BLADE A125",
+        "d": "P809F01"
+    },
+    {
+        "m": "ZTE BLADE A3",
+        "k": "ZTE BLADE A3",
+        "d": "P809F40"
+    },
+    {
+        "m": "ZTE BLADE A3 LITE",
+        "k": "ZTE Blade A3 Lite",
+        "d": "P932F20"
+    },
+    {
+        "m": "ZTE BLADE A322",
+        "k": "ZTE BLADE A322",
+        "d": "P809V52"
+    },
+    {
+        "m": "ZTE BLADE A330",
+        "k": "ZTE BLADE A330",
+        "d": "P809F30"
+    },
+    {
+        "m": "ZTE BLADE A5 PRO",
+        "k": "ZTE BLADE A5 PRO",
+        "d": "P731A20"
+    },
+    {
+        "m": "ZTE BLADE A506",
+        "k": "ZTE BLADE A506",
+        "d": "P809T70"
+    },
+    {
+        "m": "ZTE BLADE A520C",
+        "k": "ZTE BLADE A520C",
+        "d": "P809F10"
+    },
+    {
+        "m": "ZTE BLADE A522",
+        "k": "ZTE BLADE A522",
+        "d": "P817E53"
+    },
+    {
+        "m": "ZTE BLADE A522",
+        "k": "ZTE Blade A522",
+        "d": "P817E53"
+    },
+    {
+        "m": "ZTE BLADE A530",
+        "k": "ZTE BLADE A530",
+        "d": "P639F10"
+    },
+    {
+        "m": "ZTE BLADE A530",
+        "k": "ZTE BLADE A530",
+        "d": "P639F10L"
+    },
+    {
+        "m": "ZTE BLADE A6",
+        "k": "ZTE BLADE A6",
+        "d": "P840F13"
+    },
+    {
+        "m": "ZTE BLADE L111",
+        "k": "ZTE BLADE B111",
+        "d": "ZTE_BLADE_L110"
+    },
+    {
+        "m": "ZTE BLADE L7A",
+        "k": "ZTE BLADE L7A",
+        "d": "P731F12"
+    },
+    {
+        "m": "ZTE BLADE L8",
+        "k": "ZTE BLADE L8",
+        "d": "P731F12"
+    },
+    {
+        "m": "ZTE BLADE V Ultra Z982",
+        "k": "ZTE BLADE V Ultra Z982",
+        "d": "crocus"
+    },
+    {
+        "m": "ZTE BLADE V0840",
+        "k": "ZTE BLADE V0840",
+        "d": "P817F01"
+    },
+    {
+        "m": "ZTE BLADE V0920",
+        "k": "ZTE BLADE V0920",
+        "d": "P840F03"
+    },
+    {
+        "m": "ZTE BLADE V9",
+        "k": "ZTE BLADE V0900",
+        "d": "P450F10"
+    },
+    {
+        "m": "ZTE BLADE V9",
+        "k": "ZTE BLADE V9",
+        "d": "P450F10"
+    },
+    {
+        "m": "ZTE BLADE V9",
+        "k": "ZTE BLADE V9",
+        "d": "P450L10"
+    },
+    {
+        "m": "ZTE BLADE V9 VITA",
+        "k": "ZTE BLADE V9 VITA",
+        "d": "P840F03"
+    },
+    {
+        "m": "ZTE BLade Zmax",
+        "k": "Z982",
+        "d": "crocus"
+    },
+    {
+        "m": "ZTE BV0870",
+        "k": "ZTE BV0870",
+        "d": "P840V71"
+    },
+    {
+        "m": "ZTE Blade 10 Vita",
+        "k": "ZTE Blade 10 Vita",
+        "d": "P963F01"
+    },
+    {
+        "m": "ZTE Blade A0722",
+        "k": "ZTE Blade A0722",
+        "d": "P817F18"
+    },
+    {
+        "m": "ZTE Blade A3 2019",
+        "k": "P500",
+        "d": "P932F20"
+    },
+    {
+        "m": "ZTE Blade A3 2019",
+        "k": "ZTE Blade A3 2019",
+        "d": "P932F20"
+    },
+    {
+        "m": "ZTE Blade A3 2019",
+        "k": "ZTE Blade A3 2019",
+        "d": "P932K20"
+    },
+    {
+        "m": "ZTE Blade A3 2019RU",
+        "k": "ZTE Blade A3 2019RU",
+        "d": "P932F20"
+    },
+    {
+        "m": "ZTE Blade A3 2020",
+        "k": "Blade A3 2020-T",
+        "d": "P932F50"
+    },
+    {
+        "m": "ZTE Blade A3 2020",
+        "k": "ZTE Blade A3 2020",
+        "d": "P932F50"
+    },
+    {
+        "m": "ZTE Blade A3 2020",
+        "k": "ZTE Blade A3 2020",
+        "d": "P932K30"
+    },
+    {
+        "m": "ZTE Blade A3 2020RU",
+        "k": "ZTE Blade A3 2020RU",
+        "d": "P932F50"
+    },
+    {
+        "m": "ZTE Blade A31",
+        "k": "ZTE Blade A31",
+        "d": "P963F70"
+    },
+    {
+        "m": "ZTE Blade A31 Lite",
+        "k": "ZTE Blade A31 Lite",
+        "d": "P932F21"
+    },
+    {
+        "m": "ZTE Blade A31 Lite",
+        "k": "ZTE Blade A31 Lite",
+        "d": "P932F21_A"
+    },
+    {
+        "m": "ZTE Blade A31 Lite RU",
+        "k": "ZTE Blade A31 Lite RU",
+        "d": "P932F21"
+    },
+    {
+        "m": "ZTE Blade A31 Plus",
+        "k": "ZTE Blade A31 Plus",
+        "d": "P963F80"
+    },
+    {
+        "m": "ZTE Blade A31 Plus RU",
+        "k": "ZTE Blade A31 Plus RU",
+        "d": "P963F80"
+    },
+    {
+        "m": "ZTE Blade A31RU",
+        "k": "ZTE Blade A31RU",
+        "d": "P963F70"
+    },
+    {
+        "m": "ZTE Blade A31RU",
+        "k": "ZTE Blade A31RU",
+        "d": "P963F71"
+    },
+    {
+        "m": "ZTE Blade A32",
+        "k": "ZTE Blade A32",
+        "d": "P963F90W"
+    },
+    {
+        "m": "ZTE Blade A33",
+        "k": "ZTE Blade A33",
+        "d": "P932F22"
+    },
+    {
+        "m": "ZTE Blade A33 Cor",
+        "k": "ZTE Blade A33 Core",
+        "d": "P932F23"
+    },
+    {
+        "m": "ZTE Blade A33+",
+        "k": "ZTE Blade A33+",
+        "d": "P963F91"
+    },
+    {
+        "m": "ZTE Blade A33+ Core",
+        "k": "ZTE Blade A33+ Core",
+        "d": "P963F92"
+    },
+    {
+        "m": "ZTE Blade A33s",
+        "k": "ZTE Blade A33s",
+        "d": "P963F93"
+    },
+    {
+        "m": "ZTE Blade A34",
+        "k": "ZTE Blade A34",
+        "d": "P963F94"
+    },
+    {
+        "m": "ZTE Blade A34",
+        "k": "ZTE Blade A34",
+        "d": "P963F94_A"
+    },
+    {
+        "m": "ZTE Blade A35 Core",
+        "k": "ZTE Blade A35 Core",
+        "d": "P963F10"
+    },
+    {
+        "m": "ZTE Blade A35 Lite",
+        "k": "ZTE Blade A35 Lite",
+        "d": "P963F10"
+    },
+    {
+        "m": "ZTE Blade A35e",
+        "k": "Z2466",
+        "d": "P963F66"
+    },
+    {
+        "m": "ZTE Blade A3v",
+        "k": "Z5157V",
+        "d": "Z5157"
+    },
+    {
+        "m": "ZTE Blade A3v",
+        "k": "Z5157Y",
+        "d": "Z5157"
+    },
+    {
+        "m": "ZTE Blade A5 2019",
+        "k": "ZTE Blade A5 2019",
+        "d": "P963F30"
+    },
+    {
+        "m": "ZTE Blade A5 2019",
+        "k": "ZTE Blade A5 2019",
+        "d": "P963F30P"
+    },
+    {
+        "m": "ZTE Blade A5 2019RU",
+        "k": "ZTE Blade A5 2019RU",
+        "d": "P963F30P"
+    },
+    {
+        "m": "ZTE Blade A5 2020",
+        "k": "Blade A5 2020-T",
+        "d": "P963F50"
+    },
+    {
+        "m": "ZTE Blade A5 2020",
+        "k": "Z-Ultra",
+        "d": "P963F50"
+    },
+    {
+        "m": "ZTE Blade A5 2020",
+        "k": "ZTE Blade A5 2020",
+        "d": "P963F50"
+    },
+    {
+        "m": "ZTE Blade A5 2020",
+        "k": "ZTE Blade A5 2020",
+        "d": "P963F50_A"
+    },
+    {
+        "m": "ZTE Blade A5 2020RU",
+        "k": "ZTE Blade A5 2020RU",
+        "d": "P963F50"
+    },
+    {
+        "m": "ZTE Blade A51",
+        "k": "ZTE Blade A51",
+        "d": "P963F60"
+    },
+    {
+        "m": "ZTE Blade A51",
+        "k": "ZTE Blade A51",
+        "d": "Z6355O"
+    },
+    {
+        "m": "ZTE Blade A51 Lite RU",
+        "k": "ZTE Blade A51 Lite RU",
+        "d": "P963F50_A"
+    },
+    {
+        "m": "ZTE Blade A51RU",
+        "k": "ZTE Blade A51RU",
+        "d": "P963F60"
+    },
+    {
+        "m": "ZTE Blade A52",
+        "k": "ZTE Blade A52",
+        "d": "P963F61"
+    },
+    {
+        "m": "ZTE Blade A52",
+        "k": "ZTE Blade A52",
+        "d": "P963F61_A"
+    },
+    {
+        "m": "ZTE Blade A52 Lite",
+        "k": "ZTE Blade A52 Lite",
+        "d": "P963F51W"
+    },
+    {
+        "m": "ZTE Blade A52RU",
+        "k": "ZTE Blade A52RU",
+        "d": "P963F61"
+    },
+    {
+        "m": "ZTE Blade A52RU",
+        "k": "ZTE Blade A52RU",
+        "d": "P963F61_A"
+    },
+    {
+        "m": "ZTE Blade A53",
+        "k": "ZTE Blade A53",
+        "d": "P963F62"
+    },
+    {
+        "m": "ZTE Blade A53 Pro",
+        "k": "ZTE Blade A53 Pro",
+        "d": "P963F63"
+    },
+    {
+        "m": "ZTE Blade A53+",
+        "k": "P630",
+        "d": "P963F62"
+    },
+    {
+        "m": "ZTE Blade A53+",
+        "k": "ZTE Blade A53+",
+        "d": "P963F62"
+    },
+    {
+        "m": "ZTE Blade A53+",
+        "k": "ZTE Blade A53+",
+        "d": "P963F62_A"
+    },
+    {
+        "m": "ZTE Blade A531",
+        "k": "ZTE Blade A531",
+        "d": "P932F10"
+    },
+    {
+        "m": "ZTE Blade A54",
+        "k": "ZTE Blade A54",
+        "d": "P963F64"
+    },
+    {
+        "m": "ZTE Blade A56",
+        "k": "Z2473",
+        "d": "P606F21"
+    },
+    {
+        "m": "ZTE Blade A56 Pro",
+        "k": "Z2474",
+        "d": "P615F01"
+    },
+    {
+        "m": "ZTE Blade A7 2019",
+        "k": "ZTE Blade A7 2019",
+        "d": "P963F02"
+    },
+    {
+        "m": "ZTE Blade A7 2019RU",
+        "k": "ZTE Blade A7 2019RU",
+        "d": "P963F02"
+    },
+    {
+        "m": "ZTE Blade A7 2020",
+        "k": "ZTE Blade A7 2020",
+        "d": "P662F02"
+    },
+    {
+        "m": "ZTE Blade A7 2020",
+        "k": "ZTE Blade A7 2020",
+        "d": "P662F02D"
+    },
+    {
+        "m": "ZTE Blade A7 2020",
+        "k": "ZTE Blade A7 2020",
+        "d": "P662F02_D1"
+    },
+    {
+        "m": "ZTE Blade A7 2020",
+        "k": "ZTE Blade A7 2020",
+        "d": "P662F02_D2"
+    },
+    {
+        "m": "ZTE Blade A7 2020RU",
+        "k": "ZTE Blade A7 2020RU",
+        "d": "P662F02D"
+    },
+    {
+        "m": "ZTE Blade A7 2020RU",
+        "k": "ZTE Blade A7 2020RU",
+        "d": "P662F02_D1"
+    },
+    {
+        "m": "ZTE Blade A75 5G",
+        "k": "Z2357N",
+        "d": "P720F09"
+    },
+    {
+        "m": "ZTE Blade A76 5G",
+        "k": "Z2469N",
+        "d": "P780F03"
+    },
+    {
+        "m": "ZTE Blade A7s",
+        "k": "ZTE Blade A7s",
+        "d": "P662F02"
+    },
+    {
+        "m": "ZTE Blade A7s 2020",
+        "k": "ZTE A7020RU",
+        "d": "P963F03"
+    },
+    {
+        "m": "ZTE Blade L130",
+        "k": "ZTE Blade L130",
+        "d": "P731F30"
+    },
+    {
+        "m": "ZTE Blade L130",
+        "k": "ZTE Blade L130",
+        "d": "P731K30"
+    },
+    {
+        "m": "ZTE Blade L130RU",
+        "k": "ZTE Blade L130RU",
+        "d": "P731F30"
+    },
+    {
+        "m": "ZTE Blade L210",
+        "k": "ZTE Blade L210",
+        "d": "P731F50"
+    },
+    {
+        "m": "ZTE Blade L210RU",
+        "k": "ZTE Blade L210RU",
+        "d": "P731F50"
+    },
+    {
+        "m": "ZTE Blade L220",
+        "k": "ZTE Blade L220",
+        "d": "P731F60"
+    },
+    {
+        "m": "ZTE Blade L8",
+        "k": "ZTE Blade L8",
+        "d": "P731F20"
+    },
+    {
+        "m": "ZTE Blade L8RU",
+        "k": "ZTE Blade L8RU",
+        "d": "P731F20"
+    },
+    {
+        "m": "ZTE Blade L9",
+        "k": "ZTE Blade L9",
+        "d": "P731F21"
+    },
+    {
+        "m": "ZTE Blade L9RU",
+        "k": "ZTE Blade L9RU",
+        "d": "P731F21"
+    },
+    {
+        "m": "ZTE Blade V 2020",
+        "k": "ZTE 9000",
+        "d": "P671F60"
+    },
+    {
+        "m": "ZTE Blade V 2020",
+        "k": "ZTE 9000RU",
+        "d": "P671F60"
+    },
+    {
+        "m": "ZTE Blade V10",
+        "k": "ZTE Blade V10",
+        "d": "P671F20"
+    },
+    {
+        "m": "ZTE Blade V10 Vita",
+        "k": "ZTE Blade V10 Vita",
+        "d": "P963F01"
+    },
+    {
+        "m": "ZTE Blade V10 Vita RU",
+        "k": "ZTE Blade V10 Vita RU",
+        "d": "P963F01"
+    },
+    {
+        "m": "ZTE Blade V10 Vita RU",
+        "k": "ZTE Blade V10 Vita RU",
+        "d": "P963F01D"
+    },
+    {
+        "m": "ZTE Blade V1000",
+        "k": "ZTE Blade V1000",
+        "d": "P671F20"
+    },
+    {
+        "m": "ZTE Blade V1000RU",
+        "k": "ZTE Blade V1000RU",
+        "d": "P671F20D"
+    },
+    {
+        "m": "ZTE Blade V2020 Vita",
+        "k": "ZTE 8000",
+        "d": "P671F70"
+    },
+    {
+        "m": "ZTE Blade V50 Design",
+        "k": "nubia 8050",
+        "d": "P606F08"
+    },
+    {
+        "m": "ZTE Blade V50 Design 5G",
+        "k": "ZTE 8150N",
+        "d": "P720F03"
+    },
+    {
+        "m": "ZTE Blade V50 Vita",
+        "k": "ZTE 8550",
+        "d": "P606F09"
+    },
+    {
+        "m": "ZTE Blade V70 Max",
+        "k": "Z2467",
+        "d": "P606F19"
+    },
+    {
+        "m": "ZTE Blade V8 Arc",
+        "k": "ZTE Blade V8 Arc",
+        "d": "P840V80"
+    },
+    {
+        "m": "ZTE Blade V9",
+        "k": "ZTE V0900",
+        "d": "P450S10"
+    },
+    {
+        "m": "ZTE Blade X10",
+        "k": "ZTE T1002",
+        "d": "P963T01C"
+    },
+    {
+        "m": "ZTE Blade X10 II",
+        "k": "ZTE T1006",
+        "d": "P616T03_AC"
+    },
+    {
+        "m": "ZTE Blade X10 II Pro+",
+        "k": "ZTE T1004",
+        "d": "P618T01C"
+    },
+    {
+        "m": "ZTE Blade X10 Pro",
+        "k": "ZTE T1003",
+        "d": "P963T02C"
+    },
+    {
+        "m": "ZTE Blade X1001",
+        "k": "ZTE X1001",
+        "d": "P606T07C"
+    },
+    {
+        "m": "ZTE Blade X1101",
+        "k": "ZTE X1101",
+        "d": "P616T04C"
+    },
+    {
+        "m": "ZTE Blade X8 II",
+        "k": "ZTE T0805",
+        "d": "P616T02C"
+    },
+    {
+        "m": "ZTE Blade X8 II Pro",
+        "k": "ZTE T0805",
+        "d": "P616T02_AC"
+    },
+    {
+        "m": "ZTE Blade X8 Pro",
+        "k": "ZTE T0802",
+        "d": "P616T01C"
+    },
+    {
+        "m": "ZTE Blade X8701",
+        "k": "ZTE X8701",
+        "d": "P606T05C"
+    },
+    {
+        "m": "ZTE E7LS",
+        "k": "ZTE E7LS",
+        "d": "ZTE_E7LS"
+    },
+    {
+        "m": "ZTE Fanfare 3",
+        "k": "Z852",
+        "d": "kelly"
+    },
+    {
+        "m": "ZTE Focus",
+        "k": "Z2455",
+        "d": "P616F03"
+    },
+    {
+        "m": "ZTE N939Sc",
+        "k": "LS-5504",
+        "d": "zx55q05_64"
+    },
+    {
+        "m": "ZTE N939Sc",
+        "k": "ZTE Blade X9",
+        "d": "zx55q05_64"
+    },
+    {
+        "m": "ZTE N939Sc",
+        "k": "ZTE N939Sc",
+        "d": "zx55q05_64"
+    },
+    {
+        "m": "ZTE N939Sc",
+        "k": "ZTE N939St",
+        "d": "zx55q05_64"
+    },
+    {
+        "m": "ZTE Note 13 Pro",
+        "k": "Z2470C",
+        "d": "Z2470C"
+    },
+    {
+        "m": "ZTE Note14 Pro+",
+        "k": "Z2471C",
+        "d": "Z2471C"
+    },
+    {
+        "m": "ZTE Overture 3",
+        "k": "Z851",
+        "d": "jeff"
+    },
+    {
+        "m": "ZTE PA01",
+        "k": "ZTE PA01",
+        "d": "P898P01"
+    },
+    {
+        "m": "ZTE T0801",
+        "k": "ZTE T0801",
+        "d": "P876T01J"
+    },
+    {
+        "m": "ZTE Tempo X",
+        "k": "N9137",
+        "d": "grayjoylite"
+    },
+    {
+        "m": "ZTE U5",
+        "k": "ZTE U5",
+        "d": "enterprise"
+    },
+    {
+        "m": "ZTE U791",
+        "k": "ZTE U791",
+        "d": "P810T01"
+    },
+    {
+        "m": "ZTE U791",
+        "k": "ZTE U791(OPEN)",
+        "d": "P810T01"
+    },
+    {
+        "m": "ZTE U808",
+        "k": "ZTE U808",
+        "d": "P825T10"
+    },
+    {
+        "m": "ZTE U808",
+        "k": "ZTE U808(OPEN)",
+        "d": "P825T10"
+    },
+    {
+        "m": "ZTE U819",
+        "k": "ZTE U819",
+        "d": "P188T20"
+    },
+    {
+        "m": "ZTE U887",
+        "k": "ZTE U887",
+        "d": "P810A20"
+    },
+    {
+        "m": "ZTE U956",
+        "k": "ZTE U956",
+        "d": "P188T10"
+    },
+    {
+        "m": "ZTE U960E",
+        "k": "ZTE U960E",
+        "d": "P117T21"
+    },
+    {
+        "m": "ZTE V0840",
+        "k": "ZTE V0840",
+        "d": "P817S01"
+    },
+    {
+        "m": "ZTE V0920",
+        "k": "ZTE V0920",
+        "d": "P840S03"
+    },
+    {
+        "m": "ZTE V1000",
+        "k": "ZTE V1000",
+        "d": "P671S20"
+    },
+    {
+        "m": "ZTE V1050",
+        "k": "ZTE V1050",
+        "d": "P671S50"
+    },
+    {
+        "m": "ZTE V890",
+        "k": "ZTE V890",
+        "d": "sdm660_64"
+    },
+    {
+        "m": "ZTE X1010",
+        "k": "ZTE X1010",
+        "d": "P310T10"
+    },
+    {
+        "m": "ZTE ZFive C LTE",
+        "k": "Z558VL",
+        "d": "msm8909"
+    },
+    {
+        "m": "ZTE-V9VITA",
+        "k": "ZTE-V9VITA",
+        "d": "P840F03"
+    },
+    {
+        "m": "ZTE_Blade_X10_II_Pro",
+        "k": "ZTE T1006",
+        "d": "P616T03C"
+    },
+    {
+        "m": "ZTE_Blade_X8_II_Pro",
+        "k": "ZTE_T0805",
+        "d": "P616T02C"
+    },
+    {
+        "m": "ZTE_V971LM",
+        "k": "ZTE_V971LM",
+        "d": "ZTE_V971LM"
+    },
+    {
+        "m": "ZTE_V97L",
+        "k": "ZTE_V97L",
+        "d": "ZTE_V97L"
+    },
+    {
+        "m": "ZTG01",
+        "k": "ZTG01",
+        "d": "Z6750K"
+    },
+    {
+        "m": "ZTU31",
+        "k": "ZTU31",
+        "d": "P852F52"
+    },
+    {
+        "m": "ZXY-ZTE_V6700",
+        "k": "ZTE V6700",
+        "d": "V6700"
+    },
+    {
+        "m": "Zmax 3",
+        "k": "Z978",
+        "d": "dandelion"
+    },
+    {
+        "m": "Zmax One",
+        "k": "Z719DL",
+        "d": "msm8909"
+    },
+    {
+        "m": "dtac phone M1",
+        "k": "dtac phone M1",
+        "d": "P635A50"
+    },
+    {
+        "m": "nubia  Z30 Pro",
+        "k": "NX667J",
+        "d": "P875N02"
+    },
+    {
+        "m": "nubia 8046",
+        "k": "nubia 8046",
+        "d": "P616F01"
+    },
+    {
+        "m": "nubia A75",
+        "k": "Z6255CA",
+        "d": "Z6255"
+    },
+    {
+        "m": "nubia A76",
+        "k": "Z6657CA",
+        "d": "Z6657"
+    },
+    {
+        "m": "nubia Air",
+        "k": "Z2468N",
+        "d": "P780F02"
+    },
+    {
+        "m": "nubia Flip 2 5G",
+        "k": "NX732J",
+        "d": "P678F01"
+    },
+    {
+        "m": "nubia Flip 2 5G",
+        "k": "Z8900CA",
+        "d": "Z8900"
+    },
+    {
+        "m": "nubia Flip 5G",
+        "k": "NX724J",
+        "d": "P745F01"
+    },
+    {
+        "m": "nubia Flip 5G",
+        "k": "NX724J",
+        "d": "Z8888S"
+    },
+    {
+        "m": "nubia Focus 2 5G",
+        "k": "Z2462N",
+        "d": "P720F11"
+    },
+    {
+        "m": "nubia Focus 2 5G",
+        "k": "nubia Focus 2 5G",
+        "d": "Z7305O"
+    },
+    {
+        "m": "nubia Focus 2 Ultra 5G",
+        "k": "Z2463N",
+        "d": "P720F12"
+    },
+    {
+        "m": "nubia Focus 5G",
+        "k": "Focus 5G",
+        "d": "P720F09"
+    },
+    {
+        "m": "nubia Music",
+        "k": "Z2353",
+        "d": "P963F11"
+    },
+    {
+        "m": "nubia Music 2",
+        "k": "Z2460",
+        "d": "P606F18"
+    },
+    {
+        "m": "nubia Neo 2 5G",
+        "k": "Z2352N",
+        "d": "P820F03"
+    },
+    {
+        "m": "nubia Neo 3",
+        "k": "Z2461",
+        "d": "P720F10"
+    },
+    {
+        "m": "nubia Neo 3 5G",
+        "k": "Z2464N",
+        "d": "P780F01"
+    },
+    {
+        "m": "nubia Neo 3 GT 5G",
+        "k": "Z2465N",
+        "d": "Z7606O"
+    },
+    {
+        "m": "nubia Neo 5 5G",
+        "k": "Z2571N",
+        "d": "P830F01"
+    },
+    {
+        "m": "nubia Neo 5G",
+        "k": "nubia 8150N",
+        "d": "P720F03_A"
+    },
+    {
+        "m": "nubia Play",
+        "k": "NX651J",
+        "d": "NX651J"
+    },
+    {
+        "m": "nubia S2R",
+        "k": "Z6305R",
+        "d": "Z6305R"
+    },
+    {
+        "m": "nubia S2e",
+        "k": "A507ZT",
+        "d": "Z6302S"
+    },
+    {
+        "m": "nubia V50 Vita",
+        "k": "nubia 8550",
+        "d": "P606F09"
+    },
+    {
+        "m": "nubia Z5",
+        "k": "nubia Z5",
+        "d": "NX501"
+    },
+    {
+        "m": "nubia Z50 Ultra",
+        "k": "NX712J",
+        "d": "PQ82A11"
+    },
+    {
+        "m": "nubia Z50S Pro",
+        "k": "NX713J",
+        "d": "PQ82A02"
+    },
+    {
+        "m": "nubia Z60 Ultra",
+        "k": "NX721J",
+        "d": "PQ83A01"
+    },
+    {
+        "m": "nubia Z60 Ultra",
+        "k": "NX721J",
+        "d": "PQ83F01"
+    },
+    {
+        "m": "nubia Z60S Pro",
+        "k": "NX725J",
+        "d": "PQ82A04"
+    },
+    {
+        "m": "nubia Z70 Ultra",
+        "k": "NX733J",
+        "d": "PQ84A01"
+    },
+    {
+        "m": "nubia Z70 Ultra",
+        "k": "NX736J",
+        "d": "PQ84A01"
+    },
+    {
+        "m": "nubia Z70S Ultra",
+        "k": "NX733J",
+        "d": "PQ84A02"
+    },
+    {
+        "m": "nubia Z70S Ultra",
+        "k": "NX737J",
+        "d": "PQ84A02"
+    },
+    {
+        "m": "nubia Z80",
+        "k": "NX741J",
+        "d": "PQ85A01"
+    },
+    {
+        "m": "sapphire lte",
+        "k": "Z3001S",
+        "d": "sapphire4g"
+    }
+]

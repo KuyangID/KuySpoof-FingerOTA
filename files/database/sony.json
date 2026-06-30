@@ -1,0 +1,392 @@
+[
+    {
+        "m": "Xperia 1 II",
+        "k": "SOG01",
+        "d": "SOG01"
+    },
+    {
+        "m": "Xperia 1 II",
+        "k": "XQ-AT42",
+        "d": "XQ-AT42"
+    },
+    {
+        "m": "Xperia 1 II",
+        "k": "XQ-AT51",
+        "d": "XQ-AT51"
+    },
+    {
+        "m": "Xperia 1 II",
+        "k": "XQ-AT52",
+        "d": "XQ-AT52"
+    },
+    {
+        "m": "Xperia 1 II",
+        "k": "XQ-AT72",
+        "d": "XQ-AT72"
+    },
+    {
+        "m": "Xperia 1 III",
+        "k": "SOG03",
+        "d": "SOG03"
+    },
+    {
+        "m": "Xperia 1 III",
+        "k": "XQ-BC42",
+        "d": "XQ-BC42"
+    },
+    {
+        "m": "Xperia 1 III",
+        "k": "XQ-BC52",
+        "d": "XQ-BC52"
+    },
+    {
+        "m": "Xperia 1 III",
+        "k": "XQ-BC62",
+        "d": "XQ-BC62"
+    },
+    {
+        "m": "Xperia 1 III",
+        "k": "XQ-BC72",
+        "d": "XQ-BC72"
+    },
+    {
+        "m": "Xperia 1 IV",
+        "k": "SOG06",
+        "d": "SOG06"
+    },
+    {
+        "m": "Xperia 1 IV",
+        "k": "XQ-CT44",
+        "d": "XQ-CT44"
+    },
+    {
+        "m": "Xperia 1 IV",
+        "k": "XQ-CT54",
+        "d": "XQ-CT54"
+    },
+    {
+        "m": "Xperia 1 IV",
+        "k": "XQ-CT62",
+        "d": "XQ-CT62"
+    },
+    {
+        "m": "Xperia 1 IV",
+        "k": "XQ-CT72",
+        "d": "XQ-CT72"
+    },
+    {
+        "m": "Xperia 1 V",
+        "k": "SOG10",
+        "d": "SOG10"
+    },
+    {
+        "m": "Xperia 1 V",
+        "k": "XQ-DQ44",
+        "d": "XQ-DQ44"
+    },
+    {
+        "m": "Xperia 1 V",
+        "k": "XQ-DQ54",
+        "d": "XQ-DQ54"
+    },
+    {
+        "m": "Xperia 1 V",
+        "k": "XQ-DQ62",
+        "d": "XQ-DQ62"
+    },
+    {
+        "m": "Xperia 1 V",
+        "k": "XQ-DQ72",
+        "d": "XQ-DQ72"
+    },
+    {
+        "m": "Xperia 1 VI",
+        "k": "SOG13",
+        "d": "SOG13"
+    },
+    {
+        "m": "Xperia 1 VI",
+        "k": "XQ-EC44",
+        "d": "XQ-EC44"
+    },
+    {
+        "m": "Xperia 1 VI",
+        "k": "XQ-EC54",
+        "d": "XQ-EC54"
+    },
+    {
+        "m": "Xperia 1 VI",
+        "k": "XQ-EC72",
+        "d": "XQ-EC72"
+    },
+    {
+        "m": "Xperia 1 VII",
+        "k": "SOG15",
+        "d": "XQ-FS"
+    },
+    {
+        "m": "Xperia 1 VII",
+        "k": "XQ-FS44",
+        "d": "XQ-FS"
+    },
+    {
+        "m": "Xperia 1 VII",
+        "k": "XQ-FS54",
+        "d": "XQ-FS"
+    },
+    {
+        "m": "Xperia 1 VII",
+        "k": "XQ-FS72",
+        "d": "XQ-FS"
+    },
+    {
+        "m": "Xperia 10 II",
+        "k": "XQ-AU42",
+        "d": "XQ-AU42"
+    },
+    {
+        "m": "Xperia 10 II",
+        "k": "XQ-AU51",
+        "d": "XQ-AU51"
+    },
+    {
+        "m": "Xperia 10 II",
+        "k": "XQ-AU52",
+        "d": "XQ-AU52"
+    },
+    {
+        "m": "Xperia 10 III",
+        "k": "SOG04",
+        "d": "SOG04"
+    },
+    {
+        "m": "Xperia 10 III",
+        "k": "XQ-BT52",
+        "d": "XQ-BT52"
+    },
+    {
+        "m": "Xperia 10 III Lite",
+        "k": "XQ-BT44",
+        "d": "XQ-BT44"
+    },
+    {
+        "m": "Xperia 10 IV",
+        "k": "SOG07",
+        "d": "SOG07"
+    },
+    {
+        "m": "Xperia 10 IV",
+        "k": "XQ-CC44",
+        "d": "XQ-CC44"
+    },
+    {
+        "m": "Xperia 10 IV",
+        "k": "XQ-CC54",
+        "d": "XQ-CC54"
+    },
+    {
+        "m": "Xperia 10 IV",
+        "k": "XQ-CC72",
+        "d": "XQ-CC72"
+    },
+    {
+        "m": "Xperia 10 V",
+        "k": "SOG11",
+        "d": "SOG11"
+    },
+    {
+        "m": "Xperia 10 V",
+        "k": "XQ-DC44",
+        "d": "XQ-DC44"
+    },
+    {
+        "m": "Xperia 10 V",
+        "k": "XQ-DC54",
+        "d": "XQ-DC54"
+    },
+    {
+        "m": "Xperia 10 V",
+        "k": "XQ-DC72",
+        "d": "XQ-DC72"
+    },
+    {
+        "m": "Xperia 10 VI",
+        "k": "SOG14",
+        "d": "SOG14"
+    },
+    {
+        "m": "Xperia 10 VI",
+        "k": "XQ-ES44",
+        "d": "XQ-ES44"
+    },
+    {
+        "m": "Xperia 10 VI",
+        "k": "XQ-ES54",
+        "d": "XQ-ES54"
+    },
+    {
+        "m": "Xperia 10 VI",
+        "k": "XQ-ES72",
+        "d": "XQ-ES72"
+    },
+    {
+        "m": "Xperia 10 VII",
+        "k": "SOG16",
+        "d": "XQ-FE"
+    },
+    {
+        "m": "Xperia 10 VII",
+        "k": "XQ-FE44",
+        "d": "XQ-FE"
+    },
+    {
+        "m": "Xperia 10 VII",
+        "k": "XQ-FE54",
+        "d": "XQ-FE"
+    },
+    {
+        "m": "Xperia 10 VII",
+        "k": "XQ-FE72",
+        "d": "XQ-FE"
+    },
+    {
+        "m": "Xperia 5 II",
+        "k": "SOG02",
+        "d": "SOG02"
+    },
+    {
+        "m": "Xperia 5 II",
+        "k": "XQ-AS42",
+        "d": "XQ-AS42"
+    },
+    {
+        "m": "Xperia 5 II",
+        "k": "XQ-AS52",
+        "d": "XQ-AS52"
+    },
+    {
+        "m": "Xperia 5 II",
+        "k": "XQ-AS62",
+        "d": "XQ-AS62"
+    },
+    {
+        "m": "Xperia 5 II",
+        "k": "XQ-AS72",
+        "d": "XQ-AS72"
+    },
+    {
+        "m": "Xperia 5 III",
+        "k": "SOG05",
+        "d": "SOG05"
+    },
+    {
+        "m": "Xperia 5 III",
+        "k": "XQ-BQ42",
+        "d": "XQ-BQ42"
+    },
+    {
+        "m": "Xperia 5 III",
+        "k": "XQ-BQ52",
+        "d": "XQ-BQ52"
+    },
+    {
+        "m": "Xperia 5 III",
+        "k": "XQ-BQ62",
+        "d": "XQ-BQ62"
+    },
+    {
+        "m": "Xperia 5 III",
+        "k": "XQ-BQ72",
+        "d": "XQ-BQ72"
+    },
+    {
+        "m": "Xperia 5 IV",
+        "k": "SOG09",
+        "d": "SOG09"
+    },
+    {
+        "m": "Xperia 5 IV",
+        "k": "XQ-CQ44",
+        "d": "XQ-CQ44"
+    },
+    {
+        "m": "Xperia 5 IV",
+        "k": "XQ-CQ54",
+        "d": "XQ-CQ54"
+    },
+    {
+        "m": "Xperia 5 IV",
+        "k": "XQ-CQ62",
+        "d": "XQ-CQ62"
+    },
+    {
+        "m": "Xperia 5 IV",
+        "k": "XQ-CQ72",
+        "d": "XQ-CQ72"
+    },
+    {
+        "m": "Xperia 5 V",
+        "k": "SOG12",
+        "d": "SOG12"
+    },
+    {
+        "m": "Xperia 5 V",
+        "k": "XQ-DE44",
+        "d": "XQ-DE44"
+    },
+    {
+        "m": "Xperia 5 V",
+        "k": "XQ-DE54",
+        "d": "XQ-DE54"
+    },
+    {
+        "m": "Xperia 5 V",
+        "k": "XQ-DE72",
+        "d": "XQ-DE72"
+    },
+    {
+        "m": "Xperia Ace III",
+        "k": "SOG08",
+        "d": "SOG08"
+    },
+    {
+        "m": "Xperia L4",
+        "k": "XQ-AD51",
+        "d": "XQ-AD51"
+    },
+    {
+        "m": "Xperia L4",
+        "k": "XQ-AD52",
+        "d": "XQ-AD52"
+    },
+    {
+        "m": "Xperia PRO",
+        "k": "XQ-AQ52",
+        "d": "XQ-AQ52"
+    },
+    {
+        "m": "Xperia PRO",
+        "k": "XQ-AQ62",
+        "d": "XQ-AQ62"
+    },
+    {
+        "m": "Xperia PRO-I",
+        "k": "XQ-BE42",
+        "d": "XQ-BE42"
+    },
+    {
+        "m": "Xperia PRO-I",
+        "k": "XQ-BE52",
+        "d": "XQ-BE52"
+    },
+    {
+        "m": "Xperia PRO-I",
+        "k": "XQ-BE62",
+        "d": "XQ-BE62"
+    },
+    {
+        "m": "Xperia PRO-I",
+        "k": "XQ-BE72",
+        "d": "XQ-BE72"
+    }
+]

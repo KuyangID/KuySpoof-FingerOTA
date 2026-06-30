@@ -1,0 +1,837 @@
+[
+    {
+        "m": "C00",
+        "k": "C00",
+        "d": "Cebu"
+    },
+    {
+        "m": "D00",
+        "k": "D00",
+        "d": "Dubai"
+    },
+    {
+        "m": "E00",
+        "k": "E00",
+        "d": "Edinburgh"
+    },
+    {
+        "m": "H93A",
+        "k": "H93A",
+        "d": "songni"
+    },
+    {
+        "m": "N1 Pro",
+        "k": "H80A",
+        "d": "songni"
+    },
+    {
+        "m": "Nord CE5",
+        "k": "CPH2717",
+        "d": "OP613BL1"
+    },
+    {
+        "m": "Nord CE5",
+        "k": "CPH2719",
+        "d": "OP613BL1"
+    },
+    {
+        "m": "One",
+        "k": "A0001",
+        "d": "A0001"
+    },
+    {
+        "m": "One",
+        "k": "One",
+        "d": "A0001"
+    },
+    {
+        "m": "OnePlus",
+        "k": "ONE E1003",
+        "d": "OnePlus"
+    },
+    {
+        "m": "OnePlus 10 Pro",
+        "k": "NE2210",
+        "d": "OP516EL1"
+    },
+    {
+        "m": "OnePlus 10 Pro 5G",
+        "k": "NE2211",
+        "d": "OP516FL1"
+    },
+    {
+        "m": "OnePlus 10 Pro 5G",
+        "k": "NE2213",
+        "d": "OP516FL1"
+    },
+    {
+        "m": "OnePlus 10 Pro 5G",
+        "k": "NE2215",
+        "d": "OP516FL1"
+    },
+    {
+        "m": "OnePlus 10 Pro 5G",
+        "k": "NE2217",
+        "d": "OP516FL1"
+    },
+    {
+        "m": "OnePlus 10R 5G",
+        "k": "CPH2411",
+        "d": "OP5566L1"
+    },
+    {
+        "m": "OnePlus 10R 5G",
+        "k": "CPH2423",
+        "d": "OP5567L1"
+    },
+    {
+        "m": "OnePlus 10T 5G",
+        "k": "CPH2413",
+        "d": "OP5552L1"
+    },
+    {
+        "m": "OnePlus 10T 5G",
+        "k": "CPH2415",
+        "d": "OP5552L1"
+    },
+    {
+        "m": "OnePlus 10T 5G",
+        "k": "CPH2417",
+        "d": "OP5552L1"
+    },
+    {
+        "m": "OnePlus 10T 5G",
+        "k": "CPH2419",
+        "d": "OP5552L1"
+    },
+    {
+        "m": "OnePlus 11 5G",
+        "k": "CPH2447",
+        "d": "OP594DL1"
+    },
+    {
+        "m": "OnePlus 11 5G",
+        "k": "CPH2449",
+        "d": "OP594DL1"
+    },
+    {
+        "m": "OnePlus 11 5G",
+        "k": "CPH2451",
+        "d": "OP594DL1"
+    },
+    {
+        "m": "OnePlus 11R 5G",
+        "k": "CPH2487",
+        "d": "OP5961L1"
+    },
+    {
+        "m": "OnePlus 12",
+        "k": "PJD110",
+        "d": "OP5929L1"
+    },
+    {
+        "m": "OnePlus 12",
+        "k": "CPH2573",
+        "d": "OP595DL1"
+    },
+    {
+        "m": "OnePlus 12",
+        "k": "CPH2581",
+        "d": "OP595DL1"
+    },
+    {
+        "m": "OnePlus 12",
+        "k": "CPH2583",
+        "d": "OP595DL1"
+    },
+    {
+        "m": "OnePlus 12R",
+        "k": "CPH2585",
+        "d": "OP5D35L1"
+    },
+    {
+        "m": "OnePlus 12R",
+        "k": "CPH2609",
+        "d": "OP5D35L1"
+    },
+    {
+        "m": "OnePlus 12R",
+        "k": "CPH2611",
+        "d": "OP5D35L1"
+    },
+    {
+        "m": "OnePlus 13",
+        "k": "PJZ110",
+        "d": "OP5D0DL1"
+    },
+    {
+        "m": "OnePlus 13",
+        "k": "CPH2649",
+        "d": "OP5D55L1"
+    },
+    {
+        "m": "OnePlus 13",
+        "k": "CPH2653",
+        "d": "OP5D55L1"
+    },
+    {
+        "m": "OnePlus 13",
+        "k": "CPH2655",
+        "d": "OP5D55L1"
+    },
+    {
+        "m": "OnePlus 13R",
+        "k": "CPH2645",
+        "d": "OP5D3BL1"
+    },
+    {
+        "m": "OnePlus 13R",
+        "k": "CPH2647",
+        "d": "OP5D3BL1"
+    },
+    {
+        "m": "OnePlus 13R",
+        "k": "CPH2691",
+        "d": "OP5D3BL1"
+    },
+    {
+        "m": "OnePlus 13T",
+        "k": "PKX110",
+        "d": "OP60F5L1"
+    },
+    {
+        "m": "OnePlus 13s",
+        "k": "CPH2723",
+        "d": "OP612BL1"
+    },
+    {
+        "m": "OnePlus 15",
+        "k": "PLK110",
+        "d": "OP60FFL1"
+    },
+    {
+        "m": "OnePlus 15",
+        "k": "CPH2745",
+        "d": "OP611FL1"
+    },
+    {
+        "m": "OnePlus 15",
+        "k": "CPH2747",
+        "d": "OP611FL1"
+    },
+    {
+        "m": "OnePlus 15",
+        "k": "CPH2749",
+        "d": "OP611FL1"
+    },
+    {
+        "m": "OnePlus 15R",
+        "k": "CPH2767",
+        "d": "OP612DL1"
+    },
+    {
+        "m": "OnePlus 15R",
+        "k": "CPH2769",
+        "d": "OP612DL1"
+    },
+    {
+        "m": "OnePlus 15R",
+        "k": "CPH2771",
+        "d": "OP612DL1"
+    },
+    {
+        "m": "OnePlus 15T",
+        "k": "PLZ110",
+        "d": "OP64DDL1"
+    },
+    {
+        "m": "OnePlus 6",
+        "k": "ONEPLUS A6000",
+        "d": "OnePlus6"
+    },
+    {
+        "m": "OnePlus 6",
+        "k": "ONEPLUS A6003",
+        "d": "OnePlus6"
+    },
+    {
+        "m": "OnePlus 7",
+        "k": "GM1900",
+        "d": "OnePlus7"
+    },
+    {
+        "m": "OnePlus 7",
+        "k": "GM1901",
+        "d": "OnePlus7"
+    },
+    {
+        "m": "OnePlus 7",
+        "k": "GM1903",
+        "d": "OnePlus7"
+    },
+    {
+        "m": "OnePlus 7",
+        "k": "GM1905",
+        "d": "OnePlus7"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1925",
+        "d": "OP7ProNRSpr"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1910",
+        "d": "OnePlus7Pro"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1911",
+        "d": "OnePlus7Pro"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1913",
+        "d": "OnePlus7Pro"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1917",
+        "d": "OnePlus7Pro"
+    },
+    {
+        "m": "OnePlus 7 Pro",
+        "k": "GM1915",
+        "d": "OnePlus7ProTMO"
+    },
+    {
+        "m": "OnePlus 7 Pro 5G",
+        "k": "GM1920",
+        "d": "OnePlus7ProNR"
+    },
+    {
+        "m": "OnePlus 7T",
+        "k": "HD1900",
+        "d": "OnePlus7T"
+    },
+    {
+        "m": "OnePlus 7T",
+        "k": "HD1901",
+        "d": "OnePlus7T"
+    },
+    {
+        "m": "OnePlus 7T",
+        "k": "HD1903",
+        "d": "OnePlus7T"
+    },
+    {
+        "m": "OnePlus 7T",
+        "k": "HD1905",
+        "d": "OnePlus7T"
+    },
+    {
+        "m": "OnePlus 7T",
+        "k": "HD1907",
+        "d": "OnePlus7TTMO"
+    },
+    {
+        "m": "OnePlus 7T Pro",
+        "k": "HD1910",
+        "d": "OnePlus7TPro"
+    },
+    {
+        "m": "OnePlus 7T Pro",
+        "k": "HD1911",
+        "d": "OnePlus7TPro"
+    },
+    {
+        "m": "OnePlus 7T Pro",
+        "k": "HD1913",
+        "d": "OnePlus7TPro"
+    },
+    {
+        "m": "OnePlus 7T Pro 5G",
+        "k": "HD1925",
+        "d": "OnePlus7TProNR"
+    },
+    {
+        "m": "OnePlus 8",
+        "k": "IN2010",
+        "d": "OnePlus8"
+    },
+    {
+        "m": "OnePlus 8",
+        "k": "IN2011",
+        "d": "OnePlus8"
+    },
+    {
+        "m": "OnePlus 8",
+        "k": "IN2013",
+        "d": "OnePlus8"
+    },
+    {
+        "m": "OnePlus 8",
+        "k": "IN2015",
+        "d": "OnePlus8"
+    },
+    {
+        "m": "OnePlus 8",
+        "k": "IN2015",
+        "d": "OnePlus8Visible"
+    },
+    {
+        "m": "OnePlus 8 5G",
+        "k": "IN2015",
+        "d": "OnePlus8TMO"
+    },
+    {
+        "m": "OnePlus 8 5G",
+        "k": "IN2017",
+        "d": "OnePlus8TMO"
+    },
+    {
+        "m": "OnePlus 8 5G UW",
+        "k": "IN2019",
+        "d": "OnePlus8VZW"
+    },
+    {
+        "m": "OnePlus 8 Pro",
+        "k": "IN2020",
+        "d": "OnePlus8Pro"
+    },
+    {
+        "m": "OnePlus 8 Pro",
+        "k": "IN2021",
+        "d": "OnePlus8Pro"
+    },
+    {
+        "m": "OnePlus 8 Pro",
+        "k": "IN2023",
+        "d": "OnePlus8Pro"
+    },
+    {
+        "m": "OnePlus 8 Pro",
+        "k": "IN2025",
+        "d": "OnePlus8Pro"
+    },
+    {
+        "m": "OnePlus 8T",
+        "k": "KB2000",
+        "d": "OnePlus8T"
+    },
+    {
+        "m": "OnePlus 8T",
+        "k": "KB2001",
+        "d": "OnePlus8T"
+    },
+    {
+        "m": "OnePlus 8T",
+        "k": "KB2003",
+        "d": "OnePlus8T"
+    },
+    {
+        "m": "OnePlus 8T",
+        "k": "KB2005",
+        "d": "OnePlus8T"
+    },
+    {
+        "m": "OnePlus 8T+ 5G",
+        "k": "KB2007",
+        "d": "OnePlus8TTMO"
+    },
+    {
+        "m": "OnePlus 9 5G",
+        "k": "LE2110",
+        "d": "OnePlus9"
+    },
+    {
+        "m": "OnePlus 9 5G",
+        "k": "LE2111",
+        "d": "OnePlus9"
+    },
+    {
+        "m": "OnePlus 9 5G",
+        "k": "LE2113",
+        "d": "OnePlus9"
+    },
+    {
+        "m": "OnePlus 9 5G",
+        "k": "LE2115",
+        "d": "OnePlus9"
+    },
+    {
+        "m": "OnePlus 9 5G",
+        "k": "LE2117",
+        "d": "OnePlus9TMO"
+    },
+    {
+        "m": "OnePlus 9 Pro 5G",
+        "k": "LE2120",
+        "d": "OnePlus9Pro"
+    },
+    {
+        "m": "OnePlus 9 Pro 5G",
+        "k": "LE2121",
+        "d": "OnePlus9Pro"
+    },
+    {
+        "m": "OnePlus 9 Pro 5G",
+        "k": "LE2123",
+        "d": "OnePlus9Pro"
+    },
+    {
+        "m": "OnePlus 9 Pro 5G",
+        "k": "LE2125",
+        "d": "OnePlus9Pro"
+    },
+    {
+        "m": "OnePlus 9 Pro 5G",
+        "k": "LE2127",
+        "d": "OnePlus9ProTMO"
+    },
+    {
+        "m": "OnePlus 9R",
+        "k": "LE2100",
+        "d": "OnePlus9R"
+    },
+    {
+        "m": "OnePlus 9R",
+        "k": "LE2101",
+        "d": "OnePlus9R"
+    },
+    {
+        "m": "OnePlus 9RT 5G",
+        "k": "MT2110",
+        "d": "OP5154L1"
+    },
+    {
+        "m": "OnePlus 9RT 5G",
+        "k": "MT2111",
+        "d": "OP5155L1"
+    },
+    {
+        "m": "OnePlus Ace",
+        "k": "PGKM10",
+        "d": "OP5565"
+    },
+    {
+        "m": "OnePlus Ace 3",
+        "k": "PJE110",
+        "d": "OP5CF9L1"
+    },
+    {
+        "m": "OnePlus Ace 3V",
+        "k": "PJF110",
+        "d": "OP5CFBL1"
+    },
+    {
+        "m": "OnePlus Ace 5",
+        "k": "PKG110",
+        "d": "OP5D2BL1"
+    },
+    {
+        "m": "OnePlus Ace 5 Pro",
+        "k": "PKR110",
+        "d": "OP60EBL1"
+    },
+    {
+        "m": "OnePlus Ace 6",
+        "k": "PLQ110",
+        "d": "OP6113L1"
+    },
+    {
+        "m": "OnePlus Nord",
+        "k": "AC2001",
+        "d": "Nord"
+    },
+    {
+        "m": "OnePlus Nord",
+        "k": "AC2003",
+        "d": "Nord"
+    },
+    {
+        "m": "OnePlus Nord 2T 5G",
+        "k": "CPH2399",
+        "d": "OP557AL1"
+    },
+    {
+        "m": "OnePlus Nord 2T 5G",
+        "k": "CPH2401",
+        "d": "OP557AL1"
+    },
+    {
+        "m": "OnePlus Nord 3 5G",
+        "k": "CPH2491",
+        "d": "OP556FL1"
+    },
+    {
+        "m": "OnePlus Nord 3 5G",
+        "k": "CPH2493",
+        "d": "OP556FL1"
+    },
+    {
+        "m": "OnePlus Nord 4",
+        "k": "CPH2661",
+        "d": "OP5E93L1"
+    },
+    {
+        "m": "OnePlus Nord 4",
+        "k": "CPH2663",
+        "d": "OP5E93L1"
+    },
+    {
+        "m": "OnePlus Nord 5",
+        "k": "CPH2707",
+        "d": "OP6131L1"
+    },
+    {
+        "m": "OnePlus Nord 5",
+        "k": "CPH2709",
+        "d": "OP6131L1"
+    },
+    {
+        "m": "OnePlus Nord 6",
+        "k": "CPH2793",
+        "d": "OP6135L1"
+    },
+    {
+        "m": "OnePlus Nord 6",
+        "k": "CPH2795",
+        "d": "OP6135L1"
+    },
+    {
+        "m": "OnePlus Nord CE 2",
+        "k": "IV2201",
+        "d": "OP555BL1"
+    },
+    {
+        "m": "OnePlus Nord CE 2 Lite 5G",
+        "k": "CPH2381",
+        "d": "OP535DL1"
+    },
+    {
+        "m": "OnePlus Nord CE 2 Lite 5G",
+        "k": "CPH2409",
+        "d": "OP535DL1"
+    },
+    {
+        "m": "OnePlus Nord CE 3 Lite 5G",
+        "k": "CPH2465",
+        "d": "OP5958L1"
+    },
+    {
+        "m": "OnePlus Nord CE 3 Lite 5G",
+        "k": "CPH2467",
+        "d": "OP5958L1"
+    },
+    {
+        "m": "OnePlus Nord CE 5G",
+        "k": "EB2101",
+        "d": "OnePlusNordCE"
+    },
+    {
+        "m": "OnePlus Nord CE 5G",
+        "k": "EB2103",
+        "d": "OnePlusNordCE"
+    },
+    {
+        "m": "OnePlus Nord CE4",
+        "k": "CPH2613",
+        "d": "OP5D3FL1"
+    },
+    {
+        "m": "OnePlus Nord CE4 Lite 5G",
+        "k": "CPH2619",
+        "d": "OP5D49L1"
+    },
+    {
+        "m": "OnePlus Nord CE4 Lite 5G",
+        "k": "CPH2621",
+        "d": "OP5D49L1"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2026",
+        "d": "OnePlusN10"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2028",
+        "d": "OnePlusN10"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2029",
+        "d": "OnePlusN10"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2025",
+        "d": "OnePlusN10METRO"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2029",
+        "d": "OnePlusN10METRO"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2028",
+        "d": "OnePlusN10TMO"
+    },
+    {
+        "m": "OnePlus Nord N10 5G",
+        "k": "BE2029",
+        "d": "OnePlusN10TMO"
+    },
+    {
+        "m": "OnePlus Nord N100",
+        "k": "BE2011",
+        "d": "OnePlusN100"
+    },
+    {
+        "m": "OnePlus Nord N100",
+        "k": "BE2013",
+        "d": "OnePlusN100"
+    },
+    {
+        "m": "OnePlus Nord N100",
+        "k": "BE2015",
+        "d": "OnePlusN100METRO"
+    },
+    {
+        "m": "OnePlus Nord N100",
+        "k": "BE2012",
+        "d": "OnePlusN100TMO"
+    },
+    {
+        "m": "OnePlus Nord N100",
+        "k": "BE2013",
+        "d": "OnePlusN100TMO"
+    },
+    {
+        "m": "OnePlus Nord N20 5G",
+        "k": "CPH2459",
+        "d": "OP5159L1"
+    },
+    {
+        "m": "OnePlus Nord N20 5G",
+        "k": "GN2200",
+        "d": "OP515AL1"
+    },
+    {
+        "m": "OnePlus Nord N200 5G",
+        "k": "DE2117",
+        "d": "OnePlusN200"
+    },
+    {
+        "m": "OnePlus Nord N200 5G",
+        "k": "DE2118",
+        "d": "OnePlusN200TMO"
+    },
+    {
+        "m": "OnePlus Nord N30 5G",
+        "k": "CPH2513",
+        "d": "OP5958L1"
+    },
+    {
+        "m": "OnePlus Nord N30 5G",
+        "k": "CPH2515",
+        "d": "OP5958L1"
+    },
+    {
+        "m": "OnePlus Nord N30 SE 5G",
+        "k": "CPH2605",
+        "d": "OP5955L1"
+    },
+    {
+        "m": "OnePlus Nord2 5G",
+        "k": "DN2101",
+        "d": "OP515BL1"
+    },
+    {
+        "m": "OnePlus Nord2 5G",
+        "k": "DN2103",
+        "d": "OP515BL1"
+    },
+    {
+        "m": "OnePlus Turbo 6",
+        "k": "PLU110",
+        "d": "OP60F0L1"
+    },
+    {
+        "m": "OnePlus Turbo 6V",
+        "k": "PLY110",
+        "d": "OP64D3L1"
+    },
+    {
+        "m": "OnePlus2",
+        "k": "ONE A2003",
+        "d": "OnePlus2"
+    },
+    {
+        "m": "OnePlus3",
+        "k": "ONEPLUS A3000",
+        "d": "OnePlus3"
+    },
+    {
+        "m": "OnePlus3T",
+        "k": "ONEPLUS A3000",
+        "d": "OnePlus3T"
+    },
+    {
+        "m": "OnePlus5",
+        "k": "ONEPLUS A5000",
+        "d": "OnePlus5"
+    },
+    {
+        "m": "OnePlus5T",
+        "k": "ONEPLUS A5010",
+        "d": "OnePlus5T"
+    },
+    {
+        "m": "OnePlus6T",
+        "k": "ONEPLUS A6010",
+        "d": "OnePlus6T"
+    },
+    {
+        "m": "OnePlus6T",
+        "k": "ONEPLUS A6013",
+        "d": "OnePlus6T"
+    },
+    {
+        "m": "OnePlus6T",
+        "k": "ONEPLUS A6013",
+        "d": "OnePlus6TSingle"
+    },
+    {
+        "m": "Oneplus Ace 2 Pro",
+        "k": "PJA110",
+        "d": "OP5943L1"
+    },
+    {
+        "m": "Oneplus Ace 3 Pro",
+        "k": "PJX110",
+        "d": "OP5D06L1"
+    },
+    {
+        "m": "Oneplus_Dosa_IN",
+        "k": "Oneplus_Dosa_IN",
+        "d": "Oneplus_Dosa_IN"
+    },
+    {
+        "m": "Open",
+        "k": "CPH2551",
+        "d": "OP5973L1"
+    },
+    {
+        "m": "PHP110",
+        "k": "PHP110",
+        "d": "OP5927"
+    },
+    {
+        "m": "Y Series",
+        "k": "Y Series",
+        "d": "shibuya"
+    }
+]

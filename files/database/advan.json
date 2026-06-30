@@ -1,0 +1,777 @@
+[
+    {
+        "m": "ADVAN G2 plus",
+        "k": "5701",
+        "d": "ADVAN_5701"
+    },
+    {
+        "m": "ADVAN S50 4G",
+        "k": "i5G",
+        "d": "ADVAN_i5G"
+    },
+    {
+        "m": "ADVANCE",
+        "k": "SP4871",
+        "d": "SP4871"
+    },
+    {
+        "m": "ADVANCE 4.0 L2",
+        "k": "BLU ADVANCE 4.0 L2",
+        "d": "BLU_ADVANCE_4_0_L2"
+    },
+    {
+        "m": "ADVANCE 4.0 L3",
+        "k": "Advance 4.0 L3",
+        "d": "Advance_4_0_L3"
+    },
+    {
+        "m": "ADVANCE 5.0 HD",
+        "k": "Advance 5.0 HD",
+        "d": "Advance_5_0_HD"
+    },
+    {
+        "m": "ADVANCE L5",
+        "k": "Advance L5",
+        "d": "A380"
+    },
+    {
+        "m": "ADVANCE L5",
+        "k": "Advance L5",
+        "d": "A390"
+    },
+    {
+        "m": "ADVANNASAPro",
+        "k": "ADVANNASAPro",
+        "d": "ADVANNASAPro"
+    },
+    {
+        "m": "ADVAN_X1",
+        "k": "6781",
+        "d": "ADVAN_X1"
+    },
+    {
+        "m": "AIM-75",
+        "k": "AIM-75",
+        "d": "AIM75-LTE"
+    },
+    {
+        "m": "AIM-76S",
+        "k": "AIM-76S",
+        "d": "aim76s"
+    },
+    {
+        "m": "AIM75-LTE",
+        "k": "AIM75-LTE",
+        "d": "AIM75-LTE"
+    },
+    {
+        "m": "AIM75-WIFI",
+        "k": "AIM75-WIFI",
+        "d": "AIM75-WIFI"
+    },
+    {
+        "m": "Advance",
+        "k": "Tr4995",
+        "d": "Tr4995"
+    },
+    {
+        "m": "Advance 4.0M",
+        "k": "Advance 4.0M",
+        "d": "Advance_4_0M"
+    },
+    {
+        "m": "Advance 4.0M",
+        "k": "Studio M4",
+        "d": "Advance_4_0M"
+    },
+    {
+        "m": "Advance 5.2",
+        "k": "Advance 5.2",
+        "d": "A230Q"
+    },
+    {
+        "m": "Advance 5.2",
+        "k": "Advance 5.2",
+        "d": "A290Q"
+    },
+    {
+        "m": "Advance A5 LTE",
+        "k": "Advance A5 LTE",
+        "d": "A0010WW"
+    },
+    {
+        "m": "Advance A6",
+        "k": "Advance A6",
+        "d": "A190"
+    },
+    {
+        "m": "Advance L4",
+        "k": "Advance L4",
+        "d": "A350"
+    },
+    {
+        "m": "Advance L4",
+        "k": "Advance L4",
+        "d": "A350A"
+    },
+    {
+        "m": "Advance L5",
+        "k": "Advance L5",
+        "d": "A390T"
+    },
+    {
+        "m": "Advance Pro",
+        "k": "Advance Pro",
+        "d": "Advance_Pro"
+    },
+    {
+        "m": "Advance_A7",
+        "k": "Advance A7",
+        "d": "A210"
+    },
+    {
+        "m": "Advanced_Rugged",
+        "k": "Z_Voyage",
+        "d": "Z_Voyage"
+    },
+    {
+        "m": "Android_EDLA_OPS",
+        "k": "EO1_RK3588_08128",
+        "d": "rk3588_t"
+    },
+    {
+        "m": "BQ-5500L Advance",
+        "k": "BQ-5500L",
+        "d": "BQru-5500L"
+    },
+    {
+        "m": "Claro 4k advanced",
+        "k": "Claro 4k advanced",
+        "d": "SEI820AMX"
+    },
+    {
+        "m": "Claro 4k advanced",
+        "k": "Claro 4k advanced",
+        "d": "claro_vsb3918"
+    },
+    {
+        "m": "DLT-V7310AP",
+        "k": "DLT-V7310AP",
+        "d": "dlt_v7310"
+    },
+    {
+        "m": "DLT-V7312AP",
+        "k": "DLT-V7312AP",
+        "d": "dlt_v7312"
+    },
+    {
+        "m": "DLT-V7312AP+",
+        "k": "DLT-V7312AP+",
+        "d": "dlt_v7312plus"
+    },
+    {
+        "m": "E1C",
+        "k": "E1C_3G",
+        "d": "ADVAN_E1C_3G"
+    },
+    {
+        "m": "E1C  4G",
+        "k": "7037",
+        "d": "ADVAN_E1C4G"
+    },
+    {
+        "m": "E1C 4G",
+        "k": "7035",
+        "d": "ADVAN_E1C_4G"
+    },
+    {
+        "m": "E1C NXT",
+        "k": "S7D",
+        "d": "ADVAN_E1C_NXT"
+    },
+    {
+        "m": "G1 PRO",
+        "k": "i5K",
+        "d": "ADVAN_G1_Pro"
+    },
+    {
+        "m": "G2 Pro",
+        "k": "6004",
+        "d": "ADVAN_G2_Pro"
+    },
+    {
+        "m": "G3 Pro",
+        "k": "6002",
+        "d": "ADVAN_G3_Pro"
+    },
+    {
+        "m": "G5 Elite",
+        "k": "6003",
+        "d": "ADVAN_G5_Elite"
+    },
+    {
+        "m": "G5 Plus",
+        "k": "6501",
+        "d": "ADVAN_G5_Plus"
+    },
+    {
+        "m": "HL4736",
+        "k": "HL4736",
+        "d": "HL4736"
+    },
+    {
+        "m": "HL4936",
+        "k": "HL4936",
+        "d": "HL4936"
+    },
+    {
+        "m": "HL5576",
+        "k": "HL5576",
+        "d": "HL5576"
+    },
+    {
+        "m": "HL5585",
+        "k": "HL5585",
+        "d": "HL5585"
+    },
+    {
+        "m": "HL5677",
+        "k": "HL5677",
+        "d": "HL5677"
+    },
+    {
+        "m": "HL6077",
+        "k": "HL6077",
+        "d": "HL6077"
+    },
+    {
+        "m": "HL6248",
+        "k": "HL6248",
+        "d": "HL6248"
+    },
+    {
+        "m": "HL6256",
+        "k": "HL6256",
+        "d": "HL6256"
+    },
+    {
+        "m": "HL6577",
+        "k": "HL6577",
+        "d": "HL6577"
+    },
+    {
+        "m": "HL7257",
+        "k": "HL7257",
+        "d": "HL7257"
+    },
+    {
+        "m": "HL9000",
+        "k": "HL9000",
+        "d": "HL9000"
+    },
+    {
+        "m": "I101MTK",
+        "k": "I101MTK",
+        "d": "I101MTK"
+    },
+    {
+        "m": "I55A",
+        "k": "I55A",
+        "d": "I55A"
+    },
+    {
+        "m": "I5E",
+        "k": "I5E",
+        "d": "ADVAN_I5E"
+    },
+    {
+        "m": "I5E",
+        "k": "i5E",
+        "d": "ADVAN_I5Es"
+    },
+    {
+        "m": "I7D",
+        "k": "I7D",
+        "d": "ADVAN_I7D"
+    },
+    {
+        "m": "NASA",
+        "k": "5202",
+        "d": "ADVAN_NASA"
+    },
+    {
+        "m": "NASA_Plus",
+        "k": "5505",
+        "d": "ADVAN_NASA_Plus"
+    },
+    {
+        "m": "NET_ADVANCE",
+        "k": "NET_ADVANCE",
+        "d": "NET_ADVANCE"
+    },
+    {
+        "m": "NP6050",
+        "k": "NP6050",
+        "d": "NP6050"
+    },
+    {
+        "m": "NP6070",
+        "k": "NP6070",
+        "d": "NP6070"
+    },
+    {
+        "m": "NP6070",
+        "k": "NP6070_ADV",
+        "d": "NP6070_ADV"
+    },
+    {
+        "m": "PIC10GS10",
+        "k": "PIC10GS10",
+        "d": "PIC10GS10"
+    },
+    {
+        "m": "PIC10GS13",
+        "k": "PIC10GS13",
+        "d": "PIC10GS13"
+    },
+    {
+        "m": "PIC10GS8",
+        "k": "PIC10GS8",
+        "d": "PIC10GS8"
+    },
+    {
+        "m": "PIC7GS10-A",
+        "k": "PIC7GS10-A",
+        "d": "PIC7GS10-A"
+    },
+    {
+        "m": "PIC7GS13",
+        "k": "PIC7GS13",
+        "d": "PIC7GS13"
+    },
+    {
+        "m": "PIC7GS8",
+        "k": "PIC7GS8",
+        "d": "PIC7GS8"
+    },
+    {
+        "m": "PIC8GS10",
+        "k": "PIC8GS10",
+        "d": "PIC8GS10"
+    },
+    {
+        "m": "PIC8GS12",
+        "k": "PIC8GS12",
+        "d": "PIC8GS12"
+    },
+    {
+        "m": "PIC8GS8",
+        "k": "PIC8GS8",
+        "d": "PIC8GS8"
+    },
+    {
+        "m": "PR5860",
+        "k": "PR5860",
+        "d": "PR5860"
+    },
+    {
+        "m": "PR6149",
+        "k": "PR6149",
+        "d": "PR6149"
+    },
+    {
+        "m": "PR6152",
+        "k": "PR6152",
+        "d": "PR6152"
+    },
+    {
+        "m": "PR6152-ADV",
+        "k": "PR6152-ADV",
+        "d": "PR6152-ADV"
+    },
+    {
+        "m": "PR6167",
+        "k": "PR6171",
+        "d": "PR6171"
+    },
+    {
+        "m": "PR6850",
+        "k": "PR6850",
+        "d": "PR6850"
+    },
+    {
+        "m": "PR7145",
+        "k": "PR7145",
+        "d": "PR7145"
+    },
+    {
+        "m": "Pr5650",
+        "k": "Pr5650",
+        "d": "Pr5650"
+    },
+    {
+        "m": "Pr5747",
+        "k": "Pr5747",
+        "d": "Pr5747"
+    },
+    {
+        "m": "Pr5950",
+        "k": "Pr5950",
+        "d": "Pr5950"
+    },
+    {
+        "m": "Pr6146",
+        "k": "Pr6146",
+        "d": "Pr6146"
+    },
+    {
+        "m": "Pr6150",
+        "k": "Pr6150",
+        "d": "Pr6150"
+    },
+    {
+        "m": "Pr7547",
+        "k": "Pr7547",
+        "d": "Pr7547"
+    },
+    {
+        "m": "S2_Advance",
+        "k": "S2 Advance",
+        "d": "SSmooth_S2_Advance"
+    },
+    {
+        "m": "S40",
+        "k": "ADVAN S40",
+        "d": "ADVAN_S40"
+    },
+    {
+        "m": "S40 LTE",
+        "k": "i4U",
+        "d": "ADVAN_i4U"
+    },
+    {
+        "m": "S45E",
+        "k": "S45E",
+        "d": "ADVAN_S45E"
+    },
+    {
+        "m": "S4T",
+        "k": "S4T",
+        "d": "S4T"
+    },
+    {
+        "m": "S4Z",
+        "k": "S4Z",
+        "d": "ADVAN_S4Z"
+    },
+    {
+        "m": "S50",
+        "k": "S50",
+        "d": "ADVAN_MACHA"
+    },
+    {
+        "m": "S50 Prime",
+        "k": "5063",
+        "d": "ADVAN_S50_Prime"
+    },
+    {
+        "m": "S5E FULL VIEW",
+        "k": "5062",
+        "d": "ADVAN_S5E_FULL_VIEW"
+    },
+    {
+        "m": "S5E_NXT",
+        "k": "S5E_NXT",
+        "d": "ADVAN_S5E_NXT"
+    },
+    {
+        "m": "S6 Plus",
+        "k": "5502",
+        "d": "ADVAN_S6_Plus"
+    },
+    {
+        "m": "S6 Pro",
+        "k": "5504",
+        "d": "ADVAN_S6_Pro"
+    },
+    {
+        "m": "S7A",
+        "k": "S7A",
+        "d": "S7A"
+    },
+    {
+        "m": "S7C",
+        "k": "S7C",
+        "d": "ADVAN_S7C"
+    },
+    {
+        "m": "SP3703",
+        "k": "SP3703",
+        "d": "SP3703"
+    },
+    {
+        "m": "SP4702",
+        "k": "SP4702",
+        "d": "SP4702"
+    },
+    {
+        "m": "SP4703",
+        "k": "SP4703",
+        "d": "SP4703"
+    },
+    {
+        "m": "SP4872",
+        "k": "SP4872",
+        "d": "SP4872"
+    },
+    {
+        "m": "SP5702",
+        "k": "SP5702",
+        "d": "SP5702"
+    },
+    {
+        "m": "SP5705",
+        "k": "SP5705",
+        "d": "SP5705"
+    },
+    {
+        "m": "SP5712",
+        "k": "SP5712",
+        "d": "SP5712"
+    },
+    {
+        "m": "SP5713",
+        "k": "SP5713",
+        "d": "SP5713"
+    },
+    {
+        "m": "SP5732",
+        "k": "SP5732",
+        "d": "SP5732"
+    },
+    {
+        "m": "SP5733",
+        "k": "SP5733",
+        "d": "SP5733"
+    },
+    {
+        "m": "SP5733",
+        "k": "SP5733",
+        "d": "SP5733A"
+    },
+    {
+        "m": "SP5735",
+        "k": "SP5735",
+        "d": "SP5735"
+    },
+    {
+        "m": "SP5736",
+        "k": "SP5736",
+        "d": "SP5736"
+    },
+    {
+        "m": "SP5738",
+        "k": "SP5738",
+        "d": "SP5738"
+    },
+    {
+        "m": "SP5739",
+        "k": "SP5739",
+        "d": "SP5739"
+    },
+    {
+        "m": "SP5760",
+        "k": "SP5760",
+        "d": "SP5760"
+    },
+    {
+        "m": "SP5775",
+        "k": "SP5775",
+        "d": "SP5775"
+    },
+    {
+        "m": "SP5776",
+        "k": "SP5776",
+        "d": "SP5776"
+    },
+    {
+        "m": "SP5782",
+        "k": "SP5782",
+        "d": "SP5782"
+    },
+    {
+        "m": "SP7248",
+        "k": "SP7248",
+        "d": "SP7248"
+    },
+    {
+        "m": "SP7348",
+        "k": "SP7348",
+        "d": "SP7348"
+    },
+    {
+        "m": "Sp5730",
+        "k": "Sp5730",
+        "d": "Sp5730"
+    },
+    {
+        "m": "Studio J1",
+        "k": "Advance A4",
+        "d": "Studio_J1"
+    },
+    {
+        "m": "Studio J2",
+        "k": "Advance A5",
+        "d": "Studio_J2"
+    },
+    {
+        "m": "T2J",
+        "k": "T2J",
+        "d": "T2J"
+    },
+    {
+        "m": "T2K",
+        "k": "T2K",
+        "d": "T2K"
+    },
+    {
+        "m": "TR3947",
+        "k": "TR3947",
+        "d": "TR3947"
+    },
+    {
+        "m": "TR5994",
+        "k": "TR5994",
+        "d": "TR5994"
+    },
+    {
+        "m": "TR5996",
+        "k": "TR5996",
+        "d": "TR5996"
+    },
+    {
+        "m": "TR6948",
+        "k": "TR6948",
+        "d": "TR6948"
+    },
+    {
+        "m": "TR6949",
+        "k": "TR6949",
+        "d": "TR6949"
+    },
+    {
+        "m": "TR6985",
+        "k": "TR6985",
+        "d": "TR6985"
+    },
+    {
+        "m": "TR7988",
+        "k": "TR7988",
+        "d": "TR7988"
+    },
+    {
+        "m": "TR7989",
+        "k": "TR7989",
+        "d": "TR7989"
+    },
+    {
+        "m": "TR7990",
+        "k": "TR7990",
+        "d": "TR7990"
+    },
+    {
+        "m": "TR7998",
+        "k": "TR7998",
+        "d": "TR7998"
+    },
+    {
+        "m": "TR8050",
+        "k": "TR8050",
+        "d": "TR8050"
+    },
+    {
+        "m": "TR8990",
+        "k": "TR8990",
+        "d": "TR8990"
+    },
+    {
+        "m": "Tr3946",
+        "k": "Tr3946",
+        "d": "Tr3946"
+    },
+    {
+        "m": "Tr4986",
+        "k": "Tr4986",
+        "d": "Tr4986"
+    },
+    {
+        "m": "UBX-010RC",
+        "k": "UBX-010RC",
+        "d": "ubx010rc"
+    },
+    {
+        "m": "X7 Max",
+        "k": "7301",
+        "d": "X7_Max"
+    },
+    {
+        "m": "X7 Pro",
+        "k": "7008",
+        "d": "ADVAN_7008"
+    },
+    {
+        "m": "X7 Pro",
+        "k": "X7 Pro",
+        "d": "ADVAN_X7_Pro"
+    },
+    {
+        "m": "i10",
+        "k": "i10",
+        "d": "i10"
+    },
+    {
+        "m": "i55D",
+        "k": "i55D",
+        "d": "ADVAN_i55D"
+    },
+    {
+        "m": "i55K",
+        "k": "i55K",
+        "d": "ADVAN_i55K"
+    },
+    {
+        "m": "i5C",
+        "k": "i5C",
+        "d": "i5C"
+    },
+    {
+        "m": "i5C plus",
+        "k": "5058",
+        "d": "ADVAN_i5C_Plus"
+    },
+    {
+        "m": "i5D",
+        "k": "i5D",
+        "d": "ADVAN_i5D"
+    },
+    {
+        "m": "i6A",
+        "k": "5501",
+        "d": "ADVAN_5501"
+    },
+    {
+        "m": "i6c",
+        "k": "5503",
+        "d": "ADVAN_i6C"
+    },
+    {
+        "m": "i7A",
+        "k": "i7A",
+        "d": "ADVAN_i7A"
+    },
+    {
+        "m": "i7U",
+        "k": "i7U",
+        "d": "ADVAN_i_Lite"
+    }
+]

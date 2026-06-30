@@ -1,0 +1,1152 @@
+[
+    {
+        "m": "ASUS Live",
+        "k": "ASUS_Z00YD",
+        "d": "ASUS_Z00YD"
+    },
+    {
+        "m": "ASUS_WW_2885",
+        "k": "XG34WCDMTG",
+        "d": "pangyo"
+    },
+    {
+        "m": "Cube",
+        "k": "asus_google_cube",
+        "d": "asus_google_cube"
+    },
+    {
+        "m": "ETBW11AA",
+        "k": "ETBW11AA",
+        "d": "ETBW11AA"
+    },
+    {
+        "m": "ETBW11AA",
+        "k": "ETBW11AA",
+        "d": "TF101G"
+    },
+    {
+        "m": "Nexus 7",
+        "k": "Nexus 7",
+        "d": "grouper"
+    },
+    {
+        "m": "Nexus 7",
+        "k": "Nexus 7",
+        "d": "tilapia"
+    },
+    {
+        "m": "Nexus 7",
+        "k": "Nexus 7",
+        "d": "deb"
+    },
+    {
+        "m": "Nexus 7",
+        "k": "Nexus 7",
+        "d": "flo"
+    },
+    {
+        "m": "Nuvifone",
+        "k": "Garmin-Asus A50",
+        "d": "a50"
+    },
+    {
+        "m": "Pegasus",
+        "k": "Pegasus",
+        "d": "Pegasus"
+    },
+    {
+        "m": "Pegasus 1",
+        "k": "Pegasus1",
+        "d": "Pegasus1"
+    },
+    {
+        "m": "Pegasus 1",
+        "k": "Pegasus1_Payment",
+        "d": "Pegasus1"
+    },
+    {
+        "m": "ROG Phone",
+        "k": "ASUS_Z01QD",
+        "d": "ASUS_Z01QD_1"
+    },
+    {
+        "m": "ROG Phone",
+        "k": "ZS600KL",
+        "d": "ASUS_Z01QD_1"
+    },
+    {
+        "m": "ROG Phone 3",
+        "k": "ASUS_I003D",
+        "d": "ASUS_I003_1"
+    },
+    {
+        "m": "ROG Phone 3",
+        "k": "ASUS_I003DD",
+        "d": "ASUS_I003_1"
+    },
+    {
+        "m": "ROG Phone 3",
+        "k": "ZS661KS",
+        "d": "ASUS_I003_1"
+    },
+    {
+        "m": "ROG Phone 5 series",
+        "k": "ASUS_I005D",
+        "d": "ASUS_I005_1"
+    },
+    {
+        "m": "ROG Phone 5 series",
+        "k": "ASUS_I005DA",
+        "d": "ASUS_I005_1"
+    },
+    {
+        "m": "ROG Phone 5 series",
+        "k": "ASUS_I005DB",
+        "d": "ASUS_I005_1"
+    },
+    {
+        "m": "ROG Phone 5 series",
+        "k": "ZS673KS",
+        "d": "ASUS_I005_1"
+    },
+    {
+        "m": "ROG Phone 5 series",
+        "k": "ZS676KS",
+        "d": "ASUS_I005_1"
+    },
+    {
+        "m": "ROG Phone 6 series",
+        "k": "ASUS_AI2201_A",
+        "d": "ASUS_AI2201"
+    },
+    {
+        "m": "ROG Phone 6 series",
+        "k": "ASUS_AI2201_B",
+        "d": "ASUS_AI2201"
+    },
+    {
+        "m": "ROG Phone 6 series",
+        "k": "ASUS_AI2201_C",
+        "d": "ASUS_AI2201"
+    },
+    {
+        "m": "ROG Phone 6 series",
+        "k": "ASUS_AI2201_D",
+        "d": "ASUS_AI2201"
+    },
+    {
+        "m": "ROG Phone 6D Ultimate",
+        "k": "ASUS_AI2203_C",
+        "d": "ASUS_AI2203"
+    },
+    {
+        "m": "ROG Phone 6D Ultimate",
+        "k": "ASUS_AI2203_D",
+        "d": "ASUS_AI2203"
+    },
+    {
+        "m": "ROG Phone 6D series",
+        "k": "ASUS_AI2203_B",
+        "d": "ASUS_AI2203"
+    },
+    {
+        "m": "ROG Phone 7 series",
+        "k": "ASUS_AI2205_A",
+        "d": "ASUS_AI2205"
+    },
+    {
+        "m": "ROG Phone 7 series",
+        "k": "ASUS_AI2205_C",
+        "d": "ASUS_AI2205"
+    },
+    {
+        "m": "ROG Phone 8 series",
+        "k": "ASUS_AI2401_A",
+        "d": "ASUS_AI2401"
+    },
+    {
+        "m": "ROG Phone 8 series",
+        "k": "ASUS_AI2401_C",
+        "d": "ASUS_AI2401"
+    },
+    {
+        "m": "ROG Phone 8 series",
+        "k": "ASUS_AI2401_D",
+        "d": "ASUS_AI2401"
+    },
+    {
+        "m": "ROG Phone 9",
+        "k": "ASUSAI2501A",
+        "d": "ASUSAI2501"
+    },
+    {
+        "m": "ROG Phone 9",
+        "k": "ASUSAI2501B",
+        "d": "ASUSAI2501"
+    },
+    {
+        "m": "ROG Phone 9 FE",
+        "k": "ASUS_AI2401_N",
+        "d": "ASUS_AI2401"
+    },
+    {
+        "m": "ROG Phone 9 Pro",
+        "k": "ASUSAI2501C",
+        "d": "ASUSAI2501"
+    },
+    {
+        "m": "ROG Phone II",
+        "k": "ASUS_I001D",
+        "d": "ASUS_I001_1"
+    },
+    {
+        "m": "ROG Phone II",
+        "k": "ASUS_I001DC",
+        "d": "ASUS_I001_1"
+    },
+    {
+        "m": "ROG Phone II",
+        "k": "ASUS_I001DE",
+        "d": "ASUS_I001_1"
+    },
+    {
+        "m": "ROG Phone II",
+        "k": "ZS660KL",
+        "d": "ASUS_I001_1"
+    },
+    {
+        "m": "T101TA",
+        "k": "T10xTA",
+        "d": "T10xTA"
+    },
+    {
+        "m": "TX201LAF",
+        "k": "TX201LAF",
+        "d": "TX201LAF"
+    },
+    {
+        "m": "TransBook Trio",
+        "k": "TX201LA",
+        "d": "TX201LA"
+    },
+    {
+        "m": "Transformer TF101G",
+        "k": "Transformer TF101G",
+        "d": "TF101G"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS ZenFone 2",
+        "d": "ASUS_Z00D"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS ZenFone 2E",
+        "d": "ASUS_Z00D"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "Z00D",
+        "d": "ASUS_Z00D"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z008D",
+        "d": "Z008_1"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z00AD",
+        "d": "Z00A"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z00ADA",
+        "d": "Z00A"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z00AD",
+        "d": "Z00A_1"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z00ADB",
+        "d": "Z00A_1"
+    },
+    {
+        "m": "ZenFone 2",
+        "k": "ASUS_Z00AD",
+        "d": "Z00A_3"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00RD",
+        "d": "ASUS_Z00RD_5"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00RD",
+        "d": "ASUS_Z00RD_7"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00ED",
+        "d": "ASUS_Z00E_1"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00ED",
+        "d": "ASUS_Z00E_2"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00EDB",
+        "d": "ASUS_Z00E_2"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00ED",
+        "d": "ASUS_Z00E_3"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00ED",
+        "d": "ASUS_Z00E_4"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00WD",
+        "d": "ASUS_Z00W_63"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00LD",
+        "d": "ASUS_Z00L_63"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00LDC",
+        "d": "ASUS_Z00L_63"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00LD",
+        "d": "ASUS_Z00L_63A"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00LD",
+        "d": "ASUS_Z00L_63C"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00LD",
+        "d": "ASUS_Z00L_93"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00TD",
+        "d": "ASUS_Z00T"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z00MD",
+        "d": "ASUS_Z00M"
+    },
+    {
+        "m": "ZenFone 2 Laser",
+        "k": "ASUS_Z011D",
+        "d": "ASUS_Z011"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z017D",
+        "d": "ASUS_Z017D_1"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z017DA",
+        "d": "ASUS_Z017D_1"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z012D",
+        "d": "ASUS_Z012D"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z012DA",
+        "d": "ASUS_Z012D"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z012DE",
+        "d": "ASUS_Z012D"
+    },
+    {
+        "m": "ZenFone 3",
+        "k": "ASUS_Z012S",
+        "d": "ASUS_Z012D"
+    },
+    {
+        "m": "ZenFone 3 Deluxe",
+        "k": "ASUS_Z01FD",
+        "d": "ASUS_Z01F_1"
+    },
+    {
+        "m": "ZenFone 3 Deluxe",
+        "k": "ASUS_Z016D",
+        "d": "Z016"
+    },
+    {
+        "m": "ZenFone 3 Deluxe",
+        "k": "ASUS_Z016DA",
+        "d": "Z016"
+    },
+    {
+        "m": "ZenFone 3 Deluxe",
+        "k": "ASUS_Z016S",
+        "d": "Z016"
+    },
+    {
+        "m": "ZenFone 3 Deluxe",
+        "k": "ASUS_Z016D",
+        "d": "Z016_1"
+    },
+    {
+        "m": "ZenFone 3 Laser",
+        "k": "ASUS_Z01BD",
+        "d": "Z01B_1"
+    },
+    {
+        "m": "ZenFone 3 Laser",
+        "k": "ASUS_Z01BDA",
+        "d": "Z01B_1"
+    },
+    {
+        "m": "ZenFone 3 Laser",
+        "k": "ASUS_Z01BDC",
+        "d": "Z01B_1"
+    },
+    {
+        "m": "ZenFone 3 Laser",
+        "k": "ASUS_Z01BS",
+        "d": "Z01B_1"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008D",
+        "d": "ASUS_X008"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008DA",
+        "d": "ASUS_X008"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008DB",
+        "d": "ASUS_X008"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008D",
+        "d": "ASUS_X008_1"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008DA",
+        "d": "ASUS_X008_1"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008DB",
+        "d": "ASUS_X008_1"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X008DC",
+        "d": "ASUS_X008_1"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X00DD",
+        "d": "ASUS_X00DD"
+    },
+    {
+        "m": "ZenFone 3 Max",
+        "k": "ASUS_X00DDA",
+        "d": "ASUS_X00DD"
+    },
+    {
+        "m": "ZenFone 3 Ultra",
+        "k": "ASUS_A001",
+        "d": "ASUS_A001"
+    },
+    {
+        "m": "ZenFone 3 Zoom",
+        "k": "ASUS_Z01HD",
+        "d": "ASUS_Z01H_1"
+    },
+    {
+        "m": "ZenFone 3 Zoom",
+        "k": "ASUS_Z01HDA",
+        "d": "ASUS_Z01H_1"
+    },
+    {
+        "m": "ZenFone 3s Max",
+        "k": "ASUS_X00GD",
+        "d": "ASUS_X00G_1"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_T00I",
+        "d": "ASUS_T00I"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_T00I-D",
+        "d": "ASUS_T00I"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_T00Q",
+        "d": "ASUS_T00Q"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_Z01KD",
+        "d": "ASUS_Z01KDA"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_Z01KS",
+        "d": "ASUS_Z01KDA"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_Z01KDA",
+        "d": "ASUS_Z01KD_1"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_Z01KD",
+        "d": "ASUS_Z01KD_2"
+    },
+    {
+        "m": "ZenFone 4",
+        "k": "ASUS_Z01KD",
+        "d": "ASUS_Z01KD_3"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00HD",
+        "d": "ASUS_X00HD_1"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00HD",
+        "d": "ASUS_X00HD_2"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00HD",
+        "d": "ASUS_X00HD_4"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00HD",
+        "d": "ASUS_X00HD_5"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00ID",
+        "d": "ASUS_X00ID"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00ID",
+        "d": "ASUS_X00IDB"
+    },
+    {
+        "m": "ZenFone 4 Max",
+        "k": "ASUS_X00ID",
+        "d": "ASUS_X00IDC"
+    },
+    {
+        "m": "ZenFone 4 Pro",
+        "k": "ASUS_Z01GD",
+        "d": "ASUS_Z01GD_1"
+    },
+    {
+        "m": "ZenFone 4 Selfie",
+        "k": "ASUS_X00LD",
+        "d": "ASUS_X00LD_1"
+    },
+    {
+        "m": "ZenFone 4 Selfie Lite",
+        "k": "ASUS_X00HD",
+        "d": "ASUS_X00HD_3"
+    },
+    {
+        "m": "ZenFone 4 Selfie Lite",
+        "k": "ASUS_X00HDA",
+        "d": "ASUS_X00HD_3"
+    },
+    {
+        "m": "ZenFone 4 Selfie Pro",
+        "k": "ASUS_Z01MD",
+        "d": "ASUS_Z01M_1"
+    },
+    {
+        "m": "ZenFone 4 Selfie Pro",
+        "k": "ASUS_Z01MDA",
+        "d": "ASUS_Z01M_1"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_T00F",
+        "d": "ASUS_T00F"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_T00J",
+        "d": "ASUS_T00J"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_T00F",
+        "d": "ASUS_T00F1"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_T00J",
+        "d": "ASUS_T00J1"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_T00K",
+        "d": "ASUS_T00K"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_X00QD",
+        "d": "ASUS_X00QD"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ASUS_X00QSA",
+        "d": "ASUS_X00QD"
+    },
+    {
+        "m": "ZenFone 5",
+        "k": "ZE620KL",
+        "d": "ASUS_X00QD"
+    },
+    {
+        "m": "ZenFone 5 LTE",
+        "k": "ASUS_T00P",
+        "d": "ASUS_T00P"
+    },
+    {
+        "m": "ZenFone 5 Lite",
+        "k": "ASUS_X017D",
+        "d": "ASUS_X017D_1"
+    },
+    {
+        "m": "ZenFone 5 Lite",
+        "k": "ASUS_X017DA",
+        "d": "ASUS_X017D_2"
+    },
+    {
+        "m": "ZenFone 5 Lite",
+        "k": "ZC600KL",
+        "d": "ASUS_X017D_2"
+    },
+    {
+        "m": "ZenFone 5Z",
+        "k": "ASUS_Z01RD",
+        "d": "ASUS_Z01R_1"
+    },
+    {
+        "m": "ZenFone 5Z",
+        "k": "ZS620KL",
+        "d": "ASUS_Z01R_1"
+    },
+    {
+        "m": "ZenFone 6",
+        "k": "ASUS_T00G",
+        "d": "ASUS_T00G"
+    },
+    {
+        "m": "ZenFone 6",
+        "k": "ASUS_Z002",
+        "d": "ASUS_Z002"
+    },
+    {
+        "m": "ZenFone 6",
+        "k": "ASUS_I01WD",
+        "d": "ASUS_I01WD"
+    },
+    {
+        "m": "ZenFone 6",
+        "k": "ZS630KL",
+        "d": "ASUS_I01WD"
+    },
+    {
+        "m": "ZenFone 7",
+        "k": "ASUS_I002D",
+        "d": "ASUS_I002D"
+    },
+    {
+        "m": "ZenFone 7",
+        "k": "ZS670KS",
+        "d": "ASUS_I002D"
+    },
+    {
+        "m": "ZenFone 7",
+        "k": "ZS671KS",
+        "d": "ASUS_I002D"
+    },
+    {
+        "m": "ZenFone AR",
+        "k": "ASUS_A002A",
+        "d": "ASUS_A002_1"
+    },
+    {
+        "m": "ZenFone AR",
+        "k": "ASUS_A002",
+        "d": "ASUS_A002"
+    },
+    {
+        "m": "ZenFone Ares",
+        "k": "ASUS_A002",
+        "d": "ASUS_A002_2"
+    },
+    {
+        "m": "ZenFone C",
+        "k": "ASUS_Z007",
+        "d": "ASUS_Z007"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X003",
+        "d": "ASUS_X003"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X009DB",
+        "d": "ASUS_X009D_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X014D",
+        "d": "ASUS_X014D_1"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X014D",
+        "d": "ASUS_X014D_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X00BD",
+        "d": "ASUS_X00BD_1"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X00AD",
+        "d": "ASUS_X00AD_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X013DA",
+        "d": "ASUS_X013D_1"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X013DB",
+        "d": "ASUS_X013D_1"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X013DA",
+        "d": "ASUS_X013D_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X013DB",
+        "d": "ASUS_X013D_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_X007D",
+        "d": "ASUS_X007D"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_L001",
+        "d": "ASUS_L001_1"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_L001",
+        "d": "ASUS_L001_2"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_Z00SD",
+        "d": "ASUS_Z00SD"
+    },
+    {
+        "m": "ZenFone Go",
+        "k": "ASUS_Z00VD",
+        "d": "ASUS_Z00VD"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "G553KL",
+        "d": "ASUS_X00R_7"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_1"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_2"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_3"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_5"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_6"
+    },
+    {
+        "m": "ZenFone Lite L1",
+        "k": "ASUS_X00RD",
+        "d": "ASUS_X00R_7"
+    },
+    {
+        "m": "ZenFone Live",
+        "k": "ASUS_A007",
+        "d": "ASUS_A007"
+    },
+    {
+        "m": "ZenFone Live L1",
+        "k": "G552KL",
+        "d": "ASUS_X00R_3"
+    },
+    {
+        "m": "ZenFone Live L1",
+        "k": "ZA550KL",
+        "d": "ASUS_X00R_3"
+    },
+    {
+        "m": "ZenFone Live L1",
+        "k": "ZA550KL",
+        "d": "ASUS_X00R_2"
+    },
+    {
+        "m": "ZenFone Live Plus",
+        "k": "ASUS_X00LDB",
+        "d": "ASUS_X00LD_2"
+    },
+    {
+        "m": "ZenFone Live Plus",
+        "k": "ASUS_X00LDA",
+        "d": "ASUS_X00LD_3"
+    },
+    {
+        "m": "ZenFone Live Plus",
+        "k": "ZB553KL",
+        "d": "ASUS_X00LD_3"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010D",
+        "d": "ASUS_Z010"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010DA",
+        "d": "ASUS_Z010"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010DB",
+        "d": "ASUS_Z010"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010DD",
+        "d": "ASUS_Z010_2"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010D",
+        "d": "ASUS_Z010_CD"
+    },
+    {
+        "m": "ZenFone Max",
+        "k": "ASUS_Z010DA",
+        "d": "ASUS_Z010_CD"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_1"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ZB555KL",
+        "d": "ASUS_X00P_1"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_2"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_3"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ZB555KL",
+        "d": "ASUS_X00P_3"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_4"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_6"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ASUS_X00PD",
+        "d": "ASUS_X00P_8"
+    },
+    {
+        "m": "ZenFone Max M1",
+        "k": "ZB555KL",
+        "d": "ASUS_X00P_8"
+    },
+    {
+        "m": "ZenFone Max M2",
+        "k": "ASUS_X01AD",
+        "d": "ASUS_X01A_1"
+    },
+    {
+        "m": "ZenFone Max M2",
+        "k": "ZB633KL",
+        "d": "ASUS_X01A_1"
+    },
+    {
+        "m": "ZenFone Max Plus M1",
+        "k": "ASUS_X018D",
+        "d": "ASUS_X018_1"
+    },
+    {
+        "m": "ZenFone Max Plus M1",
+        "k": "ASUS_X018D",
+        "d": "ASUS_X018_2"
+    },
+    {
+        "m": "ZenFone Max Plus M1",
+        "k": "ASUS_X018D",
+        "d": "ASUS_X018_4"
+    },
+    {
+        "m": "ZenFone Max Plus M2",
+        "k": "ASUS_A001D",
+        "d": "ASUS_A001D_1"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TD",
+        "d": "ASUS_X00T_2"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TDB",
+        "d": "ASUS_X00T_2"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TD",
+        "d": "ASUS_X00T_3"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TD",
+        "d": "ASUS_X00T_4"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TD",
+        "d": "ASUS_X00T_6"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TDB",
+        "d": "ASUS_X00T_6"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ZB602KL",
+        "d": "ASUS_X00T_6"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TD",
+        "d": "ASUS_X00T_8"
+    },
+    {
+        "m": "ZenFone Max Pro M1",
+        "k": "ASUS_X00TDB",
+        "d": "ASUS_X00T_8"
+    },
+    {
+        "m": "ZenFone Max Pro M2",
+        "k": "ASUS_X01BDA",
+        "d": "ASUS_X01BD_1"
+    },
+    {
+        "m": "ZenFone Max Pro M2",
+        "k": "ZB631KL",
+        "d": "ASUS_X01BD_1"
+    },
+    {
+        "m": "ZenFone Max Pro M2",
+        "k": "ASUS_X01BDA",
+        "d": "ASUS_X01BD_2"
+    },
+    {
+        "m": "ZenFone Max Shot",
+        "k": "ASUS_A001D",
+        "d": "ASUS_A001D_2"
+    },
+    {
+        "m": "ZenFone Selfie",
+        "k": "ASUS_Z00UD",
+        "d": "ASUS_Z00U_1"
+    },
+    {
+        "m": "ZenFone Selfie",
+        "k": "ASUS_Z00UDA",
+        "d": "ASUS_Z00U_1"
+    },
+    {
+        "m": "ZenFone Selfie",
+        "k": "ASUS_Z00UD",
+        "d": "ASUS_Z00U_2"
+    },
+    {
+        "m": "ZenFone V",
+        "k": "ASUS_A006",
+        "d": "ASUS_A006"
+    },
+    {
+        "m": "ZenFone V Live",
+        "k": "ASUS_A009",
+        "d": "ASUS_A009"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XS",
+        "d": "Z00X"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XSA",
+        "d": "Z00X"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XSB",
+        "d": "Z00X"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XS",
+        "d": "Z00X_1"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XSA",
+        "d": "Z00X_1"
+    },
+    {
+        "m": "ZenFone Zoom",
+        "k": "ASUS_Z00XS",
+        "d": "Z00X_2"
+    },
+    {
+        "m": "Zenbo",
+        "k": "Zenbo",
+        "d": "ASUS_ZENBO"
+    },
+    {
+        "m": "Zenfone 10",
+        "k": "ASUS_AI2302",
+        "d": "ASUS_AI2302"
+    },
+    {
+        "m": "Zenfone 11 Ultra",
+        "k": "ASUS_AI2401_H",
+        "d": "ASUS_AI2401"
+    },
+    {
+        "m": "Zenfone 12 Ultra",
+        "k": "ASUSAI2501H",
+        "d": "ASUSAI2501"
+    },
+    {
+        "m": "Zenfone 8",
+        "k": "ASUS_I006D",
+        "d": "ASUS_I006D"
+    },
+    {
+        "m": "Zenfone 8",
+        "k": "ZS590KS",
+        "d": "ASUS_I006D"
+    },
+    {
+        "m": "Zenfone 8 Flip",
+        "k": "ASUS_I004D",
+        "d": "ASUS_I004D"
+    },
+    {
+        "m": "Zenfone 8 Flip",
+        "k": "ZS672KS",
+        "d": "ASUS_I004D"
+    },
+    {
+        "m": "Zenfone 9",
+        "k": "ASUS_AI2202",
+        "d": "ASUS_AI2202"
+    },
+    {
+        "m": "dahu",
+        "k": "M1G",
+        "d": "dahu"
+    }
+]
