@@ -1025,6 +1025,31 @@
         "d": "a26xs"
     },
     {
+        "m": "Galaxy A27 5G",
+        "k": "SM-A2760",
+        "d": "a27xq"
+    },
+    {
+        "m": "Galaxy A27 5G",
+        "k": "SM-A276B",
+        "d": "a27xq"
+    },
+    {
+        "m": "Galaxy A27 5G",
+        "k": "SM-A276U",
+        "d": "a27xq"
+    },
+    {
+        "m": "Galaxy A27 5G",
+        "k": "SM-A276U1",
+        "d": "a27xq"
+    },
+    {
+        "m": "Galaxy A27 5G",
+        "k": "SM-S276V",
+        "d": "a27xq"
+    },
+    {
         "m": "Galaxy A3",
         "k": "SM-A300H",
         "d": "a33g"
@@ -4600,6 +4625,11 @@
         "d": "m36x"
     },
     {
+        "m": "Galaxy Jump5",
+        "k": "SM-A276K",
+        "d": "a27xq"
+    },
+    {
         "m": "Galaxy K Zoom",
         "k": "SM-C111",
         "d": "m2a3g"
@@ -7933,6 +7963,11 @@
         "m": "Galaxy Wide8",
         "k": "SM-M166S",
         "d": "m16x"
+    },
+    {
+        "m": "Galaxy Wide9",
+        "k": "SM-M176S",
+        "d": "a17x"
     },
     {
         "m": "Galaxy Win Pro",

@@ -105,6 +105,21 @@
         "d": "arctic"
     },
     {
+        "m": "POCO C81 Pro",
+        "k": "25128PC17G",
+        "d": "arctic"
+    },
+    {
+        "m": "POCO C81 Pro",
+        "k": "25128PC17L",
+        "d": "arctic"
+    },
+    {
+        "m": "POCO C81 Pro",
+        "k": "25128PC17Y",
+        "d": "arctic"
+    },
+    {
         "m": "POCO C81x",
         "k": "26020PCB4I",
         "d": "serenity"
@@ -643,6 +658,11 @@
         "m": "REDMI Turbo 4 Pro",
         "k": "25053RT47C",
         "d": "onyx"
+    },
+    {
+        "m": "REDMI Turbo 5",
+        "k": "2606FRT34I",
+        "d": "klee"
     },
     {
         "m": "REDMI Turbo 5 Max",
@@ -2430,6 +2450,11 @@
         "d": "pudding"
     },
     {
+        "m": "Xiaomi 17 Max",
+        "k": "2605EPN8EC",
+        "d": "byron"
+    },
+    {
         "m": "Xiaomi 17 Pro",
         "k": "25098PN5AC",
         "d": "pandora"
@@ -2448,6 +2473,36 @@
         "m": "Xiaomi 17 Ultra",
         "k": "2512BPNDAI",
         "d": "nezha"
+    },
+    {
+        "m": "Xiaomi 17T",
+        "k": "2602DPT53G",
+        "d": "chagall"
+    },
+    {
+        "m": "Xiaomi 17T",
+        "k": "2602DPT53I",
+        "d": "chagall"
+    },
+    {
+        "m": "Xiaomi 17T",
+        "k": "M531DA",
+        "d": "chagall"
+    },
+    {
+        "m": "Xiaomi 17T Pro",
+        "k": "2602EPTC0G",
+        "d": "warhol"
+    },
+    {
+        "m": "Xiaomi 17T Pro",
+        "k": "2602EPTC0R",
+        "d": "warhol"
+    },
+    {
+        "m": "Xiaomi 17T Pro",
+        "k": "M025EC",
+        "d": "warhol"
     },
     {
         "m": "Xiaomi Civi",

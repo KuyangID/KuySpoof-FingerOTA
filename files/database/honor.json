@@ -95,6 +95,11 @@
         "d": "HNVKJX"
     },
     {
+        "m": "HONOR 600 Elite",
+        "k": "MRK-NX3",
+        "d": "HNMRK-Q"
+    },
+    {
         "m": "HONOR 600 Lite",
         "k": "LNA-NX1",
         "d": "HNLNA-M1"
@@ -141,11 +146,6 @@
     },
     {
         "m": "HONOR CHOICE T10",
-        "k": "BLK-L03",
-        "d": "BLK-L03"
-    },
-    {
-        "m": "HONOR CHOICE T10",
         "k": "BLK-L09",
         "d": "BLK-L09"
     },
@@ -163,6 +163,11 @@
         "m": "HONOR Magic V5",
         "k": "MBH-N49",
         "d": "HNMBHX"
+    },
+    {
+        "m": "HONOR Magic V6",
+        "k": "PNM-N49",
+        "d": "HNPNMX"
     },
     {
         "m": "HONOR Magic Vs",
@@ -332,6 +337,11 @@
     {
         "m": "HONOR X5d",
         "k": "NAA-LX2",
+        "d": "HNNLA-M"
+    },
+    {
+        "m": "HONOR X5d",
+        "k": "NAA-LX3",
         "d": "HNNLA-M"
     },
     {
@@ -508,6 +518,11 @@
         "m": "HONOR X7d",
         "k": "LGN-LX3",
         "d": "HNLGN-QL"
+    },
+    {
+        "m": "HONOR X7e",
+        "k": "LAB-LX2",
+        "d": "HNLAB-M"
     },
     {
         "m": "HONOR X8",

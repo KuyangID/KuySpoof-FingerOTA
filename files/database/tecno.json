@@ -1030,6 +1030,11 @@
         "d": "TECNO-CN7c"
     },
     {
+        "m": "TECNO CAMON Slim",
+        "k": "TECNO CN6c",
+        "d": "TECNO-CN6c"
+    },
+    {
         "m": "TECNO CAMON iACE 2",
         "k": "TECNO KB2",
         "d": "TECNO-KB2"
@@ -1315,6 +1320,11 @@
         "d": "TECNO-LK6"
     },
     {
+        "m": "TECNO POVA 8 Pro 5G",
+        "k": "TECNO LK7",
+        "d": "TECNO-LK7"
+    },
+    {
         "m": "TECNO POVA Curve 2 5G",
         "k": "TECNO LK7k",
         "d": "TECNO-LK7k"
@@ -1583,6 +1593,11 @@
         "m": "TECNO SPARK 50 5G",
         "k": "TECNO KN8",
         "d": "TECNO-KN8"
+    },
+    {
+        "m": "TECNO SPARK 50T",
+        "k": "TECNO KO5",
+        "d": "TECNO-KO5"
     },
     {
         "m": "TECNO SPARK 7",

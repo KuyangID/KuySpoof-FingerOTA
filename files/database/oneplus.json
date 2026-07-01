@@ -540,6 +540,11 @@
         "d": "OP6113L1"
     },
     {
+        "m": "OnePlus N6",
+        "k": "CPH2955",
+        "d": "OP68DD"
+    },
+    {
         "m": "OnePlus Nord",
         "k": "AC2001",
         "d": "Nord"
@@ -648,6 +653,16 @@
         "m": "OnePlus Nord CE4 Lite 5G",
         "k": "CPH2621",
         "d": "OP5D49L1"
+    },
+    {
+        "m": "OnePlus Nord CE6",
+        "k": "CPH2807",
+        "d": "OP6505L1"
+    },
+    {
+        "m": "OnePlus Nord CE6 Lite",
+        "k": "CPH2943",
+        "d": "OP68D9L1"
     },
     {
         "m": "OnePlus Nord N10 5G",

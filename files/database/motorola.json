@@ -2005,6 +2005,16 @@
         "d": "kansas"
     },
     {
+        "m": "moto g - 2026",
+        "k": "moto g - 2025",
+        "d": "utah"
+    },
+    {
+        "m": "moto g - 2026",
+        "k": "moto g - 2026",
+        "d": "utah"
+    },
+    {
         "m": "moto g 5G",
         "k": "moto g 5G",
         "d": "kiev"
@@ -2063,6 +2073,21 @@
         "m": "moto g fast",
         "k": "moto g fast",
         "d": "rav"
+    },
+    {
+        "m": "moto g max",
+        "k": "moto g max",
+        "d": "naples"
+    },
+    {
+        "m": "moto g max",
+        "k": "moto g67",
+        "d": "naples"
+    },
+    {
+        "m": "moto g max",
+        "k": "moto g87",
+        "d": "naples"
     },
     {
         "m": "moto g optimo",
@@ -2143,6 +2168,16 @@
         "m": "moto g play - 2024",
         "k": "motorola edge 40 pro",
         "d": "fogona"
+    },
+    {
+        "m": "moto g play - 2026",
+        "k": "moto g - 2025",
+        "d": "nevada"
+    },
+    {
+        "m": "moto g play - 2026",
+        "k": "moto g play - 2026",
+        "d": "nevada"
     },
     {
         "m": "moto g plus",
@@ -2585,6 +2620,21 @@
         "d": "manila"
     },
     {
+        "m": "moto g37",
+        "k": "moto g - 2025",
+        "d": "sydnyl"
+    },
+    {
+        "m": "moto g37",
+        "k": "moto g37",
+        "d": "sydnyl"
+    },
+    {
+        "m": "moto g37 power",
+        "k": "moto g37 power",
+        "d": "sydnyl"
+    },
+    {
         "m": "moto g40 fusion",
         "k": "moto g(40) fusion",
         "d": "hanoip"
@@ -2618,6 +2668,11 @@
         "m": "moto g45 5G",
         "k": "moto g45 5G",
         "d": "fogos"
+    },
+    {
+        "m": "moto g47",
+        "k": "moto g47",
+        "d": "sydnyl"
     },
     {
         "m": "moto g51",
@@ -2790,11 +2845,6 @@
         "d": "naples"
     },
     {
-        "m": "moto g67",
-        "k": "moto g67",
-        "d": "naples"
-    },
-    {
         "m": "moto g67 power 5G",
         "k": "XT2533-4",
         "d": "portov"
@@ -2953,6 +3003,11 @@
         "m": "moto razr 50",
         "k": "XT2451-4",
         "d": "arcfox"
+    },
+    {
+        "m": "moto razr 70 ultra",
+        "k": "XT2655-4",
+        "d": "lhotse"
     },
     {
         "m": "moto z3 play",
@@ -3465,6 +3520,16 @@
         "d": "aito"
     },
     {
+        "m": "motorola razr 2026",
+        "k": "motorola razr 2025",
+        "d": "volcano"
+    },
+    {
+        "m": "motorola razr 2026",
+        "k": "motorola razr 2026",
+        "d": "volcano"
+    },
+    {
         "m": "motorola razr 40",
         "k": "motorola razr 40",
         "d": "lynkco"
@@ -3560,6 +3625,36 @@
         "d": "aito"
     },
     {
+        "m": "motorola razr 70",
+        "k": "motorola razr 50",
+        "d": "volcano"
+    },
+    {
+        "m": "motorola razr 70",
+        "k": "motorola razr 70",
+        "d": "volcano"
+    },
+    {
+        "m": "motorola razr 70 plus",
+        "k": "motorola razr 50 ultra",
+        "d": "eiger"
+    },
+    {
+        "m": "motorola razr 70 plus",
+        "k": "motorola razr 70 plus",
+        "d": "eiger"
+    },
+    {
+        "m": "motorola razr 70 ultra",
+        "k": "motorola razr 60 ultra",
+        "d": "lhotse"
+    },
+    {
+        "m": "motorola razr 70 ultra",
+        "k": "motorola razr 70 ultra",
+        "d": "lhotse"
+    },
+    {
         "m": "motorola razr fold",
         "k": "motorola edge 50 ultra",
         "d": "blanc"
@@ -3595,9 +3690,19 @@
         "d": "arcfox"
     },
     {
+        "m": "motorola razr plus 2026",
+        "k": "motorola razr plus 2026",
+        "d": "eiger"
+    },
+    {
         "m": "motorola razr ultra 2025",
         "k": "motorola razr ultra 2025",
         "d": "leap"
+    },
+    {
+        "m": "motorola razr ultra 2026",
+        "k": "motorola razr ultra 2026",
+        "d": "lhotse"
     },
     {
         "m": "motorola signature",
