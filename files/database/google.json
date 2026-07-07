@@ -183,5 +183,10 @@
         "m": "Pixel XL",
         "k": "Pixel XL",
         "d": "marlin"
+    },
+    {
+        "m": "gambit",
+        "k": "gambit",
+        "d": "gambit"
     }
 ]

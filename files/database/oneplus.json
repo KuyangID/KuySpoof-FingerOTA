@@ -656,6 +656,11 @@
     },
     {
         "m": "OnePlus Nord CE6",
+        "k": "CPH2805",
+        "d": "OP6505L1"
+    },
+    {
+        "m": "OnePlus Nord CE6",
         "k": "CPH2807",
         "d": "OP6505L1"
     },
