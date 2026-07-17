@@ -430,6 +430,11 @@
         "d": "lexl11g_64"
     },
     {
+        "m": "Legion Phone Y70 New Generation",
+        "k": "XT2611-1",
+        "d": "avr"
+    },
+    {
         "m": "Lenovo K10",
         "k": "Lenovo K10",
         "d": "pokerp"
@@ -3338,6 +3343,11 @@
         "m": "motorola edge 70 fusion +",
         "k": "motorola edge 70 fusion plus",
         "d": "marvel"
+    },
+    {
+        "m": "motorola edge 70 max",
+        "k": "motorola edge 70 max",
+        "d": "avr"
     },
     {
         "m": "motorola edge 70 pro",
