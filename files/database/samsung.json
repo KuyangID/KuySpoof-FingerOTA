@@ -8405,6 +8405,51 @@
         "d": "b7r"
     },
     {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F7760",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776C",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776Q",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776U",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776U1",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776W",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776Z",
+        "d": "b8q"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776B",
+        "d": "b8s"
+    },
+    {
+        "m": "Galaxy Z Flip8",
+        "k": "SM-F776N",
+        "d": "b8s"
+    },
+    {
         "m": "Galaxy Z Fold Special Edition",
         "k": "SM-F958N",
         "d": "q6aq"
@@ -8613,6 +8658,16 @@
         "m": "Galaxy Z Fold7",
         "k": "SM-F966Z",
         "d": "q7q"
+    },
+    {
+        "m": "Galaxy Z Fold8 Ultra",
+        "k": "SM-F9760",
+        "d": "q8q"
+    },
+    {
+        "m": "Galaxy Z Fold8 Ultra",
+        "k": "SM-F976U1",
+        "d": "q8q"
     },
     {
         "m": "Galaxy Z TriFold",
