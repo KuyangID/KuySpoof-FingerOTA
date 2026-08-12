@@ -345,6 +345,11 @@
         "d": "kunzite"
     },
     {
+        "m": "POCO M8 Power 5G",
+        "k": "26021PC18I",
+        "d": "mist"
+    },
+    {
         "m": "POCO M8 Pro 5G",
         "k": "2510EPC8BG",
         "d": "flourite"
@@ -493,6 +498,11 @@
         "m": "REDMI 15C 5G",
         "k": "2508CRN2BI",
         "d": "tornado"
+    },
+    {
+        "m": "REDMI 17 5G",
+        "k": "26062RN92G",
+        "d": "steppe"
     },
     {
         "m": "REDMI A7",
