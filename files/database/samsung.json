@@ -305,6 +305,16 @@
         "d": "a07x"
     },
     {
+        "m": "Galaxy A07s",
+        "k": "SM-A077F",
+        "d": "a07ve"
+    },
+    {
+        "m": "Galaxy A07s",
+        "k": "SM-A077M",
+        "d": "a07ve"
+    },
+    {
         "m": "Galaxy A10",
         "k": "SM-A105F",
         "d": "a10"
@@ -7003,6 +7013,31 @@
         "m": "Galaxy S26",
         "k": "SM-S942N",
         "d": "m1s"
+    },
+    {
+        "m": "Galaxy S26 FE",
+        "k": "SM-S741B",
+        "d": "r14s"
+    },
+    {
+        "m": "Galaxy S26 FE",
+        "k": "SM-S741N",
+        "d": "r14s"
+    },
+    {
+        "m": "Galaxy S26 FE",
+        "k": "SM-S741U",
+        "d": "r14s"
+    },
+    {
+        "m": "Galaxy S26 FE",
+        "k": "SM-S741U1",
+        "d": "r14s"
+    },
+    {
+        "m": "Galaxy S26 FE",
+        "k": "SM-S741W",
+        "d": "r14s"
     },
     {
         "m": "Galaxy S26 Ultra",
