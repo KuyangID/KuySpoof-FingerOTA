@@ -535,6 +535,16 @@
         "d": "somalia"
     },
     {
+        "m": "REDMI K100 Pro",
+        "k": "M511CD",
+        "d": "athens"
+    },
+    {
+        "m": "REDMI K100 Pro Max",
+        "k": "M098FE",
+        "d": "songyuan"
+    },
+    {
         "m": "REDMI K80",
         "k": "24117RK2CC",
         "d": "zorn"
@@ -662,6 +672,11 @@
     {
         "m": "REDMI Note 17",
         "k": "26021RN18C",
+        "d": "mist"
+    },
+    {
+        "m": "REDMI Note 17 5G",
+        "k": "26021RN18I",
         "d": "mist"
     },
     {
