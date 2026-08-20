@@ -550,6 +550,16 @@
         "d": "HNLAB-M"
     },
     {
+        "m": "HONOR X7e Plus",
+        "k": "MRK-LX1",
+        "d": "HNMRK-QL"
+    },
+    {
+        "m": "HONOR X7e Plus",
+        "k": "MRK-LX2",
+        "d": "HNMRK-QL"
+    },
+    {
         "m": "HONOR X8",
         "k": "TFY-LX1",
         "d": "HNTFY-Q"
@@ -628,6 +638,11 @@
         "m": "HONOR X8d",
         "k": "LNA-LX3",
         "d": "HNLNA-Q"
+    },
+    {
+        "m": "HONOR X8e s",
+        "k": "MRK-LX3",
+        "d": "HNMRK-QL"
     },
     {
         "m": "HONOR X9",
