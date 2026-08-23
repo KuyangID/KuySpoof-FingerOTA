@@ -430,6 +430,11 @@
         "d": "RE6491L1"
     },
     {
+        "m": "realme 16x 5G",
+        "k": "RMX5270",
+        "d": "RE6491L1"
+    },
+    {
         "m": "realme 2 Pro",
         "k": "RMX1801",
         "d": "RMX1801"
@@ -643,6 +648,11 @@
         "m": "realme C100",
         "k": "RMX5353",
         "d": "RE646B"
+    },
+    {
+        "m": "realme C100d",
+        "k": "RMX5363",
+        "d": "RE6802"
     },
     {
         "m": "realme C100i",
