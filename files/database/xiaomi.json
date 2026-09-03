@@ -445,6 +445,11 @@
         "d": "rodin"
     },
     {
+        "m": "POCO X8",
+        "k": "2607DPC18G",
+        "d": "iolite"
+    },
+    {
         "m": "POCO X8 Pro",
         "k": "2511FPC34G",
         "d": "klee"
@@ -506,7 +511,17 @@
     },
     {
         "m": "REDMI A7",
+        "k": "26020RNB4A",
+        "d": "serenity"
+    },
+    {
+        "m": "REDMI A7",
         "k": "26020RNB4I",
+        "d": "serenity"
+    },
+    {
+        "m": "REDMI A7",
+        "k": "26020RNB4L",
         "d": "serenity"
     },
     {
@@ -693,6 +708,36 @@
         "m": "REDMI Note 17 5G",
         "k": "26021RN18I",
         "d": "mist"
+    },
+    {
+        "m": "REDMI Note 17 5G",
+        "k": "26081RA18G",
+        "d": "mist"
+    },
+    {
+        "m": "REDMI Note 17 5G",
+        "k": "26081RA18L",
+        "d": "mist"
+    },
+    {
+        "m": "REDMI Note 17 Pro",
+        "k": "2607DRA18C",
+        "d": "iolite"
+    },
+    {
+        "m": "REDMI Note 17 Pro 5G",
+        "k": "2607DRA18G",
+        "d": "iolite"
+    },
+    {
+        "m": "REDMI Note 17 Pro 5G",
+        "k": "2607DRA18T",
+        "d": "iolite"
+    },
+    {
+        "m": "REDMI Note 17 Pro Max 5G",
+        "k": "2609FRA74G",
+        "d": "brussels"
     },
     {
         "m": "REDMI Turbo 4",
