@@ -365,6 +365,11 @@
         "d": "flourite"
     },
     {
+        "m": "POCO M8x 5G",
+        "k": "26062PC92I",
+        "d": "steppe"
+    },
+    {
         "m": "POCO X2",
         "k": "POCO X2",
         "d": "phoenixin"
@@ -2608,6 +2613,11 @@
         "m": "Xiaomi 17T Pro",
         "k": "M025EC",
         "d": "warhol"
+    },
+    {
+        "m": "Xiaomi 18 Fold",
+        "k": "2608BPX34C",
+        "d": "lhasa"
     },
     {
         "m": "Xiaomi Civi",

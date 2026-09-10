@@ -770,6 +770,11 @@
         "d": "a18"
     },
     {
+        "m": "Galaxy A18",
+        "k": "SM-A185G",
+        "d": "a18m"
+    },
+    {
         "m": "Galaxy A2 Core",
         "k": "SM-A260F",
         "d": "a2corelte"
