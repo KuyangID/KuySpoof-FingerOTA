@@ -300,6 +300,11 @@
         "d": "ADVAN_I7D"
     },
     {
+        "m": "JTOUCH_26_ADVANCED_SERIES",
+        "k": "JTOUCH_26_ADVANCED_SERIES",
+        "d": "D022"
+    },
+    {
         "m": "NASA",
         "k": "5202",
         "d": "ADVAN_NASA"
