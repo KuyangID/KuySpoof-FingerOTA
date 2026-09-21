@@ -465,6 +465,11 @@
         "d": "iolite"
     },
     {
+        "m": "POCO X8",
+        "k": "2607DPC18I",
+        "d": "iolite"
+    },
+    {
         "m": "POCO X8 Pro",
         "k": "2511FPC34G",
         "d": "klee"
@@ -752,6 +757,11 @@
     {
         "m": "REDMI Note 17 Pro 5G",
         "k": "2607DRA18G",
+        "d": "iolite"
+    },
+    {
+        "m": "REDMI Note 17 Pro 5G",
+        "k": "2607DRA18I",
         "d": "iolite"
     },
     {

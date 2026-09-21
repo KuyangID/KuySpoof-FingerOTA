@@ -645,6 +645,11 @@
         "d": "RED8C1L1"
     },
     {
+        "m": "realme C01",
+        "k": "RMX5399",
+        "d": "RE67EF"
+    },
+    {
         "m": "realme C100",
         "k": "RMX5353",
         "d": "RE646B"
@@ -653,11 +658,6 @@
         "m": "realme C100d",
         "k": "RMX5363",
         "d": "RE6802"
-    },
-    {
-        "m": "realme C100i",
-        "k": "RMX5399",
-        "d": "RE67EF"
     },
     {
         "m": "realme C11",
