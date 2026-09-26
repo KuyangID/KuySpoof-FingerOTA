@@ -790,11 +790,6 @@
         "d": "OP60F0L1"
     },
     {
-        "m": "OnePlus Turbo 6V",
-        "k": "PLY110",
-        "d": "OP64D3L1"
-    },
-    {
         "m": "OnePlus2",
         "k": "ONE A2003",
         "d": "OnePlus2"
@@ -858,6 +853,11 @@
         "m": "PHP110",
         "k": "PHP110",
         "d": "OP5927"
+    },
+    {
+        "m": "PLY110",
+        "k": "PLY110",
+        "d": "OP64D3L1"
     },
     {
         "m": "PYS110",

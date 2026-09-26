@@ -3660,6 +3660,11 @@
         "d": "leap"
     },
     {
+        "m": "motorola razr 60 ultra",
+        "k": "motorola razr ultra 2025",
+        "d": "leap"
+    },
+    {
         "m": "motorola razr 60d M-51F",
         "k": "M-51E",
         "d": "M-51F"
@@ -3743,11 +3748,6 @@
         "m": "motorola razr plus 2026",
         "k": "motorola razr plus 2026",
         "d": "eiger"
-    },
-    {
-        "m": "motorola razr ultra 2025",
-        "k": "motorola razr ultra 2025",
-        "d": "leap"
     },
     {
         "m": "motorola razr ultra 2026",
