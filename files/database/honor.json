@@ -270,6 +270,16 @@
         "d": "HNBKQ"
     },
     {
+        "m": "HONOR Magic9 Lite+",
+        "k": "BSN-NX1M",
+        "d": "HNBSN-Q1"
+    },
+    {
+        "m": "HONOR Magic9 Lite+",
+        "k": "BSN-NX3",
+        "d": "HNBSN-Q1"
+    },
+    {
         "m": "HONOR Play9A",
         "k": "GFY-LX3",
         "d": "HNGFY-M"
@@ -663,6 +673,11 @@
         "m": "HONOR X9c",
         "k": "BRP-NX1",
         "d": "HNBRP-Q1"
+    },
+    {
+        "m": "HONOR X9e Pro",
+        "k": "BSN-NX1",
+        "d": "HNBSN-Q1"
     },
     {
         "m": "Honor 200 Lite",
