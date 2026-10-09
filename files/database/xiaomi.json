@@ -540,6 +540,11 @@
         "d": "tornado"
     },
     {
+        "m": "REDMI 17C 5G",
+        "k": "2607FRNEAI",
+        "d": "tornado"
+    },
+    {
         "m": "REDMI A7",
         "k": "26020RNB4A",
         "d": "serenity"
@@ -2638,6 +2643,16 @@
         "m": "Xiaomi 18 Fold",
         "k": "2608BPX34C",
         "d": "lhasa"
+    },
+    {
+        "m": "Xiaomi 18 Pro",
+        "k": "M610BB",
+        "d": "hongkong"
+    },
+    {
+        "m": "Xiaomi 18 Pro Max",
+        "k": "M154FF",
+        "d": "madrid"
     },
     {
         "m": "Xiaomi Civi",
