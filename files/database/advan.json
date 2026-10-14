@@ -730,6 +730,11 @@
         "d": "ubx010rc"
     },
     {
+        "m": "X1 NEO",
+        "k": "X1 NEO",
+        "d": "ADVAN_X1_NEO"
+    },
+    {
         "m": "X7 Max",
         "k": "7301",
         "d": "X7_Max"
