@@ -3300,6 +3300,11 @@
         "d": "a17x"
     },
     {
+        "m": "Galaxy F70 Pro 5G",
+        "k": "SM-E476B",
+        "d": "m47xq"
+    },
+    {
         "m": "Galaxy F70e 5G",
         "k": "SM-E076B",
         "d": "a07x"
@@ -5023,6 +5028,11 @@
         "m": "Galaxy M42 5G",
         "k": "SM-M426B",
         "d": "a42xq"
+    },
+    {
+        "m": "Galaxy M47 5G",
+        "k": "SM-M476B",
+        "d": "m47xq"
     },
     {
         "m": "Galaxy M51",
