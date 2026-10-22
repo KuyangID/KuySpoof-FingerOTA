@@ -200,6 +200,11 @@
         "d": "a03su"
     },
     {
+        "m": "Galaxy A03s",
+        "k": "SM-S135DL",
+        "d": "a03su"
+    },
+    {
         "m": "Galaxy A04",
         "k": "SM-A045F",
         "d": "a04"
@@ -4668,6 +4673,11 @@
         "m": "Galaxy Jean2",
         "k": "SM-A202K",
         "d": "a20e"
+    },
+    {
+        "m": "Galaxy Jump",
+        "k": "SM-A326K",
+        "d": "a32x"
     },
     {
         "m": "Galaxy Jump2",
