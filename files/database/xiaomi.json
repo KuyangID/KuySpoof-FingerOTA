@@ -470,6 +470,11 @@
         "d": "iolite"
     },
     {
+        "m": "POCO X8 Power",
+        "k": "2609FPC74I",
+        "d": "brussels"
+    },
+    {
         "m": "POCO X8 Pro",
         "k": "2511FPC34G",
         "d": "klee"
@@ -777,6 +782,11 @@
     {
         "m": "REDMI Note 17 Pro Max 5G",
         "k": "2609FRA74G",
+        "d": "brussels"
+    },
+    {
+        "m": "REDMI Note 17 Pro Max 5G",
+        "k": "2609FRA74I",
         "d": "brussels"
     },
     {
