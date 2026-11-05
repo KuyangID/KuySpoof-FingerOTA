@@ -3768,5 +3768,15 @@
         "m": "motorola signature",
         "k": "motorola signature",
         "d": "vantage"
+    },
+    {
+        "m": "motorola signature 27",
+        "k": "motorola signature",
+        "d": "wukong"
+    },
+    {
+        "m": "motorola signature 27",
+        "k": "motorola signature 27",
+        "d": "wukong"
     }
 ]
