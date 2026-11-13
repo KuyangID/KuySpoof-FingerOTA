@@ -730,6 +730,11 @@
         "d": "ubx010rc"
     },
     {
+        "m": "VX Nova",
+        "k": "VX Nova",
+        "d": "ADVAN_VX_Nova"
+    },
+    {
         "m": "X1 NEO",
         "k": "X1 NEO",
         "d": "ADVAN_X1_NEO"
